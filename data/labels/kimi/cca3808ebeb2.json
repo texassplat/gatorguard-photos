@@ -1,0 +1,48 @@
+{
+ "finish": "stop",
+ "usage": {
+  "input_tokens": 5257,
+  "output_tokens": 177,
+  "cost": 0.006835695
+ },
+ "served_by": "Morph",
+ "label": {
+  "content": "floor_photo",
+  "area": "interior_room",
+  "setting": "unknown",
+  "system": "tile_coating",
+  "color": "Zircon",
+  "color_confidence": "low",
+  "color_runner_up": "Indigo",
+  "color_description": "dark gray base with small white, black and gray chips, small chip size",
+  "shot_type": "finished",
+  "people": "none",
+  "faces_identifiable": false,
+  "privacy": [],
+  "branding_visible": false,
+  "quality": "3",
+  "issues": [
+   "tilted"
+  ],
+  "website_ready": false,
+  "title": "Dark gray tile coating with glossy finish",
+  "alt_text": "Dark gray flake floor with a glossy clear coat over tile, in a room with a counter and exposed plumbing",
+  "tags": [
+   "tile coating",
+   "full flake look",
+   "dark gray chips",
+   "white chips",
+   "gray base",
+   "glossy finish",
+   "interior floor",
+   "finished floor"
+  ],
+  "filename": "dark-gray-tile-coating-glossy-finish"
+ },
+ "id": "cca3808ebeb2",
+ "provider": "kimi",
+ "model": "moonshotai/kimi-k3",
+ "mode": "run",
+ "blind": false,
+ "at": "2026-09-17T12:58:13"
+}

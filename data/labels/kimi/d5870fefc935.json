@@ -1,0 +1,48 @@
+{
+ "finish": "stop",
+ "usage": {
+  "input_tokens": 5324,
+  "output_tokens": 245,
+  "cost": 0.019647
+ },
+ "served_by": "Parasail",
+ "label": {
+  "content": "floor_photo",
+  "area": "garage",
+  "setting": "residential",
+  "system": "full_flake",
+  "color": "Lunar",
+  "color_confidence": "medium",
+  "color_runner_up": "Granite",
+  "color_description": "light gray base with white, gray and black chips, small to medium size",
+  "shot_type": "finished",
+  "people": "none",
+  "faces_identifiable": false,
+  "privacy": [],
+  "branding_visible": false,
+  "quality": "4",
+  "issues": [],
+  "website_ready": true,
+  "title": "Garage with light gray full flake floor",
+  "alt_text": "Finished garage with light gray full flake floor, wall cabinets, workbench and Cardinals decor; full flake garage floor coating",
+  "tags": [
+   "garage",
+   "full flake",
+   "gray floor",
+   "white and gray chips",
+   "workbench",
+   "cabinets",
+   "step ladder",
+   "sports decor",
+   "finished floor",
+   "stem wall coated"
+  ],
+  "filename": "garage-light-gray-full-flake-floor"
+ },
+ "id": "d5870fefc935",
+ "provider": "kimi",
+ "model": "moonshotai/kimi-k3",
+ "mode": "run",
+ "blind": false,
+ "at": "2026-09-17T12:45:55"
+}

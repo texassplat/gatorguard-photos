@@ -1,0 +1,48 @@
+{
+ "finish": "stop",
+ "usage": {
+  "input_tokens": 5342,
+  "output_tokens": 231,
+  "cost": 0.0193182
+ },
+ "served_by": "Modal",
+ "label": {
+  "content": "floor_photo",
+  "area": "patio_or_porch",
+  "setting": "residential",
+  "system": "full_flake",
+  "color": "Chestnut",
+  "color_confidence": "medium",
+  "color_runner_up": "Sedona",
+  "color_description": "tan, brown and black chips, medium size, dense broadcast",
+  "shot_type": "finished",
+  "people": "background",
+  "faces_identifiable": false,
+  "privacy": [],
+  "branding_visible": false,
+  "quality": "4",
+  "issues": [],
+  "website_ready": true,
+  "title": "Screened porch with brown full flake floor",
+  "alt_text": "Screened porch with white brick walls and a glossy brown full flake floor coating",
+  "tags": [
+   "full flake",
+   "porch",
+   "screened porch",
+   "exterior",
+   "tan chips",
+   "brown chips",
+   "black chips",
+   "white brick",
+   "glossy",
+   "finished"
+  ],
+  "filename": "screened-porch-brown-full-flake-floor"
+ },
+ "id": "5663bf916151",
+ "provider": "kimi",
+ "model": "moonshotai/kimi-k3",
+ "mode": "run",
+ "blind": false,
+ "at": "2026-09-17T12:36:09"
+}

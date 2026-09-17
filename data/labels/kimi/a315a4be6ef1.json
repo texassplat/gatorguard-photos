@@ -1,0 +1,48 @@
+{
+ "finish": "stop",
+ "usage": {
+  "input_tokens": 5004,
+  "output_tokens": 163,
+  "cost": 0.00621432
+ },
+ "served_by": "Morph",
+ "label": {
+  "content": "people_or_team",
+  "area": "commercial_or_industrial",
+  "setting": "unknown",
+  "system": "not_applicable",
+  "color": "not_applicable",
+  "color_confidence": "none",
+  "color_runner_up": "not_applicable",
+  "color_description": "",
+  "shot_type": "crew_working",
+  "people": "prominent",
+  "faces_identifiable": true,
+  "privacy": [
+   "customer_face"
+  ],
+  "branding_visible": true,
+  "quality": "3",
+  "issues": [],
+  "website_ready": false,
+  "title": "Crew member mixing epoxy in workshop",
+  "alt_text": "Crew member in respirator and GatorGuard shirt mixing coating in a bucket inside a workshop trailer",
+  "tags": [
+   "crew",
+   "mixing epoxy",
+   "respirator",
+   "buckets",
+   "workshop",
+   "in progress",
+   "equipment",
+   "gatorguard shirt"
+  ],
+  "filename": "crew-mixing-epoxy-workshop"
+ },
+ "id": "a315a4be6ef1",
+ "provider": "kimi",
+ "model": "moonshotai/kimi-k3",
+ "mode": "run",
+ "blind": false,
+ "at": "2026-09-17T12:58:53"
+}

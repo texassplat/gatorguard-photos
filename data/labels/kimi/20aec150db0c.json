@@ -1,0 +1,46 @@
+{
+ "finish": "stop",
+ "usage": {
+  "input_tokens": 5211,
+  "output_tokens": 214,
+  "cost": 0.018843
+ },
+ "served_by": "Parasail",
+ "label": {
+  "content": "people_or_team",
+  "area": "interior_room",
+  "setting": "unknown",
+  "system": "full_flake",
+  "color": "unknown",
+  "color_confidence": "low",
+  "color_runner_up": "Granite",
+  "color_description": "fine gray, white and black chips, small to medium size",
+  "shot_type": "finished",
+  "people": "prominent",
+  "faces_identifiable": false,
+  "privacy": [],
+  "branding_visible": false,
+  "quality": "3",
+  "issues": [],
+  "website_ready": false,
+  "title": "Dog and trainer posing on gray flake floor",
+  "alt_text": "Golden retriever and person with green props standing on a gray full flake coated floor in a photo studio",
+  "tags": [
+   "dog",
+   "photoshoot",
+   "full flake",
+   "gray chips",
+   "indoor",
+   "props",
+   "finished floor",
+   "studio"
+  ],
+  "filename": "dog-photoshoot-gray-flake-floor"
+ },
+ "id": "20aec150db0c",
+ "provider": "kimi",
+ "model": "moonshotai/kimi-k3",
+ "mode": "run",
+ "blind": false,
+ "at": "2026-09-17T12:40:08"
+}

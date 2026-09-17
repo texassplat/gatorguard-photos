@@ -1,0 +1,47 @@
+{
+ "finish": "stop",
+ "usage": {
+  "input_tokens": 5660,
+  "output_tokens": 248,
+  "cost": 0.0115416
+ },
+ "served_by": "Together",
+ "label": {
+  "content": "before_after_composite",
+  "area": "steps_or_stairs",
+  "setting": "residential",
+  "system": "full_flake",
+  "color": "unknown",
+  "color_confidence": "low",
+  "color_runner_up": "Granite",
+  "color_description": "light gray and white chips, small size",
+  "shot_type": "before_after",
+  "people": "prominent",
+  "faces_identifiable": false,
+  "privacy": [],
+  "branding_visible": false,
+  "quality": "4",
+  "issues": [],
+  "website_ready": true,
+  "title": "Porch step repair before and after coating",
+  "alt_text": "Before and after of damaged concrete porch step repaired and coated with gray flake floor coating",
+  "tags": [
+   "before and after",
+   "porch steps",
+   "concrete repair",
+   "cracked concrete",
+   "full flake",
+   "gray chips",
+   "exterior",
+   "thumbs up",
+   "step coating"
+  ],
+  "filename": "porch-step-repair-before-after"
+ },
+ "id": "57c81a360caa",
+ "provider": "kimi",
+ "model": "moonshotai/kimi-k3",
+ "mode": "run",
+ "blind": false,
+ "at": "2026-09-17T12:37:13"
+}

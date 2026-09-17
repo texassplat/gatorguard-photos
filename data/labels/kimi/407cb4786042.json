@@ -1,0 +1,46 @@
+{
+ "finish": "stop",
+ "usage": {
+  "input_tokens": 5211,
+  "output_tokens": 262,
+  "cost": 0.019563
+ },
+ "served_by": "Parasail",
+ "label": {
+  "content": "people_or_team",
+  "area": "commercial_or_industrial",
+  "setting": "unknown",
+  "system": "full_flake",
+  "color": "unknown",
+  "color_confidence": "low",
+  "color_runner_up": "unknown",
+  "color_description": "small tan, gray and brown chips, seen at a distance under people",
+  "shot_type": "team_or_portrait",
+  "people": "prominent",
+  "faces_identifiable": true,
+  "privacy": [],
+  "branding_visible": false,
+  "quality": "4",
+  "issues": [],
+  "website_ready": false,
+  "title": "Four staff in green shirts on coated floor",
+  "alt_text": "Four people in bright green shirts standing on a speckled flake coated floor facing a white wall",
+  "tags": [
+   "team photo",
+   "green shirts",
+   "staff",
+   "gameday photoshoot",
+   "full flake floor",
+   "white wall",
+   "door",
+   "group"
+  ],
+  "filename": "staff-green-shirts-on-flake-floor"
+ },
+ "id": "407cb4786042",
+ "provider": "kimi",
+ "model": "moonshotai/kimi-k3",
+ "mode": "run",
+ "blind": false,
+ "at": "2026-09-17T12:38:42"
+}

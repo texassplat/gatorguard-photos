@@ -1,0 +1,48 @@
+{
+ "finish": "stop",
+ "usage": {
+  "input_tokens": 5266,
+  "output_tokens": 291,
+  "cost": 0.0110046
+ },
+ "served_by": "Together",
+ "label": {
+  "content": "floor_photo",
+  "area": "basement",
+  "setting": "residential",
+  "system": "full_flake",
+  "color": "Ocotillo",
+  "color_confidence": "low",
+  "color_runner_up": "Santana",
+  "color_description": "tan, brown, black and white chips, small to medium size",
+  "shot_type": "finished",
+  "people": "none",
+  "faces_identifiable": false,
+  "privacy": [],
+  "branding_visible": false,
+  "quality": "3",
+  "issues": [
+   "cluttered"
+  ],
+  "website_ready": false,
+  "title": "Basement utility room with tan full flake floor",
+  "alt_text": "Basement utility area with water heater and furnace on a tan full flake garage floor coating",
+  "tags": [
+   "basement",
+   "full flake",
+   "utility room",
+   "water heater",
+   "furnace",
+   "tan chips",
+   "brown chips",
+   "finished floor"
+  ],
+  "filename": "basement-utility-room-tan-full-flake"
+ },
+ "id": "1e1c82aeeb61",
+ "provider": "kimi",
+ "model": "moonshotai/kimi-k3",
+ "mode": "run",
+ "blind": false,
+ "at": "2026-09-17T12:31:13"
+}

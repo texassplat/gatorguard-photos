@@ -1,0 +1,49 @@
+{
+ "finish": "stop",
+ "usage": {
+  "input_tokens": 5336,
+  "output_tokens": 249,
+  "cost": 0.0105846
+ },
+ "served_by": "Together",
+ "label": {
+  "content": "floor_photo",
+  "area": "commercial_or_industrial",
+  "setting": "commercial",
+  "system": "full_flake",
+  "color": "Ocotillo",
+  "color_confidence": "medium",
+  "color_runner_up": "Santana",
+  "color_description": "light gray base with tan, brown and black chips, medium size",
+  "shot_type": "finished",
+  "people": "none",
+  "faces_identifiable": false,
+  "privacy": [],
+  "branding_visible": false,
+  "quality": "4",
+  "issues": [
+   "cluttered"
+  ],
+  "website_ready": false,
+  "title": "Commercial shop with tan and gray flake floor",
+  "alt_text": "Commercial auto shop interior with a light gray and tan full flake floor coating, counter and overhead door",
+  "tags": [
+   "commercial",
+   "auto shop",
+   "full flake",
+   "tan chips",
+   "gray chips",
+   "overhead door",
+   "service counter",
+   "finished floor",
+   "garage door"
+  ],
+  "filename": "commercial-shop-tan-gray-flake-floor"
+ },
+ "id": "5fe3e034fef5",
+ "provider": "kimi",
+ "model": "moonshotai/kimi-k3",
+ "mode": "run",
+ "blind": false,
+ "at": "2026-09-17T12:33:22"
+}

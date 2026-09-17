@@ -1,0 +1,47 @@
+{
+ "finish": "stop",
+ "usage": {
+  "input_tokens": 4917,
+  "output_tokens": 236,
+  "cost": 0.0201201
+ },
+ "served_by": "Fireworks",
+ "label": {
+  "content": "floor_photo",
+  "area": "patio_or_porch",
+  "setting": "unknown",
+  "system": "solid_color_chip",
+  "color": "unknown",
+  "color_confidence": "none",
+  "color_runner_up": "unknown",
+  "color_description": "medium gray chips of one color, fine speckled texture",
+  "shot_type": "finished",
+  "people": "background",
+  "faces_identifiable": false,
+  "privacy": [],
+  "branding_visible": true,
+  "quality": "3",
+  "issues": [
+   "wet_or_dirty"
+  ],
+  "website_ready": false,
+  "title": "Gray solid color chip floor on covered walkway",
+  "alt_text": "Covered walkway with a gray solid color chip floor coating beside a brick wall and GatorGuard trailer",
+  "tags": [
+   "solid color chip",
+   "gray floor",
+   "covered walkway",
+   "brick wall",
+   "finished floor",
+   "speckled gray",
+   "gatorguard trailer"
+  ],
+  "filename": "gray-solid-color-chip-covered-walkway"
+ },
+ "id": "cc4c54a95716",
+ "provider": "kimi",
+ "model": "moonshotai/kimi-k3",
+ "mode": "run",
+ "blind": false,
+ "at": "2026-09-17T12:56:46"
+}

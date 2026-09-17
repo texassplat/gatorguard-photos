@@ -1,0 +1,48 @@
+{
+ "finish": "stop",
+ "usage": {
+  "input_tokens": 5319,
+  "output_tokens": 205,
+  "cost": 0.019032
+ },
+ "served_by": "Parasail",
+ "label": {
+  "content": "people_or_team",
+  "area": "not_visible",
+  "setting": "unknown",
+  "system": "not_applicable",
+  "color": "not_applicable",
+  "color_confidence": "none",
+  "color_runner_up": "not_applicable",
+  "color_description": "",
+  "shot_type": "team_or_portrait",
+  "people": "prominent",
+  "faces_identifiable": true,
+  "privacy": [],
+  "branding_visible": true,
+  "quality": "4",
+  "issues": [
+   "cluttered"
+  ],
+  "website_ready": false,
+  "title": "Two installers inside GatorGuard work trailer",
+  "alt_text": "Two GatorGuard installers in branded shirts standing inside a work trailer with buckets, tools and coating supplies",
+  "tags": [
+   "installers",
+   "crew",
+   "work trailer",
+   "buckets",
+   "tools",
+   "coating supplies",
+   "branded shirts",
+   "equipment"
+  ],
+  "filename": "installers-inside-work-trailer"
+ },
+ "id": "357cd50ab6c1",
+ "provider": "kimi",
+ "model": "moonshotai/kimi-k3",
+ "mode": "run",
+ "blind": false,
+ "at": "2026-09-17T12:47:14"
+}

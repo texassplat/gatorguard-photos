@@ -1,0 +1,47 @@
+{
+ "finish": "stop",
+ "usage": {
+  "input_tokens": 4979,
+  "output_tokens": 164,
+  "cost": 0.006177945
+ },
+ "served_by": "Morph",
+ "label": {
+  "content": "floor_photo",
+  "area": "not_visible",
+  "setting": "unknown",
+  "system": "metallic",
+  "color": "Gray",
+  "color_confidence": "low",
+  "color_runner_up": "Charcoal",
+  "color_description": "gray and tan marbled metallic swirls under clear coat",
+  "shot_type": "in_progress",
+  "people": "background",
+  "faces_identifiable": false,
+  "privacy": [],
+  "branding_visible": false,
+  "quality": "3",
+  "issues": [],
+  "website_ready": false,
+  "title": "Roller loading white topcoat on metallic floor",
+  "alt_text": "Paint roller loading white coating from a tray over a gray marbled metallic epoxy floor during installation",
+  "tags": [
+   "metallic epoxy",
+   "in progress",
+   "roller",
+   "paint tray",
+   "topcoat",
+   "gray metallic",
+   "marbled floor",
+   "crew working",
+   "coating application"
+  ],
+  "filename": "roller-loading-white-topcoat-metallic-floor"
+ },
+ "id": "45fdf673e673",
+ "provider": "kimi",
+ "model": "moonshotai/kimi-k3",
+ "mode": "run",
+ "blind": false,
+ "at": "2026-09-17T12:58:32"
+}

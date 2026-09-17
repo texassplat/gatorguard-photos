@@ -1,0 +1,46 @@
+{
+ "finish": "stop",
+ "usage": {
+  "input_tokens": 5211,
+  "output_tokens": 271,
+  "cost": 0.019698
+ },
+ "served_by": "Parasail",
+ "label": {
+  "content": "floor_photo",
+  "area": "interior_room",
+  "setting": "unknown",
+  "system": "full_flake",
+  "color": "unknown",
+  "color_confidence": "none",
+  "color_runner_up": "not_applicable",
+  "color_description": "small gray, tan and dark speckled chips on a light base",
+  "shot_type": "finished",
+  "people": "background",
+  "faces_identifiable": false,
+  "privacy": [],
+  "branding_visible": false,
+  "quality": "3",
+  "issues": [],
+  "website_ready": false,
+  "title": "Golden retriever on flake floor during photoshoot",
+  "alt_text": "Golden retriever standing on a speckled full flake floor beside green costume fabric during a photoshoot",
+  "tags": [
+   "dog",
+   "golden retriever",
+   "gameday photoshoot",
+   "full flake",
+   "speckled floor",
+   "interior",
+   "green costume",
+   "photoshoot"
+  ],
+  "filename": "golden-retriever-flake-floor-photoshoot"
+ },
+ "id": "6f00b54fe783",
+ "provider": "kimi",
+ "model": "moonshotai/kimi-k3",
+ "mode": "run",
+ "blind": false,
+ "at": "2026-09-17T12:40:15"
+}

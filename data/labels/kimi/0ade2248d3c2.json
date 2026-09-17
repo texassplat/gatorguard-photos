@@ -1,0 +1,50 @@
+{
+ "finish": "stop",
+ "usage": {
+  "input_tokens": 4942,
+  "output_tokens": 264,
+  "cost": 0.00715857
+ },
+ "served_by": "Morph",
+ "label": {
+  "content": "floor_photo",
+  "area": "basement",
+  "setting": "residential",
+  "system": "full_flake",
+  "color": "Zircon",
+  "color_confidence": "low",
+  "color_runner_up": "Stone Ridge",
+  "color_description": "gray base with fine white, black and gray chips, small to medium size",
+  "shot_type": "finished",
+  "people": "none",
+  "faces_identifiable": false,
+  "privacy": [],
+  "branding_visible": true,
+  "quality": "3",
+  "issues": [
+   "text_overlay",
+   "dark"
+  ],
+  "website_ready": false,
+  "title": "Basement man cave with gray flake floor",
+  "alt_text": "Basement man cave with gray flake floor, bar and sports decor; text overlay reads Basements and Man Caves",
+  "tags": [
+   "basement",
+   "man cave",
+   "full flake",
+   "gray chips",
+   "home bar",
+   "sports decor",
+   "bengals",
+   "text overlay",
+   "finished floor"
+  ],
+  "filename": "basement-man-cave-gray-flake-floor"
+ },
+ "id": "0ade2248d3c2",
+ "provider": "kimi",
+ "model": "moonshotai/kimi-k3",
+ "mode": "run",
+ "blind": false,
+ "at": "2026-09-17T12:59:13"
+}

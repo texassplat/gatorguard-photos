@@ -1,0 +1,48 @@
+{
+ "finish": "stop",
+ "usage": {
+  "input_tokens": 4910,
+  "output_tokens": 204,
+  "cost": 0.01779
+ },
+ "served_by": "Moonshot AI",
+ "label": {
+  "content": "floor_photo",
+  "area": "commercial_or_industrial",
+  "setting": "commercial",
+  "system": "solid_color",
+  "color": "unknown",
+  "color_confidence": "none",
+  "color_runner_up": "not_applicable",
+  "color_description": "flat tan beige coating, glossy, no chips",
+  "shot_type": "finished",
+  "people": "background",
+  "faces_identifiable": false,
+  "privacy": [],
+  "branding_visible": false,
+  "quality": "3",
+  "issues": [
+   "cluttered"
+  ],
+  "website_ready": false,
+  "title": "Commercial floor with glossy tan solid color coating",
+  "alt_text": "Glossy tan solid color coated floor in a commercial room with dark cabinets and wood plank wall",
+  "tags": [
+   "commercial",
+   "solid color",
+   "tan floor",
+   "glossy",
+   "cabinets",
+   "wood wall",
+   "finished",
+   "interior"
+  ],
+  "filename": "commercial-tan-solid-color-floor"
+ },
+ "id": "4435c1ab83d4",
+ "provider": "kimi",
+ "model": "moonshotai/kimi-k3",
+ "mode": "run",
+ "blind": false,
+ "at": "2026-09-17T12:33:48"
+}

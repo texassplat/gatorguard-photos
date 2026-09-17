@@ -1,0 +1,46 @@
+{
+ "finish": "stop",
+ "usage": {
+  "input_tokens": 5044,
+  "output_tokens": 210,
+  "cost": 0.0091236
+ },
+ "served_by": "Together",
+ "label": {
+  "content": "floor_photo",
+  "area": "not_visible",
+  "setting": "unknown",
+  "system": "metallic",
+  "color": "Cappuccino",
+  "color_confidence": "medium",
+  "color_runner_up": "Copper",
+  "color_description": "brown and tan swirled metallic epoxy, glossy marbled look",
+  "shot_type": "in_progress",
+  "people": "prominent",
+  "faces_identifiable": false,
+  "privacy": [],
+  "branding_visible": false,
+  "quality": "3",
+  "issues": [],
+  "website_ready": false,
+  "title": "Squeegeeing brown metallic epoxy floor",
+  "alt_text": "Worker spreading brown swirled metallic epoxy with a squeegee during a metallic floor coating install",
+  "tags": [
+   "metallic epoxy",
+   "squeegee",
+   "in progress",
+   "brown metallic",
+   "marbled floor",
+   "crew working",
+   "application",
+   "liquid art"
+  ],
+  "filename": "squeegeeing-brown-metallic-epoxy-floor"
+ },
+ "id": "849eb9640bbd",
+ "provider": "kimi",
+ "model": "moonshotai/kimi-k3",
+ "mode": "run",
+ "blind": false,
+ "at": "2026-09-17T12:58:35"
+}

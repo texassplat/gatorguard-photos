@@ -1,0 +1,46 @@
+{
+ "finish": "stop",
+ "usage": {
+  "input_tokens": 5341,
+  "output_tokens": 217,
+  "cost": 0.0101196
+ },
+ "served_by": "Together",
+ "label": {
+  "content": "floor_photo",
+  "area": "garage",
+  "setting": "residential",
+  "system": "full_flake",
+  "color": "Black Canyon",
+  "color_confidence": "medium",
+  "color_runner_up": "Gun Metal",
+  "color_description": "black base with small white, gray and tan chips",
+  "shot_type": "close_up",
+  "people": "none",
+  "faces_identifiable": false,
+  "privacy": [],
+  "branding_visible": false,
+  "quality": "4",
+  "issues": [],
+  "website_ready": true,
+  "title": "Black full flake floor with coated stem wall",
+  "alt_text": "Close up of a black full flake garage floor with matching coated stem wall and white door",
+  "tags": [
+   "stem wall",
+   "close up",
+   "full flake",
+   "black floor",
+   "garage",
+   "white chips",
+   "gray chips",
+   "finished floor"
+  ],
+  "filename": "black-full-flake-stem-wall-close-up"
+ },
+ "id": "9af8c7260db4",
+ "provider": "kimi",
+ "model": "moonshotai/kimi-k3",
+ "mode": "run",
+ "blind": false,
+ "at": "2026-09-17T12:57:35"
+}

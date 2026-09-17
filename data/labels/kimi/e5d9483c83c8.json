@@ -1,0 +1,47 @@
+{
+ "finish": "stop",
+ "usage": {
+  "input_tokens": 5318,
+  "output_tokens": 297,
+  "cost": 0.0112506
+ },
+ "served_by": "Together",
+ "label": {
+  "content": "floor_photo",
+  "area": "garage",
+  "setting": "residential",
+  "system": "full_flake",
+  "color": "Granite",
+  "color_confidence": "high",
+  "color_runner_up": "Stone Rowe",
+  "color_description": "gray, white and black chips, medium size",
+  "shot_type": "finished",
+  "people": "none",
+  "faces_identifiable": false,
+  "privacy": [],
+  "branding_visible": false,
+  "quality": "4",
+  "issues": [],
+  "website_ready": true,
+  "title": "Garage with gray Granite full flake floor",
+  "alt_text": "Low angle view of a glossy gray, white and black full flake garage floor with a garage door and hanging tools behind",
+  "tags": [
+   "garage",
+   "full flake",
+   "granite",
+   "gray chips",
+   "black and white chips",
+   "glossy floor",
+   "garage door",
+   "finished floor",
+   "low angle"
+  ],
+  "filename": "garage-granite-full-flake-floor"
+ },
+ "id": "e5d9483c83c8",
+ "provider": "kimi",
+ "model": "moonshotai/kimi-k3",
+ "mode": "run",
+ "blind": false,
+ "at": "2026-09-17T12:41:56"
+}

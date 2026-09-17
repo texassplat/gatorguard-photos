@@ -1,0 +1,47 @@
+{
+ "finish": "stop",
+ "usage": {
+  "input_tokens": 5216,
+  "output_tokens": 232,
+  "cost": 0.0099696
+ },
+ "served_by": "Together",
+ "label": {
+  "content": "floor_photo",
+  "area": "commercial_or_industrial",
+  "setting": "commercial",
+  "system": "metallic",
+  "color": "Charcoal",
+  "color_confidence": "medium",
+  "color_runner_up": "Gray",
+  "color_description": "dark charcoal gray metallic swirl, marbled and reflective",
+  "shot_type": "finished",
+  "people": "none",
+  "faces_identifiable": false,
+  "privacy": [],
+  "branding_visible": false,
+  "quality": "4",
+  "issues": [],
+  "website_ready": true,
+  "title": "Lounge seating area with dark metallic floor",
+  "alt_text": "Dark charcoal metallic epoxy floor in a lounge with four armchairs and wall lettering, metallic floor coating",
+  "tags": [
+   "metallic epoxy",
+   "liquid art",
+   "charcoal",
+   "dark gray floor",
+   "commercial",
+   "lounge",
+   "armchairs",
+   "swirl pattern",
+   "finished floor"
+  ],
+  "filename": "lounge-seating-dark-metallic-floor"
+ },
+ "id": "1c82c87e886e",
+ "provider": "kimi",
+ "model": "moonshotai/kimi-k3",
+ "mode": "run",
+ "blind": false,
+ "at": "2026-09-17T12:50:33"
+}

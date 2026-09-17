@@ -1,0 +1,48 @@
+{
+ "finish": "stop",
+ "usage": {
+  "input_tokens": 5368,
+  "output_tokens": 209,
+  "cost": 0.01639495
+ },
+ "served_by": "DigitalOcean",
+ "label": {
+  "alt_text": "Finished basement with gray full flake metallic-look epoxy floor, support pole, glass block windows",
+  "area": "basement",
+  "branding_visible": false,
+  "color": "Silverado",
+  "color_confidence": "high",
+  "color_description": "silver-gray, black and white metallic-look chips, fine to medium size",
+  "color_runner_up": "Quartzite",
+  "content": "floor_photo",
+  "faces_identifiable": false,
+  "filename": "basement-silverado-flake-floor-glass-block-windows",
+  "issues": [],
+  "people": "none",
+  "privacy": [],
+  "quality": "4",
+  "setting": "residential",
+  "shot_type": "finished",
+  "system": "full_flake",
+  "tags": [
+   "basement",
+   "silverado",
+   "gray flakes",
+   "full flake",
+   "glass block windows",
+   "support pole",
+   "finished floor",
+   "wet bar",
+   "low light",
+   "residential"
+  ],
+  "title": "Basement with Silverado full flake floor",
+  "website_ready": true
+ },
+ "id": "12005a74596e",
+ "provider": "kimi",
+ "model": "moonshotai/kimi-k3",
+ "mode": "pilot",
+ "blind": true,
+ "at": "2026-09-17T12:24:35"
+}

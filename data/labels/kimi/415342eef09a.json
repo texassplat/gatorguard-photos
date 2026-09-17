@@ -1,0 +1,46 @@
+{
+ "finish": "stop",
+ "usage": {
+  "input_tokens": 5318,
+  "output_tokens": 250,
+  "cost": 0.0105456
+ },
+ "served_by": "Together",
+ "label": {
+  "content": "floor_photo",
+  "area": "commercial_or_industrial",
+  "setting": "commercial",
+  "system": "full_flake",
+  "color": "Granite",
+  "color_confidence": "low",
+  "color_runner_up": "Silver Butte",
+  "color_description": "gray, white and black chips, small to medium size",
+  "shot_type": "in_progress",
+  "people": "background",
+  "faces_identifiable": false,
+  "privacy": [],
+  "branding_visible": false,
+  "quality": "3",
+  "issues": [],
+  "website_ready": false,
+  "title": "Commercial hallway with gray full flake floor",
+  "alt_text": "Crew member coating a commercial hallway floor with gray full flake garage floor coating",
+  "tags": [
+   "commercial",
+   "hallway",
+   "full flake",
+   "gray chips",
+   "crew working",
+   "office corridor",
+   "flake floor",
+   "wet clear coat"
+  ],
+  "filename": "commercial-hallway-gray-full-flake-floor"
+ },
+ "id": "415342eef09a",
+ "provider": "kimi",
+ "model": "moonshotai/kimi-k3",
+ "mode": "run",
+ "blind": false,
+ "at": "2026-09-17T12:34:25"
+}

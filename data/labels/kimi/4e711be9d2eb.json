@@ -1,0 +1,52 @@
+{
+ "finish": "stop",
+ "usage": {
+  "input_tokens": 5321,
+  "output_tokens": 313,
+  "cost": 0.01421814
+ },
+ "served_by": "Alibaba",
+ "label": {
+  "content": "floor_photo",
+  "area": "garage",
+  "setting": "residential",
+  "system": "full_flake",
+  "color": "Chestnut",
+  "color_confidence": "medium",
+  "color_runner_up": "Santana",
+  "color_description": "tan, brown, black and white chips, medium size, glossy clear coat",
+  "shot_type": "finished",
+  "people": "prominent",
+  "faces_identifiable": true,
+  "privacy": [
+   "customer_face"
+  ],
+  "branding_visible": false,
+  "quality": "4",
+  "issues": [
+   "dark"
+  ],
+  "website_ready": false,
+  "title": "Garage with tan full flake floor and open door",
+  "alt_text": "Low angle view of a glossy full flake garage floor with tan, brown and black chips, a person standing at the open garage door",
+  "tags": [
+   "garage",
+   "full flake",
+   "tan chips",
+   "brown chips",
+   "black chips",
+   "glossy floor",
+   "finished floor",
+   "open garage door",
+   "bike rack",
+   "residential"
+  ],
+  "filename": "garage-tan-full-flake-floor-open-door"
+ },
+ "id": "4e711be9d2eb",
+ "provider": "kimi",
+ "model": "moonshotai/kimi-k3",
+ "mode": "run",
+ "blind": false,
+ "at": "2026-09-17T12:42:20"
+}

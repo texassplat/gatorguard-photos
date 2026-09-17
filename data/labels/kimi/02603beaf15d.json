@@ -1,0 +1,46 @@
+{
+ "finish": "stop",
+ "usage": {
+  "input_tokens": 5209,
+  "output_tokens": 222,
+  "cost": 0.018957
+ },
+ "served_by": "Fireworks",
+ "label": {
+  "content": "people_or_team",
+  "area": "showroom_or_retail",
+  "setting": "commercial",
+  "system": "full_flake",
+  "color": "unknown",
+  "color_confidence": "low",
+  "color_runner_up": "Callisto",
+  "color_description": "fine gray, white and tan chips over a gray base",
+  "shot_type": "team_or_portrait",
+  "people": "prominent",
+  "faces_identifiable": false,
+  "privacy": [],
+  "branding_visible": false,
+  "quality": "3",
+  "issues": [],
+  "website_ready": false,
+  "title": "Four people in green shirts on flake floor",
+  "alt_text": "Four people in green GatorGuard shirts standing on a gray full flake coated floor in a large open room",
+  "tags": [
+   "team",
+   "green shirts",
+   "full flake",
+   "gray chips",
+   "photoshoot",
+   "large room",
+   "stool",
+   "finished floor"
+  ],
+  "filename": "team-green-shirts-flake-floor"
+ },
+ "id": "02603beaf15d",
+ "provider": "kimi",
+ "model": "moonshotai/kimi-k3",
+ "mode": "run",
+ "blind": false,
+ "at": "2026-09-17T12:38:56"
+}

@@ -1,0 +1,47 @@
+{
+ "finish": "stop",
+ "usage": {
+  "input_tokens": 5314,
+  "output_tokens": 224,
+  "cost": 0.0101436
+ },
+ "served_by": "Together",
+ "label": {
+  "content": "people_or_team",
+  "area": "patio_or_porch",
+  "setting": "residential",
+  "system": "unknown",
+  "color": "not_applicable",
+  "color_confidence": "none",
+  "color_runner_up": "not_applicable",
+  "color_description": "",
+  "shot_type": "crew_working",
+  "people": "prominent",
+  "faces_identifiable": true,
+  "privacy": [],
+  "branding_visible": true,
+  "quality": "4",
+  "issues": [],
+  "website_ready": false,
+  "title": "Installer spreading coating on outdoor concrete patio",
+  "alt_text": "GatorGuard installer spreading yellow coating with a trowel on an outdoor concrete patio beside a house",
+  "tags": [
+   "installer",
+   "crew working",
+   "in progress",
+   "patio",
+   "concrete prep",
+   "coating application",
+   "magic trowel",
+   "gatorguard shirt",
+   "outdoor concrete"
+  ],
+  "filename": "installer-spreading-coating-on-patio"
+ },
+ "id": "92c799258afe",
+ "provider": "kimi",
+ "model": "moonshotai/kimi-k3",
+ "mode": "run",
+ "blind": false,
+ "at": "2026-09-17T12:47:27"
+}

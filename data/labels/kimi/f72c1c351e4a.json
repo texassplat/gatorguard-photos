@@ -1,0 +1,46 @@
+{
+ "finish": "stop",
+ "usage": {
+  "input_tokens": 5329,
+  "output_tokens": 246,
+  "cost": 0.0105186
+ },
+ "served_by": "Together",
+ "label": {
+  "content": "floor_photo",
+  "area": "interior_room",
+  "setting": "residential",
+  "system": "full_flake",
+  "color": "Stone Rowe",
+  "color_confidence": "low",
+  "color_runner_up": "Zircon",
+  "color_description": "gray, white and black chips, small to medium size",
+  "shot_type": "finished",
+  "people": "none",
+  "faces_identifiable": false,
+  "privacy": [],
+  "branding_visible": false,
+  "quality": "4",
+  "issues": [],
+  "website_ready": true,
+  "title": "Interior room with gray full flake floor",
+  "alt_text": "Gray full flake floor coating in an interior room with white column, trim and chalkboard accent wall",
+  "tags": [
+   "full flake",
+   "interior floor",
+   "gray chips",
+   "white and black chips",
+   "white trim",
+   "support column",
+   "chalkboard wall",
+   "finished floor"
+  ],
+  "filename": "interior-room-gray-full-flake-floor"
+ },
+ "id": "f72c1c351e4a",
+ "provider": "kimi",
+ "model": "moonshotai/kimi-k3",
+ "mode": "run",
+ "blind": false,
+ "at": "2026-09-17T12:48:16"
+}

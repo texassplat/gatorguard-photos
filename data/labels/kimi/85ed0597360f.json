@@ -1,0 +1,47 @@
+{
+ "finish": "stop",
+ "usage": {
+  "input_tokens": 5331,
+  "output_tokens": 225,
+  "cost": 0.019368
+ },
+ "served_by": "Parasail",
+ "label": {
+  "content": "floor_photo",
+  "area": "garage",
+  "setting": "residential",
+  "system": "full_flake",
+  "color": "Granite",
+  "color_confidence": "medium",
+  "color_runner_up": "Stone Rowe",
+  "color_description": "light gray base with white, black and light gray chips, small to medium size",
+  "shot_type": "finished",
+  "people": "none",
+  "faces_identifiable": false,
+  "privacy": [],
+  "branding_visible": true,
+  "quality": "4",
+  "issues": [],
+  "website_ready": true,
+  "title": "Garage with gray flake floor and custom logos",
+  "alt_text": "Gray full flake garage floor with a black shield logo and lettering set into the coating, full flake garage floor",
+  "tags": [
+   "garage",
+   "full flake",
+   "custom logo",
+   "gray floor",
+   "white black gray chips",
+   "finished floor",
+   "two windows",
+   "logo inlay",
+   "residential"
+  ],
+  "filename": "garage-gray-flake-floor-custom-logo"
+ },
+ "id": "85ed0597360f",
+ "provider": "kimi",
+ "model": "moonshotai/kimi-k3",
+ "mode": "run",
+ "blind": false,
+ "at": "2026-09-17T12:52:27"
+}

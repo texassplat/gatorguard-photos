@@ -1,0 +1,48 @@
+{
+ "finish": "stop",
+ "usage": {
+  "input_tokens": 5256,
+  "output_tokens": 178,
+  "cost": 0.00684432
+ },
+ "served_by": "Morph",
+ "label": {
+  "content": "floor_photo",
+  "area": "patio_or_porch",
+  "setting": "residential",
+  "system": "stamped_concrete",
+  "color": "unknown",
+  "color_confidence": "none",
+  "color_runner_up": "not_applicable",
+  "color_description": "stamped concrete in mottled brown and tan tones with a wet look sealer",
+  "shot_type": "finished",
+  "people": "none",
+  "faces_identifiable": false,
+  "privacy": [],
+  "branding_visible": false,
+  "quality": "4",
+  "issues": [],
+  "website_ready": true,
+  "title": "Stamped concrete patio with steps by brick house",
+  "alt_text": "Brown stamped concrete patio with steps beside a brick and siding house, sealed stamped concrete patio",
+  "tags": [
+   "stamped concrete",
+   "patio",
+   "backyard",
+   "steps",
+   "brick house",
+   "sealed concrete",
+   "brown",
+   "wet look",
+   "residential",
+   "landscaping"
+  ],
+  "filename": "stamped-concrete-patio-brick-house"
+ },
+ "id": "e707b55de840",
+ "provider": "kimi",
+ "model": "moonshotai/kimi-k3",
+ "mode": "run",
+ "blind": false,
+ "at": "2026-09-17T12:57:42"
+}

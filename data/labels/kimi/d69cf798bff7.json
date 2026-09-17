@@ -1,0 +1,48 @@
+{
+ "finish": "stop",
+ "usage": {
+  "input_tokens": 5354,
+  "output_tokens": 209,
+  "cost": 0.019197
+ },
+ "served_by": "Parasail",
+ "label": {
+  "content": "floor_photo",
+  "area": "garage",
+  "setting": "residential",
+  "system": "metallic",
+  "color": "Copper",
+  "color_confidence": "high",
+  "color_runner_up": "Cappuccino",
+  "color_description": "swirled copper brown metallic, glossy and reflective, no chips",
+  "shot_type": "finished",
+  "people": "none",
+  "faces_identifiable": false,
+  "privacy": [],
+  "branding_visible": false,
+  "quality": "4",
+  "issues": [],
+  "website_ready": true,
+  "title": "Garage with copper metallic epoxy floor",
+  "alt_text": "Glossy copper metallic epoxy garage floor in front of white cabinets and gray shelving, metallic garage floor coating",
+  "tags": [
+   "metallic",
+   "copper",
+   "garage",
+   "glossy",
+   "reflective",
+   "cabinets",
+   "shelving",
+   "swirled",
+   "liquid art",
+   "brown"
+  ],
+  "filename": "copper-metallic-garage-floor"
+ },
+ "id": "d69cf798bff7",
+ "provider": "kimi",
+ "model": "moonshotai/kimi-k3",
+ "mode": "run",
+ "blind": false,
+ "at": "2026-09-17T12:49:55"
+}

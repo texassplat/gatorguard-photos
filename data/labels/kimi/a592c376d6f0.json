@@ -1,0 +1,46 @@
+{
+ "finish": "stop",
+ "usage": {
+  "input_tokens": 5332,
+  "output_tokens": 314,
+  "cost": 0.020706
+ },
+ "served_by": "Parasail",
+ "label": {
+  "content": "floor_photo",
+  "area": "garage",
+  "setting": "residential",
+  "system": "metallic",
+  "color": "Cappuccino",
+  "color_confidence": "medium",
+  "color_runner_up": "Copper",
+  "color_description": "glossy swirled brown metallic with lighter tan marbling",
+  "shot_type": "finished",
+  "people": "none",
+  "faces_identifiable": false,
+  "privacy": [],
+  "branding_visible": false,
+  "quality": "4",
+  "issues": [],
+  "website_ready": true,
+  "title": "Brown metallic epoxy garage floor with saw cuts",
+  "alt_text": "Glossy brown metallic epoxy floor with swirled marbling and saw-cut joints, metallic garage floor coating",
+  "tags": [
+   "metallic epoxy",
+   "brown metallic",
+   "marbled floor",
+   "glossy finish",
+   "garage floor",
+   "saw cut joints",
+   "liquid art",
+   "swirl pattern"
+  ],
+  "filename": "brown-metallic-epoxy-garage-floor"
+ },
+ "id": "a592c376d6f0",
+ "provider": "kimi",
+ "model": "moonshotai/kimi-k3",
+ "mode": "run",
+ "blind": false,
+ "at": "2026-09-17T12:51:31"
+}

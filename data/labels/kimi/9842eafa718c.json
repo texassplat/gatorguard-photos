@@ -1,0 +1,50 @@
+{
+ "finish": "stop",
+ "usage": {
+  "input_tokens": 5276,
+  "output_tokens": 180,
+  "cost": 0.0117825
+ },
+ "served_by": "Morph",
+ "label": {
+  "content": "floor_photo",
+  "area": "garage",
+  "setting": "residential",
+  "system": "full_flake",
+  "color": "Stone Ridge",
+  "color_confidence": "medium",
+  "color_runner_up": "Granite",
+  "color_description": "gray, black and white chips with scattered tan and rust accents, small size",
+  "shot_type": "finished",
+  "people": "none",
+  "faces_identifiable": false,
+  "privacy": [],
+  "branding_visible": false,
+  "quality": "4",
+  "issues": [
+   "tilted"
+  ],
+  "website_ready": true,
+  "title": "Garage with gray full flake floor",
+  "alt_text": "Low angle view of a finished garage floor with gray, black and tan flake chips, unfinished drywall and a refrigerator in back",
+  "tags": [
+   "garage",
+   "full flake",
+   "gray chips",
+   "black chips",
+   "tan chips",
+   "finished floor",
+   "refrigerator",
+   "unfinished drywall",
+   "garage door",
+   "low angle"
+  ],
+  "filename": "garage-gray-full-flake-floor"
+ },
+ "id": "9842eafa718c",
+ "provider": "kimi",
+ "model": "moonshotai/kimi-k3",
+ "mode": "run",
+ "blind": false,
+ "at": "2026-09-17T12:41:39"
+}

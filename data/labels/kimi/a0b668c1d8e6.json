@@ -1,0 +1,47 @@
+{
+ "finish": "stop",
+ "usage": {
+  "input_tokens": 5334,
+  "output_tokens": 288,
+  "cost": 0.020322
+ },
+ "served_by": "Parasail",
+ "label": {
+  "content": "floor_photo",
+  "area": "interior_room",
+  "setting": "residential",
+  "system": "full_flake",
+  "color": "Stone Crest",
+  "color_confidence": "medium",
+  "color_runner_up": "unknown",
+  "color_description": "white, black and gray chips with scattered red chips, small size",
+  "shot_type": "finished",
+  "people": "none",
+  "faces_identifiable": false,
+  "privacy": [],
+  "branding_visible": false,
+  "quality": "4",
+  "issues": [],
+  "website_ready": true,
+  "title": "Finished basement with gray and red flake floor",
+  "alt_text": "Finished basement room with a gray, black, white and red full flake floor, white trim and dark stairs",
+  "tags": [
+   "full flake",
+   "basement",
+   "interior",
+   "gray chips",
+   "red chips",
+   "white trim",
+   "stairs",
+   "finished floor",
+   "residential"
+  ],
+  "filename": "basement-gray-red-full-flake-floor"
+ },
+ "id": "a0b668c1d8e6",
+ "provider": "kimi",
+ "model": "moonshotai/kimi-k3",
+ "mode": "run",
+ "blind": false,
+ "at": "2026-09-17T12:48:35"
+}

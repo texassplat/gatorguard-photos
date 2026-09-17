@@ -1,0 +1,48 @@
+{
+ "finish": "stop",
+ "usage": {
+  "input_tokens": 5209,
+  "output_tokens": 271,
+  "cost": 0.019692
+ },
+ "served_by": "Fireworks",
+ "label": {
+  "content": "floor_photo",
+  "area": "commercial_or_industrial",
+  "setting": "unknown",
+  "system": "full_flake",
+  "color": "Granite",
+  "color_confidence": "low",
+  "color_runner_up": "Silver Butte",
+  "color_description": "small gray, white and brown chips over a gray base, muted by flat lighting",
+  "shot_type": "finished",
+  "people": "none",
+  "faces_identifiable": false,
+  "privacy": [],
+  "branding_visible": false,
+  "quality": "3",
+  "issues": [
+   "dark"
+  ],
+  "website_ready": false,
+  "title": "Empty showroom room with gray full flake floor",
+  "alt_text": "Empty room with white walls, a styling chair and a gray full flake garage floor coating",
+  "tags": [
+   "full flake",
+   "gray floor",
+   "empty room",
+   "chair",
+   "white walls",
+   "gray and brown chips",
+   "showroom",
+   "photoshoot"
+  ],
+  "filename": "empty-room-gray-full-flake-floor"
+ },
+ "id": "dee10d7691a8",
+ "provider": "kimi",
+ "model": "moonshotai/kimi-k3",
+ "mode": "run",
+ "blind": false,
+ "at": "2026-09-17T12:38:41"
+}

@@ -1,0 +1,46 @@
+{
+ "finish": "stop",
+ "usage": {
+  "input_tokens": 5317,
+  "output_tokens": 267,
+  "cost": 0.019956
+ },
+ "served_by": "Parasail",
+ "label": {
+  "content": "floor_photo",
+  "area": "not_visible",
+  "setting": "unknown",
+  "system": "full_flake",
+  "color": "Granite",
+  "color_confidence": "low",
+  "color_runner_up": "Silver Butte",
+  "color_description": "light gray base with sparse small black, white and a few tan chips",
+  "shot_type": "close_up",
+  "people": "none",
+  "faces_identifiable": false,
+  "privacy": [],
+  "branding_visible": false,
+  "quality": "3",
+  "issues": [],
+  "website_ready": false,
+  "title": "Floor edge detail with gray flake coating",
+  "alt_text": "Close-up of a glossy gray flake coated floor edge meeting a gravel surface, full flake floor coating",
+  "tags": [
+   "floor edge",
+   "flake coating",
+   "gray floor",
+   "gravel",
+   "close up",
+   "glossy",
+   "black and white chips",
+   "old style"
+  ],
+  "filename": "gray-flake-floor-edge-gravel"
+ },
+ "id": "acfd52b679e4",
+ "provider": "kimi",
+ "model": "moonshotai/kimi-k3",
+ "mode": "run",
+ "blind": false,
+ "at": "2026-09-17T12:53:49"
+}

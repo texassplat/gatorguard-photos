@@ -1,0 +1,46 @@
+{
+ "finish": "stop",
+ "usage": {
+  "input_tokens": 5206,
+  "output_tokens": 363,
+  "cost": 0.01468389
+ },
+ "served_by": "Alibaba",
+ "label": {
+  "content": "floor_photo",
+  "area": "garage",
+  "setting": "unknown",
+  "system": "full_flake",
+  "color": "unknown",
+  "color_confidence": "low",
+  "color_runner_up": "Granite",
+  "color_description": "gray and black chips with white specks, small to medium size",
+  "shot_type": "close_up",
+  "people": "none",
+  "faces_identifiable": false,
+  "privacy": [],
+  "branding_visible": false,
+  "quality": "3",
+  "issues": [],
+  "website_ready": false,
+  "title": "Chips and queso on gray flake floor",
+  "alt_text": "Tortilla chips and queso dip sitting on a gray full flake coated floor, gameday photoshoot",
+  "tags": [
+   "full flake",
+   "gray chips",
+   "gameday",
+   "chips",
+   "queso",
+   "food on floor",
+   "close up",
+   "photoshoot"
+  ],
+  "filename": "chips-queso-gray-flake-floor"
+ },
+ "id": "b4af6eafe8ca",
+ "provider": "kimi",
+ "model": "moonshotai/kimi-k3",
+ "mode": "run",
+ "blind": false,
+ "at": "2026-09-17T12:39:33"
+}

@@ -1,0 +1,49 @@
+{
+ "finish": "stop",
+ "usage": {
+  "input_tokens": 5206,
+  "output_tokens": 253,
+  "cost": 0.0102546
+ },
+ "served_by": "Together",
+ "label": {
+  "content": "floor_photo",
+  "area": "garage",
+  "setting": "residential",
+  "system": "full_flake",
+  "color": "unknown",
+  "color_confidence": "low",
+  "color_runner_up": "Granite",
+  "color_description": "gray base with black, white and small tan chips, medium size",
+  "shot_type": "close_up",
+  "people": "none",
+  "faces_identifiable": false,
+  "privacy": [],
+  "branding_visible": false,
+  "quality": "4",
+  "issues": [
+   "wet_or_dirty"
+  ],
+  "website_ready": false,
+  "title": "Soda can spilling on flake garage floor",
+  "alt_text": "A red soda can tipped over spilling onto a gray full flake garage floor coating with black and white chips",
+  "tags": [
+   "full flake",
+   "garage floor",
+   "spill",
+   "soda can",
+   "gray chips",
+   "black chips",
+   "stain resistance",
+   "close up",
+   "gameday photoshoot"
+  ],
+  "filename": "soda-can-spill-flake-garage-floor"
+ },
+ "id": "cb888ddc0190",
+ "provider": "kimi",
+ "model": "moonshotai/kimi-k3",
+ "mode": "run",
+ "blind": false,
+ "at": "2026-09-17T12:40:35"
+}

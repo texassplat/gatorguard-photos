@@ -1,0 +1,46 @@
+{
+ "finish": "stop",
+ "usage": {
+  "input_tokens": 5321,
+  "output_tokens": 220,
+  "cost": 0.0101046
+ },
+ "served_by": "Together",
+ "label": {
+  "content": "floor_photo",
+  "area": "driveway_or_walkway",
+  "setting": "residential",
+  "system": "poly_enhance",
+  "color": "not_applicable",
+  "color_confidence": "none",
+  "color_runner_up": "not_applicable",
+  "color_description": "exposed aggregate concrete with tan, brown, gray and white pebbles under a glossy wet-look sealer",
+  "shot_type": "close_up",
+  "people": "none",
+  "faces_identifiable": false,
+  "privacy": [],
+  "branding_visible": false,
+  "quality": "4",
+  "issues": [],
+  "website_ready": true,
+  "title": "Glossy sealed exposed aggregate with brick edge",
+  "alt_text": "Close up of exposed aggregate concrete with glossy wet-look sealer and brick border, poly enhance sealer",
+  "tags": [
+   "poly enhance",
+   "exposed aggregate",
+   "wet look sealer",
+   "glossy",
+   "pebbles",
+   "brick border",
+   "outdoor concrete",
+   "close up"
+  ],
+  "filename": "sealed-exposed-aggregate-brick-edge"
+ },
+ "id": "18316563cce6",
+ "provider": "kimi",
+ "model": "moonshotai/kimi-k3",
+ "mode": "run",
+ "blind": false,
+ "at": "2026-09-17T12:55:44"
+}

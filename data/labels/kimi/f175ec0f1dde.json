@@ -1,0 +1,46 @@
+{
+ "finish": "stop",
+ "usage": {
+  "input_tokens": 5278,
+  "output_tokens": 258,
+  "cost": 0.00772557
+ },
+ "served_by": "Morph",
+ "label": {
+  "content": "floor_photo",
+  "area": "basement",
+  "setting": "residential",
+  "system": "metallic",
+  "color": "Copper",
+  "color_confidence": "high",
+  "color_runner_up": "Cappuccino",
+  "color_description": "swirled copper and tan metallic epoxy, glossy and reflective, no chips",
+  "shot_type": "finished",
+  "people": "none",
+  "faces_identifiable": false,
+  "privacy": [],
+  "branding_visible": false,
+  "quality": "4",
+  "issues": [],
+  "website_ready": true,
+  "title": "Copper metallic epoxy basement floor with shelving",
+  "alt_text": "Glossy copper metallic epoxy floor in a basement with gray walls, shelving and white cabinets, metallic epoxy floor coating",
+  "tags": [
+   "metallic epoxy",
+   "copper floor",
+   "basement floor",
+   "swirled metallic",
+   "glossy floor",
+   "reflective floor",
+   "shelving",
+   "white cabinets"
+  ],
+  "filename": "copper-metallic-epoxy-basement-floor"
+ },
+ "id": "f175ec0f1dde",
+ "provider": "kimi",
+ "model": "moonshotai/kimi-k3",
+ "mode": "run",
+ "blind": false,
+ "at": "2026-09-17T12:50:59"
+}

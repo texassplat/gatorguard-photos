@@ -1,0 +1,50 @@
+{
+ "finish": "stop",
+ "usage": {
+  "input_tokens": 5317,
+  "output_tokens": 350,
+  "cost": 0.021201
+ },
+ "served_by": "Fireworks",
+ "label": {
+  "content": "people_or_team",
+  "area": "driveway_or_walkway",
+  "setting": "residential",
+  "system": "bare_concrete",
+  "color": "not_applicable",
+  "color_confidence": "none",
+  "color_runner_up": "not_applicable",
+  "color_description": "",
+  "shot_type": "crew_working",
+  "people": "prominent",
+  "faces_identifiable": false,
+  "privacy": [],
+  "branding_visible": true,
+  "quality": "4",
+  "issues": [
+   "wet_or_dirty"
+  ],
+  "website_ready": false,
+  "title": "Crew member prepping driveway by GatorGuard truck",
+  "alt_text": "GatorGuard crew member scraping a worn concrete driveway next to a branded box truck with gator graphic",
+  "tags": [
+   "crew working",
+   "surface prep",
+   "driveway",
+   "concrete grinding",
+   "gatorguard truck",
+   "branded truck",
+   "recruiting",
+   "employee",
+   "residential",
+   "before coating"
+  ],
+  "filename": "crew-prepping-driveway-gatorguard-truck"
+ },
+ "id": "27e780b16c86",
+ "provider": "kimi",
+ "model": "moonshotai/kimi-k3",
+ "mode": "run",
+ "blind": false,
+ "at": "2026-09-17T12:36:00"
+}

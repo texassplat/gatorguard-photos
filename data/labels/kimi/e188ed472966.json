@@ -1,0 +1,48 @@
+{
+ "finish": "stop",
+ "usage": {
+  "input_tokens": 5316,
+  "output_tokens": 178,
+  "cost": 0.0094596
+ },
+ "served_by": "Together",
+ "label": {
+  "alt_text": "GatorGuard Louisville thank you graphic asking customers to leave a review, with gator mascot over a dark flake floor",
+  "area": "not_visible",
+  "branding_visible": true,
+  "color": "not_applicable",
+  "color_confidence": "none",
+  "color_description": "",
+  "color_runner_up": "not_applicable",
+  "content": "marketing_graphic",
+  "faces_identifiable": false,
+  "filename": "louisville-thank-you-review-graphic",
+  "issues": [
+   "text_overlay"
+  ],
+  "people": "none",
+  "privacy": [],
+  "quality": "3",
+  "setting": "unknown",
+  "shot_type": "graphic",
+  "system": "not_applicable",
+  "tags": [
+   "thank you graphic",
+   "review request",
+   "birdeye asset",
+   "louisville",
+   "gator mascot",
+   "logo",
+   "text overlay",
+   "marketing"
+  ],
+  "title": "Louisville thank you review request graphic",
+  "website_ready": false
+ },
+ "id": "e188ed472966",
+ "provider": "kimi",
+ "model": "moonshotai/kimi-k3",
+ "mode": "run",
+ "blind": false,
+ "at": "2026-09-17T12:31:51"
+}

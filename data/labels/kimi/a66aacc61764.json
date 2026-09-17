@@ -1,0 +1,46 @@
+{
+ "finish": "stop",
+ "usage": {
+  "input_tokens": 5347,
+  "output_tokens": 264,
+  "cost": 0.020001
+ },
+ "served_by": "Parasail",
+ "label": {
+  "content": "floor_photo",
+  "area": "not_visible",
+  "setting": "unknown",
+  "system": "full_flake",
+  "color": "Ocotillo",
+  "color_confidence": "medium",
+  "color_runner_up": "Santana",
+  "color_description": "tan base with black, brown and white chips, small to medium size",
+  "shot_type": "close_up",
+  "people": "none",
+  "faces_identifiable": false,
+  "privacy": [],
+  "branding_visible": false,
+  "quality": "4",
+  "issues": [],
+  "website_ready": true,
+  "title": "Close up of glossy tan flake floor",
+  "alt_text": "Close up of a glossy tan floor with black, brown and white chips in a full flake coating",
+  "tags": [
+   "close up",
+   "full flake",
+   "tan chips",
+   "black chips",
+   "white chips",
+   "glossy",
+   "clear coat",
+   "flake texture"
+  ],
+  "filename": "glossy-tan-flake-floor-close-up"
+ },
+ "id": "a66aacc61764",
+ "provider": "kimi",
+ "model": "moonshotai/kimi-k3",
+ "mode": "run",
+ "blind": false,
+ "at": "2026-09-17T12:32:10"
+}

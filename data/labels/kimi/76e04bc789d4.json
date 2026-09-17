@@ -1,0 +1,50 @@
+{
+ "finish": "stop",
+ "usage": {
+  "input_tokens": 5319,
+  "output_tokens": 211,
+  "cost": 0.019122
+ },
+ "served_by": "Parasail",
+ "label": {
+  "content": "floor_photo",
+  "area": "patio_or_porch",
+  "setting": "residential",
+  "system": "unknown",
+  "color": "not_applicable",
+  "color_confidence": "none",
+  "color_runner_up": "not_applicable",
+  "color_description": "",
+  "shot_type": "crew_working",
+  "people": "prominent",
+  "faces_identifiable": true,
+  "privacy": [],
+  "branding_visible": true,
+  "quality": "4",
+  "issues": [
+   "wet_or_dirty"
+  ],
+  "website_ready": false,
+  "title": "Installer spreading yellow base coat on patio",
+  "alt_text": "GatorGuard installer spreading yellow coating on a concrete patio beside a house with a wood deck, coating in progress",
+  "tags": [
+   "installer",
+   "crew working",
+   "in progress",
+   "patio",
+   "base coat",
+   "yellow coating",
+   "squeegee",
+   "concrete patio",
+   "deck",
+   "residential"
+  ],
+  "filename": "installer-spreading-yellow-base-coat-patio"
+ },
+ "id": "76e04bc789d4",
+ "provider": "kimi",
+ "model": "moonshotai/kimi-k3",
+ "mode": "run",
+ "blind": false,
+ "at": "2026-09-17T12:47:29"
+}

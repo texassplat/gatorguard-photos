@@ -1,0 +1,46 @@
+{
+ "finish": "stop",
+ "usage": {
+  "input_tokens": 5206,
+  "output_tokens": 201,
+  "cost": 0.0094746
+ },
+ "served_by": "Together",
+ "label": {
+  "content": "floor_photo",
+  "area": "not_visible",
+  "setting": "unknown",
+  "system": "full_flake",
+  "color": "Granite",
+  "color_confidence": "medium",
+  "color_runner_up": "Stone Rowe",
+  "color_description": "gray, white and black chips, small to medium size",
+  "shot_type": "close_up",
+  "people": "none",
+  "faces_identifiable": false,
+  "privacy": [],
+  "branding_visible": false,
+  "quality": "4",
+  "issues": [],
+  "website_ready": false,
+  "title": "Nacho chips and cheese on gray flake floor",
+  "alt_text": "Tortilla chips with cheese sauce sitting on a gray full flake floor coating",
+  "tags": [
+   "gameday photoshoot",
+   "nachos",
+   "chips and cheese",
+   "full flake",
+   "gray chips",
+   "food on floor",
+   "close up",
+   "stain resistance demo"
+  ],
+  "filename": "nachos-on-gray-flake-floor"
+ },
+ "id": "e7ca9fc4781f",
+ "provider": "kimi",
+ "model": "moonshotai/kimi-k3",
+ "mode": "run",
+ "blind": false,
+ "at": "2026-09-17T12:39:15"
+}

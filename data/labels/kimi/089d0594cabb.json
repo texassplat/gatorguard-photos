@@ -1,0 +1,47 @@
+{
+ "finish": "stop",
+ "usage": {
+  "input_tokens": 4844,
+  "output_tokens": 226,
+  "cost": 0.017922
+ },
+ "served_by": "Fireworks",
+ "label": {
+  "content": "floor_photo",
+  "area": "garage",
+  "setting": "residential",
+  "system": "full_flake",
+  "color": "Chestnut",
+  "color_confidence": "low",
+  "color_runner_up": "Sedona",
+  "color_description": "tan, brown and black chips, small to medium size",
+  "shot_type": "finished",
+  "people": "background",
+  "faces_identifiable": false,
+  "privacy": [],
+  "branding_visible": true,
+  "quality": "3",
+  "issues": [
+   "cluttered"
+  ],
+  "website_ready": false,
+  "title": "Low angle flake floor with GatorGuard truck",
+  "alt_text": "Low angle view of a tan full flake garage floor with a GatorGuard box truck parked outside",
+  "tags": [
+   "full flake",
+   "garage floor",
+   "tan chips",
+   "gatorguard truck",
+   "low angle",
+   "residential",
+   "finished floor"
+  ],
+  "filename": "flake-floor-gatorguard-truck"
+ },
+ "id": "089d0594cabb",
+ "provider": "kimi",
+ "model": "moonshotai/kimi-k3",
+ "mode": "run",
+ "blind": false,
+ "at": "2026-09-17T12:38:15"
+}

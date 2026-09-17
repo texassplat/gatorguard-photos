@@ -1,0 +1,48 @@
+{
+ "finish": "stop",
+ "usage": {
+  "input_tokens": 5073,
+  "output_tokens": 310,
+  "cost": 0.019869
+ },
+ "served_by": "Parasail",
+ "label": {
+  "content": "floor_photo",
+  "area": "basement",
+  "setting": "residential",
+  "system": "metallic",
+  "color": "unknown",
+  "color_confidence": "low",
+  "color_runner_up": "Cappuccino",
+  "color_description": "glossy tan and copper swirled metallic coating being rolled out, still wet",
+  "shot_type": "in_progress",
+  "people": "prominent",
+  "faces_identifiable": false,
+  "privacy": [],
+  "branding_visible": true,
+  "quality": "3",
+  "issues": [
+   "tilted"
+  ],
+  "website_ready": false,
+  "title": "Crew rolling metallic epoxy in large basement",
+  "alt_text": "Crew rolling out a glossy tan metallic epoxy floor in a large basement during installation",
+  "tags": [
+   "metallic epoxy",
+   "in progress",
+   "basement floor",
+   "crew working",
+   "tan metallic",
+   "rolling epoxy",
+   "glossy floor",
+   "video"
+  ],
+  "filename": "crew-rolling-metallic-epoxy-basement"
+ },
+ "id": "b343eba25ee9",
+ "provider": "kimi",
+ "model": "moonshotai/kimi-k3",
+ "mode": "run",
+ "blind": false,
+ "at": "2026-09-17T12:38:11"
+}

@@ -1,0 +1,45 @@
+{
+ "finish": "stop",
+ "usage": {
+  "input_tokens": 5323,
+  "output_tokens": 288,
+  "cost": 0.020289
+ },
+ "served_by": "Parasail",
+ "label": {
+  "content": "floor_photo",
+  "area": "garage",
+  "setting": "residential",
+  "system": "full_flake",
+  "color": "Chestnut",
+  "color_confidence": "medium",
+  "color_runner_up": "Sedona",
+  "color_description": "warm brown and tan chips with black and white flecks, small to medium size",
+  "shot_type": "finished",
+  "people": "none",
+  "faces_identifiable": false,
+  "privacy": [],
+  "branding_visible": false,
+  "quality": "4",
+  "issues": [],
+  "website_ready": true,
+  "title": "Garage corner with brown full flake floor",
+  "alt_text": "Finished garage floor with brown and tan full flake coating along white baseboards",
+  "tags": [
+   "garage floor",
+   "full flake",
+   "brown chips",
+   "tan chips",
+   "baseboards",
+   "finished floor",
+   "corner view"
+  ],
+  "filename": "garage-corner-brown-full-flake-floor"
+ },
+ "id": "c3ef3168c3ec",
+ "provider": "kimi",
+ "model": "moonshotai/kimi-k3",
+ "mode": "pilot",
+ "blind": false,
+ "at": "2026-09-17T12:24:43"
+}

@@ -1,0 +1,48 @@
+{
+ "finish": "stop",
+ "usage": {
+  "input_tokens": 5291,
+  "output_tokens": 251,
+  "cost": 0.019638
+ },
+ "served_by": "Fireworks",
+ "label": {
+  "content": "floor_photo",
+  "area": "patio_or_porch",
+  "setting": "residential",
+  "system": "full_flake",
+  "color": "unknown",
+  "color_confidence": "low",
+  "color_runner_up": "Ocotillo",
+  "color_description": "light tan and cream chips with fine brown and gray specks, small size",
+  "shot_type": "finished",
+  "people": "none",
+  "faces_identifiable": false,
+  "privacy": [],
+  "branding_visible": false,
+  "quality": "4",
+  "issues": [],
+  "website_ready": true,
+  "title": "Backyard patio with light tan flake floor",
+  "alt_text": "Patio with light tan flake coated concrete, lounge chair and potted flowers, patio floor coating",
+  "tags": [
+   "patio",
+   "exterior",
+   "full flake",
+   "tan chips",
+   "patio furniture",
+   "potted plants",
+   "finished",
+   "backyard",
+   "lounge chair",
+   "sunny"
+  ],
+  "filename": "backyard-patio-light-tan-flake-floor"
+ },
+ "id": "45611544b012",
+ "provider": "kimi",
+ "model": "moonshotai/kimi-k3",
+ "mode": "run",
+ "blind": false,
+ "at": "2026-09-17T12:38:02"
+}

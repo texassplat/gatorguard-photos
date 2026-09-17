@@ -1,0 +1,47 @@
+{
+ "finish": "stop",
+ "usage": {
+  "input_tokens": 5340,
+  "output_tokens": 271,
+  "cost": 0.020085
+ },
+ "served_by": "Parasail",
+ "label": {
+  "content": "floor_photo",
+  "area": "garage",
+  "setting": "residential",
+  "system": "full_flake",
+  "color": "Pacific Coast",
+  "color_confidence": "medium",
+  "color_runner_up": "Stone Ridge",
+  "color_description": "light gray base with small gray, white and rust-orange chips",
+  "shot_type": "finished",
+  "people": "none",
+  "faces_identifiable": false,
+  "privacy": [],
+  "branding_visible": false,
+  "quality": "4",
+  "issues": [],
+  "website_ready": true,
+  "title": "Garage with Pacific Coast full flake floor",
+  "alt_text": "Garage with a glossy gray flake floor with rust accents, water heater and air handler on a raised platform, full flake garage floor coating",
+  "tags": [
+   "garage",
+   "full flake",
+   "gray floor",
+   "rust chips",
+   "water heater",
+   "air handler",
+   "stem wall",
+   "pacific coast",
+   "finished floor"
+  ],
+  "filename": "garage-pacific-coast-flake-floor"
+ },
+ "id": "572bf0080872",
+ "provider": "kimi",
+ "model": "moonshotai/kimi-k3",
+ "mode": "run",
+ "blind": false,
+ "at": "2026-09-17T12:46:32"
+}

@@ -1,0 +1,47 @@
+{
+ "finish": "stop",
+ "usage": {
+  "input_tokens": 5329,
+  "output_tokens": 234,
+  "cost": 0.0103386
+ },
+ "served_by": "Together",
+ "label": {
+  "content": "floor_photo",
+  "area": "garage",
+  "setting": "residential",
+  "system": "full_flake",
+  "color": "Granite",
+  "color_confidence": "medium",
+  "color_runner_up": "Zircon",
+  "color_description": "light gray base with white, gray and black chips, medium size",
+  "shot_type": "close_up",
+  "people": "none",
+  "faces_identifiable": false,
+  "privacy": [],
+  "branding_visible": false,
+  "quality": "4",
+  "issues": [],
+  "website_ready": true,
+  "title": "Garage flake floor edge at driveway threshold",
+  "alt_text": "Low angle close up of a gray full flake garage floor ending at the driveway, with bikes on the wall and a bucket outside",
+  "tags": [
+   "garage",
+   "full flake",
+   "gray chips",
+   "floor edge",
+   "garage threshold",
+   "bikes",
+   "close up",
+   "crisp lines",
+   "finished floor"
+  ],
+  "filename": "garage-flake-floor-edge-close-up"
+ },
+ "id": "cb5cdef39386",
+ "provider": "kimi",
+ "model": "moonshotai/kimi-k3",
+ "mode": "run",
+ "blind": false,
+ "at": "2026-09-17T12:35:24"
+}

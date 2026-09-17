@@ -1,0 +1,48 @@
+{
+ "finish": "stop",
+ "usage": {
+  "input_tokens": 5316,
+  "output_tokens": 378,
+  "cost": 0.021618
+ },
+ "served_by": "Parasail",
+ "label": {
+  "content": "people_or_team",
+  "area": "garage",
+  "setting": "residential",
+  "system": "full_flake",
+  "color": "Granite",
+  "color_confidence": "medium",
+  "color_runner_up": "Quartzite",
+  "color_description": "gray, white and black chips, small to medium size",
+  "shot_type": "crew_working",
+  "people": "prominent",
+  "faces_identifiable": false,
+  "privacy": [],
+  "branding_visible": true,
+  "quality": "4",
+  "issues": [],
+  "website_ready": true,
+  "title": "Installer clear coating gray flake garage floor",
+  "alt_text": "GatorGuard installer in respirator applying clear coat over a gray full flake garage floor with a squeegee",
+  "tags": [
+   "installer",
+   "crew working",
+   "clear coat",
+   "full flake",
+   "gray chips",
+   "garage floor",
+   "respirator",
+   "squeegee",
+   "in progress",
+   "gatorguard shirt"
+  ],
+  "filename": "installer-clear-coating-gray-flake-garage-floor"
+ },
+ "id": "f18b097f6782",
+ "provider": "kimi",
+ "model": "moonshotai/kimi-k3",
+ "mode": "run",
+ "blind": false,
+ "at": "2026-09-17T12:47:07"
+}

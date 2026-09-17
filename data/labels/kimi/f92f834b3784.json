@@ -1,0 +1,47 @@
+{
+ "finish": "stop",
+ "usage": {
+  "input_tokens": 5331,
+  "output_tokens": 273,
+  "cost": 0.020088
+ },
+ "served_by": "Parasail",
+ "label": {
+  "content": "floor_photo",
+  "area": "patio_or_porch",
+  "setting": "residential",
+  "system": "full_flake",
+  "color": "Ocotillo",
+  "color_confidence": "low",
+  "color_runner_up": "Santana",
+  "color_description": "tan base with brown, black and white chips, small to medium size",
+  "shot_type": "finished",
+  "people": "background",
+  "faces_identifiable": false,
+  "privacy": [],
+  "branding_visible": false,
+  "quality": "4",
+  "issues": [],
+  "website_ready": true,
+  "title": "Front porch with tan full flake floor",
+  "alt_text": "Front entry porch with a tan, brown and black full flake coated concrete floor",
+  "tags": [
+   "porch",
+   "front entry",
+   "full flake",
+   "tan chips",
+   "brown chips",
+   "exterior",
+   "residential",
+   "finished floor",
+   "siding"
+  ],
+  "filename": "front-porch-tan-full-flake-floor"
+ },
+ "id": "f92f834b3784",
+ "provider": "kimi",
+ "model": "moonshotai/kimi-k3",
+ "mode": "run",
+ "blind": false,
+ "at": "2026-09-17T12:37:45"
+}

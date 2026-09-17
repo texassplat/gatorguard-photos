@@ -1,0 +1,46 @@
+{
+ "finish": "stop",
+ "usage": {
+  "input_tokens": 5329,
+  "output_tokens": 286,
+  "cost": 0.0111186
+ },
+ "served_by": "Together",
+ "label": {
+  "content": "floor_photo",
+  "area": "basement",
+  "setting": "residential",
+  "system": "full_flake",
+  "color": "Avalon",
+  "color_confidence": "low",
+  "color_runner_up": "Callisto",
+  "color_description": "small light gray and tan chips, warm gray overall",
+  "shot_type": "finished",
+  "people": "none",
+  "faces_identifiable": false,
+  "privacy": [],
+  "branding_visible": false,
+  "quality": "4",
+  "issues": [],
+  "website_ready": true,
+  "title": "Basement with light gray full flake floor",
+  "alt_text": "Finished basement with painted block walls and a light gray full flake floor coating",
+  "tags": [
+   "basement",
+   "full flake",
+   "light gray chips",
+   "small chips",
+   "painted block wall",
+   "black ceiling",
+   "finished floor",
+   "basement window"
+  ],
+  "filename": "basement-light-gray-full-flake-floor"
+ },
+ "id": "426c823c7955",
+ "provider": "kimi",
+ "model": "moonshotai/kimi-k3",
+ "mode": "run",
+ "blind": false,
+ "at": "2026-09-17T12:31:31"
+}

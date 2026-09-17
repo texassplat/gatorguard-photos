@@ -1,0 +1,46 @@
+{
+ "finish": "stop",
+ "usage": {
+  "input_tokens": 5330,
+  "output_tokens": 189,
+  "cost": 0.0096666
+ },
+ "served_by": "Together",
+ "label": {
+  "content": "floor_photo",
+  "area": "garage",
+  "setting": "residential",
+  "system": "full_flake",
+  "color": "Silverado",
+  "color_confidence": "medium",
+  "color_runner_up": "Silver Butte",
+  "color_description": "light gray, white and black chips, small to medium size",
+  "shot_type": "close_up",
+  "people": "none",
+  "faces_identifiable": false,
+  "privacy": [],
+  "branding_visible": false,
+  "quality": "4",
+  "issues": [],
+  "website_ready": true,
+  "title": "Gray full flake floor with flake stem wall",
+  "alt_text": "Close up of a gray full flake garage floor with matching flake stem wall, full flake garage floor coating",
+  "tags": [
+   "stem wall",
+   "full flake",
+   "gray chips",
+   "close up",
+   "garage floor",
+   "flake stem wall",
+   "white walls",
+   "glossy finish"
+  ],
+  "filename": "gray-full-flake-stem-wall-close-up"
+ },
+ "id": "4b2d3a64b3d0",
+ "provider": "kimi",
+ "model": "moonshotai/kimi-k3",
+ "mode": "run",
+ "blind": false,
+ "at": "2026-09-17T12:57:55"
+}

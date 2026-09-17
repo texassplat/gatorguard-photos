@@ -1,0 +1,47 @@
+{
+ "finish": "stop",
+ "usage": {
+  "input_tokens": 5337,
+  "output_tokens": 244,
+  "cost": 0.010167
+ },
+ "served_by": "Together",
+ "label": {
+  "content": "floor_photo",
+  "area": "basement",
+  "setting": "residential",
+  "system": "full_flake",
+  "color": "Granite",
+  "color_confidence": "medium",
+  "color_runner_up": "Stone Ridge",
+  "color_description": "gray base with black, white and small tan chips, medium size",
+  "shot_type": "finished",
+  "people": "none",
+  "faces_identifiable": false,
+  "privacy": [],
+  "branding_visible": false,
+  "quality": "4",
+  "issues": [],
+  "website_ready": true,
+  "title": "Basement with gray full flake floor",
+  "alt_text": "Finished basement with gray full flake floor coating, white block walls and painted black ceiling",
+  "tags": [
+   "basement",
+   "full flake",
+   "gray floor",
+   "gray black white chips",
+   "block walls",
+   "support poles",
+   "glossy",
+   "finished floor",
+   "black ceiling"
+  ],
+  "filename": "basement-gray-full-flake-floor"
+ },
+ "id": "6b97b5df687b",
+ "provider": "kimi",
+ "model": "moonshotai/kimi-k3",
+ "mode": "pilot",
+ "blind": true,
+ "at": "2026-09-17T12:25:58"
+}

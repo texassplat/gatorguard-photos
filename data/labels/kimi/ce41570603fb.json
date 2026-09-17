@@ -1,0 +1,48 @@
+{
+ "finish": "stop",
+ "usage": {
+  "input_tokens": 5333,
+  "output_tokens": 280,
+  "cost": 0.020199
+ },
+ "served_by": "Parasail",
+ "label": {
+  "content": "floor_photo",
+  "area": "interior_room",
+  "setting": "residential",
+  "system": "metallic",
+  "color": "Gray",
+  "color_confidence": "medium",
+  "color_runner_up": "Charcoal",
+  "color_description": "medium gray metallic with darker gray and charcoal swirls, glossy marbled finish",
+  "shot_type": "finished",
+  "people": "none",
+  "faces_identifiable": false,
+  "privacy": [],
+  "branding_visible": false,
+  "quality": "4",
+  "issues": [],
+  "website_ready": true,
+  "title": "Gray metallic epoxy floor in residential hallway",
+  "alt_text": "Hallway with gray marbled metallic epoxy floor, white trim and light gray walls, metallic floor coating",
+  "tags": [
+   "metallic epoxy",
+   "gray metallic",
+   "hallway",
+   "interior floor",
+   "marbled",
+   "glossy",
+   "swirl pattern",
+   "basement hallway",
+   "white trim",
+   "residential"
+  ],
+  "filename": "gray-metallic-hallway-floor"
+ },
+ "id": "ce41570603fb",
+ "provider": "kimi",
+ "model": "moonshotai/kimi-k3",
+ "mode": "run",
+ "blind": false,
+ "at": "2026-09-17T12:49:45"
+}

@@ -1,0 +1,49 @@
+{
+ "finish": "stop",
+ "usage": {
+  "input_tokens": 5330,
+  "output_tokens": 230,
+  "cost": 0.0102816
+ },
+ "served_by": "Together",
+ "label": {
+  "content": "floor_photo",
+  "area": "garage",
+  "setting": "residential",
+  "system": "full_flake",
+  "color": "Santana",
+  "color_confidence": "medium",
+  "color_runner_up": "Chestnut",
+  "color_description": "tan, brown and black chips, medium size",
+  "shot_type": "close_up",
+  "people": "none",
+  "faces_identifiable": false,
+  "privacy": [],
+  "branding_visible": true,
+  "quality": "3",
+  "issues": [
+   "text_overlay"
+  ],
+  "website_ready": false,
+  "title": "Flake coated garage step edge with logo",
+  "alt_text": "Close up of a tan and brown full flake coated step edge in a garage with a GatorGuard gator logo overlay",
+  "tags": [
+   "close up",
+   "edge lip",
+   "garage",
+   "full flake",
+   "tan chips",
+   "brown chips",
+   "black chips",
+   "step edge",
+   "logo overlay"
+  ],
+  "filename": "flake-step-edge-close-up"
+ },
+ "id": "743cd6942424",
+ "provider": "kimi",
+ "model": "moonshotai/kimi-k3",
+ "mode": "run",
+ "blind": false,
+ "at": "2026-09-17T12:49:01"
+}

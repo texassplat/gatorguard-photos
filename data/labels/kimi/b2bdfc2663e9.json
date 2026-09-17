@@ -1,0 +1,47 @@
+{
+ "finish": "stop",
+ "usage": {
+  "input_tokens": 5206,
+  "output_tokens": 241,
+  "cost": 0.0100746
+ },
+ "served_by": "Together",
+ "label": {
+  "content": "floor_photo",
+  "area": "not_visible",
+  "setting": "unknown",
+  "system": "full_flake",
+  "color": "Granite",
+  "color_confidence": "low",
+  "color_runner_up": "Silver Butte",
+  "color_description": "gray, black and white chips, small to medium size",
+  "shot_type": "close_up",
+  "people": "none",
+  "faces_identifiable": false,
+  "privacy": [],
+  "branding_visible": false,
+  "quality": "4",
+  "issues": [],
+  "website_ready": true,
+  "title": "Soda spill beading on gray flake floor",
+  "alt_text": "Spilled soda can with liquid beading on a gray full flake coated floor, showing stain resistance",
+  "tags": [
+   "full flake",
+   "spill test",
+   "soda can",
+   "stain resistance",
+   "gray chips",
+   "black chips",
+   "white chips",
+   "close up",
+   "gameday photoshoot"
+  ],
+  "filename": "soda-spill-gray-flake-floor"
+ },
+ "id": "b2bdfc2663e9",
+ "provider": "kimi",
+ "model": "moonshotai/kimi-k3",
+ "mode": "run",
+ "blind": false,
+ "at": "2026-09-17T12:40:30"
+}

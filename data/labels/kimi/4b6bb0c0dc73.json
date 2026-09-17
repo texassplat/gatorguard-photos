@@ -1,0 +1,48 @@
+{
+ "finish": "stop",
+ "usage": {
+  "input_tokens": 5320,
+  "output_tokens": 274,
+  "cost": 0.0109116
+ },
+ "served_by": "Together",
+ "label": {
+  "content": "floor_photo",
+  "area": "garage",
+  "setting": "residential",
+  "system": "full_flake",
+  "color": "Santana",
+  "color_confidence": "medium",
+  "color_runner_up": "Ocotillo",
+  "color_description": "tan, brown, black and white chips, small to medium size",
+  "shot_type": "finished",
+  "people": "none",
+  "faces_identifiable": false,
+  "privacy": [],
+  "branding_visible": false,
+  "quality": "4",
+  "issues": [],
+  "website_ready": true,
+  "title": "Garage with tan full flake floor and workbench",
+  "alt_text": "Low angle view of a garage with a tan, brown and black full flake floor, workbench, cabinets and a yellow ladder",
+  "tags": [
+   "garage",
+   "full flake",
+   "tan chips",
+   "brown chips",
+   "black chips",
+   "workbench",
+   "cabinets",
+   "ladder",
+   "tools on wall",
+   "finished floor"
+  ],
+  "filename": "garage-tan-full-flake-floor-workbench"
+ },
+ "id": "4b6bb0c0dc73",
+ "provider": "kimi",
+ "model": "moonshotai/kimi-k3",
+ "mode": "run",
+ "blind": false,
+ "at": "2026-09-17T12:44:02"
+}

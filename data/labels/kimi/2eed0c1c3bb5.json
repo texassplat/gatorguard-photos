@@ -1,0 +1,50 @@
+{
+ "finish": "stop",
+ "usage": {
+  "input_tokens": 5036,
+  "output_tokens": 334,
+  "cost": 0.0171671
+ },
+ "served_by": "DigitalOcean",
+ "label": {
+  "alt_text": "Basement rec room with dark swirled metallic epoxy floor and light flake floor, leather recliners and treadmill",
+  "area": "basement",
+  "branding_visible": false,
+  "color": "Charcoal",
+  "color_confidence": "low",
+  "color_description": "dark gray to charcoal marbled metallic with light swirls; foreground floor has small gray, white and tan chips",
+  "color_runner_up": "Denim",
+  "content": "floor_photo",
+  "faces_identifiable": false,
+  "filename": "basement-dark-metallic-floor-recliners",
+  "issues": [
+   "dark"
+  ],
+  "people": "none",
+  "privacy": [],
+  "quality": "3",
+  "setting": "residential",
+  "shot_type": "finished",
+  "system": "metallic",
+  "tags": [
+   "basement",
+   "metallic floor",
+   "dark gray",
+   "marbled",
+   "swirled",
+   "rec room",
+   "leather recliners",
+   "entertainment center",
+   "treadmill",
+   "flake floor"
+  ],
+  "title": "Basement rec room with dark metallic floor",
+  "website_ready": false
+ },
+ "id": "2eed0c1c3bb5",
+ "provider": "kimi",
+ "model": "moonshotai/kimi-k3",
+ "mode": "run",
+ "blind": false,
+ "at": "2026-09-17T12:51:28"
+}

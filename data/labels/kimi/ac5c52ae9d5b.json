@@ -1,0 +1,48 @@
+{
+ "finish": "stop",
+ "usage": {
+  "input_tokens": 5331,
+  "output_tokens": 258,
+  "cost": 0.019863
+ },
+ "served_by": "Parasail",
+ "label": {
+  "content": "floor_photo",
+  "area": "patio_or_porch",
+  "setting": "residential",
+  "system": "full_flake",
+  "color": "Sedona",
+  "color_confidence": "low",
+  "color_runner_up": "Stone Ridge",
+  "color_description": "small brown, tan and gray chips with specks of black, fairly dense blend",
+  "shot_type": "finished",
+  "people": "none",
+  "faces_identifiable": false,
+  "privacy": [],
+  "branding_visible": false,
+  "quality": "4",
+  "issues": [],
+  "website_ready": true,
+  "title": "Covered front porch with brown full flake floor",
+  "alt_text": "Covered residential front porch with stone columns and a brown full flake concrete floor coating",
+  "tags": [
+   "porch",
+   "front porch",
+   "full flake",
+   "exterior",
+   "stone columns",
+   "brown chips",
+   "tan chips",
+   "residential",
+   "finished floor",
+   "covered porch"
+  ],
+  "filename": "covered-porch-brown-full-flake-floor"
+ },
+ "id": "ac5c52ae9d5b",
+ "provider": "kimi",
+ "model": "moonshotai/kimi-k3",
+ "mode": "run",
+ "blind": false,
+ "at": "2026-09-17T12:37:28"
+}

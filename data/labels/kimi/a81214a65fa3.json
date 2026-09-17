@@ -1,0 +1,46 @@
+{
+ "finish": "stop",
+ "usage": {
+  "input_tokens": 5372,
+  "output_tokens": 284,
+  "cost": 0.020376
+ },
+ "served_by": "Chutes",
+ "label": {
+  "content": "floor_photo",
+  "area": "driveway_or_walkway",
+  "setting": "residential",
+  "system": "poly_enhance",
+  "color": "not_applicable",
+  "color_confidence": "none",
+  "color_runner_up": "not_applicable",
+  "color_description": "",
+  "shot_type": "close_up",
+  "people": "none",
+  "faces_identifiable": false,
+  "privacy": [],
+  "branding_visible": true,
+  "quality": "4",
+  "issues": [],
+  "website_ready": true,
+  "title": "Wet-look sealed concrete joint with GatorGuard truck",
+  "alt_text": "Close-up of glossy wet-look sealer on exposed aggregate concrete with control joint, GatorGuard truck behind",
+  "tags": [
+   "wet look sealer",
+   "exposed aggregate",
+   "control joint",
+   "driveway",
+   "gatorguard truck",
+   "glossy finish",
+   "close up",
+   "poly enhance"
+  ],
+  "filename": "wet-look-sealed-concrete-joint-gg-truck"
+ },
+ "id": "a81214a65fa3",
+ "provider": "kimi",
+ "model": "moonshotai/kimi-k3",
+ "mode": "run",
+ "blind": false,
+ "at": "2026-09-17T12:38:11"
+}

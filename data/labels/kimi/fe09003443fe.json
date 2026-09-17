@@ -1,0 +1,47 @@
+{
+ "finish": "stop",
+ "usage": {
+  "input_tokens": 5326,
+  "output_tokens": 213,
+  "cost": 0.0100146
+ },
+ "served_by": "Together",
+ "label": {
+  "content": "floor_photo",
+  "area": "patio_or_porch",
+  "setting": "residential",
+  "system": "full_flake",
+  "color": "Chestnut",
+  "color_confidence": "medium",
+  "color_runner_up": "Santana",
+  "color_description": "tan, brown, black and white chips, small to medium size",
+  "shot_type": "finished",
+  "people": "none",
+  "faces_identifiable": false,
+  "privacy": [],
+  "branding_visible": false,
+  "quality": "4",
+  "issues": [],
+  "website_ready": true,
+  "title": "Screened porch with brown full flake floor",
+  "alt_text": "Screened brick porch with a brown and tan full flake floor coating and sunlit finish",
+  "tags": [
+   "porch",
+   "screened porch",
+   "full flake",
+   "brick walls",
+   "tan chips",
+   "brown chips",
+   "exterior",
+   "finished floor",
+   "sunlight"
+  ],
+  "filename": "screened-porch-brown-full-flake-floor"
+ },
+ "id": "fe09003443fe",
+ "provider": "kimi",
+ "model": "moonshotai/kimi-k3",
+ "mode": "run",
+ "blind": false,
+ "at": "2026-09-17T12:36:41"
+}

@@ -1,0 +1,47 @@
+{
+ "finish": "stop",
+ "usage": {
+  "input_tokens": 5323,
+  "output_tokens": 319,
+  "cost": 0.020754
+ },
+ "served_by": "Parasail",
+ "label": {
+  "content": "floor_photo",
+  "area": "commercial_or_industrial",
+  "setting": "commercial",
+  "system": "full_flake",
+  "color": "Ocotillo",
+  "color_confidence": "low",
+  "color_runner_up": "Silver Butte",
+  "color_description": "small tan, brown and black chips with some gray, fine size",
+  "shot_type": "finished",
+  "people": "none",
+  "faces_identifiable": false,
+  "privacy": [],
+  "branding_visible": false,
+  "quality": "4",
+  "issues": [],
+  "website_ready": true,
+  "title": "Retail store aisle with tan full flake floor",
+  "alt_text": "Full flake epoxy floor in a retail store aisle with a wire rack of paper towels, commercial floor coating",
+  "tags": [
+   "commercial floor",
+   "retail store",
+   "full flake",
+   "tan chips",
+   "brown chips",
+   "store aisle",
+   "finished floor",
+   "glossy",
+   "paper goods rack"
+  ],
+  "filename": "retail-store-tan-full-flake-floor"
+ },
+ "id": "1b7c57f6a795",
+ "provider": "kimi",
+ "model": "moonshotai/kimi-k3",
+ "mode": "run",
+ "blind": false,
+ "at": "2026-09-17T12:34:36"
+}

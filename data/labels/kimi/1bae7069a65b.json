@@ -1,0 +1,47 @@
+{
+ "finish": "stop",
+ "usage": {
+  "input_tokens": 5324,
+  "output_tokens": 347,
+  "cost": 0.0317655
+ },
+ "served_by": "Fireworks",
+ "label": {
+  "content": "floor_photo",
+  "area": "patio_or_porch",
+  "setting": "residential",
+  "system": "poly_enhance",
+  "color": "not_applicable",
+  "color_confidence": "none",
+  "color_runner_up": "not_applicable",
+  "color_description": "",
+  "shot_type": "finished",
+  "people": "none",
+  "faces_identifiable": false,
+  "privacy": [],
+  "branding_visible": false,
+  "quality": "4",
+  "issues": [],
+  "website_ready": true,
+  "title": "Wet-look sealed brick patio by brick home",
+  "alt_text": "Glossy wet-look sealer on a brick-pattern backyard patio beside a white brick house, poly enhance patio sealer",
+  "tags": [
+   "patio",
+   "poly enhance",
+   "wet look sealer",
+   "brick patio",
+   "glossy finish",
+   "backyard",
+   "covered patio",
+   "residential",
+   "exterior"
+  ],
+  "filename": "wet-look-sealed-brick-patio"
+ },
+ "id": "1bae7069a65b",
+ "provider": "kimi",
+ "model": "moonshotai/kimi-k3",
+ "mode": "run",
+ "blind": false,
+ "at": "2026-09-17T12:55:27"
+}

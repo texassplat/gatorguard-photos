@@ -1,0 +1,47 @@
+{
+ "finish": "stop",
+ "usage": {
+  "input_tokens": 5332,
+  "output_tokens": 277,
+  "cost": 0.020151
+ },
+ "served_by": "Parasail",
+ "label": {
+  "content": "floor_photo",
+  "area": "interior_room",
+  "setting": "residential",
+  "system": "metallic",
+  "color": "Sapphire",
+  "color_confidence": "high",
+  "color_runner_up": "Denim",
+  "color_description": "vivid blue metallic with darker marbled swirls and scattered sparkle",
+  "shot_type": "finished",
+  "people": "none",
+  "faces_identifiable": false,
+  "privacy": [],
+  "branding_visible": false,
+  "quality": "4",
+  "issues": [],
+  "website_ready": true,
+  "title": "Blue metallic epoxy floor in brick room",
+  "alt_text": "Vivid blue metallic epoxy floor with marbled swirls in a room with painted brick walls, Liquid Art metallic floor",
+  "tags": [
+   "metallic epoxy",
+   "blue floor",
+   "marbled",
+   "swirl",
+   "brick walls",
+   "interior room",
+   "sapphire",
+   "glossy",
+   "liquid art"
+  ],
+  "filename": "blue-metallic-floor-brick-room"
+ },
+ "id": "0a1708394959",
+ "provider": "kimi",
+ "model": "moonshotai/kimi-k3",
+ "mode": "run",
+ "blind": false,
+ "at": "2026-09-17T12:52:29"
+}

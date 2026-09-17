@@ -1,0 +1,46 @@
+{
+ "finish": "stop",
+ "usage": {
+  "input_tokens": 5318,
+  "output_tokens": 292,
+  "cost": 0.020334
+ },
+ "served_by": "Parasail",
+ "label": {
+  "content": "vehicle_or_equipment",
+  "area": "driveway_or_walkway",
+  "setting": "residential",
+  "system": "not_applicable",
+  "color": "not_applicable",
+  "color_confidence": "none",
+  "color_runner_up": "not_applicable",
+  "color_description": "",
+  "shot_type": "truck_or_equipment",
+  "people": "none",
+  "faces_identifiable": false,
+  "privacy": [],
+  "branding_visible": true,
+  "quality": "4",
+  "issues": [],
+  "website_ready": true,
+  "title": "GatorGuard box truck at residential driveway",
+  "alt_text": "GatorGuard Floor Coatings box truck with liftgate parked in a residential driveway in front of a brick house",
+  "tags": [
+   "gatortguard truck",
+   "box truck",
+   "liftgate",
+   "branding",
+   "driveway",
+   "brick house",
+   "residential",
+   "company vehicle"
+  ],
+  "filename": "gatortguard-box-truck-residential-driveway"
+ },
+ "id": "a188b8b408dd",
+ "provider": "kimi",
+ "model": "moonshotai/kimi-k3",
+ "mode": "run",
+ "blind": false,
+ "at": "2026-09-17T12:38:09"
+}

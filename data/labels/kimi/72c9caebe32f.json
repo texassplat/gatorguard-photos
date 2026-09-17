@@ -1,0 +1,46 @@
+{
+ "finish": "stop",
+ "usage": {
+  "input_tokens": 5324,
+  "output_tokens": 338,
+  "cost": 0.021042
+ },
+ "served_by": "Parasail",
+ "label": {
+  "content": "floor_photo",
+  "area": "garage",
+  "setting": "residential",
+  "system": "full_flake",
+  "color": "Stone Rowe",
+  "color_confidence": "medium",
+  "color_runner_up": "Quartzite",
+  "color_description": "gray and white chips with small black accents, medium size",
+  "shot_type": "close_up",
+  "people": "none",
+  "faces_identifiable": false,
+  "privacy": [],
+  "branding_visible": false,
+  "quality": "4",
+  "issues": [],
+  "website_ready": true,
+  "title": "Gray flake garage floor edge next to bare concrete driveway",
+  "alt_text": "Edge of a gray and white full flake garage floor coating meeting an uncoated concrete driveway apron.",
+  "tags": [
+   "garage floor",
+   "full flake",
+   "gray white chips",
+   "floor edge",
+   "garage door threshold",
+   "driveway apron",
+   "bare concrete",
+   "finished floor"
+  ],
+  "filename": "gray-flake-garage-floor-edge-driveway"
+ },
+ "id": "72c9caebe32f",
+ "provider": "kimi",
+ "model": "moonshotai/kimi-k3",
+ "mode": "run",
+ "blind": false,
+ "at": "2026-09-17T12:43:53"
+}

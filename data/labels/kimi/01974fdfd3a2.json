@@ -1,0 +1,46 @@
+{
+ "finish": "stop",
+ "usage": {
+  "input_tokens": 5327,
+  "output_tokens": 220,
+  "cost": 0.01362042
+ },
+ "served_by": "Phala",
+ "label": {
+  "alt_text": "Empty room with a marbled gray metallic epoxy floor and white baseboards, metallic floor coating",
+  "area": "interior_room",
+  "branding_visible": false,
+  "color": "Gray",
+  "color_confidence": "medium",
+  "color_description": "light and medium gray marbled metallic with soft white swirls",
+  "color_runner_up": "Charcoal",
+  "content": "floor_photo",
+  "faces_identifiable": false,
+  "filename": "gray-metallic-marbled-interior-floor",
+  "issues": [],
+  "people": "none",
+  "privacy": [],
+  "quality": "4",
+  "setting": "residential",
+  "shot_type": "finished",
+  "system": "metallic",
+  "tags": [
+   "metallic epoxy",
+   "gray metallic",
+   "marbled floor",
+   "interior floor",
+   "swirl pattern",
+   "empty room",
+   "finished floor",
+   "liquid art"
+  ],
+  "title": "Marbled gray metallic floor in empty room",
+  "website_ready": true
+ },
+ "id": "01974fdfd3a2",
+ "provider": "kimi",
+ "model": "moonshotai/kimi-k3",
+ "mode": "run",
+ "blind": false,
+ "at": "2026-09-17T12:52:15"
+}

@@ -1,0 +1,46 @@
+{
+ "finish": "stop",
+ "usage": {
+  "input_tokens": 5011,
+  "output_tokens": 231,
+  "cost": 0.0093396
+ },
+ "served_by": "Together",
+ "label": {
+  "content": "floor_photo",
+  "area": "garage",
+  "setting": "residential",
+  "system": "full_flake",
+  "color": "Aurora",
+  "color_confidence": "medium",
+  "color_runner_up": "Avalon",
+  "color_description": "light gray base with small gray, white and faint blue chips",
+  "shot_type": "finished",
+  "people": "none",
+  "faces_identifiable": false,
+  "privacy": [],
+  "branding_visible": false,
+  "quality": "4",
+  "issues": [],
+  "website_ready": true,
+  "title": "Garage with light gray full flake floor",
+  "alt_text": "Finished garage with light gray full flake floor coating, white wainscoting walls and entry step",
+  "tags": [
+   "garage",
+   "full flake",
+   "gray floor",
+   "small chips",
+   "finished floor",
+   "wainscoting",
+   "entry step",
+   "glossy finish"
+  ],
+  "filename": "garage-light-gray-full-flake-floor"
+ },
+ "id": "0548250ab839",
+ "provider": "kimi",
+ "model": "moonshotai/kimi-k3",
+ "mode": "run",
+ "blind": false,
+ "at": "2026-09-17T12:43:20"
+}

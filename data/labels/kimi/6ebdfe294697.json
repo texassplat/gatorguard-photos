@@ -1,0 +1,46 @@
+{
+ "finish": "stop",
+ "usage": {
+  "input_tokens": 5207,
+  "output_tokens": 281,
+  "cost": 0.01411992
+ },
+ "served_by": "Phala",
+ "label": {
+  "alt_text": "Garage with gray full flake floor and black cabinets, full flake garage floor coating",
+  "area": "garage",
+  "branding_visible": false,
+  "color": "Granite",
+  "color_confidence": "medium",
+  "color_description": "gray, white and black chips, small to medium size",
+  "color_runner_up": "Silver Butte",
+  "content": "floor_photo",
+  "faces_identifiable": false,
+  "filename": "gray-flake-garage-black-cabinets",
+  "issues": [],
+  "people": "none",
+  "privacy": [],
+  "quality": "5",
+  "setting": "residential",
+  "shot_type": "finished",
+  "system": "full_flake",
+  "tags": [
+   "garage",
+   "full flake",
+   "gray floor",
+   "gray chips",
+   "black cabinets",
+   "slatwall",
+   "stem wall",
+   "finished floor"
+  ],
+  "title": "Garage with gray flake floor and black cabinets",
+  "website_ready": true
+ },
+ "id": "6ebdfe294697",
+ "provider": "kimi",
+ "model": "moonshotai/kimi-k3",
+ "mode": "run",
+ "blind": false,
+ "at": "2026-09-17T12:42:02"
+}

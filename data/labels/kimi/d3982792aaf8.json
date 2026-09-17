@@ -1,0 +1,49 @@
+{
+ "finish": "stop",
+ "usage": {
+  "input_tokens": 4421,
+  "output_tokens": 166,
+  "cost": 0.005152695
+ },
+ "served_by": "Morph",
+ "label": {
+  "content": "floor_photo",
+  "area": "basement",
+  "setting": "residential",
+  "system": "metallic",
+  "color": "Copper",
+  "color_confidence": "medium",
+  "color_runner_up": "Cappuccino",
+  "color_description": "swirled copper and amber metallic with a glossy marbled look",
+  "shot_type": "finished",
+  "people": "none",
+  "faces_identifiable": false,
+  "privacy": [],
+  "branding_visible": false,
+  "quality": "4",
+  "issues": [
+   "low_resolution"
+  ],
+  "website_ready": true,
+  "title": "Basement with copper metallic epoxy floor",
+  "alt_text": "Basement with glossy copper metallic epoxy floor, gray walls and white door",
+  "tags": [
+   "basement",
+   "metallic",
+   "liquid art",
+   "copper",
+   "glossy floor",
+   "interior",
+   "gray walls",
+   "residential",
+   "marbled finish"
+  ],
+  "filename": "basement-copper-metallic-floor"
+ },
+ "id": "d3982792aaf8",
+ "provider": "kimi",
+ "model": "moonshotai/kimi-k3",
+ "mode": "run",
+ "blind": false,
+ "at": "2026-09-17T12:49:46"
+}

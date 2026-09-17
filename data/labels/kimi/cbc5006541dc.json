@@ -1,0 +1,46 @@
+{
+ "finish": "stop",
+ "usage": {
+  "input_tokens": 5328,
+  "output_tokens": 225,
+  "cost": 0.0102006
+ },
+ "served_by": "Together",
+ "label": {
+  "content": "floor_photo",
+  "area": "garage",
+  "setting": "residential",
+  "system": "full_flake",
+  "color": "Chestnut with Rust Red",
+  "color_confidence": "medium",
+  "color_runner_up": "Chestnut",
+  "color_description": "tan, brown, black and rust red chips, medium size",
+  "shot_type": "close_up",
+  "people": "none",
+  "faces_identifiable": false,
+  "privacy": [],
+  "branding_visible": false,
+  "quality": "4",
+  "issues": [],
+  "website_ready": true,
+  "title": "Flake coated stem wall in garage",
+  "alt_text": "Close up of a coated stem wall and garage floor with tan, brown and rust red flake chips, full flake garage floor coating",
+  "tags": [
+   "stem wall",
+   "close up",
+   "full flake",
+   "garage floor",
+   "tan chips",
+   "rust red chips",
+   "glossy finish",
+   "edge detail"
+  ],
+  "filename": "garage-stem-wall-flake-close-up"
+ },
+ "id": "cbc5006541dc",
+ "provider": "kimi",
+ "model": "moonshotai/kimi-k3",
+ "mode": "run",
+ "blind": false,
+ "at": "2026-09-17T12:57:48"
+}

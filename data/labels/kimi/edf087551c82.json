@@ -1,0 +1,46 @@
+{
+ "finish": "stop",
+ "usage": {
+  "input_tokens": 5333,
+  "output_tokens": 243,
+  "cost": 0.019644
+ },
+ "served_by": "Parasail",
+ "label": {
+  "content": "floor_photo",
+  "area": "basement",
+  "setting": "residential",
+  "system": "metallic",
+  "color": "Cappuccino",
+  "color_confidence": "medium",
+  "color_runner_up": "Copper",
+  "color_description": "warm brown metallic with soft marbled swirls, no chips",
+  "shot_type": "finished",
+  "people": "none",
+  "faces_identifiable": false,
+  "privacy": [],
+  "branding_visible": false,
+  "quality": "4",
+  "issues": [],
+  "website_ready": true,
+  "title": "Brown metallic epoxy floor in empty basement",
+  "alt_text": "Glossy brown metallic epoxy floor with light reflections in an empty basement room with white walls",
+  "tags": [
+   "metallic epoxy",
+   "brown metallic",
+   "basement floor",
+   "glossy floor",
+   "marbled floor",
+   "reflective floor",
+   "empty room",
+   "liquid art"
+  ],
+  "filename": "brown-metallic-epoxy-basement-floor"
+ },
+ "id": "edf087551c82",
+ "provider": "kimi",
+ "model": "moonshotai/kimi-k3",
+ "mode": "run",
+ "blind": false,
+ "at": "2026-09-17T12:49:40"
+}

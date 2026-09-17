@@ -1,0 +1,47 @@
+{
+ "finish": "stop",
+ "usage": {
+  "input_tokens": 5324,
+  "output_tokens": 325,
+  "cost": 0.020847
+ },
+ "served_by": "Parasail",
+ "label": {
+  "content": "floor_photo",
+  "area": "garage",
+  "setting": "residential",
+  "system": "full_flake",
+  "color": "Stone Crest",
+  "color_confidence": "medium",
+  "color_runner_up": "Windermere",
+  "color_description": "gray base with tan, brown, black and white chips, medium size",
+  "shot_type": "finished",
+  "people": "none",
+  "faces_identifiable": false,
+  "privacy": [],
+  "branding_visible": false,
+  "quality": "4",
+  "issues": [],
+  "website_ready": true,
+  "title": "Garage with gray and tan flake floor",
+  "alt_text": "Low angle view of a glossy full flake garage floor with gray, tan and brown chips, full flake garage floor coating",
+  "tags": [
+   "garage",
+   "full flake",
+   "gray floor",
+   "tan chips",
+   "brown chips",
+   "glossy",
+   "finished floor",
+   "white door",
+   "gray walls"
+  ],
+  "filename": "garage-gray-tan-flake-floor"
+ },
+ "id": "7ea995c2a8ca",
+ "provider": "kimi",
+ "model": "moonshotai/kimi-k3",
+ "mode": "run",
+ "blind": false,
+ "at": "2026-09-17T12:43:51"
+}

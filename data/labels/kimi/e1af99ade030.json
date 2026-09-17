@@ -1,0 +1,48 @@
+{
+ "finish": "stop",
+ "usage": {
+  "input_tokens": 5332,
+  "output_tokens": 252,
+  "cost": 0.019776
+ },
+ "served_by": "Parasail",
+ "label": {
+  "content": "floor_photo",
+  "area": "basement",
+  "setting": "residential",
+  "system": "metallic",
+  "color": "Cappuccino",
+  "color_confidence": "medium",
+  "color_runner_up": "Copper",
+  "color_description": "swirled brown, copper and tan metallic, no chips",
+  "shot_type": "finished",
+  "people": "none",
+  "faces_identifiable": false,
+  "privacy": [],
+  "branding_visible": false,
+  "quality": "4",
+  "issues": [],
+  "website_ready": true,
+  "title": "Metallic epoxy basement utility room floor",
+  "alt_text": "Brown and copper metallic epoxy basement floor around a floor drain near a water heater, metallic basement floor coating",
+  "tags": [
+   "metallic",
+   "liquid art",
+   "basement",
+   "utility room",
+   "brown",
+   "copper",
+   "swirled",
+   "floor drain",
+   "water heater",
+   "finished"
+  ],
+  "filename": "metallic-basement-floor-copper-swirl"
+ },
+ "id": "e1af99ade030",
+ "provider": "kimi",
+ "model": "moonshotai/kimi-k3",
+ "mode": "run",
+ "blind": false,
+ "at": "2026-09-17T12:50:53"
+}

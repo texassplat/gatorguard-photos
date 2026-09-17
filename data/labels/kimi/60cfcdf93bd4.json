@@ -1,0 +1,47 @@
+{
+ "finish": "stop",
+ "usage": {
+  "input_tokens": 5311,
+  "output_tokens": 212,
+  "cost": 0.01244139
+ },
+ "served_by": "Alibaba",
+ "label": {
+  "content": "floor_photo",
+  "area": "garage",
+  "setting": "residential",
+  "system": "bare_concrete",
+  "color": "not_applicable",
+  "color_confidence": "none",
+  "color_runner_up": "not_applicable",
+  "color_description": "",
+  "shot_type": "in_progress",
+  "people": "prominent",
+  "faces_identifiable": false,
+  "privacy": [],
+  "branding_visible": false,
+  "quality": "4",
+  "issues": [],
+  "website_ready": false,
+  "title": "Installer grinding garage floor during prep",
+  "alt_text": "Installer kneeling on a garage floor during grinding prep with a large floor grinder in the foreground",
+  "tags": [
+   "garage",
+   "floor prep",
+   "grinding",
+   "concrete grinder",
+   "installer",
+   "in progress",
+   "dust",
+   "bare concrete",
+   "ladder"
+  ],
+  "filename": "installer-grinding-garage-floor-prep"
+ },
+ "id": "60cfcdf93bd4",
+ "provider": "kimi",
+ "model": "moonshotai/kimi-k3",
+ "mode": "run",
+ "blind": false,
+ "at": "2026-09-17T12:46:56"
+}

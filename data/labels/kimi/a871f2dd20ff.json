@@ -1,0 +1,49 @@
+{
+ "finish": "stop",
+ "usage": {
+  "input_tokens": 4924,
+  "output_tokens": 214,
+  "cost": 0.017982
+ },
+ "served_by": "Fireworks",
+ "label": {
+  "content": "floor_photo",
+  "area": "basement",
+  "setting": "residential",
+  "system": "metallic",
+  "color": "Denim",
+  "color_confidence": "medium",
+  "color_runner_up": "Charcoal",
+  "color_description": "blue-gray metallic swirl with darker charcoal marbling, glossy",
+  "shot_type": "finished",
+  "people": "none",
+  "faces_identifiable": false,
+  "privacy": [],
+  "branding_visible": false,
+  "quality": "4",
+  "issues": [
+   "dark"
+  ],
+  "website_ready": true,
+  "title": "Basement with blue gray metallic epoxy floor",
+  "alt_text": "Blue gray marbled metallic epoxy floor in a basement with white block walls and small window, metallic epoxy floor coating",
+  "tags": [
+   "basement",
+   "metallic epoxy",
+   "liquid art",
+   "blue gray",
+   "marbled floor",
+   "glossy",
+   "block walls",
+   "window",
+   "finished floor"
+  ],
+  "filename": "basement-blue-gray-metallic-epoxy-floor"
+ },
+ "id": "a871f2dd20ff",
+ "provider": "kimi",
+ "model": "moonshotai/kimi-k3",
+ "mode": "run",
+ "blind": false,
+ "at": "2026-09-17T12:49:50"
+}

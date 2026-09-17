@@ -1,0 +1,47 @@
+{
+ "finish": "stop",
+ "usage": {
+  "input_tokens": 5211,
+  "output_tokens": 216,
+  "cost": 0.018873
+ },
+ "served_by": "Parasail",
+ "label": {
+  "content": "other",
+  "area": "interior_room",
+  "setting": "unknown",
+  "system": "full_flake",
+  "color": "unknown",
+  "color_confidence": "low",
+  "color_runner_up": "Granite",
+  "color_description": "gray, white and black chips, fine to medium size",
+  "shot_type": "finished",
+  "people": "none",
+  "faces_identifiable": false,
+  "privacy": [],
+  "branding_visible": false,
+  "quality": "4",
+  "issues": [],
+  "website_ready": true,
+  "title": "Golden retriever puppy on gray flake floor",
+  "alt_text": "Golden retriever puppy sitting on green fabric over a gray flake coated floor in a white room",
+  "tags": [
+   "dog",
+   "golden retriever",
+   "puppy",
+   "photoshoot",
+   "gray flake floor",
+   "full flake",
+   "interior",
+   "green fabric",
+   "pet friendly"
+  ],
+  "filename": "golden-retriever-puppy-gray-flake-floor"
+ },
+ "id": "865cb9826df8",
+ "provider": "kimi",
+ "model": "moonshotai/kimi-k3",
+ "mode": "run",
+ "blind": false,
+ "at": "2026-09-17T12:40:22"
+}

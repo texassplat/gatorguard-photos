@@ -1,0 +1,47 @@
+{
+ "finish": "stop",
+ "usage": {
+  "input_tokens": 5350,
+  "output_tokens": 290,
+  "cost": 0.0204
+ },
+ "served_by": "Fireworks",
+ "label": {
+  "content": "floor_photo",
+  "area": "interior_room",
+  "setting": "residential",
+  "system": "full_flake",
+  "color": "Ocotillo",
+  "color_confidence": "low",
+  "color_runner_up": "Sedona",
+  "color_description": "tan base with brown, black and white chips, fine to medium size",
+  "shot_type": "finished",
+  "people": "none",
+  "faces_identifiable": false,
+  "privacy": [],
+  "branding_visible": false,
+  "quality": "4",
+  "issues": [],
+  "website_ready": true,
+  "title": "Bathroom with tan full flake floor",
+  "alt_text": "Small bathroom with red walls, white toilet and a tan full flake garage style floor coating",
+  "tags": [
+   "bathroom",
+   "interior",
+   "full flake",
+   "tan chips",
+   "brown chips",
+   "toilet",
+   "red walls",
+   "finished floor",
+   "flake floor coating"
+  ],
+  "filename": "bathroom-tan-full-flake-floor"
+ },
+ "id": "72e133154bb5",
+ "provider": "kimi",
+ "model": "moonshotai/kimi-k3",
+ "mode": "run",
+ "blind": false,
+ "at": "2026-09-17T12:47:47"
+}

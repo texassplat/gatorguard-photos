@@ -1,0 +1,46 @@
+{
+ "finish": "stop",
+ "usage": {
+  "input_tokens": 5332,
+  "output_tokens": 237,
+  "cost": 0.019551
+ },
+ "served_by": "Parasail",
+ "label": {
+  "content": "floor_photo",
+  "area": "interior_room",
+  "setting": "residential",
+  "system": "metallic",
+  "color": "Denim",
+  "color_confidence": "medium",
+  "color_runner_up": "Sapphire",
+  "color_description": "swirled blue-gray metallic with lighter marbling",
+  "shot_type": "finished",
+  "people": "none",
+  "faces_identifiable": false,
+  "privacy": [],
+  "branding_visible": false,
+  "quality": "4",
+  "issues": [],
+  "website_ready": true,
+  "title": "Blue metallic floor through doorway",
+  "alt_text": "Blue-gray metallic epoxy floor in an interior room viewed through a doorway, metallic floor coating",
+  "tags": [
+   "metallic",
+   "blue floor",
+   "swirled",
+   "interior room",
+   "doorway",
+   "denim",
+   "marbled",
+   "finished floor"
+  ],
+  "filename": "blue-metallic-floor-through-doorway"
+ },
+ "id": "861a8d39810c",
+ "provider": "kimi",
+ "model": "moonshotai/kimi-k3",
+ "mode": "run",
+ "blind": false,
+ "at": "2026-09-17T12:52:13"
+}

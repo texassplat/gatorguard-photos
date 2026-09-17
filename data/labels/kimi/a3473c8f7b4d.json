@@ -1,0 +1,48 @@
+{
+ "finish": "stop",
+ "usage": {
+  "input_tokens": 5345,
+  "output_tokens": 404,
+  "cost": 0.01615302
+ },
+ "served_by": "Phala",
+ "label": {
+  "alt_text": "Copper metallic epoxy floor with swirled finish in a basement under renovation, exercise equipment in background",
+  "area": "basement",
+  "branding_visible": false,
+  "color": "Copper",
+  "color_confidence": "medium",
+  "color_description": "warm copper and brown metallic swirls, glossy reflective finish",
+  "color_runner_up": "Cappuccino",
+  "content": "floor_photo",
+  "faces_identifiable": false,
+  "filename": "copper-metallic-basement-floor-renovation",
+  "issues": [],
+  "people": "none",
+  "privacy": [],
+  "quality": "4",
+  "setting": "residential",
+  "shot_type": "finished",
+  "system": "metallic",
+  "tags": [
+   "metallic",
+   "copper",
+   "basement",
+   "swirled",
+   "reflective",
+   "glossy",
+   "liquid art",
+   "renovation",
+   "exposed insulation",
+   "treadmill"
+  ],
+  "title": "Copper metallic basement floor during renovation",
+  "website_ready": false
+ },
+ "id": "a3473c8f7b4d",
+ "provider": "kimi",
+ "model": "moonshotai/kimi-k3",
+ "mode": "run",
+ "blind": false,
+ "at": "2026-09-17T12:50:00"
+}

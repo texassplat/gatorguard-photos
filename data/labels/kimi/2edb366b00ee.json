@@ -1,0 +1,46 @@
+{
+ "finish": "stop",
+ "usage": {
+  "input_tokens": 5322,
+  "output_tokens": 233,
+  "cost": 0.0103026
+ },
+ "served_by": "Together",
+ "label": {
+  "content": "floor_photo",
+  "area": "commercial_or_industrial",
+  "setting": "commercial",
+  "system": "tile_coating",
+  "color": "Gun Metal",
+  "color_confidence": "medium",
+  "color_runner_up": "Black Canyon",
+  "color_description": "black base with white and gray chips, small to medium size",
+  "shot_type": "finished",
+  "people": "none",
+  "faces_identifiable": false,
+  "privacy": [],
+  "branding_visible": false,
+  "quality": "3",
+  "issues": [],
+  "website_ready": false,
+  "title": "Restroom stall with dark flake coated tile floor",
+  "alt_text": "Dark black and white flake coating over tile floor in a commercial restroom stall, tile floor coating",
+  "tags": [
+   "tile coating",
+   "restroom",
+   "commercial",
+   "bathroom stall",
+   "black flake",
+   "white chips",
+   "gray chips",
+   "finished floor"
+  ],
+  "filename": "restroom-stall-dark-flake-tile-coating"
+ },
+ "id": "2edb366b00ee",
+ "provider": "kimi",
+ "model": "moonshotai/kimi-k3",
+ "mode": "run",
+ "blind": false,
+ "at": "2026-09-17T12:57:59"
+}

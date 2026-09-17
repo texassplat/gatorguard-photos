@@ -1,0 +1,47 @@
+{
+ "finish": "stop",
+ "usage": {
+  "input_tokens": 5213,
+  "output_tokens": 243,
+  "cost": 0.0101256
+ },
+ "served_by": "Together",
+ "label": {
+  "content": "floor_photo",
+  "area": "interior_room",
+  "setting": "residential",
+  "system": "metallic",
+  "color": "Cappuccino",
+  "color_confidence": "medium",
+  "color_runner_up": "Copper",
+  "color_description": "rich brown metallic with subtle lighter swirls, high gloss",
+  "shot_type": "finished",
+  "people": "none",
+  "faces_identifiable": false,
+  "privacy": [],
+  "branding_visible": false,
+  "quality": "5",
+  "issues": [],
+  "website_ready": true,
+  "title": "Brown metallic epoxy floor in sitting room",
+  "alt_text": "Glossy brown metallic epoxy floor in a sitting room with striped chairs and a lamp, metallic floor coating",
+  "tags": [
+   "metallic epoxy",
+   "brown floor",
+   "liquid art",
+   "interior room",
+   "sitting room",
+   "high gloss",
+   "reflective floor",
+   "striped chairs",
+   "finished floor"
+  ],
+  "filename": "brown-metallic-floor-sitting-room"
+ },
+ "id": "6cc3329f58df",
+ "provider": "kimi",
+ "model": "moonshotai/kimi-k3",
+ "mode": "run",
+ "blind": false,
+ "at": "2026-09-17T12:50:34"
+}

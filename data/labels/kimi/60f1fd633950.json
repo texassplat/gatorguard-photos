@@ -1,0 +1,47 @@
+{
+ "finish": "stop",
+ "usage": {
+  "input_tokens": 5339,
+  "output_tokens": 252,
+  "cost": 0.019797
+ },
+ "served_by": "Parasail",
+ "label": {
+  "content": "floor_photo",
+  "area": "not_visible",
+  "setting": "unknown",
+  "system": "full_flake",
+  "color": "Stone Rowe",
+  "color_confidence": "low",
+  "color_runner_up": "Stone Ridge",
+  "color_description": "gray, white and black chips, small to medium size, with sparse amber accents",
+  "shot_type": "close_up",
+  "people": "none",
+  "faces_identifiable": false,
+  "privacy": [],
+  "branding_visible": false,
+  "quality": "4",
+  "issues": [],
+  "website_ready": false,
+  "title": "Close up of saw cut joint in gray flake floor",
+  "alt_text": "Close up of a saw cut control joint filled through a gray, white and black full flake garage floor coating",
+  "tags": [
+   "close up",
+   "cut line",
+   "control joint",
+   "saw cut",
+   "full flake",
+   "gray chips",
+   "white chips",
+   "black chips",
+   "tool joint"
+  ],
+  "filename": "gray-flake-floor-saw-cut-joint"
+ },
+ "id": "60f1fd633950",
+ "provider": "kimi",
+ "model": "moonshotai/kimi-k3",
+ "mode": "run",
+ "blind": false,
+ "at": "2026-09-17T12:35:48"
+}

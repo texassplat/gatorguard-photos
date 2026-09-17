@@ -1,0 +1,46 @@
+{
+ "finish": "stop",
+ "usage": {
+  "input_tokens": 5018,
+  "output_tokens": 257,
+  "cost": 0.018909
+ },
+ "served_by": "Parasail",
+ "label": {
+  "content": "floor_photo",
+  "area": "garage",
+  "setting": "residential",
+  "system": "full_flake",
+  "color": "Lunar",
+  "color_confidence": "medium",
+  "color_runner_up": "Infinity",
+  "color_description": "light gray base with fine white, gray and black chips, small size",
+  "shot_type": "finished",
+  "people": "none",
+  "faces_identifiable": false,
+  "privacy": [],
+  "branding_visible": false,
+  "quality": "4",
+  "issues": [],
+  "website_ready": true,
+  "title": "Spacious garage with light gray flake floor and car lifts",
+  "alt_text": "Large white garage with car lifts and a light gray full flake garage floor coating",
+  "tags": [
+   "garage",
+   "full flake",
+   "car lift",
+   "gray floor",
+   "white walls",
+   "finished floor",
+   "large garage",
+   "gray white black chips"
+  ],
+  "filename": "garage-car-lifts-gray-flake-floor"
+ },
+ "id": "00e40f5c37d5",
+ "provider": "kimi",
+ "model": "moonshotai/kimi-k3",
+ "mode": "run",
+ "blind": false,
+ "at": "2026-09-17T12:43:06"
+}

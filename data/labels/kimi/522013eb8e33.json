@@ -1,0 +1,47 @@
+{
+ "finish": "stop",
+ "usage": {
+  "input_tokens": 5328,
+  "output_tokens": 304,
+  "cost": 0.01475712
+ },
+ "served_by": "Phala",
+ "label": {
+  "alt_text": "Glossy red solid color concrete floor coating with control joint lines, wet-look finish",
+  "area": "not_visible",
+  "branding_visible": false,
+  "color": "unknown",
+  "color_confidence": "none",
+  "color_description": "solid bright red coating, no chips",
+  "color_runner_up": "not_applicable",
+  "content": "floor_photo",
+  "faces_identifiable": false,
+  "filename": "glossy-red-solid-color-floor",
+  "issues": [
+   "dark"
+  ],
+  "people": "none",
+  "privacy": [],
+  "quality": "3",
+  "setting": "unknown",
+  "shot_type": "in_progress",
+  "system": "solid_color",
+  "tags": [
+   "red floor",
+   "solid color",
+   "glossy",
+   "wet look",
+   "control joints",
+   "fresh coating",
+   "red coating"
+  ],
+  "title": "Fresh glossy red solid color floor",
+  "website_ready": false
+ },
+ "id": "522013eb8e33",
+ "provider": "kimi",
+ "model": "moonshotai/kimi-k3",
+ "mode": "run",
+ "blind": false,
+ "at": "2026-09-17T12:53:21"
+}

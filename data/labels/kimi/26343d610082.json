@@ -1,0 +1,46 @@
+{
+ "finish": "stop",
+ "usage": {
+  "input_tokens": 5329,
+  "output_tokens": 274,
+  "cost": 0.020097
+ },
+ "served_by": "Fireworks",
+ "label": {
+  "content": "floor_photo",
+  "area": "patio_or_porch",
+  "setting": "residential",
+  "system": "full_flake",
+  "color": "unknown",
+  "color_confidence": "low",
+  "color_runner_up": "Chestnut",
+  "color_description": "light tan-gray base with brown, black and white chips, small to medium size",
+  "shot_type": "finished",
+  "people": "none",
+  "faces_identifiable": false,
+  "privacy": [],
+  "branding_visible": false,
+  "quality": "4",
+  "issues": [],
+  "website_ready": true,
+  "title": "Covered front porch with speckled flake floor",
+  "alt_text": "Covered front porch with stone columns and a tan and brown full flake coated concrete floor",
+  "tags": [
+   "porch",
+   "full flake",
+   "exterior",
+   "stone columns",
+   "tan chips",
+   "brown chips",
+   "covered porch",
+   "finished floor"
+  ],
+  "filename": "covered-porch-flake-floor-stone-columns"
+ },
+ "id": "26343d610082",
+ "provider": "kimi",
+ "model": "moonshotai/kimi-k3",
+ "mode": "run",
+ "blind": false,
+ "at": "2026-09-17T12:36:26"
+}

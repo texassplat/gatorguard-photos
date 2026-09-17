@@ -1,0 +1,46 @@
+{
+ "finish": "stop",
+ "usage": {
+  "input_tokens": 5332,
+  "output_tokens": 215,
+  "cost": 0.019221
+ },
+ "served_by": "Parasail",
+ "label": {
+  "content": "floor_photo",
+  "area": "interior_room",
+  "setting": "residential",
+  "system": "metallic",
+  "color": "Copper",
+  "color_confidence": "medium",
+  "color_runner_up": "Cappuccino",
+  "color_description": "swirled warm brown and copper metallic, glossy marbled finish",
+  "shot_type": "finished",
+  "people": "none",
+  "faces_identifiable": false,
+  "privacy": [],
+  "branding_visible": false,
+  "quality": "4",
+  "issues": [],
+  "website_ready": true,
+  "title": "Copper metallic epoxy floor in interior room",
+  "alt_text": "Swirled brown copper metallic epoxy floor in a room with white walls and baseboard tape",
+  "tags": [
+   "metallic epoxy",
+   "liquid art",
+   "copper",
+   "brown metallic",
+   "swirl pattern",
+   "interior floor",
+   "glossy floor",
+   "marbled"
+  ],
+  "filename": "copper-metallic-interior-floor"
+ },
+ "id": "319c9f9ef019",
+ "provider": "kimi",
+ "model": "moonshotai/kimi-k3",
+ "mode": "run",
+ "blind": false,
+ "at": "2026-09-17T12:51:23"
+}

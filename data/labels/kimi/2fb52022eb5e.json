@@ -1,0 +1,48 @@
+{
+ "finish": "stop",
+ "usage": {
+  "input_tokens": 5343,
+  "output_tokens": 243,
+  "cost": 0.0105156
+ },
+ "served_by": "Together",
+ "label": {
+  "content": "floor_photo",
+  "area": "patio_or_porch",
+  "setting": "residential",
+  "system": "full_flake",
+  "color": "Granite",
+  "color_confidence": "medium",
+  "color_runner_up": "Silver Butte",
+  "color_description": "gray, black and white chips with slight tan tones, small to medium size",
+  "shot_type": "finished",
+  "people": "none",
+  "faces_identifiable": false,
+  "privacy": [],
+  "branding_visible": false,
+  "quality": "4",
+  "issues": [],
+  "website_ready": true,
+  "title": "Gray full flake coating on exterior porch",
+  "alt_text": "Low angle view of a gray full flake coated porch floor beside a house and block wall, full flake patio floor coating",
+  "tags": [
+   "full flake",
+   "porch",
+   "exterior",
+   "gray chips",
+   "black chips",
+   "white chips",
+   "block wall",
+   "house siding",
+   "glossy",
+   "finished floor"
+  ],
+  "filename": "gray-full-flake-exterior-porch-floor"
+ },
+ "id": "2fb52022eb5e",
+ "provider": "kimi",
+ "model": "moonshotai/kimi-k3",
+ "mode": "run",
+ "blind": false,
+ "at": "2026-09-17T12:36:05"
+}

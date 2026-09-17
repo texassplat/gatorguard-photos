@@ -1,0 +1,46 @@
+{
+ "finish": "stop",
+ "usage": {
+  "input_tokens": 5319,
+  "output_tokens": 264,
+  "cost": 0.0107586
+ },
+ "served_by": "Together",
+ "label": {
+  "content": "floor_photo",
+  "area": "garage",
+  "setting": "residential",
+  "system": "full_flake",
+  "color": "Granite",
+  "color_confidence": "low",
+  "color_runner_up": "Silver Butte",
+  "color_description": "gray, white and black chips, small to medium size",
+  "shot_type": "finished",
+  "people": "none",
+  "faces_identifiable": false,
+  "privacy": [],
+  "branding_visible": false,
+  "quality": "4",
+  "issues": [],
+  "website_ready": true,
+  "title": "Pole barn garage with gray full flake floor",
+  "alt_text": "Pole barn garage interior with wood beams and a gray full flake garage floor coating",
+  "tags": [
+   "garage",
+   "pole barn",
+   "full flake",
+   "gray chips",
+   "wood beams",
+   "metal siding",
+   "finished floor",
+   "speckled floor"
+  ],
+  "filename": "pole-barn-garage-gray-full-flake"
+ },
+ "id": "549abaac4db9",
+ "provider": "kimi",
+ "model": "moonshotai/kimi-k3",
+ "mode": "run",
+ "blind": false,
+ "at": "2026-09-17T12:44:37"
+}

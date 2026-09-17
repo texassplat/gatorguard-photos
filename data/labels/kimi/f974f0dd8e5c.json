@@ -1,0 +1,49 @@
+{
+ "finish": "stop",
+ "usage": {
+  "input_tokens": 5206,
+  "output_tokens": 213,
+  "cost": 0.0096546
+ },
+ "served_by": "Together",
+ "label": {
+  "content": "people_or_team",
+  "area": "garage",
+  "setting": "unknown",
+  "system": "full_flake",
+  "color": "unknown",
+  "color_confidence": "low",
+  "color_runner_up": "unknown",
+  "color_description": "small gray, white and black chips on a warm gray base",
+  "shot_type": "other",
+  "people": "prominent",
+  "faces_identifiable": true,
+  "privacy": [
+   "customer_face"
+  ],
+  "branding_visible": false,
+  "quality": "3",
+  "issues": [],
+  "website_ready": false,
+  "title": "Man eating chips and queso off flake floor",
+  "alt_text": "Man in green jersey lying on a gray full flake floor eating tortilla chips with queso",
+  "tags": [
+   "gameday photoshoot",
+   "full flake",
+   "gray chips",
+   "tortilla chips",
+   "queso",
+   "funny",
+   "crew",
+   "garage floor",
+   "finished floor"
+  ],
+  "filename": "man-eating-chips-on-flake-floor"
+ },
+ "id": "f974f0dd8e5c",
+ "provider": "kimi",
+ "model": "moonshotai/kimi-k3",
+ "mode": "run",
+ "blind": false,
+ "at": "2026-09-17T12:39:01"
+}

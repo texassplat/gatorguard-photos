@@ -1,0 +1,47 @@
+{
+ "finish": "stop",
+ "usage": {
+  "input_tokens": 5213,
+  "output_tokens": 254,
+  "cost": 0.019449
+ },
+ "served_by": "Parasail",
+ "label": {
+  "content": "floor_photo",
+  "area": "garage",
+  "setting": "residential",
+  "system": "solid_color",
+  "color": "unknown",
+  "color_confidence": "low",
+  "color_runner_up": "Gray",
+  "color_description": "flat gray-blue floor with no visible chips",
+  "shot_type": "finished",
+  "people": "none",
+  "faces_identifiable": false,
+  "privacy": [],
+  "branding_visible": false,
+  "quality": "4",
+  "issues": [],
+  "website_ready": true,
+  "title": "Garage with gray floor and red Dodge Charger",
+  "alt_text": "Red Dodge Charger parked in a garage with a gray coated floor, cabinets and a bar counter",
+  "tags": [
+   "garage",
+   "gray floor",
+   "solid color",
+   "dodge charger",
+   "red car",
+   "cabinets",
+   "bar stools",
+   "finished floor",
+   "residential"
+  ],
+  "filename": "garage-gray-floor-red-charger"
+ },
+ "id": "502172e7fcd8",
+ "provider": "kimi",
+ "model": "moonshotai/kimi-k3",
+ "mode": "run",
+ "blind": false,
+ "at": "2026-09-17T12:42:08"
+}

@@ -1,0 +1,50 @@
+{
+ "finish": "stop",
+ "usage": {
+  "input_tokens": 4952,
+  "output_tokens": 262,
+  "cost": 0.018786
+ },
+ "served_by": "Fireworks",
+ "label": {
+  "content": "floor_photo",
+  "area": "patio_or_porch",
+  "setting": "residential",
+  "system": "solid_color",
+  "color": "unknown",
+  "color_confidence": "none",
+  "color_runner_up": "not_applicable",
+  "color_description": "solid light gray coating, glossy, no chips visible",
+  "shot_type": "finished",
+  "people": "none",
+  "faces_identifiable": false,
+  "privacy": [],
+  "branding_visible": false,
+  "quality": "3",
+  "issues": [
+   "overexposed"
+  ],
+  "website_ready": false,
+  "title": "Covered porch with glossy gray solid color floor",
+  "alt_text": "Covered back porch with a glossy light gray solid color floor, lawn and patio chairs beyond",
+  "tags": [
+   "porch",
+   "exterior",
+   "solid color",
+   "gray floor",
+   "glossy",
+   "covered porch",
+   "patio furniture",
+   "lawn",
+   "residential",
+   "finished"
+  ],
+  "filename": "covered-porch-glossy-gray-solid-color-floor"
+ },
+ "id": "beaf1d6809ea",
+ "provider": "kimi",
+ "model": "moonshotai/kimi-k3",
+ "mode": "run",
+ "blind": false,
+ "at": "2026-09-17T12:36:31"
+}

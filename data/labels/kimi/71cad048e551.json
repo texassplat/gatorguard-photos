@@ -1,0 +1,48 @@
+{
+ "finish": "stop",
+ "usage": {
+  "input_tokens": 5350,
+  "output_tokens": 195,
+  "cost": 0.01612875
+ },
+ "served_by": "Makora",
+ "label": {
+  "content": "floor_photo",
+  "area": "basement",
+  "setting": "residential",
+  "system": "full_flake",
+  "color": "Santana",
+  "color_confidence": "medium",
+  "color_runner_up": "Chestnut",
+  "color_description": "warm tan and brown chips with small black accents, fine to medium size",
+  "shot_type": "finished",
+  "people": "none",
+  "faces_identifiable": false,
+  "privacy": [],
+  "branding_visible": false,
+  "quality": "4",
+  "issues": [
+   "cluttered"
+  ],
+  "website_ready": false,
+  "title": "Basement with warm tan full flake floor",
+  "alt_text": "Basement with glossy tan and brown full flake floor coating, storage shelves and water heater in background",
+  "tags": [
+   "basement",
+   "full flake",
+   "tan chips",
+   "brown chips",
+   "glossy floor",
+   "storage shelves",
+   "water heater",
+   "finished floor"
+  ],
+  "filename": "basement-tan-full-flake-floor"
+ },
+ "id": "71cad048e551",
+ "provider": "kimi",
+ "model": "moonshotai/kimi-k3",
+ "mode": "run",
+ "blind": false,
+ "at": "2026-09-17T12:30:59"
+}

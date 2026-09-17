@@ -1,0 +1,47 @@
+{
+ "finish": "stop",
+ "usage": {
+  "input_tokens": 5323,
+  "output_tokens": 216,
+  "cost": 0.019209
+ },
+ "served_by": "Parasail",
+ "label": {
+  "content": "floor_photo",
+  "area": "commercial_or_industrial",
+  "setting": "commercial",
+  "system": "full_flake",
+  "color": "Granite",
+  "color_confidence": "medium",
+  "color_runner_up": "Callisto",
+  "color_description": "gray base with black, white and light gray chips, small to medium size",
+  "shot_type": "in_progress",
+  "people": "background",
+  "faces_identifiable": false,
+  "privacy": [],
+  "branding_visible": false,
+  "quality": "4",
+  "issues": [],
+  "website_ready": true,
+  "title": "Gray full flake floor in office hallway",
+  "alt_text": "Worker applying clear topcoat over a gray full flake floor in an office hallway, full flake commercial floor coating",
+  "tags": [
+   "full flake",
+   "commercial floor",
+   "office hallway",
+   "gray chips",
+   "black chips",
+   "clear topcoat",
+   "glossy",
+   "crew working",
+   "desk"
+  ],
+  "filename": "gray-full-flake-office-hallway-topcoat"
+ },
+ "id": "c4e77de96dcb",
+ "provider": "kimi",
+ "model": "moonshotai/kimi-k3",
+ "mode": "run",
+ "blind": false,
+ "at": "2026-09-17T12:34:20"
+}

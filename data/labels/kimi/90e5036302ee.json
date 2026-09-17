@@ -1,0 +1,48 @@
+{
+ "finish": "stop",
+ "usage": {
+  "input_tokens": 5321,
+  "output_tokens": 183,
+  "cost": 0.0095496
+ },
+ "served_by": "Together",
+ "label": {
+  "content": "floor_photo",
+  "area": "basement",
+  "setting": "residential",
+  "system": "solid_color_chip",
+  "color": "unknown",
+  "color_confidence": "low",
+  "color_runner_up": "unknown",
+  "color_description": "small gray and white chips in a gray base, one dominant gray tone",
+  "shot_type": "finished",
+  "people": "none",
+  "faces_identifiable": false,
+  "privacy": [],
+  "branding_visible": false,
+  "quality": "3",
+  "issues": [
+   "dark"
+  ],
+  "website_ready": false,
+  "title": "Basement furnace room with gray chip floor",
+  "alt_text": "Gray single color chip floor in a basement utility room with furnace and ductwork",
+  "tags": [
+   "basement",
+   "utility room",
+   "furnace",
+   "gray chips",
+   "solid color chip",
+   "finished floor",
+   "ductwork",
+   "dark room"
+  ],
+  "filename": "basement-furnace-gray-chip-floor"
+ },
+ "id": "90e5036302ee",
+ "provider": "kimi",
+ "model": "moonshotai/kimi-k3",
+ "mode": "run",
+ "blind": false,
+ "at": "2026-09-17T12:56:53"
+}

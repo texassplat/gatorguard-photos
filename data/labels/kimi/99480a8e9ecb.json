@@ -1,0 +1,49 @@
+{
+ "finish": "stop",
+ "usage": {
+  "input_tokens": 5656,
+  "output_tokens": 219,
+  "cost": 0.0110946
+ },
+ "served_by": "Together",
+ "label": {
+  "content": "marketing_graphic",
+  "area": "not_visible",
+  "setting": "unknown",
+  "system": "full_flake",
+  "color": "unknown",
+  "color_confidence": "low",
+  "color_runner_up": "Granite",
+  "color_description": "gray base with mixed gray, white, black and tan chips, small to medium size",
+  "shot_type": "graphic",
+  "people": "prominent",
+  "faces_identifiable": false,
+  "privacy": [],
+  "branding_visible": false,
+  "quality": "3",
+  "issues": [
+   "text_overlay"
+  ],
+  "website_ready": false,
+  "title": "Nacho proof floors graphic with cheese spill",
+  "alt_text": "Hand wiping nacho cheese and chips off a gray full flake floor with text overlay reading Nacho Proof Floors",
+  "tags": [
+   "text overlay",
+   "gameday",
+   "nachos",
+   "cheese spill",
+   "easy clean",
+   "gray flake",
+   "social post",
+   "hand wiping",
+   "microfiber cloth"
+  ],
+  "filename": "nacho-proof-floors-graphic"
+ },
+ "id": "99480a8e9ecb",
+ "provider": "kimi",
+ "model": "moonshotai/kimi-k3",
+ "mode": "run",
+ "blind": false,
+ "at": "2026-09-17T12:38:19"
+}

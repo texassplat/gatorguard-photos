@@ -1,0 +1,46 @@
+{
+ "finish": "stop",
+ "usage": {
+  "input_tokens": 4947,
+  "output_tokens": 217,
+  "cost": 0.0089376
+ },
+ "served_by": "Together",
+ "label": {
+  "content": "floor_photo",
+  "area": "commercial_or_industrial",
+  "setting": "commercial",
+  "system": "full_flake",
+  "color": "unknown",
+  "color_confidence": "low",
+  "color_runner_up": "Callisto",
+  "color_description": "small gray, tan and white chips on a light gray base",
+  "shot_type": "finished",
+  "people": "none",
+  "faces_identifiable": false,
+  "privacy": [],
+  "branding_visible": false,
+  "quality": "4",
+  "issues": [],
+  "website_ready": true,
+  "title": "Commercial space with light gray full flake floor",
+  "alt_text": "Finished light gray full flake floor in a commercial room with blue shelving and hallway view",
+  "tags": [
+   "commercial floor",
+   "full flake",
+   "gray chips",
+   "tan chips",
+   "glossy finish",
+   "interior",
+   "shelving",
+   "finished floor"
+  ],
+  "filename": "commercial-light-gray-full-flake-floor"
+ },
+ "id": "7efb57013e1a",
+ "provider": "kimi",
+ "model": "moonshotai/kimi-k3",
+ "mode": "run",
+ "blind": false,
+ "at": "2026-09-17T12:34:49"
+}

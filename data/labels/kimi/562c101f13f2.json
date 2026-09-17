@@ -1,0 +1,48 @@
+{
+ "finish": "stop",
+ "usage": {
+  "input_tokens": 5097,
+  "output_tokens": 243,
+  "cost": 0.0097776
+ },
+ "served_by": "Together",
+ "label": {
+  "content": "floor_photo",
+  "area": "basement",
+  "setting": "residential",
+  "system": "metallic",
+  "color": "Charcoal",
+  "color_confidence": "low",
+  "color_runner_up": "Sapphire",
+  "color_description": "swirled dark gray and white metallic with bright blue accents",
+  "shot_type": "finished",
+  "people": "none",
+  "faces_identifiable": false,
+  "privacy": [],
+  "branding_visible": false,
+  "quality": "4",
+  "issues": [],
+  "website_ready": true,
+  "title": "Metallic epoxy floor with blue accents in framed room",
+  "alt_text": "Glossy gray and white metallic epoxy floor with blue swirls in a wood framed room, metallic floor coating",
+  "tags": [
+   "metallic epoxy",
+   "liquid art",
+   "gray metallic",
+   "blue accents",
+   "swirled floor",
+   "glossy",
+   "framed walls",
+   "new construction",
+   "drone video",
+   "finished floor"
+  ],
+  "filename": "metallic-epoxy-floor-blue-accents"
+ },
+ "id": "562c101f13f2",
+ "provider": "kimi",
+ "model": "moonshotai/kimi-k3",
+ "mode": "run",
+ "blind": false,
+ "at": "2026-09-17T12:46:27"
+}

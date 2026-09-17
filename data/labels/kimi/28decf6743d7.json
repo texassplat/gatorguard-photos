@@ -1,0 +1,48 @@
+{
+ "finish": "stop",
+ "usage": {
+  "input_tokens": 5206,
+  "output_tokens": 208,
+  "cost": 0.0095796
+ },
+ "served_by": "Together",
+ "label": {
+  "content": "people_or_team",
+  "area": "commercial_or_industrial",
+  "setting": "unknown",
+  "system": "full_flake",
+  "color": "unknown",
+  "color_confidence": "low",
+  "color_runner_up": "Chestnut",
+  "color_description": "tan, brown and black chips, small to medium size",
+  "shot_type": "team_or_portrait",
+  "people": "prominent",
+  "faces_identifiable": true,
+  "privacy": [
+   "customer_face"
+  ],
+  "branding_visible": false,
+  "quality": "4",
+  "issues": [],
+  "website_ready": false,
+  "title": "Crew in green shirts pointing at wall flag",
+  "alt_text": "Four GatorGuard crew members in green shirts pointing up at a flag on a white wall over a flake floor",
+  "tags": [
+   "gameday photoshoot",
+   "crew",
+   "team photo",
+   "green shirts",
+   "flag",
+   "flake floor",
+   "tan chips",
+   "indoor"
+  ],
+  "filename": "crew-green-shirts-pointing-flag"
+ },
+ "id": "28decf6743d7",
+ "provider": "kimi",
+ "model": "moonshotai/kimi-k3",
+ "mode": "run",
+ "blind": false,
+ "at": "2026-09-17T12:38:43"
+}

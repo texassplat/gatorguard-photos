@@ -1,0 +1,48 @@
+{
+ "finish": "stop",
+ "usage": {
+  "input_tokens": 5342,
+  "output_tokens": 254,
+  "cost": 0.019836
+ },
+ "served_by": "Parasail",
+ "label": {
+  "content": "floor_photo",
+  "area": "basement",
+  "setting": "residential",
+  "system": "full_flake",
+  "color": "Windermere",
+  "color_confidence": "medium",
+  "color_runner_up": "Black Canyon",
+  "color_description": "cream, tan, brown and black chips, medium size, some amber chips",
+  "shot_type": "finished",
+  "people": "none",
+  "faces_identifiable": false,
+  "privacy": [],
+  "branding_visible": false,
+  "quality": "4",
+  "issues": [],
+  "website_ready": true,
+  "title": "Basement with cream and brown full flake floor",
+  "alt_text": "Finished basement with full flake floor in cream, tan, brown and black chips, dark wainscoting and wall signs",
+  "tags": [
+   "basement",
+   "full flake",
+   "tan chips",
+   "brown chips",
+   "black chips",
+   "wainscoting",
+   "man cave",
+   "finished floor",
+   "low angle",
+   "wall decor"
+  ],
+  "filename": "basement-cream-brown-full-flake-floor"
+ },
+ "id": "a74dd216178a",
+ "provider": "kimi",
+ "model": "moonshotai/kimi-k3",
+ "mode": "pilot",
+ "blind": true,
+ "at": "2026-09-17T12:25:48"
+}

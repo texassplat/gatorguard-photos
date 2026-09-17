@@ -1,0 +1,50 @@
+{
+ "finish": "stop",
+ "usage": {
+  "input_tokens": 5367,
+  "output_tokens": 271,
+  "cost": 0.020166
+ },
+ "served_by": "Parasail",
+ "label": {
+  "content": "floor_photo",
+  "area": "basement",
+  "setting": "residential",
+  "system": "full_flake",
+  "color": "Gold Mine",
+  "color_confidence": "medium",
+  "color_runner_up": "Gun Metal",
+  "color_description": "black, white and gray chips with a few tan chips, medium size",
+  "shot_type": "finished",
+  "people": "none",
+  "faces_identifiable": false,
+  "privacy": [],
+  "branding_visible": false,
+  "quality": "4",
+  "issues": [
+   "dark"
+  ],
+  "website_ready": true,
+  "title": "Basement with black and gray flake floor",
+  "alt_text": "Low angle view of a finished basement floor with black, white and gray flake coating, painted brick walls and dark ceiling. Full flake basement floor coating.",
+  "tags": [
+   "basement",
+   "full flake",
+   "black chips",
+   "gray chips",
+   "white chips",
+   "painted brick",
+   "dark ceiling",
+   "support posts",
+   "glossy floor",
+   "low angle"
+  ],
+  "filename": "basement-black-gray-flake-floor"
+ },
+ "id": "1a03ed210ca7",
+ "provider": "kimi",
+ "model": "moonshotai/kimi-k3",
+ "mode": "run",
+ "blind": false,
+ "at": "2026-09-17T12:30:53"
+}

@@ -1,0 +1,47 @@
+{
+ "finish": "stop",
+ "usage": {
+  "input_tokens": 5102,
+  "output_tokens": 239,
+  "cost": 0.018891
+ },
+ "served_by": "Parasail",
+ "label": {
+  "content": "floor_photo",
+  "area": "garage",
+  "setting": "residential",
+  "system": "metallic",
+  "color": "unknown",
+  "color_confidence": "low",
+  "color_runner_up": "Denim",
+  "color_description": "marbled metallic in gray and white with bold blue swirls",
+  "shot_type": "finished",
+  "people": "none",
+  "faces_identifiable": false,
+  "privacy": [],
+  "branding_visible": false,
+  "quality": "4",
+  "issues": [],
+  "website_ready": true,
+  "title": "Garage with gray and blue metallic epoxy floor",
+  "alt_text": "Reflective metallic epoxy garage floor with gray, white and blue marbled swirls, wood walls and white garage door",
+  "tags": [
+   "metallic epoxy",
+   "liquid art",
+   "garage floor",
+   "blue swirls",
+   "gray metallic",
+   "reflective floor",
+   "wood walls",
+   "drone video",
+   "finished floor"
+  ],
+  "filename": "garage-gray-blue-metallic-epoxy-floor"
+ },
+ "id": "a92e53188f11",
+ "provider": "kimi",
+ "model": "moonshotai/kimi-k3",
+ "mode": "run",
+ "blind": false,
+ "at": "2026-09-17T12:46:34"
+}

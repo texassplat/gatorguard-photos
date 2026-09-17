@@ -1,0 +1,46 @@
+{
+ "finish": "stop",
+ "usage": {
+  "input_tokens": 5317,
+  "output_tokens": 214,
+  "cost": 0.009657
+ },
+ "served_by": "Together",
+ "label": {
+  "content": "floor_photo",
+  "area": "garage",
+  "setting": "residential",
+  "system": "full_flake",
+  "color": "Silverado",
+  "color_confidence": "high",
+  "color_runner_up": "Granite",
+  "color_description": "gray and white chips with scattered black and faint blue accents, small to medium size",
+  "shot_type": "close_up",
+  "people": "none",
+  "faces_identifiable": false,
+  "privacy": [],
+  "branding_visible": false,
+  "quality": "4",
+  "issues": [],
+  "website_ready": true,
+  "title": "Close up of Silverado full flake garage floor",
+  "alt_text": "Close up of a gray full flake garage floor coating with white, black and blue accent chips in Silverado",
+  "tags": [
+   "garage floor",
+   "full flake",
+   "close up",
+   "gray chips",
+   "silverado",
+   "flake texture",
+   "floor edge",
+   "coated concrete"
+  ],
+  "filename": "silverado-full-flake-garage-close-up"
+ },
+ "id": "9cbc7811b072",
+ "provider": "kimi",
+ "model": "moonshotai/kimi-k3",
+ "mode": "pilot",
+ "blind": false,
+ "at": "2026-09-17T12:24:53"
+}

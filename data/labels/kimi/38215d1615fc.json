@@ -1,0 +1,46 @@
+{
+ "finish": "stop",
+ "usage": {
+  "input_tokens": 5026,
+  "output_tokens": 277,
+  "cost": 0.00935321
+ },
+ "served_by": "DigitalOcean",
+ "label": {
+  "alt_text": "Coated gray flake floor in a commercial hallway with cell doors and fixed tables",
+  "area": "commercial_or_industrial",
+  "branding_visible": false,
+  "color": "unknown",
+  "color_confidence": "low",
+  "color_description": "gray base with fine white, gray and black chips, small size",
+  "color_runner_up": "Callisto",
+  "content": "floor_photo",
+  "faces_identifiable": false,
+  "filename": "commercial-hallway-gray-flake-floor",
+  "issues": [],
+  "people": "none",
+  "privacy": [],
+  "quality": "4",
+  "setting": "commercial",
+  "shot_type": "finished",
+  "system": "full_flake",
+  "tags": [
+   "commercial floor",
+   "gray chips",
+   "full flake",
+   "hallway",
+   "institutional",
+   "tables and benches",
+   "cell doors",
+   "low sheen"
+  ],
+  "title": "Commercial hallway with gray full flake floor",
+  "website_ready": true
+ },
+ "id": "38215d1615fc",
+ "provider": "kimi",
+ "model": "moonshotai/kimi-k3",
+ "mode": "run",
+ "blind": false,
+ "at": "2026-09-17T12:33:55"
+}

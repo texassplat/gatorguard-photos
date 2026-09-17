@@ -1,0 +1,50 @@
+{
+ "finish": "stop",
+ "usage": {
+  "input_tokens": 5212,
+  "output_tokens": 250,
+  "cost": 0.01371492
+ },
+ "served_by": "Phala",
+ "label": {
+  "alt_text": "Blue Shelby GT500 sports car parked on a black marbled metallic epoxy garage floor, metallic epoxy floor coating",
+  "area": "garage",
+  "branding_visible": false,
+  "color": "Charcoal",
+  "color_confidence": "medium",
+  "color_description": "dark charcoal to black metallic with gray marbled swirls, no chips",
+  "color_runner_up": "unknown",
+  "content": "floor_photo",
+  "faces_identifiable": false,
+  "filename": "blue-shelby-gt500-black-metallic-floor",
+  "issues": [
+   "dark"
+  ],
+  "people": "none",
+  "privacy": [],
+  "quality": "4",
+  "setting": "residential",
+  "shot_type": "finished",
+  "system": "metallic",
+  "tags": [
+   "metallic",
+   "liquid art",
+   "garage",
+   "shelby gt500",
+   "sports car",
+   "black metallic",
+   "charcoal",
+   "marbled",
+   "swirled",
+   "finished"
+  ],
+  "title": "Blue Shelby GT500 on charcoal metallic floor",
+  "website_ready": true
+ },
+ "id": "0590cd7ba957",
+ "provider": "kimi",
+ "model": "moonshotai/kimi-k3",
+ "mode": "run",
+ "blind": false,
+ "at": "2026-09-17T12:50:10"
+}

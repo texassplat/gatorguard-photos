@@ -1,0 +1,46 @@
+{
+ "finish": "stop",
+ "usage": {
+  "input_tokens": 5322,
+  "output_tokens": 189,
+  "cost": 0.018801
+ },
+ "served_by": "Parasail",
+ "label": {
+  "content": "floor_photo",
+  "area": "commercial_or_industrial",
+  "setting": "commercial",
+  "system": "full_flake",
+  "color": "Avalon",
+  "color_confidence": "low",
+  "color_runner_up": "Lunar",
+  "color_description": "small gray, white and black chips, light gray overall look",
+  "shot_type": "finished",
+  "people": "none",
+  "faces_identifiable": false,
+  "privacy": [],
+  "branding_visible": false,
+  "quality": "4",
+  "issues": [],
+  "website_ready": true,
+  "title": "Commercial shop room with gray flake floor",
+  "alt_text": "Commercial work room with green machinery on a light gray full flake floor coating",
+  "tags": [
+   "commercial floor",
+   "full flake",
+   "gray chips",
+   "workshop",
+   "machinery",
+   "finished floor",
+   "industrial room",
+   "gray floor"
+  ],
+  "filename": "commercial-room-gray-flake-floor"
+ },
+ "id": "7a122cd6056f",
+ "provider": "kimi",
+ "model": "moonshotai/kimi-k3",
+ "mode": "run",
+ "blind": false,
+ "at": "2026-09-17T12:34:56"
+}

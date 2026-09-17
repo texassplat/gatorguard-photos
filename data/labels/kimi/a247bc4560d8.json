@@ -1,0 +1,46 @@
+{
+ "finish": "stop",
+ "usage": {
+  "input_tokens": 4954,
+  "output_tokens": 203,
+  "cost": 0.01169736598464
+ },
+ "served_by": "Makora",
+ "label": {
+  "content": "floor_photo",
+  "area": "garage",
+  "setting": "residential",
+  "system": "full_flake",
+  "color": "Chestnut",
+  "color_confidence": "medium",
+  "color_runner_up": "Windermere",
+  "color_description": "brown, black and tan chips over a dark brown base, small to medium size",
+  "shot_type": "finished",
+  "people": "none",
+  "faces_identifiable": false,
+  "privacy": [],
+  "branding_visible": false,
+  "quality": "4",
+  "issues": [],
+  "website_ready": true,
+  "title": "Garage with brown full flake coated floor",
+  "alt_text": "Two-car garage with glossy brown full flake epoxy floor and appliance dolly near the wall",
+  "tags": [
+   "garage",
+   "full flake",
+   "brown chips",
+   "glossy floor",
+   "flake coating",
+   "finished floor",
+   "residential",
+   "clean garage"
+  ],
+  "filename": "garage-brown-full-flake-floor"
+ },
+ "id": "a247bc4560d8",
+ "provider": "kimi",
+ "model": "moonshotai/kimi-k3",
+ "mode": "run",
+ "blind": false,
+ "at": "2026-09-17T12:44:55"
+}

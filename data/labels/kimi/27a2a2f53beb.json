@@ -1,0 +1,46 @@
+{
+ "finish": "stop",
+ "usage": {
+  "input_tokens": 5332,
+  "output_tokens": 193,
+  "cost": 0.018891
+ },
+ "served_by": "Parasail",
+ "label": {
+  "content": "floor_photo",
+  "area": "interior_room",
+  "setting": "residential",
+  "system": "metallic",
+  "color": "Cappuccino",
+  "color_confidence": "medium",
+  "color_runner_up": "Copper",
+  "color_description": "swirled brown metallic with bronze and copper highlights",
+  "shot_type": "in_progress",
+  "people": "none",
+  "faces_identifiable": false,
+  "privacy": [],
+  "branding_visible": false,
+  "quality": "3",
+  "issues": [],
+  "website_ready": false,
+  "title": "Brown metallic epoxy floor with taped edges",
+  "alt_text": "Brown and bronze metallic epoxy floor with marbled swirls and masking tape along baseboards",
+  "tags": [
+   "metallic epoxy",
+   "liquid art",
+   "brown metallic",
+   "swirled floor",
+   "interior floor",
+   "taped edges",
+   "in progress",
+   "glossy"
+  ],
+  "filename": "brown-metallic-epoxy-floor-taped-edges"
+ },
+ "id": "27a2a2f53beb",
+ "provider": "kimi",
+ "model": "moonshotai/kimi-k3",
+ "mode": "run",
+ "blind": false,
+ "at": "2026-09-17T12:51:22"
+}

@@ -1,0 +1,48 @@
+{
+ "finish": "stop",
+ "usage": {
+  "input_tokens": 4679,
+  "output_tokens": 253,
+  "cost": 0.017832
+ },
+ "served_by": "Parasail",
+ "label": {
+  "content": "floor_photo",
+  "area": "basement",
+  "setting": "residential",
+  "system": "metallic",
+  "color": "Cappuccino",
+  "color_confidence": "medium",
+  "color_runner_up": "Copper",
+  "color_description": "marbled brown metallic with lighter tan swirls, glossy finish",
+  "shot_type": "finished",
+  "people": "none",
+  "faces_identifiable": false,
+  "privacy": [],
+  "branding_visible": false,
+  "quality": "5",
+  "issues": [],
+  "website_ready": true,
+  "title": "Basement bar with brown metallic epoxy floor",
+  "alt_text": "Finished basement bar with stone wall, poker table and brown marbled metallic epoxy floor",
+  "tags": [
+   "basement",
+   "metallic epoxy",
+   "brown floor",
+   "marbled",
+   "bar",
+   "poker table",
+   "stone wall",
+   "finished floor",
+   "man cave",
+   "glossy"
+  ],
+  "filename": "basement-bar-brown-metallic-floor"
+ },
+ "id": "982a583716bc",
+ "provider": "kimi",
+ "model": "moonshotai/kimi-k3",
+ "mode": "run",
+ "blind": false,
+ "at": "2026-09-17T12:50:02"
+}

@@ -1,0 +1,48 @@
+{
+ "finish": "stop",
+ "usage": {
+  "input_tokens": 5337,
+  "output_tokens": 305,
+  "cost": 0.011082
+ },
+ "served_by": "Together",
+ "label": {
+  "content": "floor_photo",
+  "area": "basement",
+  "setting": "residential",
+  "system": "full_flake",
+  "color": "Ocotillo",
+  "color_confidence": "medium",
+  "color_runner_up": "Granite",
+  "color_description": "light tan and gray base with black, white and gold flecks, small chips",
+  "shot_type": "finished",
+  "people": "none",
+  "faces_identifiable": false,
+  "privacy": [],
+  "branding_visible": false,
+  "quality": "4",
+  "issues": [],
+  "website_ready": true,
+  "title": "Finished basement with tan full flake floor",
+  "alt_text": "Finished basement with light tan and gray full flake floor, white slatwall and painted black ceiling",
+  "tags": [
+   "basement",
+   "full flake",
+   "finished floor",
+   "tan chips",
+   "black chips",
+   "gold flecks",
+   "slatwall",
+   "black ceiling",
+   "glossy",
+   "small chips"
+  ],
+  "filename": "basement-tan-full-flake-floor"
+ },
+ "id": "48bea2a1ddb3",
+ "provider": "kimi",
+ "model": "moonshotai/kimi-k3",
+ "mode": "pilot",
+ "blind": true,
+ "at": "2026-09-17T12:25:48"
+}

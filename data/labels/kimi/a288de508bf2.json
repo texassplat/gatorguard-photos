@@ -1,0 +1,46 @@
+{
+ "finish": "stop",
+ "usage": {
+  "input_tokens": 5340,
+  "output_tokens": 217,
+  "cost": 0.019275
+ },
+ "served_by": "Parasail",
+ "label": {
+  "content": "floor_photo",
+  "area": "commercial_or_industrial",
+  "setting": "commercial",
+  "system": "full_flake",
+  "color": "Stone Rowe",
+  "color_confidence": "medium",
+  "color_runner_up": "Granite",
+  "color_description": "gray, black and white chips, small to medium size",
+  "shot_type": "finished",
+  "people": "none",
+  "faces_identifiable": false,
+  "privacy": [],
+  "branding_visible": false,
+  "quality": "4",
+  "issues": [],
+  "website_ready": true,
+  "title": "Commercial hallway with gray full flake floor",
+  "alt_text": "Commercial hallway with glossy gray speckled full flake floor coating and wooden doors along the walls",
+  "tags": [
+   "commercial",
+   "hallway",
+   "full flake",
+   "gray floor",
+   "black and white chips",
+   "glossy",
+   "office",
+   "finished floor"
+  ],
+  "filename": "commercial-hallway-gray-full-flake-floor"
+ },
+ "id": "a288de508bf2",
+ "provider": "kimi",
+ "model": "moonshotai/kimi-k3",
+ "mode": "run",
+ "blind": false,
+ "at": "2026-09-17T12:33:20"
+}

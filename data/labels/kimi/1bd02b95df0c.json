@@ -1,0 +1,46 @@
+{
+ "finish": "stop",
+ "usage": {
+  "input_tokens": 5321,
+  "output_tokens": 251,
+  "cost": 0.0105696
+ },
+ "served_by": "Together",
+ "label": {
+  "content": "floor_photo",
+  "area": "commercial_or_industrial",
+  "setting": "commercial",
+  "system": "solid_color_chip",
+  "color": "unknown",
+  "color_confidence": "low",
+  "color_runner_up": "unknown",
+  "color_description": "light gray chips of essentially one color, small size",
+  "shot_type": "finished",
+  "people": "none",
+  "faces_identifiable": false,
+  "privacy": [],
+  "branding_visible": false,
+  "quality": "4",
+  "issues": [],
+  "website_ready": true,
+  "title": "Commercial walkway with gray solid color chip floor",
+  "alt_text": "Gray solid color chip coating on an outdoor commercial concrete walkway beside a building",
+  "tags": [
+   "solid color chip",
+   "gray chips",
+   "commercial",
+   "walkway",
+   "outdoor",
+   "finished floor",
+   "sunny",
+   "concrete coating"
+  ],
+  "filename": "commercial-walkway-gray-solid-color-chip"
+ },
+ "id": "1bd02b95df0c",
+ "provider": "kimi",
+ "model": "moonshotai/kimi-k3",
+ "mode": "run",
+ "blind": false,
+ "at": "2026-09-17T12:57:23"
+}

@@ -1,0 +1,47 @@
+{
+ "finish": "stop",
+ "usage": {
+  "input_tokens": 5330,
+  "output_tokens": 234,
+  "cost": 0.0195
+ },
+ "served_by": "Parasail",
+ "label": {
+  "content": "floor_photo",
+  "area": "garage",
+  "setting": "residential",
+  "system": "full_flake",
+  "color": "Santana",
+  "color_confidence": "low",
+  "color_runner_up": "Chestnut",
+  "color_description": "tan, brown, black and white chips, small to medium size",
+  "shot_type": "close_up",
+  "people": "none",
+  "faces_identifiable": false,
+  "privacy": [],
+  "branding_visible": false,
+  "quality": "4",
+  "issues": [],
+  "website_ready": true,
+  "title": "Low angle close up of flake garage floor",
+  "alt_text": "Low angle close up of glossy full flake garage floor with tan, brown and black chips",
+  "tags": [
+   "garage floor",
+   "close up",
+   "full flake",
+   "tan chips",
+   "brown chips",
+   "black chips",
+   "glossy finish",
+   "low angle",
+   "flake floor"
+  ],
+  "filename": "low-angle-flake-garage-floor-close-up"
+ },
+ "id": "34ed71049152",
+ "provider": "kimi",
+ "model": "moonshotai/kimi-k3",
+ "mode": "run",
+ "blind": false,
+ "at": "2026-09-17T12:33:10"
+}

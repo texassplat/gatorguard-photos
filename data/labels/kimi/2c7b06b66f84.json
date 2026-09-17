@@ -1,0 +1,48 @@
+{
+ "finish": "stop",
+ "usage": {
+  "input_tokens": 5216,
+  "output_tokens": 209,
+  "cost": 0.01317222
+ },
+ "served_by": "Phala",
+ "label": {
+  "alt_text": "Finished basement with light gray marbled metallic epoxy floor, sofa and bar table",
+  "area": "basement",
+  "branding_visible": false,
+  "color": "Gray",
+  "color_confidence": "medium",
+  "color_description": "light gray and white marbled metallic swirl, no chips",
+  "color_runner_up": "Charcoal",
+  "content": "floor_photo",
+  "faces_identifiable": false,
+  "filename": "gray-metallic-epoxy-finished-basement",
+  "issues": [],
+  "people": "none",
+  "privacy": [],
+  "quality": "5",
+  "setting": "residential",
+  "shot_type": "finished",
+  "system": "metallic",
+  "tags": [
+   "metallic epoxy",
+   "gray metallic",
+   "basement floor",
+   "marbled floor",
+   "swirl",
+   "sofa",
+   "bar table",
+   "liquid art",
+   "finished",
+   "reflective floor"
+  ],
+  "title": "Finished basement with gray metallic marbled floor",
+  "website_ready": true
+ },
+ "id": "2c7b06b66f84",
+ "provider": "kimi",
+ "model": "moonshotai/kimi-k3",
+ "mode": "run",
+ "blind": false,
+ "at": "2026-09-17T12:50:22"
+}

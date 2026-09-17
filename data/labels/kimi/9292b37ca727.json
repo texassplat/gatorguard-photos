@@ -1,0 +1,46 @@
+{
+ "finish": "stop",
+ "usage": {
+  "input_tokens": 5332,
+  "output_tokens": 260,
+  "cost": 0.0218856
+ },
+ "served_by": "Fireworks",
+ "label": {
+  "content": "floor_photo",
+  "area": "interior_room",
+  "setting": "residential",
+  "system": "full_flake",
+  "color": "Stone Ridge",
+  "color_confidence": "medium",
+  "color_runner_up": "Stone Crest",
+  "color_description": "white and gray base with black chips and small red accents, medium size",
+  "shot_type": "finished",
+  "people": "none",
+  "faces_identifiable": false,
+  "privacy": [],
+  "branding_visible": false,
+  "quality": "4",
+  "issues": [],
+  "website_ready": true,
+  "title": "Home bar room with white and red flake floor",
+  "alt_text": "Finished full flake floor with white, black and red chips in a home bar room with black stools and a red fridge",
+  "tags": [
+   "full flake",
+   "home bar",
+   "interior floor",
+   "bar stools",
+   "red refrigerator",
+   "white gray chips",
+   "red chip accents",
+   "finished floor"
+  ],
+  "filename": "home-bar-white-red-full-flake-floor"
+ },
+ "id": "9292b37ca727",
+ "provider": "kimi",
+ "model": "moonshotai/kimi-k3",
+ "mode": "run",
+ "blind": false,
+ "at": "2026-09-17T12:48:27"
+}

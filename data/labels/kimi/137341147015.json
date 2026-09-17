@@ -1,0 +1,47 @@
+{
+ "finish": "stop",
+ "usage": {
+  "input_tokens": 4711,
+  "output_tokens": 202,
+  "cost": 0.0080046
+ },
+ "served_by": "Together",
+ "label": {
+  "content": "vehicle_or_equipment",
+  "area": "other_exterior",
+  "setting": "unknown",
+  "system": "not_applicable",
+  "color": "not_applicable",
+  "color_confidence": "none",
+  "color_runner_up": "not_applicable",
+  "color_description": "",
+  "shot_type": "truck_or_equipment",
+  "people": "none",
+  "faces_identifiable": false,
+  "privacy": [],
+  "branding_visible": true,
+  "quality": "3",
+  "issues": [
+   "cluttered"
+  ],
+  "website_ready": false,
+  "title": "GatorGuard box truck under carport",
+  "alt_text": "GatorGuard Concrete Coatings box truck parked under a carport with yellow caution tape across the view",
+  "tags": [
+   "gatorguard truck",
+   "box truck",
+   "vehicle wrap",
+   "branding",
+   "carport",
+   "caution tape",
+   "outdoor"
+  ],
+  "filename": "gatorguard-box-truck-under-carport"
+ },
+ "id": "137341147015",
+ "provider": "kimi",
+ "model": "moonshotai/kimi-k3",
+ "mode": "run",
+ "blind": false,
+ "at": "2026-09-17T12:38:07"
+}

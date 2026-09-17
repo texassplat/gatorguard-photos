@@ -1,0 +1,48 @@
+{
+ "finish": "stop",
+ "usage": {
+  "input_tokens": 5319,
+  "output_tokens": 251,
+  "cost": 0.0105636
+ },
+ "served_by": "Together",
+ "label": {
+  "content": "floor_photo",
+  "area": "garage",
+  "setting": "residential",
+  "system": "full_flake",
+  "color": "Granite",
+  "color_confidence": "medium",
+  "color_runner_up": "Stone Rowe",
+  "color_description": "mostly gray, white and black chips with faint tan specks, small to medium size",
+  "shot_type": "finished",
+  "people": "none",
+  "faces_identifiable": false,
+  "privacy": [],
+  "branding_visible": true,
+  "quality": "4",
+  "issues": [],
+  "website_ready": true,
+  "title": "Garage with gray full flake floor and flag",
+  "alt_text": "Garage with gray, white and black full flake floor, wall shelves, door and American flag. Full flake garage floor coating.",
+  "tags": [
+   "garage",
+   "full flake",
+   "gray chips",
+   "white chips",
+   "black chips",
+   "shelving",
+   "american flag",
+   "workbench",
+   "finished floor",
+   "glossy"
+  ],
+  "filename": "garage-gray-full-flake-floor-flag"
+ },
+ "id": "78c952e5936a",
+ "provider": "kimi",
+ "model": "moonshotai/kimi-k3",
+ "mode": "run",
+ "blind": false,
+ "at": "2026-09-17T12:43:42"
+}

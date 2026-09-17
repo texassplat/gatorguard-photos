@@ -1,0 +1,47 @@
+{
+ "finish": "stop",
+ "usage": {
+  "input_tokens": 5346,
+  "output_tokens": 228,
+  "cost": 0.0102996
+ },
+ "served_by": "Together",
+ "label": {
+  "content": "floor_photo",
+  "area": "basement",
+  "setting": "residential",
+  "system": "metallic",
+  "color": "Gray",
+  "color_confidence": "medium",
+  "color_runner_up": "Charcoal",
+  "color_description": "light gray and taupe metallic swirls, marbled and reflective",
+  "shot_type": "finished",
+  "people": "none",
+  "faces_identifiable": false,
+  "privacy": [],
+  "branding_visible": false,
+  "quality": "4",
+  "issues": [],
+  "website_ready": true,
+  "title": "Basement with gray metallic epoxy floor",
+  "alt_text": "Basement room with a swirled light gray metallic epoxy floor, brown walls and a support pole, metallic floor coating",
+  "tags": [
+   "metallic epoxy",
+   "basement floor",
+   "gray metallic",
+   "swirled finish",
+   "marbled floor",
+   "reflective",
+   "liquid art",
+   "finished floor",
+   "support pole"
+  ],
+  "filename": "basement-gray-metallic-epoxy-floor"
+ },
+ "id": "216cb5ae09eb",
+ "provider": "kimi",
+ "model": "moonshotai/kimi-k3",
+ "mode": "run",
+ "blind": false,
+ "at": "2026-09-17T12:50:40"
+}

@@ -1,0 +1,46 @@
+{
+ "finish": "stop",
+ "usage": {
+  "input_tokens": 5210,
+  "output_tokens": 278,
+  "cost": 0.0106416
+ },
+ "served_by": "Together",
+ "label": {
+  "content": "floor_photo",
+  "area": "garage",
+  "setting": "residential",
+  "system": "full_flake",
+  "color": "Silverado",
+  "color_confidence": "low",
+  "color_runner_up": "Granite",
+  "color_description": "light gray base with fine dark gray and black chips, small size",
+  "shot_type": "finished",
+  "people": "none",
+  "faces_identifiable": false,
+  "privacy": [],
+  "branding_visible": false,
+  "quality": "4",
+  "issues": [],
+  "website_ready": true,
+  "title": "Red Corvette on gray full flake garage floor",
+  "alt_text": "Red Corvette parked on a light gray full flake garage floor coating with coated stem wall",
+  "tags": [
+   "garage",
+   "full flake",
+   "gray floor",
+   "corvette",
+   "sports car",
+   "stem wall",
+   "finished floor",
+   "fine chips"
+  ],
+  "filename": "red-corvette-gray-flake-garage-floor"
+ },
+ "id": "a1027a171d2a",
+ "provider": "kimi",
+ "model": "moonshotai/kimi-k3",
+ "mode": "run",
+ "blind": false,
+ "at": "2026-09-17T12:46:17"
+}

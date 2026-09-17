@@ -1,0 +1,47 @@
+{
+ "finish": "stop",
+ "usage": {
+  "input_tokens": 5319,
+  "output_tokens": 221,
+  "cost": 0.0101136
+ },
+ "served_by": "Together",
+ "label": {
+  "content": "floor_photo",
+  "area": "garage",
+  "setting": "residential",
+  "system": "full_flake",
+  "color": "Chestnut",
+  "color_confidence": "medium",
+  "color_runner_up": "Santana",
+  "color_description": "small tan, brown and black chips, fine size",
+  "shot_type": "finished",
+  "people": "none",
+  "faces_identifiable": false,
+  "privacy": [],
+  "branding_visible": false,
+  "quality": "4",
+  "issues": [],
+  "website_ready": true,
+  "title": "Garage with tan full flake floor and water softener",
+  "alt_text": "Finished garage floor with tan and brown full flake coating, coated stem wall and water softener in corner, full flake garage floor coating",
+  "tags": [
+   "garage",
+   "full flake",
+   "tan chips",
+   "brown chips",
+   "finished floor",
+   "stem wall",
+   "water softener",
+   "glossy",
+   "control joints"
+  ],
+  "filename": "garage-tan-full-flake-water-softener"
+ },
+ "id": "37f617930a28",
+ "provider": "kimi",
+ "model": "moonshotai/kimi-k3",
+ "mode": "run",
+ "blind": false,
+ "at": "2026-09-17T12:45:45"
+}

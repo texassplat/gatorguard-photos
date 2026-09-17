@@ -1,0 +1,47 @@
+{
+ "finish": "stop",
+ "usage": {
+  "input_tokens": 5256,
+  "output_tokens": 171,
+  "cost": 0.00677082
+ },
+ "served_by": "Morph",
+ "label": {
+  "content": "floor_photo",
+  "area": "basement",
+  "setting": "residential",
+  "system": "solid_color_chip",
+  "color": "unknown",
+  "color_confidence": "low",
+  "color_runner_up": "unknown",
+  "color_description": "fine tan and cream chips, very small, subtle speckle",
+  "shot_type": "finished",
+  "people": "none",
+  "faces_identifiable": false,
+  "privacy": [],
+  "branding_visible": false,
+  "quality": "4",
+  "issues": [],
+  "website_ready": true,
+  "title": "Basement hallway with tan solid color chip floor",
+  "alt_text": "Finished basement hallway with a fine tan speckled solid color chip floor, seen through open French doors",
+  "tags": [
+   "basement",
+   "solid color chip",
+   "tan chips",
+   "fine flake",
+   "french doors",
+   "hallway",
+   "finished floor",
+   "residential",
+   "interior"
+  ],
+  "filename": "basement-hallway-tan-solid-color-chip-floor"
+ },
+ "id": "68c0a67c8e8f",
+ "provider": "kimi",
+ "model": "moonshotai/kimi-k3",
+ "mode": "run",
+ "blind": false,
+ "at": "2026-09-17T12:57:11"
+}

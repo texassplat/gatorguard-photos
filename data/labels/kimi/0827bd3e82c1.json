@@ -1,0 +1,46 @@
+{
+ "finish": "stop",
+ "usage": {
+  "input_tokens": 5206,
+  "output_tokens": 242,
+  "cost": 0.0100896
+ },
+ "served_by": "Together",
+ "label": {
+  "content": "floor_photo",
+  "area": "not_visible",
+  "setting": "unknown",
+  "system": "full_flake",
+  "color": "unknown",
+  "color_confidence": "low",
+  "color_runner_up": "Stone Rowe",
+  "color_description": "gray, tan and black chips, small to medium size",
+  "shot_type": "finished",
+  "people": "none",
+  "faces_identifiable": false,
+  "privacy": [],
+  "branding_visible": false,
+  "quality": "4",
+  "issues": [],
+  "website_ready": true,
+  "title": "Dog sniffing chips on full flake floor",
+  "alt_text": "Golden retriever sniffing tortilla chips on a speckled full flake coated floor",
+  "tags": [
+   "dog",
+   "pet",
+   "full flake",
+   "gray tan black chips",
+   "finished floor",
+   "pet friendly",
+   "easy cleanup",
+   "photoshoot"
+  ],
+  "filename": "dog-sniffing-chips-flake-floor"
+ },
+ "id": "0827bd3e82c1",
+ "provider": "kimi",
+ "model": "moonshotai/kimi-k3",
+ "mode": "run",
+ "blind": false,
+ "at": "2026-09-17T12:39:44"
+}

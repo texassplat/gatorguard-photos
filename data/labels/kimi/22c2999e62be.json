@@ -1,0 +1,46 @@
+{
+ "finish": "stop",
+ "usage": {
+  "input_tokens": 5321,
+  "output_tokens": 259,
+  "cost": 0.019848
+ },
+ "served_by": "Fireworks",
+ "label": {
+  "content": "floor_photo",
+  "area": "commercial_or_industrial",
+  "setting": "commercial",
+  "system": "full_flake",
+  "color": "Zircon",
+  "color_confidence": "medium",
+  "color_runner_up": "Indigo",
+  "color_description": "blue, gray, black and white chips, fine size",
+  "shot_type": "finished",
+  "people": "background",
+  "faces_identifiable": false,
+  "privacy": [],
+  "branding_visible": false,
+  "quality": "3",
+  "issues": [],
+  "website_ready": false,
+  "title": "Commercial room with blue-gray full flake floor",
+  "alt_text": "Feet at the edge of a blue, gray and black full flake floor against a white block wall in a commercial space",
+  "tags": [
+   "commercial floor",
+   "full flake",
+   "blue chips",
+   "gray chips",
+   "black chips",
+   "fine flake",
+   "block wall",
+   "finished floor"
+  ],
+  "filename": "commercial-blue-gray-full-flake-floor"
+ },
+ "id": "22c2999e62be",
+ "provider": "kimi",
+ "model": "moonshotai/kimi-k3",
+ "mode": "run",
+ "blind": false,
+ "at": "2026-09-17T12:34:37"
+}

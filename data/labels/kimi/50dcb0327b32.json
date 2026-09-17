@@ -1,0 +1,46 @@
+{
+ "finish": "stop",
+ "usage": {
+  "input_tokens": 5325,
+  "output_tokens": 295,
+  "cost": 0.0204
+ },
+ "served_by": "Parasail",
+ "label": {
+  "content": "floor_photo",
+  "area": "garage",
+  "setting": "residential",
+  "system": "full_flake",
+  "color": "Chestnut",
+  "color_confidence": "low",
+  "color_runner_up": "Stone Rowe",
+  "color_description": "tan, brown, black and white chips, small to medium size",
+  "shot_type": "finished",
+  "people": "none",
+  "faces_identifiable": false,
+  "privacy": [],
+  "branding_visible": false,
+  "quality": "3",
+  "issues": [],
+  "website_ready": false,
+  "title": "Garage floor with tan full flake coating",
+  "alt_text": "Garage with tan and brown full flake floor next to a raised plywood platform with a coiled hose.",
+  "tags": [
+   "garage",
+   "full flake",
+   "epoxy floor",
+   "tan chips",
+   "brown chips",
+   "finished floor",
+   "plywood platform",
+   "hose"
+  ],
+  "filename": "garage-tan-full-flake-floor"
+ },
+ "id": "50dcb0327b32",
+ "provider": "kimi",
+ "model": "moonshotai/kimi-k3",
+ "mode": "run",
+ "blind": false,
+ "at": "2026-09-17T12:44:20"
+}

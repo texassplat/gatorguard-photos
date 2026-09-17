@@ -1,0 +1,48 @@
+{
+ "finish": "stop",
+ "usage": {
+  "input_tokens": 5062,
+  "output_tokens": 250,
+  "cost": 0.0097776
+ },
+ "served_by": "Together",
+ "label": {
+  "content": "floor_photo",
+  "area": "garage",
+  "setting": "residential",
+  "system": "solid_color_chip",
+  "color": "Callisto",
+  "color_confidence": "low",
+  "color_runner_up": "Infinity",
+  "color_description": "light gray floor with fine light gray and white chips, glossy finish",
+  "shot_type": "finished",
+  "people": "none",
+  "faces_identifiable": false,
+  "privacy": [],
+  "branding_visible": false,
+  "quality": "4",
+  "issues": [],
+  "website_ready": true,
+  "title": "Unfinished garage with light gray chip floor",
+  "alt_text": "Glossy light gray solid color chip floor in a garage with exposed stud walls and white garage door",
+  "tags": [
+   "garage",
+   "solid color chip",
+   "gray floor",
+   "light gray chips",
+   "glossy finish",
+   "unfinished walls",
+   "stud walls",
+   "garage door",
+   "new construction",
+   "finished floor"
+  ],
+  "filename": "garage-light-gray-chip-floor"
+ },
+ "id": "f286f2a13c33",
+ "provider": "kimi",
+ "model": "moonshotai/kimi-k3",
+ "mode": "run",
+ "blind": false,
+ "at": "2026-09-17T12:57:06"
+}

@@ -1,0 +1,52 @@
+{
+ "finish": "stop",
+ "usage": {
+  "input_tokens": 4993,
+  "output_tokens": 238,
+  "cost": 0.006981195
+ },
+ "served_by": "Morph",
+ "label": {
+  "content": "vehicle_or_equipment",
+  "area": "garage",
+  "setting": "residential",
+  "system": "unknown",
+  "color": "not_applicable",
+  "color_confidence": "none",
+  "color_runner_up": "not_applicable",
+  "color_description": "",
+  "shot_type": "in_progress",
+  "people": "prominent",
+  "faces_identifiable": true,
+  "privacy": [
+   "customer_face"
+  ],
+  "branding_visible": true,
+  "quality": "3",
+  "issues": [
+   "text_overlay"
+  ],
+  "website_ready": false,
+  "title": "GatorGuard truck and crew coating garage floor",
+  "alt_text": "GatorGuard truck and crew grinding and coating a residential garage floor with HEPA vacuums",
+  "tags": [
+   "truck",
+   "crew",
+   "grinding",
+   "hepa vacuum",
+   "garage",
+   "in progress",
+   "coating",
+   "branding",
+   "text overlay",
+   "mitch"
+  ],
+  "filename": "gatoguard-truck-crew-coating-garage-floor"
+ },
+ "id": "bddf96b6f615",
+ "provider": "kimi",
+ "model": "moonshotai/kimi-k3",
+ "mode": "run",
+ "blind": false,
+ "at": "2026-09-17T12:58:55"
+}

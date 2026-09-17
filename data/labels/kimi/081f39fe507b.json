@@ -1,0 +1,46 @@
+{
+ "finish": "stop",
+ "usage": {
+  "input_tokens": 5016,
+  "output_tokens": 244,
+  "cost": 0.018708
+ },
+ "served_by": "Parasail",
+ "label": {
+  "content": "floor_photo",
+  "area": "garage",
+  "setting": "residential",
+  "system": "full_flake",
+  "color": "Ocotillo",
+  "color_confidence": "medium",
+  "color_runner_up": "Santana",
+  "color_description": "light tan base with small brown, black and white chips, fine to medium size",
+  "shot_type": "finished",
+  "people": "none",
+  "faces_identifiable": false,
+  "privacy": [],
+  "branding_visible": false,
+  "quality": "4",
+  "issues": [],
+  "website_ready": true,
+  "title": "Garage with light tan full flake floor",
+  "alt_text": "Finished garage floor with light tan full flake coating, saw cut joints and unfinished drywall, full flake garage floor coating",
+  "tags": [
+   "garage",
+   "full flake",
+   "tan floor",
+   "finished floor",
+   "saw cut joints",
+   "glossy",
+   "brown and black chips",
+   "residential"
+  ],
+  "filename": "garage-light-tan-full-flake-floor"
+ },
+ "id": "081f39fe507b",
+ "provider": "kimi",
+ "model": "moonshotai/kimi-k3",
+ "mode": "run",
+ "blind": false,
+ "at": "2026-09-17T12:42:21"
+}

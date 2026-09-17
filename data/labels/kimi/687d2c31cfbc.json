@@ -1,0 +1,48 @@
+{
+ "finish": "stop",
+ "usage": {
+  "input_tokens": 5341,
+  "output_tokens": 224,
+  "cost": 0.0102246
+ },
+ "served_by": "Together",
+ "label": {
+  "content": "floor_photo",
+  "area": "patio_or_porch",
+  "setting": "residential",
+  "system": "poly_enhance",
+  "color": "not_applicable",
+  "color_confidence": "none",
+  "color_runner_up": "not_applicable",
+  "color_description": "gray stamped concrete with a glossy wet-look clear sealer, no chips",
+  "shot_type": "finished",
+  "people": "none",
+  "faces_identifiable": false,
+  "privacy": [],
+  "branding_visible": false,
+  "quality": "4",
+  "issues": [],
+  "website_ready": true,
+  "title": "Sealed stamped concrete patio under wood pergola",
+  "alt_text": "Glossy sealed gray stamped concrete patio beside a brick house with a wood pergola, poly enhance sealer",
+  "tags": [
+   "patio",
+   "stamped concrete",
+   "poly enhance",
+   "wet look sealer",
+   "gray",
+   "pergola",
+   "brick house",
+   "outdoor",
+   "glossy",
+   "backyard"
+  ],
+  "filename": "sealed-stamped-patio-wood-pergola"
+ },
+ "id": "687d2c31cfbc",
+ "provider": "kimi",
+ "model": "moonshotai/kimi-k3",
+ "mode": "run",
+ "blind": false,
+ "at": "2026-09-17T12:55:08"
+}

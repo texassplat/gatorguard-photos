@@ -1,0 +1,46 @@
+{
+ "finish": "stop",
+ "usage": {
+  "input_tokens": 5334,
+  "output_tokens": 185,
+  "cost": 0.018777
+ },
+ "served_by": "Parasail",
+ "label": {
+  "content": "floor_photo",
+  "area": "basement",
+  "setting": "residential",
+  "system": "solid_color",
+  "color": "unknown",
+  "color_confidence": "none",
+  "color_runner_up": "not_applicable",
+  "color_description": "flat light gray glossy coating with no chips",
+  "shot_type": "finished",
+  "people": "none",
+  "faces_identifiable": false,
+  "privacy": [],
+  "branding_visible": false,
+  "quality": "4",
+  "issues": [],
+  "website_ready": true,
+  "title": "Basement with glossy gray solid color floor",
+  "alt_text": "Finished basement with glossy light gray solid color floor coating, white walls and exposed painted ceiling",
+  "tags": [
+   "basement",
+   "solid color",
+   "gray floor",
+   "glossy",
+   "finished floor",
+   "white walls",
+   "exposed ceiling",
+   "storage shelves"
+  ],
+  "filename": "basement-glossy-gray-solid-color-floor"
+ },
+ "id": "a1dad458d9df",
+ "provider": "kimi",
+ "model": "moonshotai/kimi-k3",
+ "mode": "run",
+ "blind": false,
+ "at": "2026-09-17T12:53:29"
+}

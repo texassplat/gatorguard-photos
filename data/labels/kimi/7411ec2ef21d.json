@@ -1,0 +1,48 @@
+{
+ "finish": "stop",
+ "usage": {
+  "input_tokens": 5211,
+  "output_tokens": 330,
+  "cost": 0.020583
+ },
+ "served_by": "Parasail",
+ "label": {
+  "content": "floor_photo",
+  "area": "interior_room",
+  "setting": "commercial",
+  "system": "full_flake",
+  "color": "unknown",
+  "color_confidence": "low",
+  "color_runner_up": "Avalon",
+  "color_description": "fine gray and tan chips, small size",
+  "shot_type": "finished",
+  "people": "prominent",
+  "faces_identifiable": true,
+  "privacy": [],
+  "branding_visible": false,
+  "quality": "3",
+  "issues": [
+   "dark"
+  ],
+  "website_ready": false,
+  "title": "Man entering room with gray flake floor",
+  "alt_text": "Man in green shirt walking into a room with an office chair and a gray flake coated floor",
+  "tags": [
+   "interior room",
+   "gray chips",
+   "fine flake",
+   "office chair",
+   "doorway",
+   "finished floor",
+   "gameday photoshoot",
+   "white walls"
+  ],
+  "filename": "man-entering-room-gray-flake-floor"
+ },
+ "id": "7411ec2ef21d",
+ "provider": "kimi",
+ "model": "moonshotai/kimi-k3",
+ "mode": "run",
+ "blind": false,
+ "at": "2026-09-17T12:38:39"
+}

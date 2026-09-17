@@ -1,0 +1,48 @@
+{
+ "finish": "stop",
+ "usage": {
+  "input_tokens": 5321,
+  "output_tokens": 228,
+  "cost": 0.0102246
+ },
+ "served_by": "Together",
+ "label": {
+  "content": "floor_photo",
+  "area": "patio_or_porch",
+  "setting": "residential",
+  "system": "poly_enhance",
+  "color": "not_applicable",
+  "color_confidence": "none",
+  "color_runner_up": "not_applicable",
+  "color_description": "clear wet-look sealer over exposed pebble aggregate, gray tan and brown stones",
+  "shot_type": "close_up",
+  "people": "none",
+  "faces_identifiable": false,
+  "privacy": [],
+  "branding_visible": false,
+  "quality": "3",
+  "issues": [
+   "blurry"
+  ],
+  "website_ready": false,
+  "title": "Close up of sealed exposed aggregate patio",
+  "alt_text": "Close up of wet-look sealed exposed aggregate concrete with planter and brick wall, poly enhance sealer",
+  "tags": [
+   "poly enhance",
+   "exposed aggregate",
+   "wet look sealer",
+   "close up",
+   "patio",
+   "outdoor",
+   "pebble concrete",
+   "glossy"
+  ],
+  "filename": "sealed-exposed-aggregate-close-up"
+ },
+ "id": "0eef26c52ae6",
+ "provider": "kimi",
+ "model": "moonshotai/kimi-k3",
+ "mode": "run",
+ "blind": false,
+ "at": "2026-09-17T12:55:41"
+}

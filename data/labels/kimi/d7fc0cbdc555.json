@@ -1,0 +1,47 @@
+{
+ "finish": "stop",
+ "usage": {
+  "input_tokens": 5318,
+  "output_tokens": 221,
+  "cost": 0.019269
+ },
+ "served_by": "Parasail",
+ "label": {
+  "content": "people_or_team",
+  "area": "not_visible",
+  "setting": "unknown",
+  "system": "not_applicable",
+  "color": "not_applicable",
+  "color_confidence": "none",
+  "color_runner_up": "not_applicable",
+  "color_description": "",
+  "shot_type": "team_or_portrait",
+  "people": "prominent",
+  "faces_identifiable": true,
+  "privacy": [],
+  "branding_visible": true,
+  "quality": "4",
+  "issues": [],
+  "website_ready": false,
+  "title": "Employee wearing chainmail in workshop",
+  "alt_text": "Smiling employee wearing a chainmail shirt and hood in front of a cinder block wall with equipment hoses",
+  "tags": [
+   "employee",
+   "chainmail",
+   "costume",
+   "recruiting ad",
+   "team member",
+   "workshop",
+   "cinder block wall",
+   "hoses",
+   "fun photo"
+  ],
+  "filename": "employee-wearing-chainmail-in-workshop"
+ },
+ "id": "d7fc0cbdc555",
+ "provider": "kimi",
+ "model": "moonshotai/kimi-k3",
+ "mode": "run",
+ "blind": false,
+ "at": "2026-09-17T12:35:56"
+}

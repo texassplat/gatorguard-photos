@@ -1,0 +1,47 @@
+{
+ "finish": "stop",
+ "usage": {
+  "input_tokens": 5343,
+  "output_tokens": 259,
+  "cost": 0.0107556
+ },
+ "served_by": "Together",
+ "label": {
+  "content": "floor_photo",
+  "area": "garage",
+  "setting": "residential",
+  "system": "full_flake",
+  "color": "Black Canyon",
+  "color_confidence": "low",
+  "color_runner_up": "Gun Metal",
+  "color_description": "dark mix of small black, gray and white chips, glossy clear coat",
+  "shot_type": "close_up",
+  "people": "none",
+  "faces_identifiable": false,
+  "privacy": [],
+  "branding_visible": false,
+  "quality": "4",
+  "issues": [],
+  "website_ready": true,
+  "title": "Close up of dark full flake garage floor",
+  "alt_text": "Close up of a glossy dark full flake garage floor coating with an open garage door and greenery outside",
+  "tags": [
+   "close up",
+   "full flake",
+   "garage floor",
+   "dark chips",
+   "black gray white chips",
+   "glossy",
+   "clear coat",
+   "texture",
+   "garage door"
+  ],
+  "filename": "dark-full-flake-garage-floor-close-up"
+ },
+ "id": "0b88d310262a",
+ "provider": "kimi",
+ "model": "moonshotai/kimi-k3",
+ "mode": "run",
+ "blind": false,
+ "at": "2026-09-17T12:32:01"
+}

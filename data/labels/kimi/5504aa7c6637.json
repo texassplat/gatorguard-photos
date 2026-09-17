@@ -1,0 +1,48 @@
+{
+ "finish": "stop",
+ "usage": {
+  "input_tokens": 5323,
+  "output_tokens": 295,
+  "cost": 0.0112356
+ },
+ "served_by": "Together",
+ "label": {
+  "content": "floor_photo",
+  "area": "not_visible",
+  "setting": "unknown",
+  "system": "full_flake",
+  "color": "Gun Metal",
+  "color_confidence": "low",
+  "color_runner_up": "Galaxy",
+  "color_description": "dark charcoal and black chips with gray and white flakes, small to medium size, glossy clear coat",
+  "shot_type": "close_up",
+  "people": "none",
+  "faces_identifiable": false,
+  "privacy": [],
+  "branding_visible": false,
+  "quality": "3",
+  "issues": [
+   "blurry"
+  ],
+  "website_ready": false,
+  "title": "Close up of dark full flake floor surface",
+  "alt_text": "Close up of a glossy dark full flake floor with black, gray and white chips",
+  "tags": [
+   "close up",
+   "full flake",
+   "dark flake",
+   "black chips",
+   "gray chips",
+   "glossy",
+   "clear coat",
+   "texture"
+  ],
+  "filename": "dark-full-flake-floor-close-up"
+ },
+ "id": "5504aa7c6637",
+ "provider": "kimi",
+ "model": "moonshotai/kimi-k3",
+ "mode": "run",
+ "blind": false,
+ "at": "2026-09-17T12:33:02"
+}

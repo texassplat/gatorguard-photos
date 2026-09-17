@@ -1,0 +1,46 @@
+{
+ "finish": "stop",
+ "usage": {
+  "input_tokens": 5340,
+  "output_tokens": 269,
+  "cost": 0.00841491
+ },
+ "served_by": "InferenceNet",
+ "label": {
+  "website_ready": true,
+  "title": "Garage with gray full flake floor",
+  "tags": [
+   "garage",
+   "full flake",
+   "gray chips",
+   "finished floor",
+   "stem wall coating",
+   "driveway",
+   "control joints",
+   "glossy"
+  ],
+  "system": "full_flake",
+  "shot_type": "finished",
+  "setting": "residential",
+  "quality": "5",
+  "privacy": [],
+  "people": "none",
+  "issues": [],
+  "filename": "garage-gray-full-flake-floor",
+  "faces_identifiable": false,
+  "content": "floor_photo",
+  "color_runner_up": "Stone Rowe",
+  "color_description": "gray, white and black chips, fine to medium size",
+  "color_confidence": "low",
+  "color": "unknown",
+  "branding_visible": false,
+  "area": "garage",
+  "alt_text": "Garage with gray full flake floor coating, coated stem wall and open door to driveway"
+ },
+ "id": "cd75400ccb2b",
+ "provider": "kimi",
+ "model": "moonshotai/kimi-k3",
+ "mode": "run",
+ "blind": false,
+ "at": "2026-09-17T12:41:49"
+}

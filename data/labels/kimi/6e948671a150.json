@@ -1,0 +1,48 @@
+{
+ "finish": "stop",
+ "usage": {
+  "input_tokens": 5323,
+  "output_tokens": 253,
+  "cost": 0.0106056
+ },
+ "served_by": "Together",
+ "label": {
+  "content": "floor_photo",
+  "area": "garage",
+  "setting": "residential",
+  "system": "full_flake",
+  "color": "Windermere",
+  "color_confidence": "medium",
+  "color_runner_up": "Stone Ridge",
+  "color_description": "white, gray, tan and brown chips, small to medium size",
+  "shot_type": "close_up",
+  "people": "none",
+  "faces_identifiable": false,
+  "privacy": [],
+  "branding_visible": false,
+  "quality": "4",
+  "issues": [],
+  "website_ready": true,
+  "title": "Close up of garage full flake floor",
+  "alt_text": "Close up of a glossy full flake garage floor with white, gray, tan and brown chips, garage door open to a tree and street",
+  "tags": [
+   "full flake",
+   "garage floor",
+   "close up",
+   "white chips",
+   "gray chips",
+   "tan chips",
+   "glossy",
+   "flake texture",
+   "open garage",
+   "coated concrete"
+  ],
+  "filename": "garage-full-flake-floor-close-up"
+ },
+ "id": "6e948671a150",
+ "provider": "kimi",
+ "model": "moonshotai/kimi-k3",
+ "mode": "run",
+ "blind": false,
+ "at": "2026-09-17T12:33:10"
+}

@@ -1,0 +1,47 @@
+{
+ "finish": "stop",
+ "usage": {
+  "input_tokens": 5212,
+  "output_tokens": 190,
+  "cost": 0.01290492
+ },
+ "served_by": "Phala",
+ "label": {
+  "alt_text": "Red sports car parked on a dark swirled metallic epoxy garage floor",
+  "area": "garage",
+  "branding_visible": false,
+  "color": "Charcoal",
+  "color_confidence": "medium",
+  "color_description": "dark gray and black swirled metallic, glossy and marbled",
+  "color_runner_up": "Gray",
+  "content": "floor_photo",
+  "faces_identifiable": false,
+  "filename": "red-corvette-dark-metallic-garage-floor",
+  "issues": [],
+  "people": "none",
+  "privacy": [],
+  "quality": "5",
+  "setting": "residential",
+  "shot_type": "finished",
+  "system": "metallic",
+  "tags": [
+   "metallic epoxy",
+   "liquid art",
+   "garage floor",
+   "dark gray metallic",
+   "swirled",
+   "glossy",
+   "red corvette",
+   "sports car",
+   "finished floor"
+  ],
+  "title": "Red Corvette on dark metallic garage floor",
+  "website_ready": true
+ },
+ "id": "1be4a07316a4",
+ "provider": "kimi",
+ "model": "moonshotai/kimi-k3",
+ "mode": "run",
+ "blind": false,
+ "at": "2026-09-17T12:50:19"
+}

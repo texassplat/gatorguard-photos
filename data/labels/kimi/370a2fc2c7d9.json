@@ -1,0 +1,46 @@
+{
+ "finish": "stop",
+ "usage": {
+  "input_tokens": 5324,
+  "output_tokens": 209,
+  "cost": 0.019107
+ },
+ "served_by": "Parasail",
+ "label": {
+  "content": "floor_photo",
+  "area": "garage",
+  "setting": "residential",
+  "system": "full_flake",
+  "color": "Chestnut",
+  "color_confidence": "medium",
+  "color_runner_up": "Santana",
+  "color_description": "tan, brown, black and white chips, small to medium size",
+  "shot_type": "finished",
+  "people": "none",
+  "faces_identifiable": false,
+  "privacy": [],
+  "branding_visible": false,
+  "quality": "4",
+  "issues": [],
+  "website_ready": true,
+  "title": "Garage with tan and brown full flake floor",
+  "alt_text": "Garage with full flake floor coating in tan, brown and black chips, cabinets and workbench along wall",
+  "tags": [
+   "garage",
+   "full flake",
+   "tan chips",
+   "brown chips",
+   "cabinets",
+   "workbench",
+   "finished floor",
+   "residential"
+  ],
+  "filename": "garage-tan-full-flake-floor"
+ },
+ "id": "370a2fc2c7d9",
+ "provider": "kimi",
+ "model": "moonshotai/kimi-k3",
+ "mode": "run",
+ "blind": false,
+ "at": "2026-09-17T12:45:58"
+}

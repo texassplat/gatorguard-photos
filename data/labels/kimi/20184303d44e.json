@@ -1,0 +1,46 @@
+{
+ "finish": "stop",
+ "usage": {
+  "input_tokens": 5335,
+  "output_tokens": 178,
+  "cost": 0.0095166
+ },
+ "served_by": "Together",
+ "label": {
+  "content": "floor_photo",
+  "area": "commercial_or_industrial",
+  "setting": "commercial",
+  "system": "solid_color",
+  "color": "unknown",
+  "color_confidence": "none",
+  "color_runner_up": "not_applicable",
+  "color_description": "flat gray green coating, no chips",
+  "shot_type": "finished",
+  "people": "none",
+  "faces_identifiable": false,
+  "privacy": [],
+  "branding_visible": false,
+  "quality": "4",
+  "issues": [],
+  "website_ready": true,
+  "title": "Commercial garage with solid gray green floor",
+  "alt_text": "Large commercial garage with glossy solid gray green coated floor and open overhead doors",
+  "tags": [
+   "commercial",
+   "garage",
+   "solid color",
+   "gray floor",
+   "glossy",
+   "overhead doors",
+   "large space",
+   "finished floor"
+  ],
+  "filename": "commercial-garage-solid-gray-floor"
+ },
+ "id": "20184303d44e",
+ "provider": "kimi",
+ "model": "moonshotai/kimi-k3",
+ "mode": "run",
+ "blind": false,
+ "at": "2026-09-17T12:33:23"
+}

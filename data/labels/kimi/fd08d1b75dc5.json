@@ -1,0 +1,45 @@
+{
+ "finish": "stop",
+ "usage": {
+  "input_tokens": 5313,
+  "output_tokens": 190,
+  "cost": 0.0096306
+ },
+ "served_by": "Together",
+ "label": {
+  "content": "floor_photo",
+  "area": "not_visible",
+  "setting": "unknown",
+  "system": "solid_color",
+  "color": "unknown",
+  "color_confidence": "none",
+  "color_runner_up": "not_applicable",
+  "color_description": "bright red solid coating, no chips",
+  "shot_type": "in_progress",
+  "people": "prominent",
+  "faces_identifiable": false,
+  "privacy": [],
+  "branding_visible": false,
+  "quality": "3",
+  "issues": [],
+  "website_ready": false,
+  "title": "Crew applying bright red solid color floor coating",
+  "alt_text": "Worker brushing red coating along the edge of a freshly coated red concrete floor",
+  "tags": [
+   "red floor",
+   "solid color coating",
+   "in progress",
+   "brushing edges",
+   "crew working",
+   "wet coating",
+   "concrete floor"
+  ],
+  "filename": "applying-red-solid-color-coating"
+ },
+ "id": "fd08d1b75dc5",
+ "provider": "kimi",
+ "model": "moonshotai/kimi-k3",
+ "mode": "run",
+ "blind": false,
+ "at": "2026-09-17T12:54:12"
+}

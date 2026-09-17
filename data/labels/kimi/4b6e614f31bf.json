@@ -1,0 +1,47 @@
+{
+ "finish": "stop",
+ "usage": {
+  "input_tokens": 4910,
+  "output_tokens": 187,
+  "cost": 0.0083766
+ },
+ "served_by": "Together",
+ "label": {
+  "content": "floor_photo",
+  "area": "commercial_or_industrial",
+  "setting": "commercial",
+  "system": "solid_color",
+  "color": "unknown",
+  "color_confidence": "none",
+  "color_runner_up": "not_applicable",
+  "color_description": "solid light tan coating, no chips",
+  "shot_type": "finished",
+  "people": "none",
+  "faces_identifiable": false,
+  "privacy": [],
+  "branding_visible": false,
+  "quality": "3",
+  "issues": [
+   "cluttered"
+  ],
+  "website_ready": false,
+  "title": "Bathroom with solid tan coated floor",
+  "alt_text": "Bathroom with glossy solid tan coated concrete floor, glass shower and wood vanity",
+  "tags": [
+   "bathroom",
+   "solid color floor",
+   "tan floor",
+   "glossy coating",
+   "shower",
+   "vanity",
+   "commercial"
+  ],
+  "filename": "bathroom-solid-tan-coated-floor"
+ },
+ "id": "4b6e614f31bf",
+ "provider": "kimi",
+ "model": "moonshotai/kimi-k3",
+ "mode": "run",
+ "blind": false,
+ "at": "2026-09-17T12:33:31"
+}

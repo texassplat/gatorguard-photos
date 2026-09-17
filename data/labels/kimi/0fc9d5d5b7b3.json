@@ -1,0 +1,50 @@
+{
+ "finish": "stop",
+ "usage": {
+  "input_tokens": 4998,
+  "output_tokens": 264,
+  "cost": 0.018954
+ },
+ "served_by": "Parasail",
+ "label": {
+  "content": "floor_photo",
+  "area": "patio_or_porch",
+  "setting": "residential",
+  "system": "full_flake",
+  "color": "unknown",
+  "color_confidence": "low",
+  "color_runner_up": "Granite",
+  "color_description": "warm gray-tan base with fine gray, white and brown chips",
+  "shot_type": "finished",
+  "people": "none",
+  "faces_identifiable": false,
+  "privacy": [],
+  "branding_visible": false,
+  "quality": "4",
+  "issues": [
+   "wet_or_dirty"
+  ],
+  "website_ready": true,
+  "title": "Raised brick porch with gray tan flake floor",
+  "alt_text": "Raised brick home porch with speckled gray tan flake floor coating, wet glossy finish, full flake patio floor",
+  "tags": [
+   "porch",
+   "patio",
+   "exterior",
+   "full flake",
+   "gray tan chips",
+   "brick house",
+   "wet look",
+   "raised patio",
+   "finished floor",
+   "landscaping"
+  ],
+  "filename": "brick-porch-gray-tan-flake-floor"
+ },
+ "id": "0fc9d5d5b7b3",
+ "provider": "kimi",
+ "model": "moonshotai/kimi-k3",
+ "mode": "run",
+ "blind": false,
+ "at": "2026-09-17T12:37:19"
+}

@@ -1,0 +1,47 @@
+{
+ "finish": "stop",
+ "usage": {
+  "input_tokens": 5321,
+  "output_tokens": 222,
+  "cost": 0.0101346
+ },
+ "served_by": "Together",
+ "label": {
+  "content": "floor_photo",
+  "area": "driveway_or_walkway",
+  "setting": "residential",
+  "system": "poly_enhance",
+  "color": "not_applicable",
+  "color_confidence": "none",
+  "color_runner_up": "not_applicable",
+  "color_description": "red, tan and gray brick pavers with a glossy wet-look sealer",
+  "shot_type": "finished",
+  "people": "none",
+  "faces_identifiable": false,
+  "privacy": [],
+  "branding_visible": false,
+  "quality": "4",
+  "issues": [],
+  "website_ready": true,
+  "title": "Wet-look sealed brick walkway by garden",
+  "alt_text": "Brick paver walkway with glossy wet-look sealer beside a brick house and flower beds, poly enhance sealer",
+  "tags": [
+   "walkway",
+   "brick pavers",
+   "wet look",
+   "sealer",
+   "glossy",
+   "exterior",
+   "garden",
+   "residential",
+   "poly enhance"
+  ],
+  "filename": "sealed-brick-paver-walkway-garden"
+ },
+ "id": "32ae1b501da4",
+ "provider": "kimi",
+ "model": "moonshotai/kimi-k3",
+ "mode": "run",
+ "blind": false,
+ "at": "2026-09-17T12:55:21"
+}

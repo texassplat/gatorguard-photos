@@ -1,0 +1,46 @@
+{
+ "finish": "stop",
+ "usage": {
+  "input_tokens": 5321,
+  "output_tokens": 203,
+  "cost": 0.0098496
+ },
+ "served_by": "Together",
+ "label": {
+  "content": "floor_photo",
+  "area": "interior_room",
+  "setting": "residential",
+  "system": "solid_color_chip",
+  "color": "unknown",
+  "color_confidence": "low",
+  "color_runner_up": "unknown",
+  "color_description": "blue-gray floor with fine gray and white chips, single-tone look",
+  "shot_type": "finished",
+  "people": "none",
+  "faces_identifiable": false,
+  "privacy": [],
+  "branding_visible": false,
+  "quality": "4",
+  "issues": [],
+  "website_ready": true,
+  "title": "Utility room with blue-gray solid color chip floor",
+  "alt_text": "Small utility room with blue walls and a blue-gray solid color chip floor with a floor drain",
+  "tags": [
+   "solid color chip",
+   "utility room",
+   "laundry room",
+   "blue gray floor",
+   "floor drain",
+   "finished floor",
+   "interior",
+   "fine chips"
+  ],
+  "filename": "utility-room-blue-gray-chip-floor"
+ },
+ "id": "8edc5e003854",
+ "provider": "kimi",
+ "model": "moonshotai/kimi-k3",
+ "mode": "run",
+ "blind": false,
+ "at": "2026-09-17T12:56:54"
+}

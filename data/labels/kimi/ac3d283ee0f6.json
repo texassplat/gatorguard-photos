@@ -1,0 +1,46 @@
+{
+ "finish": "stop",
+ "usage": {
+  "input_tokens": 5336,
+  "output_tokens": 241,
+  "cost": 0.0104646
+ },
+ "served_by": "Together",
+ "label": {
+  "content": "floor_photo",
+  "area": "garage",
+  "setting": "residential",
+  "system": "full_flake",
+  "color": "Granite",
+  "color_confidence": "medium",
+  "color_runner_up": "Stone Rowe",
+  "color_description": "gray, black and white chips, small to medium size",
+  "shot_type": "finished",
+  "people": "none",
+  "faces_identifiable": false,
+  "privacy": [],
+  "branding_visible": false,
+  "quality": "4",
+  "issues": [],
+  "website_ready": true,
+  "title": "Garage with gray full flake floor and coated steps",
+  "alt_text": "Glossy gray full flake garage floor with matching coated steps, epoxy flake garage floor coating",
+  "tags": [
+   "garage",
+   "full flake",
+   "gray chips",
+   "glossy",
+   "coated steps",
+   "black and white chips",
+   "finished floor",
+   "stem wall"
+  ],
+  "filename": "garage-gray-full-flake-floor-steps"
+ },
+ "id": "ac3d283ee0f6",
+ "provider": "kimi",
+ "model": "moonshotai/kimi-k3",
+ "mode": "run",
+ "blind": false,
+ "at": "2026-09-17T12:41:25"
+}

@@ -1,0 +1,46 @@
+{
+ "finish": "stop",
+ "usage": {
+  "input_tokens": 5320,
+  "output_tokens": 231,
+  "cost": 0.0102666
+ },
+ "served_by": "Together",
+ "label": {
+  "content": "floor_photo",
+  "area": "garage",
+  "setting": "residential",
+  "system": "full_flake",
+  "color": "Ocotillo",
+  "color_confidence": "low",
+  "color_runner_up": "Santana",
+  "color_description": "tan base with brown, black and white chips, small to medium size",
+  "shot_type": "finished",
+  "people": "none",
+  "faces_identifiable": false,
+  "privacy": [],
+  "branding_visible": false,
+  "quality": "4",
+  "issues": [],
+  "website_ready": true,
+  "title": "Vintage dark blue car on tan flake garage floor",
+  "alt_text": "Front of a shiny dark blue vintage car parked on a tan full flake garage floor coating",
+  "tags": [
+   "garage",
+   "full flake",
+   "vintage car",
+   "classic car",
+   "tan chips",
+   "brown chips",
+   "finished floor",
+   "dark blue car"
+  ],
+  "filename": "vintage-car-tan-flake-garage-floor"
+ },
+ "id": "5d622e7062c5",
+ "provider": "kimi",
+ "model": "moonshotai/kimi-k3",
+ "mode": "run",
+ "blind": false,
+ "at": "2026-09-17T12:43:16"
+}

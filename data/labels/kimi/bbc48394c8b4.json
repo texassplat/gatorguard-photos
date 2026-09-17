@@ -1,0 +1,50 @@
+{
+ "finish": "stop",
+ "usage": {
+  "input_tokens": 5328,
+  "output_tokens": 218,
+  "cost": 0.0100956
+ },
+ "served_by": "Together",
+ "label": {
+  "content": "floor_photo",
+  "area": "not_visible",
+  "setting": "unknown",
+  "system": "metallic",
+  "color": "Charcoal",
+  "color_confidence": "low",
+  "color_runner_up": "Gray",
+  "color_description": "dark charcoal gray metallic with lighter gray swirls, glossy marbled finish",
+  "shot_type": "close_up",
+  "people": "none",
+  "faces_identifiable": false,
+  "privacy": [],
+  "branding_visible": false,
+  "quality": "3",
+  "issues": [
+   "dark",
+   "wet_or_dirty"
+  ],
+  "website_ready": false,
+  "title": "Dark charcoal metallic epoxy floor close up",
+  "alt_text": "Close up of a dark gray metallic epoxy floor with marbled swirls and a wet footprint, metallic floor coating",
+  "tags": [
+   "metallic epoxy",
+   "liquid art",
+   "charcoal",
+   "dark gray",
+   "marbled",
+   "swirl",
+   "close up",
+   "glossy",
+   "footprint"
+  ],
+  "filename": "dark-charcoal-metallic-floor-close-up"
+ },
+ "id": "bbc48394c8b4",
+ "provider": "kimi",
+ "model": "moonshotai/kimi-k3",
+ "mode": "run",
+ "blind": false,
+ "at": "2026-09-17T12:50:49"
+}

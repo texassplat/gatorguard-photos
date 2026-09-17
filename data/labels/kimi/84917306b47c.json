@@ -1,0 +1,47 @@
+{
+ "finish": "stop",
+ "usage": {
+  "input_tokens": 5312,
+  "output_tokens": 201,
+  "cost": 0.0097926
+ },
+ "served_by": "Together",
+ "label": {
+  "content": "floor_photo",
+  "area": "garage",
+  "setting": "residential",
+  "system": "solid_color",
+  "color": "unknown",
+  "color_confidence": "none",
+  "color_runner_up": "not_applicable",
+  "color_description": "solid glossy red floor, no chips visible",
+  "shot_type": "finished",
+  "people": "none",
+  "faces_identifiable": false,
+  "privacy": [],
+  "branding_visible": false,
+  "quality": "4",
+  "issues": [],
+  "website_ready": true,
+  "title": "Garage with glossy red solid color floor",
+  "alt_text": "Garage with glossy red solid color floor coating, white walls, shelves and hanging garden hose",
+  "tags": [
+   "garage",
+   "red floor",
+   "solid color",
+   "glossy",
+   "finished floor",
+   "white walls",
+   "shelving",
+   "hose",
+   "old style"
+  ],
+  "filename": "garage-glossy-red-solid-color-floor"
+ },
+ "id": "84917306b47c",
+ "provider": "kimi",
+ "model": "moonshotai/kimi-k3",
+ "mode": "run",
+ "blind": false,
+ "at": "2026-09-17T12:53:54"
+}

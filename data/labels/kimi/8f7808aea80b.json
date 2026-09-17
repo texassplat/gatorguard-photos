@@ -1,0 +1,47 @@
+{
+ "finish": "stop",
+ "usage": {
+  "input_tokens": 5011,
+  "output_tokens": 249,
+  "cost": 0.0096096
+ },
+ "served_by": "Together",
+ "label": {
+  "content": "floor_photo",
+  "area": "garage",
+  "setting": "residential",
+  "system": "full_flake",
+  "color": "Granite",
+  "color_confidence": "medium",
+  "color_runner_up": "Quartzite",
+  "color_description": "light gray base with white, gray and black chips, small to medium size",
+  "shot_type": "finished",
+  "people": "none",
+  "faces_identifiable": false,
+  "privacy": [],
+  "branding_visible": false,
+  "quality": "4",
+  "issues": [],
+  "website_ready": true,
+  "title": "Garage with car lifts and gray full flake floor",
+  "alt_text": "Spacious white garage with two red car lifts on a gray full flake garage floor coating",
+  "tags": [
+   "garage",
+   "full flake",
+   "gray chips",
+   "car lift",
+   "auto lift",
+   "white walls",
+   "finished floor",
+   "led lighting",
+   "garage door"
+  ],
+  "filename": "garage-car-lifts-gray-full-flake"
+ },
+ "id": "8f7808aea80b",
+ "provider": "kimi",
+ "model": "moonshotai/kimi-k3",
+ "mode": "run",
+ "blind": false,
+ "at": "2026-09-17T12:43:05"
+}

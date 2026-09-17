@@ -1,0 +1,47 @@
+{
+ "finish": "stop",
+ "usage": {
+  "input_tokens": 5341,
+  "output_tokens": 313,
+  "cost": 0.020718
+ },
+ "served_by": "Fireworks",
+ "label": {
+  "content": "floor_photo",
+  "area": "garage",
+  "setting": "residential",
+  "system": "full_flake",
+  "color": "Santana",
+  "color_confidence": "medium",
+  "color_runner_up": "Chestnut",
+  "color_description": "tan, brown, black and cream chips, medium size",
+  "shot_type": "finished",
+  "people": "none",
+  "faces_identifiable": false,
+  "privacy": [],
+  "branding_visible": false,
+  "quality": "4",
+  "issues": [],
+  "website_ready": true,
+  "title": "Garage with tan full flake floor and coated step",
+  "alt_text": "Garage floor with tan, brown and black full flake coating, coated stem wall and raised step by a side door",
+  "tags": [
+   "garage",
+   "full flake",
+   "tan chips",
+   "brown chips",
+   "stem wall",
+   "garage step",
+   "finished floor",
+   "white walls",
+   "flake floor coating"
+  ],
+  "filename": "garage-tan-full-flake-coated-step"
+ },
+ "id": "68577fe55f00",
+ "provider": "kimi",
+ "model": "moonshotai/kimi-k3",
+ "mode": "run",
+ "blind": false,
+ "at": "2026-09-17T12:40:47"
+}

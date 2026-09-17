@@ -1,0 +1,47 @@
+{
+ "finish": "stop",
+ "usage": {
+  "input_tokens": 4839,
+  "output_tokens": 232,
+  "cost": 0.0127023
+ },
+ "served_by": "InferenceNet",
+ "label": {
+  "website_ready": true,
+  "title": "Low angle full flake patio with GatorGuard truck",
+  "tags": [
+   "patio",
+   "full flake",
+   "gatorguard truck",
+   "tan chips",
+   "exterior",
+   "low angle",
+   "residential",
+   "sunny",
+   "finished floor"
+  ],
+  "system": "full_flake",
+  "shot_type": "finished",
+  "setting": "residential",
+  "quality": "4",
+  "privacy": [],
+  "people": "none",
+  "issues": [],
+  "filename": "low-angle-flake-patio-gatorguard-truck",
+  "faces_identifiable": false,
+  "content": "floor_photo",
+  "color_runner_up": "Santana",
+  "color_description": "tan and brown chips with black specks, small to medium size",
+  "color_confidence": "medium",
+  "color": "Chestnut",
+  "branding_visible": true,
+  "area": "patio_or_porch",
+  "alt_text": "Low angle view of a tan full flake coated patio with a GatorGuard truck parked in the driveway behind it."
+ },
+ "id": "f1c0315e9c6f",
+ "provider": "kimi",
+ "model": "moonshotai/kimi-k3",
+ "mode": "run",
+ "blind": false,
+ "at": "2026-09-17T12:38:25"
+}

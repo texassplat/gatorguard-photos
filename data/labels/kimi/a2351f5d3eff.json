@@ -1,0 +1,48 @@
+{
+ "finish": "stop",
+ "usage": {
+  "input_tokens": 5329,
+  "output_tokens": 231,
+  "cost": 0.019452
+ },
+ "served_by": "Fireworks",
+ "label": {
+  "content": "floor_photo",
+  "area": "patio_or_porch",
+  "setting": "residential",
+  "system": "full_flake",
+  "color": "Stone Rowe",
+  "color_confidence": "medium",
+  "color_runner_up": "Granite",
+  "color_description": "gray, white and black chips with slight tan, medium size, glossy clear coat",
+  "shot_type": "finished",
+  "people": "none",
+  "faces_identifiable": false,
+  "privacy": [],
+  "branding_visible": false,
+  "quality": "4",
+  "issues": [],
+  "website_ready": true,
+  "title": "Brick porch with gray full flake floor",
+  "alt_text": "Covered brick porch with glossy gray, white and black full flake floor coating in sunlight",
+  "tags": [
+   "porch",
+   "full flake",
+   "exterior",
+   "brick columns",
+   "gray chips",
+   "white chips",
+   "black chips",
+   "glossy",
+   "residential",
+   "finished floor"
+  ],
+  "filename": "brick-porch-gray-full-flake"
+ },
+ "id": "a2351f5d3eff",
+ "provider": "kimi",
+ "model": "moonshotai/kimi-k3",
+ "mode": "run",
+ "blind": false,
+ "at": "2026-09-17T12:37:43"
+}

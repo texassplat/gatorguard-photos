@@ -1,0 +1,47 @@
+{
+ "finish": "stop",
+ "usage": {
+  "input_tokens": 5326,
+  "output_tokens": 228,
+  "cost": 0.0102396
+ },
+ "served_by": "Together",
+ "label": {
+  "content": "floor_photo",
+  "area": "patio_or_porch",
+  "setting": "residential",
+  "system": "full_flake",
+  "color": "Silverado",
+  "color_confidence": "low",
+  "color_runner_up": "Avalon",
+  "color_description": "gray base with fine tan, white and gray chips, small size",
+  "shot_type": "finished",
+  "people": "none",
+  "faces_identifiable": false,
+  "privacy": [],
+  "branding_visible": false,
+  "quality": "4",
+  "issues": [],
+  "website_ready": true,
+  "title": "Screened porch with gray full flake floor",
+  "alt_text": "Gray full flake coated porch floor beside a white framed screen enclosure, full flake porch floor coating",
+  "tags": [
+   "porch",
+   "exterior",
+   "full flake",
+   "gray chips",
+   "tan chips",
+   "screen enclosure",
+   "glossy",
+   "finished floor",
+   "residential"
+  ],
+  "filename": "gray-full-flake-screened-porch-floor"
+ },
+ "id": "223971d49da8",
+ "provider": "kimi",
+ "model": "moonshotai/kimi-k3",
+ "mode": "run",
+ "blind": false,
+ "at": "2026-09-17T12:36:48"
+}

@@ -1,0 +1,47 @@
+{
+ "finish": "stop",
+ "usage": {
+  "input_tokens": 5329,
+  "output_tokens": 265,
+  "cost": 0.0108036
+ },
+ "served_by": "Together",
+ "label": {
+  "content": "floor_photo",
+  "area": "garage",
+  "setting": "residential",
+  "system": "full_flake",
+  "color": "Granite",
+  "color_confidence": "medium",
+  "color_runner_up": "Stone Ridge",
+  "color_description": "gray, white, black and light tan chips, medium size",
+  "shot_type": "close_up",
+  "people": "none",
+  "faces_identifiable": false,
+  "privacy": [],
+  "branding_visible": false,
+  "quality": "4",
+  "issues": [],
+  "website_ready": true,
+  "title": "Low angle garage full flake floor edge",
+  "alt_text": "Low angle view of a gray full flake garage floor meeting the driveway edge, with grill and storage shelves. Full flake garage floor coating.",
+  "tags": [
+   "garage",
+   "full flake",
+   "gray chips",
+   "low angle",
+   "garage door edge",
+   "crisp line",
+   "grill",
+   "shelves",
+   "finished floor"
+  ],
+  "filename": "garage-full-flake-floor-edge-low-angle"
+ },
+ "id": "ef106fb9e091",
+ "provider": "kimi",
+ "model": "moonshotai/kimi-k3",
+ "mode": "run",
+ "blind": false,
+ "at": "2026-09-17T12:35:23"
+}

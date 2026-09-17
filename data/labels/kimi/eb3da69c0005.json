@@ -1,0 +1,50 @@
+{
+ "finish": "stop",
+ "usage": {
+  "input_tokens": 4839,
+  "output_tokens": 172,
+  "cost": 0.005999445
+ },
+ "served_by": "Morph",
+ "label": {
+  "content": "floor_photo",
+  "area": "commercial_or_industrial",
+  "setting": "commercial",
+  "system": "full_flake",
+  "color": "unknown",
+  "color_confidence": "low",
+  "color_runner_up": "unknown",
+  "color_description": "brown, tan and black chips, small to medium size",
+  "shot_type": "in_progress",
+  "people": "prominent",
+  "faces_identifiable": false,
+  "privacy": [],
+  "branding_visible": false,
+  "quality": "2",
+  "issues": [
+   "low_resolution",
+   "cluttered",
+   "text_overlay"
+  ],
+  "website_ready": false,
+  "title": "Worker rolling topcoat on brown flake floor",
+  "alt_text": "Worker rolling clear topcoat onto a brown full flake floor with red squiggle marks, commercial space",
+  "tags": [
+   "full flake",
+   "in progress",
+   "topcoat rolling",
+   "brown chips",
+   "commercial floor",
+   "red markings",
+   "crew working",
+   "old style"
+  ],
+  "filename": "worker-rolling-brown-flake-floor"
+ },
+ "id": "eb3da69c0005",
+ "provider": "kimi",
+ "model": "moonshotai/kimi-k3",
+ "mode": "run",
+ "blind": false,
+ "at": "2026-09-17T12:53:49"
+}

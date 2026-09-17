@@ -1,0 +1,47 @@
+{
+ "finish": "stop",
+ "usage": {
+  "input_tokens": 5339,
+  "output_tokens": 244,
+  "cost": 0.0105186
+ },
+ "served_by": "Together",
+ "label": {
+  "content": "floor_photo",
+  "area": "garage",
+  "setting": "residential",
+  "system": "full_flake",
+  "color": "Stone Crest",
+  "color_confidence": "medium",
+  "color_runner_up": "Granite",
+  "color_description": "gray base with white, black, rust red and tan chips, small to medium size",
+  "shot_type": "finished",
+  "people": "background",
+  "faces_identifiable": false,
+  "privacy": [],
+  "branding_visible": false,
+  "quality": "4",
+  "issues": [],
+  "website_ready": true,
+  "title": "Garage floor with gray and red flake coating",
+  "alt_text": "Low angle view of a finished full flake garage floor with gray, white, black and rust red chips, cabinets in background",
+  "tags": [
+   "garage",
+   "full flake",
+   "gray chips",
+   "red chips",
+   "white chips",
+   "glossy finish",
+   "cabinets",
+   "finished floor",
+   "low angle"
+  ],
+  "filename": "garage-gray-red-full-flake-floor"
+ },
+ "id": "a74273ea57ac",
+ "provider": "kimi",
+ "model": "moonshotai/kimi-k3",
+ "mode": "run",
+ "blind": false,
+ "at": "2026-09-17T12:40:47"
+}

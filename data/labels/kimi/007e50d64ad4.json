@@ -1,0 +1,46 @@
+{
+ "finish": "stop",
+ "usage": {
+  "input_tokens": 5332,
+  "output_tokens": 293,
+  "cost": 0.0112326
+ },
+ "served_by": "Together",
+ "label": {
+  "content": "floor_photo",
+  "area": "commercial_or_industrial",
+  "setting": "commercial",
+  "system": "full_flake",
+  "color": "Stone Ridge",
+  "color_confidence": "low",
+  "color_runner_up": "Indigo",
+  "color_description": "gray, black and tan chips, medium size, glossy clear coat",
+  "shot_type": "finished",
+  "people": "background",
+  "faces_identifiable": false,
+  "privacy": [],
+  "branding_visible": false,
+  "quality": "4",
+  "issues": [],
+  "website_ready": true,
+  "title": "Commercial shop floor with gray full flake coating",
+  "alt_text": "Low angle view of a glossy gray full flake coated floor in a commercial shop with workbenches and two people in the background",
+  "tags": [
+   "commercial floor",
+   "full flake",
+   "gray chips",
+   "glossy floor",
+   "workshop",
+   "low angle",
+   "garage door",
+   "finished floor"
+  ],
+  "filename": "commercial-shop-gray-full-flake-floor"
+ },
+ "id": "007e50d64ad4",
+ "provider": "kimi",
+ "model": "moonshotai/kimi-k3",
+ "mode": "run",
+ "blind": false,
+ "at": "2026-09-17T12:33:25"
+}

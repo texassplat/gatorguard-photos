@@ -1,0 +1,48 @@
+{
+ "finish": "stop",
+ "usage": {
+  "input_tokens": 5206,
+  "output_tokens": 197,
+  "cost": 0.0094146
+ },
+ "served_by": "Together",
+ "label": {
+  "content": "floor_photo",
+  "area": "not_visible",
+  "setting": "unknown",
+  "system": "full_flake",
+  "color": "unknown",
+  "color_confidence": "low",
+  "color_runner_up": "Stone Ridge",
+  "color_description": "gray base with white, black and tan chips, small to medium size",
+  "shot_type": "close_up",
+  "people": "none",
+  "faces_identifiable": false,
+  "privacy": [],
+  "branding_visible": false,
+  "quality": "4",
+  "issues": [
+   "wet_or_dirty"
+  ],
+  "website_ready": false,
+  "title": "Soda can spilling on gray flake floor",
+  "alt_text": "A red soda can tipped over with soda pooling on a gray full flake garage floor coating",
+  "tags": [
+   "full flake",
+   "spill test",
+   "soda can",
+   "gray chips",
+   "stain resistance",
+   "gameday photoshoot",
+   "close up",
+   "wet floor"
+  ],
+  "filename": "soda-spill-gray-flake-floor"
+ },
+ "id": "a873e1837325",
+ "provider": "kimi",
+ "model": "moonshotai/kimi-k3",
+ "mode": "run",
+ "blind": false,
+ "at": "2026-09-17T12:40:29"
+}

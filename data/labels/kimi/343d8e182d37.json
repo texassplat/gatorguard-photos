@@ -1,0 +1,47 @@
+{
+ "finish": "stop",
+ "usage": {
+  "input_tokens": 5213,
+  "output_tokens": 298,
+  "cost": 0.020109
+ },
+ "served_by": "Parasail",
+ "label": {
+  "content": "floor_photo",
+  "area": "garage",
+  "setting": "residential",
+  "system": "full_flake",
+  "color": "Granite",
+  "color_confidence": "medium",
+  "color_runner_up": "Stone Rowe",
+  "color_description": "gray base with black, white and gray chips, small to medium size",
+  "shot_type": "finished",
+  "people": "none",
+  "faces_identifiable": false,
+  "privacy": [],
+  "branding_visible": false,
+  "quality": "5",
+  "issues": [],
+  "website_ready": true,
+  "title": "Garage with gray full flake floor and coated stem walls",
+  "alt_text": "Empty garage with a gray full flake floor coating, coated stem walls, wall grid rack and entry steps",
+  "tags": [
+   "garage",
+   "full flake",
+   "gray floor",
+   "black white gray chips",
+   "stem wall coating",
+   "wall grid rack",
+   "finished floor",
+   "steps",
+   "clean garage"
+  ],
+  "filename": "garage-gray-full-flake-stem-walls"
+ },
+ "id": "343d8e182d37",
+ "provider": "kimi",
+ "model": "moonshotai/kimi-k3",
+ "mode": "run",
+ "blind": false,
+ "at": "2026-09-17T12:45:49"
+}

@@ -1,0 +1,49 @@
+{
+ "finish": "stop",
+ "usage": {
+  "input_tokens": 5197,
+  "output_tokens": 261,
+  "cost": 0.019506
+ },
+ "served_by": "Parasail",
+ "label": {
+  "content": "floor_photo",
+  "area": "commercial_or_industrial",
+  "setting": "commercial",
+  "system": "full_flake",
+  "color": "Ocotillo",
+  "color_confidence": "medium",
+  "color_runner_up": "Santana",
+  "color_description": "tan base with brown, black and white chips, small to medium size",
+  "shot_type": "finished",
+  "people": "none",
+  "faces_identifiable": false,
+  "privacy": [],
+  "branding_visible": false,
+  "quality": "3",
+  "issues": [
+   "cluttered"
+  ],
+  "website_ready": false,
+  "title": "Commercial kitchen with tan full flake floor",
+  "alt_text": "Commercial kitchen with tan, brown and black full flake floor coating between stainless refrigerators and shelving",
+  "tags": [
+   "commercial kitchen",
+   "full flake",
+   "tan chips",
+   "brown chips",
+   "stainless steel",
+   "refrigerators",
+   "restaurant floor",
+   "slip resistant flake",
+   "food service"
+  ],
+  "filename": "commercial-kitchen-tan-flake-floor"
+ },
+ "id": "8bdc8d3e5fd3",
+ "provider": "kimi",
+ "model": "moonshotai/kimi-k3",
+ "mode": "run",
+ "blind": false,
+ "at": "2026-09-17T12:34:04"
+}

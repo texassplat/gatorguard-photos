@@ -1,0 +1,47 @@
+{
+ "finish": "stop",
+ "usage": {
+  "input_tokens": 5337,
+  "output_tokens": 236,
+  "cost": 0.010047
+ },
+ "served_by": "Together",
+ "label": {
+  "content": "floor_photo",
+  "area": "basement",
+  "setting": "residential",
+  "system": "full_flake",
+  "color": "Zircon",
+  "color_confidence": "medium",
+  "color_runner_up": "Granite",
+  "color_description": "gray, black and white chips, medium size, glossy clear coat",
+  "shot_type": "finished",
+  "people": "none",
+  "faces_identifiable": false,
+  "privacy": [],
+  "branding_visible": false,
+  "quality": "4",
+  "issues": [],
+  "website_ready": true,
+  "title": "Basement with gray full flake floor",
+  "alt_text": "Low angle view of a basement with a glossy gray full flake floor, stone foundation wall and exposed joist ceiling",
+  "tags": [
+   "basement",
+   "full flake",
+   "gray chips",
+   "black and white chips",
+   "glossy floor",
+   "stone wall",
+   "exposed ceiling",
+   "finished floor",
+   "full flake basement floor"
+  ],
+  "filename": "basement-gray-full-flake-floor"
+ },
+ "id": "52974e8f91ee",
+ "provider": "kimi",
+ "model": "moonshotai/kimi-k3",
+ "mode": "pilot",
+ "blind": true,
+ "at": "2026-09-17T12:25:58"
+}

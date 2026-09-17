@@ -1,0 +1,47 @@
+{
+ "finish": "stop",
+ "usage": {
+  "input_tokens": 4700,
+  "output_tokens": 243,
+  "cost": 0.017745
+ },
+ "served_by": "Parasail",
+ "label": {
+  "content": "floor_photo",
+  "area": "garage",
+  "setting": "residential",
+  "system": "full_flake",
+  "color": "Ocotillo",
+  "color_confidence": "medium",
+  "color_runner_up": "Santana",
+  "color_description": "tan and beige chips with scattered brown and black chips, small to medium size",
+  "shot_type": "finished",
+  "people": "none",
+  "faces_identifiable": false,
+  "privacy": [],
+  "branding_visible": false,
+  "quality": "4",
+  "issues": [],
+  "website_ready": true,
+  "title": "Two-car garage with tan full flake floor",
+  "alt_text": "Clean two-car garage with tan full flake floor coating, gray cabinets, refrigerators and a ladder along the walls",
+  "tags": [
+   "garage",
+   "full flake",
+   "tan chips",
+   "cabinets",
+   "refrigerator",
+   "ladder",
+   "finished floor",
+   "garage floor coating",
+   "two car garage"
+  ],
+  "filename": "garage-tan-full-flake-finished-floor"
+ },
+ "id": "8b990e79b3c2",
+ "provider": "kimi",
+ "model": "moonshotai/kimi-k3",
+ "mode": "run",
+ "blind": false,
+ "at": "2026-09-17T12:43:35"
+}

@@ -1,0 +1,44 @@
+{
+ "finish": "stop",
+ "usage": {
+  "input_tokens": 4607,
+  "output_tokens": 152,
+  "cost": 0.00666601
+ },
+ "served_by": "DigitalOcean",
+ "label": {
+  "alt_text": "Indianapolis written in black script lettering on a white background.",
+  "area": "not_visible",
+  "branding_visible": false,
+  "color": "not_applicable",
+  "color_confidence": "none",
+  "color_description": "",
+  "color_runner_up": "not_applicable",
+  "content": "logo_or_text_graphic",
+  "faces_identifiable": false,
+  "filename": "indianapolis-script-text-graphic",
+  "issues": [],
+  "people": "none",
+  "privacy": [],
+  "quality": "3",
+  "setting": "unknown",
+  "shot_type": "graphic",
+  "system": "not_applicable",
+  "tags": [
+   "indianapolis",
+   "script lettering",
+   "text graphic",
+   "email logo",
+   "black and white",
+   "birdeye asset"
+  ],
+  "title": "Indianapolis script text graphic",
+  "website_ready": false
+ },
+ "id": "b295ef82f31a",
+ "provider": "kimi",
+ "model": "moonshotai/kimi-k3",
+ "mode": "run",
+ "blind": false,
+ "at": "2026-09-17T12:31:47"
+}

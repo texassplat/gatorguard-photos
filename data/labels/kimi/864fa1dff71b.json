@@ -1,0 +1,48 @@
+{
+ "finish": "stop",
+ "usage": {
+  "input_tokens": 5208,
+  "output_tokens": 280,
+  "cost": 0.0106656
+ },
+ "served_by": "Together",
+ "label": {
+  "content": "floor_photo",
+  "area": "garage",
+  "setting": "residential",
+  "system": "full_flake",
+  "color": "Callisto",
+  "color_confidence": "low",
+  "color_runner_up": "Infinity",
+  "color_description": "light gray base with small white, gray and dark speckled chips",
+  "shot_type": "finished",
+  "people": "none",
+  "faces_identifiable": false,
+  "privacy": [],
+  "branding_visible": false,
+  "quality": "5",
+  "issues": [],
+  "website_ready": true,
+  "title": "Garage with light gray flake floor and red Dodge Charger",
+  "alt_text": "Red Dodge Charger parked in a finished garage with a light gray full flake garage floor coating, bar seating and cabinets",
+  "tags": [
+   "garage",
+   "full flake",
+   "gray chips",
+   "red car",
+   "dodge charger",
+   "bar stools",
+   "cabinets",
+   "finished floor",
+   "refrigerator",
+   "wall mounted tv"
+  ],
+  "filename": "garage-gray-flake-floor-red-charger"
+ },
+ "id": "864fa1dff71b",
+ "provider": "kimi",
+ "model": "moonshotai/kimi-k3",
+ "mode": "run",
+ "blind": false,
+ "at": "2026-09-17T12:41:59"
+}

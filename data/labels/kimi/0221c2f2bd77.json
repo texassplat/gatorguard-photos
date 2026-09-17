@@ -1,0 +1,47 @@
+{
+ "finish": "stop",
+ "usage": {
+  "input_tokens": 5035,
+  "output_tokens": 220,
+  "cost": 0.018405
+ },
+ "served_by": "Parasail",
+ "label": {
+  "content": "floor_photo",
+  "area": "patio_or_porch",
+  "setting": "residential",
+  "system": "full_flake",
+  "color": "Willow",
+  "color_confidence": "low",
+  "color_runner_up": "Sedona",
+  "color_description": "tan and brown chips with light dark accents, small to medium size",
+  "shot_type": "finished",
+  "people": "none",
+  "faces_identifiable": false,
+  "privacy": [],
+  "branding_visible": false,
+  "quality": "4",
+  "issues": [],
+  "website_ready": true,
+  "title": "Backyard patio with tan full flake floor",
+  "alt_text": "Backyard patio with tan full flake floor coating beside garden beds and house entry, full flake patio floor coating",
+  "tags": [
+   "patio",
+   "backyard",
+   "exterior",
+   "full flake",
+   "tan chips",
+   "brown chips",
+   "garden",
+   "residential",
+   "finished floor"
+  ],
+  "filename": "tan-full-flake-backyard-patio"
+ },
+ "id": "0221c2f2bd77",
+ "provider": "kimi",
+ "model": "moonshotai/kimi-k3",
+ "mode": "run",
+ "blind": false,
+ "at": "2026-09-17T12:36:36"
+}

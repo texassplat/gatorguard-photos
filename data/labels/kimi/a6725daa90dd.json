@@ -1,0 +1,48 @@
+{
+ "finish": "stop",
+ "usage": {
+  "input_tokens": 5209,
+  "output_tokens": 207,
+  "cost": 0.018732
+ },
+ "served_by": "Fireworks",
+ "label": {
+  "content": "people_or_team",
+  "area": "commercial_or_industrial",
+  "setting": "unknown",
+  "system": "full_flake",
+  "color": "unknown",
+  "color_confidence": "low",
+  "color_runner_up": "unknown",
+  "color_description": "fine tan and gray speckled chips, seen at a distance",
+  "shot_type": "other",
+  "people": "prominent",
+  "faces_identifiable": true,
+  "privacy": [
+   "customer_face"
+  ],
+  "branding_visible": false,
+  "quality": "3",
+  "issues": [],
+  "website_ready": false,
+  "title": "Four people in green shirts at photoshoot",
+  "alt_text": "Four people in neon green shirts with foam fingers standing on a speckled coated concrete floor",
+  "tags": [
+   "gameday photoshoot",
+   "green shirts",
+   "people",
+   "foam finger",
+   "coated floor",
+   "speckled floor",
+   "indoor",
+   "behind the scenes"
+  ],
+  "filename": "gameday-photoshoot-green-shirts-group"
+ },
+ "id": "a6725daa90dd",
+ "provider": "kimi",
+ "model": "moonshotai/kimi-k3",
+ "mode": "run",
+ "blind": false,
+ "at": "2026-09-17T12:38:50"
+}

@@ -1,0 +1,47 @@
+{
+ "finish": "stop",
+ "usage": {
+  "input_tokens": 5333,
+  "output_tokens": 244,
+  "cost": 0.019659
+ },
+ "served_by": "Parasail",
+ "label": {
+  "content": "floor_photo",
+  "area": "interior_room",
+  "setting": "residential",
+  "system": "full_flake",
+  "color": "Ocotillo",
+  "color_confidence": "low",
+  "color_runner_up": "Willow",
+  "color_description": "tan base with small brown, black and cream chips, fine chip size",
+  "shot_type": "finished",
+  "people": "none",
+  "faces_identifiable": false,
+  "privacy": [],
+  "branding_visible": false,
+  "quality": "4",
+  "issues": [],
+  "website_ready": false,
+  "title": "Wood paneled room with tan full flake floor",
+  "alt_text": "Wood paneled interior room with louvered closet doors and a tan full flake epoxy floor with fine brown and cream chips",
+  "tags": [
+   "interior",
+   "full flake",
+   "tan flakes",
+   "brown chips",
+   "wood paneling",
+   "finished floor",
+   "closet doors",
+   "residential",
+   "fine chips"
+  ],
+  "filename": "wood-paneled-room-tan-full-flake"
+ },
+ "id": "9fa79c1d2e07",
+ "provider": "kimi",
+ "model": "moonshotai/kimi-k3",
+ "mode": "run",
+ "blind": false,
+ "at": "2026-09-17T12:48:32"
+}

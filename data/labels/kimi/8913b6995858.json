@@ -1,0 +1,47 @@
+{
+ "finish": "stop",
+ "usage": {
+  "input_tokens": 5263,
+  "output_tokens": 185,
+  "cost": 0.006930945
+ },
+ "served_by": "Morph",
+ "label": {
+  "content": "floor_photo",
+  "area": "steps_or_stairs",
+  "setting": "residential",
+  "system": "full_flake",
+  "color": "Silver Butte",
+  "color_confidence": "medium",
+  "color_runner_up": "Quartzite",
+  "color_description": "gray, black and white chips, small to medium size, salt and pepper look",
+  "shot_type": "close_up",
+  "people": "none",
+  "faces_identifiable": false,
+  "privacy": [],
+  "branding_visible": false,
+  "quality": "4",
+  "issues": [],
+  "website_ready": true,
+  "title": "Garage steps with gray flake floor and stem wall",
+  "alt_text": "Gray flake epoxy coating on garage steps, stem wall and floor, with gray walls and white trim",
+  "tags": [
+   "garage steps",
+   "stem wall",
+   "gray flake floor",
+   "salt and pepper chips",
+   "full flake",
+   "entry steps",
+   "coated steps",
+   "gray white black chips",
+   "finished floor"
+  ],
+  "filename": "gray-flake-garage-steps-stem-wall"
+ },
+ "id": "8913b6995858",
+ "provider": "kimi",
+ "model": "moonshotai/kimi-k3",
+ "mode": "run",
+ "blind": false,
+ "at": "2026-09-17T12:58:05"
+}

@@ -1,0 +1,46 @@
+{
+ "finish": "stop",
+ "usage": {
+  "input_tokens": 5278,
+  "output_tokens": 167,
+  "cost": 0.00677007
+ },
+ "served_by": "Morph",
+ "label": {
+  "content": "floor_photo",
+  "area": "interior_room",
+  "setting": "residential",
+  "system": "metallic",
+  "color": "Gray",
+  "color_confidence": "medium",
+  "color_runner_up": "Charcoal",
+  "color_description": "swirled gray and beige metallic, glossy marbled finish, no chips",
+  "shot_type": "finished",
+  "people": "none",
+  "faces_identifiable": false,
+  "privacy": [],
+  "branding_visible": false,
+  "quality": "4",
+  "issues": [],
+  "website_ready": true,
+  "title": "Gray metallic epoxy floor in finished room",
+  "alt_text": "Swirled gray metallic epoxy floor in a room with tan and brown walls",
+  "tags": [
+   "metallic epoxy",
+   "liquid art",
+   "gray metallic",
+   "swirled floor",
+   "marbled floor",
+   "interior room",
+   "glossy floor",
+   "brown walls"
+  ],
+  "filename": "gray-metallic-epoxy-interior-room"
+ },
+ "id": "3278abb4ee0e",
+ "provider": "kimi",
+ "model": "moonshotai/kimi-k3",
+ "mode": "run",
+ "blind": false,
+ "at": "2026-09-17T12:50:47"
+}

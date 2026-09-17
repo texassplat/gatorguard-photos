@@ -1,0 +1,48 @@
+{
+ "finish": "stop",
+ "usage": {
+  "input_tokens": 5032,
+  "output_tokens": 242,
+  "cost": 0.009222
+ },
+ "served_by": "Together",
+ "label": {
+  "content": "floor_photo",
+  "area": "basement",
+  "setting": "residential",
+  "system": "full_flake",
+  "color": "Quartzite",
+  "color_confidence": "medium",
+  "color_runner_up": "Gun Metal",
+  "color_description": "gray, white and black chips, small to medium size",
+  "shot_type": "finished",
+  "people": "none",
+  "faces_identifiable": false,
+  "privacy": [],
+  "branding_visible": false,
+  "quality": "4",
+  "issues": [],
+  "website_ready": true,
+  "title": "Basement with gray full flake floor",
+  "alt_text": "Finished basement with gray, white and black full flake floor coating, furnace and painted block walls",
+  "tags": [
+   "basement",
+   "full flake",
+   "gray chips",
+   "black chips",
+   "white chips",
+   "furnace",
+   "painted block walls",
+   "exposed ceiling",
+   "finished floor",
+   "floor drain"
+  ],
+  "filename": "basement-gray-full-flake-floor"
+ },
+ "id": "6b7f7f4f7479",
+ "provider": "kimi",
+ "model": "moonshotai/kimi-k3",
+ "mode": "pilot",
+ "blind": true,
+ "at": "2026-09-17T12:24:29"
+}

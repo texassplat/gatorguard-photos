@@ -1,0 +1,46 @@
+{
+ "finish": "stop",
+ "usage": {
+  "input_tokens": 5211,
+  "output_tokens": 276,
+  "cost": 0.019773
+ },
+ "served_by": "Parasail",
+ "label": {
+  "content": "floor_photo",
+  "area": "not_visible",
+  "setting": "unknown",
+  "system": "full_flake",
+  "color": "unknown",
+  "color_confidence": "low",
+  "color_runner_up": "Granite",
+  "color_description": "gray base with white, black and light gray chips, small to medium size",
+  "shot_type": "close_up",
+  "people": "none",
+  "faces_identifiable": false,
+  "privacy": [],
+  "branding_visible": false,
+  "quality": "3",
+  "issues": [],
+  "website_ready": false,
+  "title": "Nacho chips and cheese spill on gray flake floor",
+  "alt_text": "Tortilla chips and cheese sauce spilled on a gray full flake epoxy floor",
+  "tags": [
+   "gameday",
+   "nachos",
+   "cheese spill",
+   "gray flake floor",
+   "full flake",
+   "easy cleanup",
+   "close up",
+   "stain resistance"
+  ],
+  "filename": "nachos-spill-gray-flake-floor"
+ },
+ "id": "6a67ac882292",
+ "provider": "kimi",
+ "model": "moonshotai/kimi-k3",
+ "mode": "run",
+ "blind": false,
+ "at": "2026-09-17T12:39:31"
+}

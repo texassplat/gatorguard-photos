@@ -1,0 +1,46 @@
+{
+ "finish": "stop",
+ "usage": {
+  "input_tokens": 5345,
+  "output_tokens": 283,
+  "cost": 0.01451952
+ },
+ "served_by": "Phala",
+ "label": {
+  "alt_text": "Marbled gray and taupe metallic epoxy floor in a room with brown walls, white door and masked wall area, metallic floor coating",
+  "area": "interior_room",
+  "branding_visible": false,
+  "color": "Gray",
+  "color_confidence": "medium",
+  "color_description": "swirled metallic in gray, taupe and cream tones with marbled highlights, no chips",
+  "color_runner_up": "Charcoal",
+  "content": "floor_photo",
+  "faces_identifiable": false,
+  "filename": "gray-metallic-marbled-floor-interior-room",
+  "issues": [],
+  "people": "none",
+  "privacy": [],
+  "quality": "4",
+  "setting": "residential",
+  "shot_type": "finished",
+  "system": "metallic",
+  "tags": [
+   "metallic epoxy",
+   "marbled floor",
+   "gray metallic",
+   "swirl pattern",
+   "interior room",
+   "reflective floor",
+   "glossy",
+   "liquid art"
+  ],
+  "title": "Marbled gray metallic epoxy floor in interior room",
+  "website_ready": true
+ },
+ "id": "aa36ba279d87",
+ "provider": "kimi",
+ "model": "moonshotai/kimi-k3",
+ "mode": "run",
+ "blind": false,
+ "at": "2026-09-17T12:49:54"
+}

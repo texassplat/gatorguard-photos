@@ -1,0 +1,47 @@
+{
+ "finish": "stop",
+ "usage": {
+  "input_tokens": 5341,
+  "output_tokens": 289,
+  "cost": 0.0111996
+ },
+ "served_by": "Together",
+ "label": {
+  "content": "floor_photo",
+  "area": "garage",
+  "setting": "residential",
+  "system": "full_flake",
+  "color": "Stone Rowe",
+  "color_confidence": "low",
+  "color_runner_up": "Granite",
+  "color_description": "gray, black and white chips with scattered tan and orange flecks, small to medium size",
+  "shot_type": "close_up",
+  "people": "background",
+  "faces_identifiable": false,
+  "privacy": [],
+  "branding_visible": false,
+  "quality": "4",
+  "issues": [],
+  "website_ready": true,
+  "title": "Flake floor edge at garage door opening",
+  "alt_text": "Close up of a gray full flake garage floor edge meeting broom finished concrete at the garage door, full flake garage floor coating",
+  "tags": [
+   "garage",
+   "full flake",
+   "edge lip",
+   "garage door threshold",
+   "gray chips",
+   "tan flecks",
+   "close up",
+   "broom finished concrete",
+   "glossy finish"
+  ],
+  "filename": "flake-floor-edge-garage-door-lip"
+ },
+ "id": "ae537cb91765",
+ "provider": "kimi",
+ "model": "moonshotai/kimi-k3",
+ "mode": "run",
+ "blind": false,
+ "at": "2026-09-17T12:48:38"
+}

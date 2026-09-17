@@ -1,0 +1,46 @@
+{
+ "finish": "stop",
+ "usage": {
+  "input_tokens": 4991,
+  "output_tokens": 249,
+  "cost": 0.018708
+ },
+ "served_by": "Parasail",
+ "label": {
+  "content": "floor_photo",
+  "area": "garage",
+  "setting": "residential",
+  "system": "full_flake",
+  "color": "Granite",
+  "color_confidence": "medium",
+  "color_runner_up": "Lunar",
+  "color_description": "light gray base with small white, gray and black chips",
+  "shot_type": "finished",
+  "people": "none",
+  "faces_identifiable": false,
+  "privacy": [],
+  "branding_visible": false,
+  "quality": "4",
+  "issues": [],
+  "website_ready": true,
+  "title": "Garage with light gray full flake floor",
+  "alt_text": "Garage with a light gray full flake floor coating, taped door and covered water heater along white walls",
+  "tags": [
+   "garage",
+   "full flake",
+   "gray floor",
+   "white walls",
+   "interior door",
+   "water heater",
+   "finished floor",
+   "fine chips"
+  ],
+  "filename": "garage-light-gray-full-flake-floor"
+ },
+ "id": "a8ab8bb2c1bf",
+ "provider": "kimi",
+ "model": "moonshotai/kimi-k3",
+ "mode": "run",
+ "blind": false,
+ "at": "2026-09-17T12:46:08"
+}

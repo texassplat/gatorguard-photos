@@ -1,0 +1,49 @@
+{
+ "finish": "stop",
+ "usage": {
+  "input_tokens": 5089,
+  "output_tokens": 227,
+  "cost": 0.0095136
+ },
+ "served_by": "Together",
+ "label": {
+  "content": "people_or_team",
+  "area": "basement",
+  "setting": "residential",
+  "system": "solid_color",
+  "color": "not_applicable",
+  "color_confidence": "none",
+  "color_runner_up": "not_applicable",
+  "color_description": "light gray solid coating, no chips visible",
+  "shot_type": "team_or_portrait",
+  "people": "prominent",
+  "faces_identifiable": true,
+  "privacy": [],
+  "branding_visible": true,
+  "quality": "3",
+  "issues": [
+   "heavy_filter"
+  ],
+  "website_ready": false,
+  "title": "Two installers in respirators on fresh gray floor",
+  "alt_text": "Two GatorGuard installers wearing respirators posing on a freshly coated light gray basement floor",
+  "tags": [
+   "installers",
+   "crew",
+   "respirators",
+   "gatorguard shirts",
+   "basement",
+   "gray floor",
+   "selfie",
+   "team",
+   "fresh coating"
+  ],
+  "filename": "installers-respirators-fresh-gray-basement-floor"
+ },
+ "id": "2d9fa7ba6655",
+ "provider": "kimi",
+ "model": "moonshotai/kimi-k3",
+ "mode": "run",
+ "blind": false,
+ "at": "2026-09-17T12:46:42"
+}

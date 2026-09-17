@@ -1,0 +1,47 @@
+{
+ "finish": "stop",
+ "usage": {
+  "input_tokens": 5327,
+  "output_tokens": 223,
+  "cost": 0.01366092
+ },
+ "served_by": "Phala",
+ "label": {
+  "alt_text": "Basement utility room with tan and cream metallic epoxy floor, floor drain and water heater, metallic floor coating",
+  "area": "basement",
+  "branding_visible": false,
+  "color": "Cappuccino",
+  "color_confidence": "medium",
+  "color_description": "tan and caramel metallic swirls with cream highlights",
+  "color_runner_up": "Copper",
+  "content": "floor_photo",
+  "faces_identifiable": false,
+  "filename": "basement-cappuccino-metallic-floor-with-drain",
+  "issues": [],
+  "people": "none",
+  "privacy": [],
+  "quality": "4",
+  "setting": "residential",
+  "shot_type": "finished",
+  "system": "metallic",
+  "tags": [
+   "metallic epoxy",
+   "basement floor",
+   "tan metallic",
+   "swirled finish",
+   "floor drain",
+   "water heater",
+   "utility room",
+   "liquid art",
+   "glossy"
+  ],
+  "title": "Basement with tan metallic epoxy floor",
+  "website_ready": true
+ },
+ "id": "799f5f515eb2",
+ "provider": "kimi",
+ "model": "moonshotai/kimi-k3",
+ "mode": "run",
+ "blind": false,
+ "at": "2026-09-17T12:50:55"
+}

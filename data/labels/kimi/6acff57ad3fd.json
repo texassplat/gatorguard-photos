@@ -1,0 +1,47 @@
+{
+ "finish": "stop",
+ "usage": {
+  "input_tokens": 4856,
+  "output_tokens": 256,
+  "cost": 0.018408
+ },
+ "served_by": "Parasail",
+ "label": {
+  "content": "floor_photo",
+  "area": "basement",
+  "setting": "residential",
+  "system": "full_flake",
+  "color": "unknown",
+  "color_confidence": "low",
+  "color_runner_up": "Gun Metal",
+  "color_description": "dark gray base with black, white and gray chips plus scattered tan flecks",
+  "shot_type": "finished",
+  "people": "none",
+  "faces_identifiable": false,
+  "privacy": [],
+  "branding_visible": false,
+  "quality": "4",
+  "issues": [],
+  "website_ready": true,
+  "title": "Basement with dark gray full flake floor",
+  "alt_text": "Finished basement with glossy dark gray full flake floor, support posts and wooden stairs, full flake basement floor coating",
+  "tags": [
+   "basement",
+   "full flake",
+   "dark gray",
+   "black and gray chips",
+   "glossy",
+   "support posts",
+   "stairs",
+   "finished floor",
+   "residential"
+  ],
+  "filename": "basement-dark-gray-full-flake-floor"
+ },
+ "id": "6acff57ad3fd",
+ "provider": "kimi",
+ "model": "moonshotai/kimi-k3",
+ "mode": "run",
+ "blind": false,
+ "at": "2026-09-17T12:31:22"
+}

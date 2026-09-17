@@ -1,0 +1,47 @@
+{
+ "finish": "stop",
+ "usage": {
+  "input_tokens": 5228,
+  "output_tokens": 220,
+  "cost": 0.018984
+ },
+ "served_by": "Parasail",
+ "label": {
+  "content": "floor_photo",
+  "area": "garage",
+  "setting": "residential",
+  "system": "full_flake",
+  "color": "Cobalt",
+  "color_confidence": "high",
+  "color_runner_up": "unknown",
+  "color_description": "blue, gray and white chips, medium size",
+  "shot_type": "finished",
+  "people": "none",
+  "faces_identifiable": false,
+  "privacy": [],
+  "branding_visible": false,
+  "quality": "5",
+  "issues": [],
+  "website_ready": true,
+  "title": "Dog lying on blue full flake garage floor",
+  "alt_text": "Cream dog with a ball lying on a blue gray full flake garage floor coating with stem wall and white walls",
+  "tags": [
+   "garage",
+   "full flake",
+   "blue chips",
+   "gray chips",
+   "dog",
+   "pet",
+   "stem wall",
+   "finished floor",
+   "residential"
+  ],
+  "filename": "dog-on-blue-full-flake-garage-floor"
+ },
+ "id": "1c79dc67add9",
+ "provider": "kimi",
+ "model": "moonshotai/kimi-k3",
+ "mode": "run",
+ "blind": false,
+ "at": "2026-09-17T12:41:36"
+}

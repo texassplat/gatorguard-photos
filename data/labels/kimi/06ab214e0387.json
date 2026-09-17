@@ -1,0 +1,46 @@
+{
+ "finish": "stop",
+ "usage": {
+  "input_tokens": 5062,
+  "output_tokens": 223,
+  "cost": 0.0093726
+ },
+ "served_by": "Together",
+ "label": {
+  "content": "floor_photo",
+  "area": "garage",
+  "setting": "residential",
+  "system": "solid_color_chip",
+  "color": "unknown",
+  "color_confidence": "low",
+  "color_runner_up": "unknown",
+  "color_description": "uniform light gray surface, chips too fine to see at this distance",
+  "shot_type": "finished",
+  "people": "none",
+  "faces_identifiable": false,
+  "privacy": [],
+  "branding_visible": false,
+  "quality": "4",
+  "issues": [],
+  "website_ready": true,
+  "title": "Glossy gray coated floor in unfinished garage",
+  "alt_text": "Glossy light gray coated floor in a garage with exposed wall framing, solid color chip floor coating",
+  "tags": [
+   "garage",
+   "gray floor",
+   "glossy",
+   "solid color chip",
+   "unfinished walls",
+   "exposed framing",
+   "new construction",
+   "reflective floor"
+  ],
+  "filename": "gray-chip-floor-unfinished-garage"
+ },
+ "id": "06ab214e0387",
+ "provider": "kimi",
+ "model": "moonshotai/kimi-k3",
+ "mode": "run",
+ "blind": false,
+ "at": "2026-09-17T12:57:06"
+}

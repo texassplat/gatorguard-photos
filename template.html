@@ -1,0 +1,330 @@
+<!doctype html>
+<html lang="en">
+<head>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<meta name="robots" content="noindex, nofollow">
+<title>GatorGuard Photo Library</title>
+<style>
+  :root { --bg:#f4f5f3; --card:#fff; --ink:#1a1f1b; --mut:#6b736d; --line:#e2e5e1; --acc:#1f7a3a; --accbg:#e8f3eb; --warn:#9a5b00; --warnbg:#fdf1dc; }
+  @media (prefers-color-scheme: dark) { :root { --bg:#131614; --card:#1c201d; --ink:#e7ebe8; --mut:#9aa39c; --line:#2d332e; --acc:#5fc07a; --accbg:#1f3325; --warn:#f0b35a; --warnbg:#3a2c16; } }
+  * { box-sizing:border-box }
+  body { margin:0; font:14px/1.45 system-ui,-apple-system,Segoe UI,Roboto,sans-serif; background:var(--bg); color:var(--ink) }
+  header { position:sticky; top:0; z-index:5; background:var(--card); border-bottom:1px solid var(--line); padding:10px 16px 8px }
+  .row { display:flex; gap:8px; align-items:center; flex-wrap:wrap }
+  h1 { font-size:17px; margin:0 10px 0 0; white-space:nowrap }
+  #q { flex:1; min-width:200px; max-width:520px; padding:8px 12px; border:1px solid var(--line); border-radius:8px; font-size:14px; background:var(--bg); color:var(--ink) }
+  select, .chk { padding:6px 8px; border:1px solid var(--line); border-radius:8px; background:var(--card); color:var(--ink); font-size:13px; max-width:190px }
+  select.on { border-color:var(--acc); background:var(--accbg) }
+  .chk { display:inline-flex; gap:5px; align-items:center; cursor:pointer; user-select:none }
+  .filters { margin-top:8px }
+  #count { color:var(--mut); font-size:13px }
+  .hint { color:var(--mut); font-size:12px; margin-top:6px }
+  .hint a { color:var(--acc) }
+  button, a.btn { font:inherit; font-size:12px; padding:5px 9px; border:1px solid var(--line); background:var(--card); border-radius:6px; cursor:pointer; color:var(--ink); text-decoration:none; white-space:nowrap }
+  button:hover, a.btn:hover { border-color:var(--acc); color:var(--acc) }
+  button.ok { border-color:var(--acc); color:var(--acc) }
+  main { padding:14px 16px 60px }
+  .grid { display:grid; grid-template-columns:repeat(auto-fill,minmax(220px,1fr)); gap:12px }
+  .card { background:var(--card); border:1px solid var(--line); border-radius:10px; overflow:hidden; display:flex; flex-direction:column }
+  .card .img { position:relative; aspect-ratio:4/3; background:var(--line); cursor:zoom-in; overflow:hidden }
+  .card img { width:100%; height:100%; object-fit:cover; display:block }
+  .badge { position:absolute; left:6px; top:6px; background:rgba(0,0,0,.72); color:#fff; font-size:11px; padding:2px 6px; border-radius:5px }
+  .badge.r { left:auto; right:6px }
+  .meta { padding:7px 10px 3px; font-size:12px; color:var(--mut); min-height:54px }
+  .meta b { display:block; color:var(--ink); font-weight:600; font-size:13px; overflow:hidden; white-space:nowrap; text-overflow:ellipsis }
+  .chips { display:flex; flex-wrap:wrap; gap:4px; margin-top:4px }
+  .chip { font-size:11px; padding:1px 6px; border-radius:10px; background:var(--accbg); color:var(--acc); white-space:nowrap }
+  .chip.g { background:var(--warnbg); color:var(--warn) }
+  .chip.m { background:var(--bg); color:var(--mut); border:1px solid var(--line) }
+  .btns { display:flex; gap:5px; padding:6px 10px 10px; flex-wrap:wrap }
+  #more { display:block; margin:18px auto; padding:8px 18px }
+  #lb { position:fixed; inset:0; background:rgba(0,0,0,.9); display:none; z-index:20 }
+  #lb.on { display:flex }
+  #stage { flex:1; display:flex; align-items:center; justify-content:center; position:relative; min-width:0; padding:16px }
+  #stage img, #stage video { max-width:100%; max-height:92vh; object-fit:contain }
+  #side { width:360px; max-width:42vw; background:var(--card); color:var(--ink); overflow:auto; padding:16px; font-size:13px }
+  #side h2 { font-size:16px; margin:0 0 8px; padding-right:84px }
+  #side dl { display:grid; grid-template-columns:96px 1fr; gap:4px 8px; margin:10px 0 }
+  #side dt { color:var(--mut) }
+  #side dd { margin:0; word-break:break-word }
+  #side .alt { background:var(--bg); border:1px solid var(--line); border-radius:8px; padding:8px; margin:8px 0 }
+  #side .sims { display:flex; gap:6px; flex-wrap:wrap }
+  #side .sims img { width:72px; height:54px; object-fit:cover; border-radius:5px; cursor:pointer; border:1px solid var(--line) }
+  .nav { position:absolute; top:50%; transform:translateY(-50%); background:rgba(0,0,0,.35); border:none; color:#fff; font-size:34px; padding:14px 10px; cursor:pointer; border-radius:8px }
+  #prev { left:8px } #next { right:8px } #close { position:absolute; top:10px; right:10px; font-size:14px }
+  #toast { position:fixed; bottom:24px; left:50%; transform:translateX(-50%); background:#1a1f1b; color:#fff; padding:10px 16px; border-radius:8px; opacity:0; transition:opacity .2s; z-index:30; pointer-events:none }
+  #toast.on { opacity:1 }
+  .empty { color:var(--mut); padding:40px; text-align:center }
+  #ftoggle { display:none }
+  @media (max-width:760px) {
+    header { position:static }
+    #ftoggle { display:inline-block }
+    header:not(.open) .filters, header:not(.open) .hint { display:none }
+    select, .chk { max-width:none; flex:1 1 46% }
+  }
+  @media (max-width:760px) { #lb.on { flex-direction:column } #side { width:auto; max-width:none; max-height:45vh } #stage img, #stage video { max-height:50vh } }
+</style>
+</head>
+<body>
+<header>
+  <div class="row">
+    <h1>GatorGuard Photo Library</h1>
+    <input id="q" type="search" placeholder="Search titles, alt text, tags, colors, folders (e.g. basement bar, granite, truck)">
+    <select id="sort" title="Sort">
+      <option value="best">Best first</option>
+      <option value="new">Newest first</option>
+      <option value="old">Oldest first</option>
+      <option value="folder">By folder</option>
+    </select>
+    <button id="ftoggle">Filters</button>
+    <button id="reset">Clear filters</button>
+    <span id="count"></span>
+  </div>
+  <div class="row filters" id="filters"></div>
+  <div class="hint" id="hint"></div>
+</header>
+<main><div class="grid" id="grid"></div><button id="more">Show more</button></main>
+
+<div id="lb">
+  <div id="stage">
+    <button class="nav" id="prev" aria-label="Previous">&#8249;</button>
+    <div id="media"></div>
+    <button class="nav" id="next" aria-label="Next">&#8250;</button>
+  </div>
+  <aside id="side"></aside>
+</div>
+<div id="toast"></div>
+
+<script>
+const DATA = /*__DATA__*/null;
+const L = /*__LABELS__*/null;
+const META = /*__META__*/null;
+const BY_ID = Object.fromEntries(DATA.map(d => [d.id, d]));
+const $ = s => document.querySelector(s);
+const esc = s => String(s ?? '').replace(/[&<>"']/g, c => ({'&':'&amp;','<':'&lt;','>':'&gt;','"':'&quot;',"'":'&#39;'}[c]));
+const nice = (dict, v) => (L[dict] && L[dict][v]) || v;
+
+// Facets: key, label, how to read the value, display name.
+const FACETS = [
+  {k:'k', label:'Type', get:d => d.k, name:v => nice('k', v)},
+  {k:'area', label:'Area', get:d => d.area && L.area[d.area] ? d.area : null, name:v => nice('area', v)},
+  {k:'sys', label:'Coating', get:d => d.sys && L.sys[d.sys] ? d.sys : null, name:v => nice('sys', v)},
+  {k:'coll', label:'Collection', get:d => d.coll},
+  {k:'col', label:'Color (staff)', get:d => d.col},
+  {k:'chips', label:'Chip colors', get:d => d.chips, multi:true},
+  {k:'shot', label:'Shot', get:d => d.shot && L.shot[d.shot] ? d.shot : null, name:v => nice('shot', v)},
+  {k:'set', label:'Setting', get:d => d.set, name:v => v[0].toUpperCase() + v.slice(1)},
+  {k:'mk', label:'Market', get:d => d.mk},
+  {k:'yr', label:'Year', get:d => d.yr},
+  {k:'top', label:'Drive folder', get:d => d.top},
+];
+const TOGGLES = [
+  {k:'ready', label:'Website-ready', test:d => d.ready === true},
+  {k:'q4', label:'Quality 4+', test:d => (d.q || 0) >= 4},
+  {k:'nodup', label:'Hide near-duplicates', test:(d, i) => !d.sim.length || d.sim.every(s => !SEEN.has(s))},
+  {k:'nopriv', label:'Hide privacy flags', test:d => !d.priv.length && !d.face},
+  {k:'review', label:'Needs review', test:d => d.rev},
+];
+let SEEN = new Set();
+const state = {q:'', sort:'best', f:{}, t:{}};
+const PAGE = 120;
+let view = [], shown = 0, cur = -1;
+
+function haystack(d) {
+  return d._h ||= [d.title, d.alt, d.tags.join(' '), d.col, d.coll, d.aic, d.cd, d.p.join(' '), d.mk,
+    nice('area', d.area), nice('sys', d.sys), nice('shot', d.shot), d.yr].join(' ').toLowerCase();
+}
+function matches(d, skip) {
+  if (state.q) { for (const w of state.q.split(/\s+/)) if (!haystack(d).includes(w)) return false; }
+  for (const f of FACETS) {
+    if (f.k === skip || !state.f[f.k]) continue;
+    const v = f.get(d);
+    if (f.multi) { if (state.f[f.k] === '(none)' ? v.length : !v.includes(state.f[f.k])) return false; continue; }
+    if (state.f[f.k] === '(none)' ? v != null : v !== state.f[f.k]) return false;
+  }
+  for (const t of TOGGLES) if (t.k !== 'nodup' && state.t[t.k] && !t.test(d)) return false;
+  return true;
+}
+function score(d) { return (d.ready ? 20 : 0) + (d.q || 2.5) * 3 + (d.shot === 'finished' ? 2 : 0); }
+
+function buildFilters() {
+  const box = $('#filters'); box.innerHTML = '';
+  for (const f of FACETS) {
+    const counts = new Map(); let none = 0;
+    for (const d of DATA) if (matches(d, f.k)) {
+      const v = f.get(d);
+      if (f.multi) { if (!v.length) none++; for (const x of v) counts.set(x, (counts.get(x) || 0) + 1); }
+      else v == null ? none++ : counts.set(v, (counts.get(v) || 0) + 1);
+    }
+    const s = document.createElement('select'); s.dataset.k = f.k;
+    const opts = [...counts.entries()].sort((a, b) => f.k === 'yr' ? b[0].localeCompare(a[0]) : String(f.name ? f.name(a[0]) : a[0]).localeCompare(String(f.name ? f.name(b[0]) : b[0])));
+    s.innerHTML = `<option value="">${esc(f.label)}: all</option>` +
+      opts.map(([v, n]) => `<option value="${esc(v)}">${esc(f.name ? f.name(v) : v)} (${n})</option>`).join('') +
+      (none ? `<option value="(none)">${esc(f.label)} not set (${none})</option>` : '');
+    s.value = state.f[f.k] || '';
+    s.classList.toggle('on', !!state.f[f.k]);
+    s.onchange = () => { state.f[f.k] = s.value; apply(); };
+    box.appendChild(s);
+  }
+  for (const t of TOGGLES) {
+    const l = document.createElement('label'); l.className = 'chk';
+    l.innerHTML = `<input type="checkbox" ${state.t[t.k] ? 'checked' : ''}> ${esc(t.label)}`;
+    l.querySelector('input').onchange = e => { state.t[t.k] = e.target.checked; apply(); };
+    box.appendChild(l);
+  }
+}
+
+function apply(keepHash) {
+  view = DATA.filter(d => matches(d));
+  const m = state.sort;
+  view.sort((a, b) => m === 'new' ? (b.date || '').localeCompare(a.date || '') : m === 'old' ? (a.date || '9').localeCompare(b.date || '9')
+    : m === 'folder' ? a.p[0].localeCompare(b.p[0]) : score(b) - score(a) || a.p[0].localeCompare(b.p[0]));
+  if (state.t.nodup) {
+    SEEN = new Set();
+    view = view.filter(d => { const keep = !d.sim.some(s => SEEN.has(s)); SEEN.add(d.id); return keep; });
+  }
+  $('#count').textContent = `${view.length} of ${DATA.length}`;
+  const active = Object.values(state.f).filter(Boolean).length + Object.values(state.t).filter(Boolean).length;
+  $('#ftoggle').textContent = active ? `Filters (${active})` : 'Filters';
+  $('#grid').innerHTML = ''; shown = 0; more();
+  buildFilters();
+  if (!keepHash) writeHash();
+}
+
+function card(d, i) {
+  const c = document.createElement('div'); c.className = 'card';
+  const chips = [];
+  if (d.area && L.area[d.area]) chips.push(`<span class="chip">${esc(L.area[d.area])}</span>`);
+  if (d.sys && L.sys[d.sys]) chips.push(`<span class="chip">${esc(L.sys[d.sys])}</span>`);
+  if (d.col) chips.push(`<span class="chip ${d.cs && d.cs.startsWith('ai') ? 'g' : ''}" title="${d.cs && d.cs.startsWith('ai') ? 'AI color match (' + esc(d.aicf) + ')' : 'Color from staff folder'}">${esc(d.col)}${d.cs && d.cs.startsWith('ai') ? '?' : ''}</span>`);
+  const sub = [d.mk, d.yr].filter(Boolean).join(' · ');
+  const badge = d.k === 'video' ? `<span class="badge">&#9654; ${d.dur ? Math.round(d.dur) + 's' : 'video'}</span>` : d.k === 'doc' ? '<span class="badge">PDF</span>' : '';
+  const qb = d.ready ? '<span class="badge r">web-ready</span>' : '';
+  c.innerHTML = `<div class="img"><img loading="lazy" src="${d.t}" alt="${esc(d.alt)}">${badge}${qb}</div>
+    <div class="meta"><b title="${esc(d.title)}">${esc(d.title)}</b>${esc(sub)}<div class="chips">${chips.join('')}</div></div>
+    <div class="btns"><button data-a="copy">Copy image</button><a class="btn" href="${d.m}" download="${esc(d.dl)}">Download</a></div>`;
+  c.querySelector('.img').onclick = () => open(i);
+  c.querySelector('[data-a=copy]').onclick = e => copyImage(d, e.target);
+  return c;
+}
+function more() {
+  const frag = document.createDocumentFragment();
+  const end = Math.min(view.length, shown + PAGE);
+  for (let i = shown; i < end; i++) frag.appendChild(card(view[i], i));
+  $('#grid').appendChild(frag); shown = end;
+  $('#more').style.display = shown < view.length ? 'block' : 'none';
+  if (!view.length) $('#grid').innerHTML = '<div class="empty">Nothing matches. Try clearing a filter.</div>';
+}
+new IntersectionObserver(es => { if (es[0].isIntersecting && shown < view.length) more(); }, {rootMargin:'800px'}).observe($('#more'));
+$('#more').onclick = more;
+
+function toast(msg) { const t = $('#toast'); t.textContent = msg; t.classList.add('on'); clearTimeout(t._h); t._h = setTimeout(() => t.classList.remove('on'), 1800); }
+const abs = p => new URL(p, location.href).href;
+async function copyText(s, what) { try { await navigator.clipboard.writeText(s); toast(what + ' copied.'); } catch { toast('Copy failed.'); } }
+async function copyImage(d, btn) {
+  try {
+    const blob = await fetch(d.m).then(r => r.blob());
+    const bmp = await createImageBitmap(blob);
+    const cv = document.createElement('canvas'); cv.width = bmp.width; cv.height = bmp.height;
+    cv.getContext('2d').drawImage(bmp, 0, 0);
+    const png = await new Promise(res => cv.toBlob(res, 'image/png'));
+    await navigator.clipboard.write([new ClipboardItem({'image/png': png})]);
+    toast('Image copied. Paste it anywhere.');
+    if (btn) { btn.classList.add('ok'); setTimeout(() => btn.classList.remove('ok'), 1500); }
+  } catch (e) { copyText(abs(d.m), 'Browser blocked image copy; link'); }
+}
+
+function open(i) {
+  cur = i; const d = view[i];
+  const media = $('#media');
+  if (d.v) media.innerHTML = `<video src="${d.v}" poster="${d.m}" controls autoplay muted loop playsinline></video>`;
+  else media.innerHTML = `<img src="${d.m}" alt="${esc(d.alt)}">`;
+  const row = (k, v) => v ? `<dt>${k}</dt><dd>${v}</dd>` : '';
+  let color = '';
+  if (d.col) color = `${esc(d.col)}${d.coll ? ' <span style="color:var(--mut)">(' + esc(d.coll) + ')</span>' : ''}<br><small>${
+    d.cs === 'folder' ? 'from the staff folder' : d.cs === 'duplicate' ? 'from a copy filed in a color folder' : d.cs === 'manual' ? 'set by hand' : 'AI match, ' + esc(d.aicf) + ' confidence'}</small>`;
+  if (d.aic && d.aic !== d.col) color += `${color ? '<br>' : ''}<small>Closest swatch by eye: ${esc(d.aic)}${d.air && !['unknown','not_applicable'].includes(d.air) ? ' or ' + esc(d.air) : ''}. A rough guess; check against the samples before using it.</small>`;
+  const sims = d.sim.map(s => BY_ID[s]).filter(Boolean);
+  $('#side').innerHTML = `
+    <h2>${esc(d.title)}</h2>
+    <div class="row">
+      ${d.k !== 'doc' ? `<button data-a="copy">Copy image</button>` : ''}
+      <a class="btn" href="${d.m}" download="${esc(d.dl)}">Download${d.k === 'video' ? ' poster' : ''}</a>
+      ${d.v ? `<a class="btn" href="${d.v}" download="${esc(d.dl.replace(/\.\w+$/, '-preview.mp4'))}">Preview clip</a>` : ''}
+      ${d.pdf ? `<a class="btn" href="${d.pdf}" target="_blank" rel="noopener">Open PDF</a>` : ''}
+      <button data-a="link">Copy link</button>
+    </div>
+    ${d.alt ? `<div class="alt">${esc(d.alt)}<div style="margin-top:6px"><button data-a="alt">Copy alt text</button></div></div>` : ''}
+    <dl>
+      ${row('Area', esc(nice('area', d.area) || ''))}
+      ${row('Coating', esc(nice('sys', d.sys) || ''))}
+      ${row('Color', color)}
+      ${row('Chips', esc(d.cd))}
+      ${row('Shot', esc(nice('shot', d.shot) || ''))}
+      ${row('Setting', esc(d.set || ''))}
+      ${row('Market', esc(d.mk || ''))}
+      ${row('Date', esc(d.date || ''))}
+      ${row('Quality', d.q ? d.q + ' / 5' + (d.iss.length ? ' <small>(' + esc(d.iss.join(', ')) + ')</small>' : '') : '')}
+      ${row('Privacy', d.priv.length || d.face ? '<span style="color:var(--warn)">' + esc([...d.priv, d.face ? 'recognisable face' : ''].filter(Boolean).join(', ')) + '</span>' : '')}
+      ${row('Tags', esc(d.tags.join(', ')))}
+      ${row('Labels', d.by ? 'AI (' + esc(d.by.split('/').pop()) + ') plus Drive folder names' : 'Drive folder names only')}
+      ${row('Size', d.w ? `${d.w}×${d.h}, ${d.mb} MB original` + (d.dur ? `, ${Math.round(d.dur)}s` : '') : '')}
+      ${row('Original', d.p.map(esc).join('<br>') + `<br><a href="${META.drive}" target="_blank" rel="noopener">Open the Drive folder</a>`)}
+    </dl>
+    ${sims.length ? `<div style="color:var(--mut)">Near-duplicates</div><div class="sims">${sims.map(s => `<img src="${s.t}" data-id="${s.id}" title="${esc(s.p[0])}">`).join('')}</div>` : ''}
+    <button id="close" data-a="close">Close ✕</button>`;
+  $('#side').querySelectorAll('.sims img').forEach(im => im.onclick = () => jump(im.dataset.id));
+  $('#lb').classList.add('on');
+  history.replaceState(null, '', hashFor(d.id));
+}
+function jump(id) {
+  let i = view.findIndex(x => x.id === id);
+  if (i < 0) { view.push(BY_ID[id]); i = view.length - 1; }
+  open(i);
+}
+function close() { $('#lb').classList.remove('on'); $('#media').innerHTML = ''; cur = -1; writeHash(); }
+$('#prev').onclick = e => { e.stopPropagation(); open((cur - 1 + view.length) % view.length); };
+$('#next').onclick = e => { e.stopPropagation(); open((cur + 1) % view.length); };
+$('#stage').addEventListener('click', e => { if (e.target.id === 'stage' || e.target.id === 'media') close(); });
+$('#side').addEventListener('click', e => {
+  const a = e.target.dataset.a; if (!a || cur < 0) return; const d = view[cur];
+  if (a === 'close') close(); else if (a === 'copy') copyImage(d, e.target);
+  else if (a === 'link') copyText(abs(hashFor(d.id)), 'Link'); else if (a === 'alt') copyText(d.alt, 'Alt text');
+});
+document.addEventListener('keydown', e => {
+  if (!$('#lb').classList.contains('on')) return;
+  if (e.key === 'Escape') close(); else if (e.key === 'ArrowLeft') $('#prev').click(); else if (e.key === 'ArrowRight') $('#next').click();
+});
+
+function params() {
+  const p = new URLSearchParams();
+  if (state.q) p.set('q', state.q); if (state.sort !== 'best') p.set('sort', state.sort);
+  for (const [k, v] of Object.entries(state.f)) if (v) p.set(k, v);
+  for (const [k, v] of Object.entries(state.t)) if (v) p.set(k, '1');
+  return p;
+}
+function hashFor(id) { const p = params(); p.set('id', id); return '#' + p.toString(); }
+function writeHash() { const s = params().toString(); history.replaceState(null, '', s ? '#' + s : location.pathname); }
+function readHash() {
+  const p = new URLSearchParams(location.hash.slice(1));
+  state.q = (p.get('q') || '').toLowerCase(); state.sort = p.get('sort') || 'best';
+  for (const f of FACETS) state.f[f.k] = p.get(f.k) || '';
+  for (const t of TOGGLES) state.t[t.k] = p.get(t.k) === '1';
+  $('#q').value = state.q; $('#sort').value = state.sort;
+  return p.get('id');
+}
+
+let qTimer;
+$('#q').addEventListener('input', () => { clearTimeout(qTimer); qTimer = setTimeout(() => { state.q = $('#q').value.trim().toLowerCase(); apply(); }, 150); });
+$('#ftoggle').onclick = () => $('header').classList.toggle('open');
+$('#sort').onchange = () => { state.sort = $('#sort').value; apply(); };
+$('#reset').onclick = () => { state.q = ''; $('#q').value = ''; state.f = {}; state.t = {}; apply(); };
+$('#hint').innerHTML = `Click a picture for details. <b>Copy image</b> pastes straight into a doc, email or Canva; <b>Download</b> saves a 1600px web copy with a descriptive file name. Full-size originals are in the <a href="${META.drive}" target="_blank" rel="noopener">ALL GG PHOTOS Drive folder</a> at the path shown in each picture's details.` +
+  (META.labelled < META.total ? ` <b>${META.total - META.labelled} items are not AI-labelled yet</b>, so for those the filters only know what the Drive folder names say.` : ' Colors marked <span class="chip g">?</span> are AI matches; the rest come from staff folders.');
+const openId = readHash();
+apply(true);
+if (openId && BY_ID[openId]) jump(openId);
+</script>
+</body>
+</html>

@@ -1,0 +1,48 @@
+{
+ "finish": "stop",
+ "usage": {
+  "input_tokens": 5147,
+  "output_tokens": 175,
+  "cost": 0.0189219
+ },
+ "served_by": "Morph",
+ "label": {
+  "content": "floor_photo",
+  "area": "garage",
+  "setting": "residential",
+  "system": "metallic",
+  "color": "Charcoal",
+  "color_confidence": "medium",
+  "color_runner_up": "unknown",
+  "color_description": "dark gray and black marbled metallic swirls, glossy reflective finish",
+  "shot_type": "finished",
+  "people": "none",
+  "faces_identifiable": false,
+  "privacy": [],
+  "branding_visible": false,
+  "quality": "5",
+  "issues": [],
+  "website_ready": true,
+  "title": "Dark metallic garage floor with two sports cars",
+  "alt_text": "Red Corvette and blue Mustang on a dark marbled metallic epoxy garage floor with corrugated metal walls",
+  "tags": [
+   "garage",
+   "metallic epoxy",
+   "dark gray metallic",
+   "marbled floor",
+   "reflective floor",
+   "corvette",
+   "mustang",
+   "sports cars",
+   "metal walls",
+   "finished floor"
+  ],
+  "filename": "dark-metallic-garage-two-sports-cars"
+ },
+ "id": "ee3ac260af75",
+ "provider": "kimi",
+ "model": "moonshotai/kimi-k3",
+ "mode": "run",
+ "blind": false,
+ "at": "2026-09-17T12:49:47"
+}

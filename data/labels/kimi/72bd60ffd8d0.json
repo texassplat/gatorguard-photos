@@ -1,0 +1,46 @@
+{
+ "finish": "stop",
+ "usage": {
+  "input_tokens": 5350,
+  "output_tokens": 171,
+  "cost": 0.018615
+ },
+ "served_by": "Fireworks",
+ "label": {
+  "content": "document_or_screenshot",
+  "area": "not_visible",
+  "setting": "unknown",
+  "system": "not_applicable",
+  "color": "not_applicable",
+  "color_confidence": "none",
+  "color_runner_up": "not_applicable",
+  "color_description": "",
+  "shot_type": "document",
+  "people": "none",
+  "faces_identifiable": false,
+  "privacy": [
+   "personal_papers"
+  ],
+  "branding_visible": false,
+  "quality": "3",
+  "issues": [],
+  "website_ready": false,
+  "title": "Invoice for garage floor video production",
+  "alt_text": "Invoice from Mitch Muhlbaier to Gator Guard for garage floor process videos, December 2022",
+  "tags": [
+   "invoice",
+   "document",
+   "video production",
+   "mitch",
+   "billing",
+   "garage floor videos"
+  ],
+  "filename": "video-production-invoice-document"
+ },
+ "id": "72bd60ffd8d0",
+ "provider": "kimi",
+ "model": "moonshotai/kimi-k3",
+ "mode": "pilot",
+ "blind": false,
+ "at": "2026-09-17T12:24:46"
+}

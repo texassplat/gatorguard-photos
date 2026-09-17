@@ -1,0 +1,47 @@
+{
+ "finish": "stop",
+ "usage": {
+  "input_tokens": 4921,
+  "output_tokens": 240,
+  "cost": 0.0092046
+ },
+ "served_by": "Together",
+ "label": {
+  "content": "floor_photo",
+  "area": "not_visible",
+  "setting": "unknown",
+  "system": "full_flake",
+  "color": "Granite",
+  "color_confidence": "low",
+  "color_runner_up": "Quartzite",
+  "color_description": "fine gray, white and black chips, small size",
+  "shot_type": "close_up",
+  "people": "none",
+  "faces_identifiable": false,
+  "privacy": [],
+  "branding_visible": false,
+  "quality": "4",
+  "issues": [],
+  "website_ready": false,
+  "title": "Flake floor edge meets cracked bare concrete",
+  "alt_text": "Close up of a gray full flake coated floor edge meeting cracked bare concrete, showing a crisp coating line",
+  "tags": [
+   "close up",
+   "full flake",
+   "floor edge",
+   "crisp line",
+   "gray chips",
+   "bare concrete",
+   "crack",
+   "contrast",
+   "edge detail"
+  ],
+  "filename": "flake-floor-edge-cracked-concrete"
+ },
+ "id": "3b52a8517a76",
+ "provider": "kimi",
+ "model": "moonshotai/kimi-k3",
+ "mode": "run",
+ "blind": false,
+ "at": "2026-09-17T12:35:15"
+}

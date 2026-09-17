@@ -1,0 +1,47 @@
+{
+ "finish": "stop",
+ "usage": {
+  "input_tokens": 5211,
+  "output_tokens": 227,
+  "cost": 0.01265871598464
+ },
+ "served_by": "Makora",
+ "label": {
+  "content": "floor_photo",
+  "area": "interior_room",
+  "setting": "unknown",
+  "system": "full_flake",
+  "color": "unknown",
+  "color_confidence": "low",
+  "color_runner_up": "Quartzite",
+  "color_description": "gray and tan small chips, fine speckled mix",
+  "shot_type": "finished",
+  "people": "none",
+  "faces_identifiable": false,
+  "privacy": [],
+  "branding_visible": false,
+  "quality": "3",
+  "issues": [],
+  "website_ready": false,
+  "title": "Golden retriever sitting on speckled flake floor",
+  "alt_text": "Golden retriever dog sitting on a gray speckled full flake floor next to a green dog toy",
+  "tags": [
+   "dog",
+   "golden retriever",
+   "flake floor",
+   "gray chips",
+   "tan chips",
+   "photoshoot",
+   "interior",
+   "pet friendly",
+   "finished floor"
+  ],
+  "filename": "golden-retriever-on-flake-floor"
+ },
+ "id": "4e16ec453178",
+ "provider": "kimi",
+ "model": "moonshotai/kimi-k3",
+ "mode": "run",
+ "blind": false,
+ "at": "2026-09-17T12:40:17"
+}

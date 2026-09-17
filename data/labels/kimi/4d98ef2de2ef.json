@@ -1,0 +1,47 @@
+{
+ "finish": "stop",
+ "usage": {
+  "input_tokens": 5326,
+  "output_tokens": 279,
+  "cost": 0.0110046
+ },
+ "served_by": "Together",
+ "label": {
+  "content": "floor_photo",
+  "area": "patio_or_porch",
+  "setting": "residential",
+  "system": "full_flake",
+  "color": "unknown",
+  "color_confidence": "low",
+  "color_runner_up": "Ocotillo",
+  "color_description": "gray, tan and black chips, small to medium size",
+  "shot_type": "finished",
+  "people": "none",
+  "faces_identifiable": false,
+  "privacy": [],
+  "branding_visible": false,
+  "quality": "4",
+  "issues": [],
+  "website_ready": true,
+  "title": "Front porch with gray tan full flake floor",
+  "alt_text": "Covered brick front porch with a gray and tan full flake floor coating, low angle view with flag and lawn",
+  "tags": [
+   "front porch",
+   "exterior",
+   "full flake",
+   "gray chips",
+   "tan chips",
+   "brick house",
+   "covered porch",
+   "residential",
+   "finished floor"
+  ],
+  "filename": "front-porch-gray-tan-full-flake"
+ },
+ "id": "4d98ef2de2ef",
+ "provider": "kimi",
+ "model": "moonshotai/kimi-k3",
+ "mode": "run",
+ "blind": false,
+ "at": "2026-09-17T12:37:39"
+}

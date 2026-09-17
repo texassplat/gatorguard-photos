@@ -1,0 +1,46 @@
+{
+ "finish": "stop",
+ "usage": {
+  "input_tokens": 5320,
+  "output_tokens": 251,
+  "cost": 0.019725
+ },
+ "served_by": "Fireworks",
+ "label": {
+  "content": "floor_photo",
+  "area": "commercial_or_industrial",
+  "setting": "commercial",
+  "system": "full_flake",
+  "color": "unknown",
+  "color_confidence": "low",
+  "color_runner_up": "unknown",
+  "color_description": "dark blue-gray base with very fine tan and yellow specks",
+  "shot_type": "finished",
+  "people": "none",
+  "faces_identifiable": false,
+  "privacy": [],
+  "branding_visible": false,
+  "quality": "4",
+  "issues": [],
+  "website_ready": true,
+  "title": "Commercial entrance with dark speckled flake floor",
+  "alt_text": "Glossy dark flake coated floor at a commercial entrance with yellow corrugated wall, full flake floor coating",
+  "tags": [
+   "commercial",
+   "entrance",
+   "full flake",
+   "dark blue",
+   "fine speckles",
+   "glossy",
+   "yellow wall",
+   "outdoor floor"
+  ],
+  "filename": "commercial-entrance-dark-flake-floor"
+ },
+ "id": "2e655d702e14",
+ "provider": "kimi",
+ "model": "moonshotai/kimi-k3",
+ "mode": "run",
+ "blind": false,
+ "at": "2026-09-17T12:35:06"
+}

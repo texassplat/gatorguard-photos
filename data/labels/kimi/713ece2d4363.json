@@ -1,0 +1,49 @@
+{
+ "finish": "stop",
+ "usage": {
+  "input_tokens": 5037,
+  "output_tokens": 316,
+  "cost": 0.00988631
+ },
+ "served_by": "DigitalOcean",
+ "label": {
+  "alt_text": "Basement room with light gray full flake epoxy floor, desks, and bookshelf; full flake basement floor coating",
+  "area": "basement",
+  "branding_visible": false,
+  "color": "Avalon",
+  "color_confidence": "low",
+  "color_description": "light gray, white and black chips, small to medium size",
+  "color_runner_up": "Lunar",
+  "content": "floor_photo",
+  "faces_identifiable": false,
+  "filename": "basement-gray-full-flake-floor-desks",
+  "issues": [
+   "cluttered"
+  ],
+  "people": "none",
+  "privacy": [],
+  "quality": "3",
+  "setting": "residential",
+  "shot_type": "finished",
+  "system": "full_flake",
+  "tags": [
+   "basement",
+   "full flake floor",
+   "gray chips",
+   "light gray",
+   "desks",
+   "bookshelves",
+   "office nook",
+   "finished floor",
+   "residential"
+  ],
+  "title": "Basement office with gray full flake floor",
+  "website_ready": false
+ },
+ "id": "713ece2d4363",
+ "provider": "kimi",
+ "model": "moonshotai/kimi-k3",
+ "mode": "run",
+ "blind": false,
+ "at": "2026-09-17T12:31:27"
+}

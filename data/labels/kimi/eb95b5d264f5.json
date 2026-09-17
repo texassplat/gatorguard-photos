@@ -1,0 +1,48 @@
+{
+ "finish": "stop",
+ "usage": {
+  "input_tokens": 5318,
+  "output_tokens": 272,
+  "cost": 0.020034
+ },
+ "served_by": "Parasail",
+ "label": {
+  "content": "floor_photo",
+  "area": "not_visible",
+  "setting": "unknown",
+  "system": "solid_color",
+  "color": "unknown",
+  "color_confidence": "none",
+  "color_runner_up": "not_applicable",
+  "color_description": "bright red solid coating, no chips",
+  "shot_type": "crew_working",
+  "people": "prominent",
+  "faces_identifiable": true,
+  "privacy": [
+   "customer_face"
+  ],
+  "branding_visible": false,
+  "quality": "3",
+  "issues": [
+   "tilted"
+  ],
+  "website_ready": false,
+  "title": "Crew member rolling bright red solid color floor",
+  "alt_text": "Worker with paint roller applying bright red solid color floor coating indoors",
+  "tags": [
+   "solid color floor",
+   "red floor",
+   "roller application",
+   "coating in progress",
+   "crew working",
+   "floor coating"
+  ],
+  "filename": "worker-rolling-red-solid-color-floor"
+ },
+ "id": "eb95b5d264f5",
+ "provider": "kimi",
+ "model": "moonshotai/kimi-k3",
+ "mode": "run",
+ "blind": false,
+ "at": "2026-09-17T12:54:21"
+}

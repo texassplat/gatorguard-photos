@@ -1,0 +1,47 @@
+{
+ "finish": "stop",
+ "usage": {
+  "input_tokens": 5256,
+  "output_tokens": 160,
+  "cost": 0.00665532
+ },
+ "served_by": "Morph",
+ "label": {
+  "content": "floor_photo",
+  "area": "commercial_or_industrial",
+  "setting": "commercial",
+  "system": "solid_color_chip",
+  "color": "unknown",
+  "color_confidence": "none",
+  "color_runner_up": "unknown",
+  "color_description": "light gray fine speckled chips, small size",
+  "shot_type": "finished",
+  "people": "none",
+  "faces_identifiable": false,
+  "privacy": [],
+  "branding_visible": false,
+  "quality": "4",
+  "issues": [],
+  "website_ready": true,
+  "title": "Commercial exterior pad with light gray chip floor",
+  "alt_text": "Light gray solid color chip coating on a commercial exterior concrete pad beside a brick building",
+  "tags": [
+   "commercial",
+   "exterior concrete",
+   "solid color chip",
+   "light gray chips",
+   "fine flake",
+   "brick building",
+   "finished floor",
+   "equipment pad",
+   "sunny"
+  ],
+  "filename": "commercial-pad-light-gray-chip-floor"
+ },
+ "id": "e40ed0a1919b",
+ "provider": "kimi",
+ "model": "moonshotai/kimi-k3",
+ "mode": "run",
+ "blind": false,
+ "at": "2026-09-17T12:57:35"
+}

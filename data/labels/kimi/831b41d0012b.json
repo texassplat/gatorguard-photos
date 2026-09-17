@@ -1,0 +1,48 @@
+{
+ "finish": "stop",
+ "usage": {
+  "input_tokens": 5211,
+  "output_tokens": 316,
+  "cost": 0.020373
+ },
+ "served_by": "Parasail",
+ "label": {
+  "content": "floor_photo",
+  "area": "not_visible",
+  "setting": "unknown",
+  "system": "full_flake",
+  "color": "unknown",
+  "color_confidence": "low",
+  "color_runner_up": "Chestnut",
+  "color_description": "small brown, black and tan chips on a speckled floor",
+  "shot_type": "close_up",
+  "people": "prominent",
+  "faces_identifiable": false,
+  "privacy": [],
+  "branding_visible": false,
+  "quality": "4",
+  "issues": [],
+  "website_ready": true,
+  "title": "Wiping nacho cheese spill off flake floor",
+  "alt_text": "Hand with towel wiping spilled nacho cheese and tortilla chips off a speckled full flake garage floor coating",
+  "tags": [
+   "full flake",
+   "spill cleanup",
+   "nacho cheese",
+   "chips",
+   "stain resistance",
+   "gameday photoshoot",
+   "easy cleaning",
+   "towel",
+   "close up",
+   "brown tan chips"
+  ],
+  "filename": "wiping-nacho-cheese-spill-flake-floor"
+ },
+ "id": "831b41d0012b",
+ "provider": "kimi",
+ "model": "moonshotai/kimi-k3",
+ "mode": "run",
+ "blind": false,
+ "at": "2026-09-17T12:39:56"
+}

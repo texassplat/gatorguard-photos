@@ -1,0 +1,47 @@
+{
+ "finish": "stop",
+ "usage": {
+  "input_tokens": 5321,
+  "output_tokens": 244,
+  "cost": 0.0104646
+ },
+ "served_by": "Together",
+ "label": {
+  "content": "floor_photo",
+  "area": "patio_or_porch",
+  "setting": "residential",
+  "system": "poly_enhance",
+  "color": "not_applicable",
+  "color_confidence": "none",
+  "color_runner_up": "not_applicable",
+  "color_description": "clear wet-look sealer over tan and brown exposed aggregate concrete",
+  "shot_type": "finished",
+  "people": "none",
+  "faces_identifiable": false,
+  "privacy": [],
+  "branding_visible": false,
+  "quality": "4",
+  "issues": [],
+  "website_ready": true,
+  "title": "Patio with sealed exposed aggregate and furniture",
+  "alt_text": "Exposed aggregate patio with wet-look sealer, patio chairs, table and flower pots, poly enhance concrete sealer",
+  "tags": [
+   "patio",
+   "exposed aggregate",
+   "wet look sealer",
+   "poly enhance",
+   "outdoor furniture",
+   "flower pots",
+   "finished",
+   "residential",
+   "tan aggregate"
+  ],
+  "filename": "sealed-exposed-aggregate-patio-furniture"
+ },
+ "id": "c0ac2bfda3ba",
+ "provider": "kimi",
+ "model": "moonshotai/kimi-k3",
+ "mode": "run",
+ "blind": false,
+ "at": "2026-09-17T12:55:54"
+}

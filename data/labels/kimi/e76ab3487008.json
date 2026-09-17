@@ -1,0 +1,47 @@
+{
+ "finish": "stop",
+ "usage": {
+  "input_tokens": 5328,
+  "output_tokens": 246,
+  "cost": 0.0105156
+ },
+ "served_by": "Together",
+ "label": {
+  "content": "floor_photo",
+  "area": "patio_or_porch",
+  "setting": "residential",
+  "system": "full_flake",
+  "color": "Silver Butte",
+  "color_confidence": "low",
+  "color_runner_up": "Stone Rowe",
+  "color_description": "light gray base with white, gray and black chips, small to medium size",
+  "shot_type": "finished",
+  "people": "none",
+  "faces_identifiable": false,
+  "privacy": [],
+  "branding_visible": false,
+  "quality": "4",
+  "issues": [],
+  "website_ready": true,
+  "title": "Front porch with gray full flake floor",
+  "alt_text": "Front porch with gray full flake floor coating, white columns, red siding and pink hydrangeas",
+  "tags": [
+   "porch",
+   "exterior",
+   "full flake",
+   "gray chips",
+   "white columns",
+   "red siding",
+   "brick steps",
+   "hydrangeas",
+   "finished floor"
+  ],
+  "filename": "front-porch-gray-full-flake-floor"
+ },
+ "id": "e76ab3487008",
+ "provider": "kimi",
+ "model": "moonshotai/kimi-k3",
+ "mode": "run",
+ "blind": false,
+ "at": "2026-09-17T12:36:08"
+}

@@ -1,0 +1,50 @@
+{
+ "finish": "stop",
+ "usage": {
+  "input_tokens": 5257,
+  "output_tokens": 184,
+  "cost": 0.006909195
+ },
+ "served_by": "Morph",
+ "label": {
+  "content": "floor_photo",
+  "area": "commercial_or_industrial",
+  "setting": "commercial",
+  "system": "tile_coating",
+  "color": "Black Canyon",
+  "color_confidence": "medium",
+  "color_runner_up": "Gun Metal",
+  "color_description": "dark charcoal base with white and light gray chips, small to medium size",
+  "shot_type": "finished",
+  "people": "none",
+  "faces_identifiable": false,
+  "privacy": [],
+  "branding_visible": false,
+  "quality": "4",
+  "issues": [
+   "tilted"
+  ],
+  "website_ready": true,
+  "title": "Restroom tile coated in dark speckled finish",
+  "alt_text": "Commercial restroom with tile floor coated in a dark finish with white and gray chips, sink and stalls visible, tile coating",
+  "tags": [
+   "tile coating",
+   "commercial restroom",
+   "restroom floor",
+   "dark chips",
+   "white and gray chips",
+   "speckled floor",
+   "sink counter",
+   "stall",
+   "finished floor",
+   "glossy"
+  ],
+  "filename": "restroom-dark-tile-coating"
+ },
+ "id": "a14f49902d90",
+ "provider": "kimi",
+ "model": "moonshotai/kimi-k3",
+ "mode": "run",
+ "blind": false,
+ "at": "2026-09-17T12:58:16"
+}

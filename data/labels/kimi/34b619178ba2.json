@@ -1,0 +1,48 @@
+{
+ "finish": "stop",
+ "usage": {
+  "input_tokens": 5342,
+  "output_tokens": 306,
+  "cost": 0.020616
+ },
+ "served_by": "Parasail",
+ "label": {
+  "content": "floor_photo",
+  "area": "basement",
+  "setting": "residential",
+  "system": "full_flake",
+  "color": "Windermere",
+  "color_confidence": "medium",
+  "color_runner_up": "Stone Ridge",
+  "color_description": "gray base with black, white and tan-gold chips, medium size",
+  "shot_type": "finished",
+  "people": "none",
+  "faces_identifiable": false,
+  "privacy": [],
+  "branding_visible": false,
+  "quality": "4",
+  "issues": [],
+  "website_ready": true,
+  "title": "Finished basement with gray full flake floor",
+  "alt_text": "Finished basement with glossy full flake floor in gray, black and tan chips, white brick wall and black ceiling",
+  "tags": [
+   "basement",
+   "full flake",
+   "gray floor",
+   "black chips",
+   "tan chips",
+   "white brick wall",
+   "exposed black ceiling",
+   "finished floor",
+   "glossy",
+   "epoxy flake floor"
+  ],
+  "filename": "basement-gray-full-flake-finished-floor"
+ },
+ "id": "34b619178ba2",
+ "provider": "kimi",
+ "model": "moonshotai/kimi-k3",
+ "mode": "pilot",
+ "blind": true,
+ "at": "2026-09-17T12:25:49"
+}

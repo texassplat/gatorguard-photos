@@ -1,0 +1,47 @@
+{
+ "finish": "stop",
+ "usage": {
+  "input_tokens": 5329,
+  "output_tokens": 262,
+  "cost": 0.0107586
+ },
+ "served_by": "Together",
+ "label": {
+  "content": "floor_photo",
+  "area": "interior_room",
+  "setting": "residential",
+  "system": "full_flake",
+  "color": "Stone Crest",
+  "color_confidence": "low",
+  "color_runner_up": "Stone Ridge",
+  "color_description": "light gray base with black, white and scattered red chips, small to medium size",
+  "shot_type": "finished",
+  "people": "none",
+  "faces_identifiable": false,
+  "privacy": [],
+  "branding_visible": false,
+  "quality": "4",
+  "issues": [],
+  "website_ready": true,
+  "title": "Interior room with gray full flake floor",
+  "alt_text": "Finished interior room with gray full flake floor, black walls and white trim, full flake floor coating",
+  "tags": [
+   "full flake",
+   "interior room",
+   "gray floor",
+   "black walls",
+   "white trim",
+   "red chip accents",
+   "finished floor",
+   "basement room",
+   "flake flooring"
+  ],
+  "filename": "interior-room-gray-full-flake-floor"
+ },
+ "id": "def634ffc85d",
+ "provider": "kimi",
+ "model": "moonshotai/kimi-k3",
+ "mode": "run",
+ "blind": false,
+ "at": "2026-09-17T12:48:31"
+}

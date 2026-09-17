@@ -1,0 +1,48 @@
+{
+ "finish": "stop",
+ "usage": {
+  "input_tokens": 5319,
+  "output_tokens": 225,
+  "cost": 0.019332
+ },
+ "served_by": "Parasail",
+ "label": {
+  "content": "people_or_team",
+  "area": "not_visible",
+  "setting": "unknown",
+  "system": "not_applicable",
+  "color": "not_applicable",
+  "color_confidence": "none",
+  "color_runner_up": "not_applicable",
+  "color_description": "",
+  "shot_type": "in_progress",
+  "people": "prominent",
+  "faces_identifiable": true,
+  "privacy": [],
+  "branding_visible": false,
+  "quality": "3",
+  "issues": [
+   "cluttered"
+  ],
+  "website_ready": false,
+  "title": "Crew mixing coating materials inside work trailer",
+  "alt_text": "Two installers prepping buckets and coating supplies inside a work trailer during a floor coating job",
+  "tags": [
+   "installers",
+   "crew",
+   "work trailer",
+   "mixing materials",
+   "buckets",
+   "equipment",
+   "prep work",
+   "in progress"
+  ],
+  "filename": "crew-mixing-materials-work-trailer"
+ },
+ "id": "94494d94bc44",
+ "provider": "kimi",
+ "model": "moonshotai/kimi-k3",
+ "mode": "run",
+ "blind": false,
+ "at": "2026-09-17T12:47:04"
+}

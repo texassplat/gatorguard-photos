@@ -1,0 +1,46 @@
+{
+ "finish": "stop",
+ "usage": {
+  "input_tokens": 5216,
+  "output_tokens": 315,
+  "cost": 0.01460322
+ },
+ "served_by": "Phala",
+ "label": {
+  "alt_text": "Dark gray marbled metallic epoxy floor in an empty interior room, Liquid Art metallic floor coating",
+  "area": "interior_room",
+  "branding_visible": false,
+  "color": "Charcoal",
+  "color_confidence": "medium",
+  "color_description": "dark gray to charcoal metallic swirls, glossy marbled finish",
+  "color_runner_up": "Gray",
+  "content": "floor_photo",
+  "faces_identifiable": false,
+  "filename": "charcoal-metallic-interior-room-floor",
+  "issues": [],
+  "people": "none",
+  "privacy": [],
+  "quality": "4",
+  "setting": "residential",
+  "shot_type": "finished",
+  "system": "metallic",
+  "tags": [
+   "metallic epoxy",
+   "dark gray floor",
+   "marbled",
+   "glossy",
+   "interior room",
+   "liquid art",
+   "swirl pattern",
+   "residential"
+  ],
+  "title": "Dark charcoal metallic epoxy floor in empty room",
+  "website_ready": true
+ },
+ "id": "d4e10d1da6c0",
+ "provider": "kimi",
+ "model": "moonshotai/kimi-k3",
+ "mode": "run",
+ "blind": false,
+ "at": "2026-09-17T12:52:31"
+}

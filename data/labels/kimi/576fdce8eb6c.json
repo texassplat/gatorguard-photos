@@ -1,0 +1,50 @@
+{
+ "finish": "stop",
+ "usage": {
+  "input_tokens": 5312,
+  "output_tokens": 245,
+  "cost": 0.0104526
+ },
+ "served_by": "Together",
+ "label": {
+  "content": "floor_photo",
+  "area": "patio_or_porch",
+  "setting": "residential",
+  "system": "stamped_concrete",
+  "color": "not_applicable",
+  "color_confidence": "none",
+  "color_runner_up": "not_applicable",
+  "color_description": "gray and tan stamped stone pattern with glossy wet-look sealer",
+  "shot_type": "finished",
+  "people": "none",
+  "faces_identifiable": false,
+  "privacy": [],
+  "branding_visible": false,
+  "quality": "4",
+  "issues": [
+   "wet_or_dirty"
+  ],
+  "website_ready": true,
+  "title": "Sealed stamped concrete patio behind brick home",
+  "alt_text": "Glossy sealed stamped concrete patio in ashlar stone pattern behind a brick house with bay window",
+  "tags": [
+   "patio",
+   "stamped concrete",
+   "wet look sealer",
+   "ashlar pattern",
+   "gray and tan",
+   "backyard",
+   "brick house",
+   "bay window",
+   "glossy",
+   "old style"
+  ],
+  "filename": "sealed-stamped-concrete-patio-brick-home"
+ },
+ "id": "576fdce8eb6c",
+ "provider": "kimi",
+ "model": "moonshotai/kimi-k3",
+ "mode": "run",
+ "blind": false,
+ "at": "2026-09-17T12:54:53"
+}

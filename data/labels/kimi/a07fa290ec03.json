@@ -1,0 +1,49 @@
+{
+ "finish": "stop",
+ "usage": {
+  "input_tokens": 5206,
+  "output_tokens": 307,
+  "cost": 0.0110646
+ },
+ "served_by": "Together",
+ "label": {
+  "content": "people_or_team",
+  "area": "showroom_or_retail",
+  "setting": "commercial",
+  "system": "full_flake",
+  "color": "unknown",
+  "color_confidence": "low",
+  "color_runner_up": "Chestnut",
+  "color_description": "small tan, brown, gray and black chips on a gray base",
+  "shot_type": "crew_working",
+  "people": "prominent",
+  "faces_identifiable": true,
+  "privacy": [
+   "customer_face"
+  ],
+  "branding_visible": true,
+  "quality": "3",
+  "issues": [],
+  "website_ready": false,
+  "title": "Man mopping flake floor at showroom photoshoot",
+  "alt_text": "Man mopping a speckled flake epoxy floor in a showroom with a product banner on the wall",
+  "tags": [
+   "showroom",
+   "photoshoot",
+   "mopping",
+   "full flake",
+   "tan gray chips",
+   "banner",
+   "cleaning",
+   "crew working",
+   "indoor"
+  ],
+  "filename": "showroom-photoshoot-mopping-flake-floor"
+ },
+ "id": "a07fa290ec03",
+ "provider": "kimi",
+ "model": "moonshotai/kimi-k3",
+ "mode": "run",
+ "blind": false,
+ "at": "2026-09-17T12:38:25"
+}

@@ -1,0 +1,47 @@
+{
+ "finish": "stop",
+ "usage": {
+  "input_tokens": 5323,
+  "output_tokens": 244,
+  "cost": 0.019629
+ },
+ "served_by": "Parasail",
+ "label": {
+  "content": "floor_photo",
+  "area": "garage",
+  "setting": "residential",
+  "system": "full_flake",
+  "color": "Granite",
+  "color_confidence": "medium",
+  "color_runner_up": "Zircon",
+  "color_description": "light gray, white and black chips, medium size",
+  "shot_type": "finished",
+  "people": "none",
+  "faces_identifiable": false,
+  "privacy": [],
+  "branding_visible": false,
+  "quality": "4",
+  "issues": [],
+  "website_ready": true,
+  "title": "Garage floor with gray flake coating by stairs",
+  "alt_text": "Gray full flake garage floor coating beside carpeted wooden stairs with white spindles",
+  "tags": [
+   "garage",
+   "full flake",
+   "gray floor",
+   "gray white black chips",
+   "stairs",
+   "carpeted stairs",
+   "finished floor",
+   "residential",
+   "wood trim"
+  ],
+  "filename": "garage-gray-flake-floor-stairs"
+ },
+ "id": "a108ce1cb1f5",
+ "provider": "kimi",
+ "model": "moonshotai/kimi-k3",
+ "mode": "run",
+ "blind": false,
+ "at": "2026-09-17T12:43:19"
+}

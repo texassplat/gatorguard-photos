@@ -1,0 +1,47 @@
+{
+ "finish": "stop",
+ "usage": {
+  "input_tokens": 5332,
+  "output_tokens": 191,
+  "cost": 0.018861
+ },
+ "served_by": "Parasail",
+ "label": {
+  "content": "floor_photo",
+  "area": "interior_room",
+  "setting": "residential",
+  "system": "metallic",
+  "color": "Sapphire",
+  "color_confidence": "high",
+  "color_runner_up": "Denim",
+  "color_description": "deep vivid blue metallic with darker blue swirls and sparkle",
+  "shot_type": "finished",
+  "people": "none",
+  "faces_identifiable": false,
+  "privacy": [],
+  "branding_visible": true,
+  "quality": "4",
+  "issues": [],
+  "website_ready": true,
+  "title": "Blue metallic floor with orange walls",
+  "alt_text": "Blue metallic epoxy floor in a room with orange walls and Gators border tape, Liquid Art metallic floor",
+  "tags": [
+   "metallic epoxy",
+   "blue metallic",
+   "liquid art",
+   "sapphire",
+   "orange walls",
+   "swirled floor",
+   "reflective floor",
+   "interior room",
+   "gators theme"
+  ],
+  "filename": "blue-metallic-floor-orange-walls"
+ },
+ "id": "fa1fc3264384",
+ "provider": "kimi",
+ "model": "moonshotai/kimi-k3",
+ "mode": "run",
+ "blind": false,
+ "at": "2026-09-17T12:52:20"
+}

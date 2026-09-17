@@ -1,0 +1,46 @@
+{
+ "finish": "stop",
+ "usage": {
+  "input_tokens": 5321,
+  "output_tokens": 311,
+  "cost": 0.0114696
+ },
+ "served_by": "Together",
+ "label": {
+  "content": "floor_photo",
+  "area": "interior_room",
+  "setting": "residential",
+  "system": "solid_color_chip",
+  "color": "unknown",
+  "color_confidence": "low",
+  "color_runner_up": "Ocotillo",
+  "color_description": "uniform tan chips, small size, speckled look",
+  "shot_type": "finished",
+  "people": "none",
+  "faces_identifiable": false,
+  "privacy": [],
+  "branding_visible": false,
+  "quality": "4",
+  "issues": [],
+  "website_ready": true,
+  "title": "Interior room with tan solid color chip floor",
+  "alt_text": "Finished tan solid color chip floor in a room with paneled walls and a sliding glass door to the patio",
+  "tags": [
+   "solid color chip",
+   "tan floor",
+   "interior room",
+   "sliding glass door",
+   "finished floor",
+   "residential",
+   "tan chips",
+   "patio door"
+  ],
+  "filename": "tan-solid-color-chip-interior-room"
+ },
+ "id": "01b1aca3aab4",
+ "provider": "kimi",
+ "model": "moonshotai/kimi-k3",
+ "mode": "run",
+ "blind": false,
+ "at": "2026-09-17T12:56:38"
+}

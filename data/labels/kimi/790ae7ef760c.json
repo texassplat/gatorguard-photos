@@ -1,0 +1,47 @@
+{
+ "finish": "stop",
+ "usage": {
+  "input_tokens": 5329,
+  "output_tokens": 243,
+  "cost": 0.019632
+ },
+ "served_by": "Fireworks",
+ "label": {
+  "content": "floor_photo",
+  "area": "patio_or_porch",
+  "setting": "residential",
+  "system": "full_flake",
+  "color": "unknown",
+  "color_confidence": "low",
+  "color_runner_up": "Black Canyon",
+  "color_description": "very dark base with black, gray and small brown chips, medium size",
+  "shot_type": "finished",
+  "people": "none",
+  "faces_identifiable": false,
+  "privacy": [],
+  "branding_visible": false,
+  "quality": "4",
+  "issues": [],
+  "website_ready": true,
+  "title": "Dark full flake coating on back patio",
+  "alt_text": "Back patio with a dark speckled full flake floor coating beside a brick house and lawn",
+  "tags": [
+   "patio",
+   "exterior",
+   "full flake",
+   "dark chips",
+   "black and gray chips",
+   "brick house",
+   "glossy",
+   "finished floor",
+   "backyard"
+  ],
+  "filename": "dark-full-flake-back-patio"
+ },
+ "id": "790ae7ef760c",
+ "provider": "kimi",
+ "model": "moonshotai/kimi-k3",
+ "mode": "run",
+ "blind": false,
+ "at": "2026-09-17T12:37:28"
+}

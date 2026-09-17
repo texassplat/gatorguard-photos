@@ -1,0 +1,48 @@
+{
+ "finish": "stop",
+ "usage": {
+  "input_tokens": 5179,
+  "output_tokens": 274,
+  "cost": 0.019647
+ },
+ "served_by": "Fireworks",
+ "label": {
+  "content": "floor_photo",
+  "area": "patio_or_porch",
+  "setting": "residential",
+  "system": "full_flake",
+  "color": "unknown",
+  "color_confidence": "low",
+  "color_runner_up": "Willow",
+  "color_description": "light tan and brown small chips visible on the step edge, flat tan surface elsewhere",
+  "shot_type": "finished",
+  "people": "none",
+  "faces_identifiable": false,
+  "privacy": [],
+  "branding_visible": false,
+  "quality": "4",
+  "issues": [],
+  "website_ready": true,
+  "title": "Covered back porch with coated patio and step",
+  "alt_text": "Covered back porch with white columns and a coated concrete patio and step, full flake patio floor coating",
+  "tags": [
+   "patio",
+   "covered porch",
+   "white columns",
+   "full flake",
+   "tan chips",
+   "outdoor furniture",
+   "potted plants",
+   "steps",
+   "residential exterior",
+   "finished floor"
+  ],
+  "filename": "covered-porch-coated-patio-step"
+ },
+ "id": "6ee87864e63a",
+ "provider": "kimi",
+ "model": "moonshotai/kimi-k3",
+ "mode": "run",
+ "blind": false,
+ "at": "2026-09-17T12:37:52"
+}

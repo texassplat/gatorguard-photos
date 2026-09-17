@@ -1,0 +1,48 @@
+{
+ "finish": "stop",
+ "usage": {
+  "input_tokens": 5324,
+  "output_tokens": 219,
+  "cost": 0.019257
+ },
+ "served_by": "Parasail",
+ "label": {
+  "content": "floor_photo",
+  "area": "garage",
+  "setting": "residential",
+  "system": "full_flake",
+  "color": "Sedona",
+  "color_confidence": "low",
+  "color_runner_up": "Chestnut",
+  "color_description": "tan and brown chips with black specks, medium size",
+  "shot_type": "finished",
+  "people": "none",
+  "faces_identifiable": false,
+  "privacy": [],
+  "branding_visible": false,
+  "quality": "3",
+  "issues": [
+   "cluttered"
+  ],
+  "website_ready": false,
+  "title": "Garage flake floor around water softener tanks",
+  "alt_text": "Tan and brown full flake garage floor with black water softener tanks and white plumbing pipes",
+  "tags": [
+   "garage",
+   "full flake",
+   "tan brown chips",
+   "water softener",
+   "tanks",
+   "pipes",
+   "finished floor",
+   "basement equipment"
+  ],
+  "filename": "flake-floor-water-softener-tanks"
+ },
+ "id": "ee7f4910e532",
+ "provider": "kimi",
+ "model": "moonshotai/kimi-k3",
+ "mode": "run",
+ "blind": false,
+ "at": "2026-09-17T12:42:41"
+}

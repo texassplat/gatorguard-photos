@@ -1,0 +1,46 @@
+{
+ "finish": "stop",
+ "usage": {
+  "input_tokens": 5345,
+  "output_tokens": 273,
+  "cost": 0.0109716
+ },
+ "served_by": "Together",
+ "label": {
+  "content": "floor_photo",
+  "area": "not_visible",
+  "setting": "unknown",
+  "system": "full_flake",
+  "color": "unknown",
+  "color_confidence": "low",
+  "color_runner_up": "Granite",
+  "color_description": "gray base with sparse small black and white chips",
+  "shot_type": "close_up",
+  "people": "none",
+  "faces_identifiable": false,
+  "privacy": [],
+  "branding_visible": false,
+  "quality": "4",
+  "issues": [],
+  "website_ready": false,
+  "title": "Coated edge lip meeting broomed concrete",
+  "alt_text": "Close up of a gray flake coated floor edge lip against rough broomed concrete, full flake coating detail",
+  "tags": [
+   "close up",
+   "edge lip",
+   "flake coating",
+   "gray floor",
+   "black and white chips",
+   "concrete edge",
+   "coating detail",
+   "transition"
+  ],
+  "filename": "flake-coating-edge-lip-close-up"
+ },
+ "id": "e03e8ae1ab99",
+ "provider": "kimi",
+ "model": "moonshotai/kimi-k3",
+ "mode": "run",
+ "blind": false,
+ "at": "2026-09-17T12:48:40"
+}

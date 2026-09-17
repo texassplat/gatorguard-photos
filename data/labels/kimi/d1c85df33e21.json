@@ -1,0 +1,46 @@
+{
+ "finish": "stop",
+ "usage": {
+  "input_tokens": 5292,
+  "output_tokens": 256,
+  "cost": 0.019716
+ },
+ "served_by": "Parasail",
+ "label": {
+  "content": "floor_photo",
+  "area": "patio_or_porch",
+  "setting": "residential",
+  "system": "full_flake",
+  "color": "unknown",
+  "color_confidence": "low",
+  "color_runner_up": "unknown",
+  "color_description": "fine light gray and tan chips, small size",
+  "shot_type": "finished",
+  "people": "none",
+  "faces_identifiable": false,
+  "privacy": [],
+  "branding_visible": false,
+  "quality": "4",
+  "issues": [],
+  "website_ready": true,
+  "title": "Backyard patio with light gray flake floor",
+  "alt_text": "Sunny backyard patio with light speckled flake floor coating, lounge chair and potted flowers",
+  "tags": [
+   "patio",
+   "exterior",
+   "full flake",
+   "light gray chips",
+   "outdoor furniture",
+   "potted plants",
+   "backyard",
+   "finished floor"
+  ],
+  "filename": "patio-light-gray-flake-floor"
+ },
+ "id": "d1c85df33e21",
+ "provider": "kimi",
+ "model": "moonshotai/kimi-k3",
+ "mode": "run",
+ "blind": false,
+ "at": "2026-09-17T12:38:03"
+}

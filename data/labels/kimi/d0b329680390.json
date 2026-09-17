@@ -1,0 +1,46 @@
+{
+ "finish": "stop",
+ "usage": {
+  "input_tokens": 5330,
+  "output_tokens": 227,
+  "cost": 0.019395
+ },
+ "served_by": "Fireworks",
+ "label": {
+  "content": "floor_photo",
+  "area": "patio_or_porch",
+  "setting": "residential",
+  "system": "full_flake",
+  "color": "unknown",
+  "color_confidence": "low",
+  "color_runner_up": "Infinity",
+  "color_description": "light gray and white fine chips, small size",
+  "shot_type": "finished",
+  "people": "none",
+  "faces_identifiable": false,
+  "privacy": [],
+  "branding_visible": false,
+  "quality": "4",
+  "issues": [],
+  "website_ready": true,
+  "title": "Covered porch with light gray flake floor and columns",
+  "alt_text": "Covered porch with white columns and light gray full flake patio floor coating",
+  "tags": [
+   "patio",
+   "covered porch",
+   "columns",
+   "full flake",
+   "light gray chips",
+   "exterior",
+   "finished floor",
+   "control joints"
+  ],
+  "filename": "covered-porch-gray-flake-columns"
+ },
+ "id": "d0b329680390",
+ "provider": "kimi",
+ "model": "moonshotai/kimi-k3",
+ "mode": "run",
+ "blind": false,
+ "at": "2026-09-17T12:37:56"
+}

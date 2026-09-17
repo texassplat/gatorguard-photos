@@ -1,0 +1,48 @@
+{
+ "finish": "stop",
+ "usage": {
+  "input_tokens": 5331,
+  "output_tokens": 279,
+  "cost": 0.020178
+ },
+ "served_by": "Parasail",
+ "label": {
+  "content": "floor_photo",
+  "area": "patio_or_porch",
+  "setting": "residential",
+  "system": "full_flake",
+  "color": "unknown",
+  "color_confidence": "low",
+  "color_runner_up": "Ocotillo",
+  "color_description": "tan and gray base with black, white and gray chips, small to medium size",
+  "shot_type": "finished",
+  "people": "none",
+  "faces_identifiable": false,
+  "privacy": [],
+  "branding_visible": false,
+  "quality": "4",
+  "issues": [],
+  "website_ready": true,
+  "title": "Glossy full flake coating on covered porch",
+  "alt_text": "Glossy full flake floor with tan, gray and black chips on a covered porch with stone wall",
+  "tags": [
+   "porch",
+   "patio",
+   "full flake",
+   "exterior floor",
+   "tan chips",
+   "gray chips",
+   "stone wall",
+   "sliding door",
+   "glossy finish",
+   "finished floor"
+  ],
+  "filename": "covered-porch-tan-gray-full-flake-floor"
+ },
+ "id": "e6179535ce35",
+ "provider": "kimi",
+ "model": "moonshotai/kimi-k3",
+ "mode": "run",
+ "blind": false,
+ "at": "2026-09-17T12:36:38"
+}

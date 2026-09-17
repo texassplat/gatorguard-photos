@@ -1,0 +1,48 @@
+{
+ "finish": "stop",
+ "usage": {
+  "input_tokens": 5329,
+  "output_tokens": 235,
+  "cost": 0.00958196
+ },
+ "served_by": "DigitalOcean",
+ "label": {
+  "alt_text": "Close view of a full flake floor with tan and brown chips in an interior space, full flake floor coating",
+  "area": "garage",
+  "branding_visible": false,
+  "color": "Chestnut",
+  "color_confidence": "medium",
+  "color_description": "tan and brown chips, small to medium size",
+  "color_runner_up": "Sedona",
+  "content": "floor_photo",
+  "faces_identifiable": false,
+  "filename": "tan-full-flake-floor-close-up",
+  "issues": [
+   "overexposed"
+  ],
+  "people": "none",
+  "privacy": [],
+  "quality": "3",
+  "setting": "residential",
+  "shot_type": "close_up",
+  "system": "full_flake",
+  "tags": [
+   "full flake",
+   "tan chips",
+   "brown chips",
+   "garage floor",
+   "coated floor",
+   "flake floor",
+   "interior floor",
+   "joint seam"
+  ],
+  "title": "Tan full flake floor in bright interior",
+  "website_ready": false
+ },
+ "id": "924dec35039c",
+ "provider": "kimi",
+ "model": "moonshotai/kimi-k3",
+ "mode": "run",
+ "blind": false,
+ "at": "2026-09-17T12:32:43"
+}

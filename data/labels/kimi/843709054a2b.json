@@ -1,0 +1,47 @@
+{
+ "finish": "stop",
+ "usage": {
+  "input_tokens": 5321,
+  "output_tokens": 268,
+  "cost": 0.019983
+ },
+ "served_by": "Fireworks",
+ "label": {
+  "content": "floor_photo",
+  "area": "commercial_or_industrial",
+  "setting": "commercial",
+  "system": "full_flake",
+  "color": "Granite",
+  "color_confidence": "medium",
+  "color_runner_up": "Stone Rowe",
+  "color_description": "light gray base with white, gray and black chips, small to medium size",
+  "shot_type": "finished",
+  "people": "none",
+  "faces_identifiable": false,
+  "privacy": [],
+  "branding_visible": false,
+  "quality": "4",
+  "issues": [],
+  "website_ready": true,
+  "title": "Commercial room with gray full flake floor",
+  "alt_text": "Gray full flake floor in a commercial room with doorway transition to brown carpet, full flake floor coating",
+  "tags": [
+   "commercial floor",
+   "full flake",
+   "gray chips",
+   "white chips",
+   "black chips",
+   "doorway",
+   "carpet transition",
+   "finished floor",
+   "interior"
+  ],
+  "filename": "commercial-gray-full-flake-floor"
+ },
+ "id": "843709054a2b",
+ "provider": "kimi",
+ "model": "moonshotai/kimi-k3",
+ "mode": "run",
+ "blind": false,
+ "at": "2026-09-17T12:34:25"
+}

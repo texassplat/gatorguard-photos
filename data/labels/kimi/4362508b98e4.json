@@ -1,0 +1,48 @@
+{
+ "finish": "stop",
+ "usage": {
+  "input_tokens": 5325,
+  "output_tokens": 306,
+  "cost": 0.020565
+ },
+ "served_by": "Parasail",
+ "label": {
+  "content": "floor_photo",
+  "area": "garage",
+  "setting": "residential",
+  "system": "full_flake",
+  "color": "Infinity",
+  "color_confidence": "medium",
+  "color_runner_up": "Silver Butte",
+  "color_description": "light gray base with white, gray and black chips, small to medium size",
+  "shot_type": "finished",
+  "people": "none",
+  "faces_identifiable": false,
+  "privacy": [],
+  "branding_visible": false,
+  "quality": "4",
+  "issues": [
+   "cluttered"
+  ],
+  "website_ready": false,
+  "title": "Garage with gray full flake floor",
+  "alt_text": "Finished garage floor with light gray full flake coating, workbench, windows and wall banners, full flake garage floor coating",
+  "tags": [
+   "garage",
+   "full flake",
+   "gray chips",
+   "finished floor",
+   "workbench",
+   "windows",
+   "speckled floor",
+   "residential"
+  ],
+  "filename": "garage-gray-full-flake-finished"
+ },
+ "id": "4362508b98e4",
+ "provider": "kimi",
+ "model": "moonshotai/kimi-k3",
+ "mode": "run",
+ "blind": false,
+ "at": "2026-09-17T12:44:49"
+}

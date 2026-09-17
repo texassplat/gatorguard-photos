@@ -1,0 +1,48 @@
+{
+ "finish": "stop",
+ "usage": {
+  "input_tokens": 5206,
+  "output_tokens": 208,
+  "cost": 0.0095796
+ },
+ "served_by": "Together",
+ "label": {
+  "content": "floor_photo",
+  "area": "garage",
+  "setting": "residential",
+  "system": "full_flake",
+  "color": "unknown",
+  "color_confidence": "low",
+  "color_runner_up": "unknown",
+  "color_description": "gray, brown and tan chips, small to medium size",
+  "shot_type": "finished",
+  "people": "none",
+  "faces_identifiable": false,
+  "privacy": [],
+  "branding_visible": false,
+  "quality": "3",
+  "issues": [
+   "dark"
+  ],
+  "website_ready": false,
+  "title": "Golden retriever lying on flake coated garage floor",
+  "alt_text": "Golden retriever lying on a green blanket on a gray and brown full flake garage floor coating",
+  "tags": [
+   "dog",
+   "golden retriever",
+   "full flake",
+   "garage floor",
+   "gray chips",
+   "gameday photoshoot",
+   "finished floor",
+   "interior"
+  ],
+  "filename": "golden-retriever-on-flake-garage-floor"
+ },
+ "id": "071cc4b0b20d",
+ "provider": "kimi",
+ "model": "moonshotai/kimi-k3",
+ "mode": "run",
+ "blind": false,
+ "at": "2026-09-17T12:40:25"
+}

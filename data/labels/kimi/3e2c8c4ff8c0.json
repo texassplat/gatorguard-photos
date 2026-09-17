@@ -1,0 +1,46 @@
+{
+ "finish": "stop",
+ "usage": {
+  "input_tokens": 5341,
+  "output_tokens": 306,
+  "cost": 0.00882216
+ },
+ "served_by": "InferenceNet",
+ "label": {
+  "website_ready": false,
+  "title": "Flake coated stem wall meets broomed concrete",
+  "tags": [
+   "close up",
+   "edge lip",
+   "stem wall",
+   "full flake",
+   "brown chips",
+   "black chips",
+   "broomed concrete",
+   "driveway edge"
+  ],
+  "system": "full_flake",
+  "shot_type": "close_up",
+  "setting": "residential",
+  "quality": "3",
+  "privacy": [],
+  "people": "none",
+  "issues": [],
+  "filename": "flake-stem-wall-edge-lip-close-up",
+  "faces_identifiable": false,
+  "content": "floor_photo",
+  "color_runner_up": "Black Canyon",
+  "color_description": "dark brown base with black, brown and tan chips, small to medium size",
+  "color_confidence": "medium",
+  "color": "Chestnut",
+  "branding_visible": false,
+  "area": "driveway_or_walkway",
+  "alt_text": "Close up of a brown full flake coated stem wall edge lip meeting a broomed concrete driveway."
+ },
+ "id": "3e2c8c4ff8c0",
+ "provider": "kimi",
+ "model": "moonshotai/kimi-k3",
+ "mode": "run",
+ "blind": false,
+ "at": "2026-09-17T12:48:43"
+}

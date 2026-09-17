@@ -1,0 +1,48 @@
+{
+ "finish": "stop",
+ "usage": {
+  "input_tokens": 5321,
+  "output_tokens": 222,
+  "cost": 0.019293
+ },
+ "served_by": "Fireworks",
+ "label": {
+  "content": "floor_photo",
+  "area": "commercial_or_industrial",
+  "setting": "commercial",
+  "system": "full_flake",
+  "color": "unknown",
+  "color_confidence": "low",
+  "color_runner_up": "Granite",
+  "color_description": "gray, white and black chips with light tan accents, medium size",
+  "shot_type": "finished",
+  "people": "background",
+  "faces_identifiable": false,
+  "privacy": [],
+  "branding_visible": false,
+  "quality": "3",
+  "issues": [
+   "cluttered"
+  ],
+  "website_ready": false,
+  "title": "Low angle view of gray flake commercial floor",
+  "alt_text": "Glossy gray flake coated floor in a commercial workshop with overhead doors, full flake commercial floor coating",
+  "tags": [
+   "commercial floor",
+   "full flake",
+   "gray chips",
+   "glossy finish",
+   "workshop",
+   "overhead doors",
+   "low angle",
+   "flake floor"
+  ],
+  "filename": "gray-flake-commercial-shop-floor"
+ },
+ "id": "58ed99a51006",
+ "provider": "kimi",
+ "model": "moonshotai/kimi-k3",
+ "mode": "run",
+ "blind": false,
+ "at": "2026-09-17T12:34:47"
+}

@@ -1,0 +1,50 @@
+{
+ "finish": "stop",
+ "usage": {
+  "input_tokens": 5319,
+  "output_tokens": 239,
+  "cost": 0.0103836
+ },
+ "served_by": "Together",
+ "label": {
+  "content": "floor_photo",
+  "area": "garage",
+  "setting": "residential",
+  "system": "full_flake",
+  "color": "Santana",
+  "color_confidence": "medium",
+  "color_runner_up": "Chestnut",
+  "color_description": "warm tan base with brown, black and cream chips, small to medium size",
+  "shot_type": "finished",
+  "people": "none",
+  "faces_identifiable": false,
+  "privacy": [],
+  "branding_visible": false,
+  "quality": "4",
+  "issues": [
+   "cluttered"
+  ],
+  "website_ready": false,
+  "title": "Garage with warm tan full flake floor",
+  "alt_text": "Finished garage with a tan full flake floor, wood wainscoting, cabinets and wall memorabilia",
+  "tags": [
+   "garage",
+   "full flake",
+   "tan chips",
+   "brown chips",
+   "finished floor",
+   "glossy",
+   "cabinets",
+   "wainscoting",
+   "workbench",
+   "residential"
+  ],
+  "filename": "garage-tan-full-flake-floor"
+ },
+ "id": "9631596b82fd",
+ "provider": "kimi",
+ "model": "moonshotai/kimi-k3",
+ "mode": "run",
+ "blind": false,
+ "at": "2026-09-17T12:43:04"
+}

@@ -1,0 +1,47 @@
+{
+ "finish": "stop",
+ "usage": {
+  "input_tokens": 5321,
+  "output_tokens": 227,
+  "cost": 0.0102096
+ },
+ "served_by": "Together",
+ "label": {
+  "content": "floor_photo",
+  "area": "pool_deck",
+  "setting": "residential",
+  "system": "full_flake",
+  "color": "unknown",
+  "color_confidence": "low",
+  "color_runner_up": "Lunar",
+  "color_description": "light gray and tan chips, small size, warm greige overall look",
+  "shot_type": "finished",
+  "people": "none",
+  "faces_identifiable": false,
+  "privacy": [],
+  "branding_visible": false,
+  "quality": "4",
+  "issues": [],
+  "website_ready": true,
+  "title": "Pool deck with light gray full flake floor",
+  "alt_text": "Finished pool deck with light gray and tan flake coating beside a covered swim spa and shed, full flake pool deck coating",
+  "tags": [
+   "pool deck",
+   "full flake",
+   "light gray chips",
+   "tan chips",
+   "swim spa",
+   "shed",
+   "backyard",
+   "finished floor",
+   "sunny"
+  ],
+  "filename": "pool-deck-light-gray-full-flake"
+ },
+ "id": "de2e63266fa0",
+ "provider": "kimi",
+ "model": "moonshotai/kimi-k3",
+ "mode": "run",
+ "blind": false,
+ "at": "2026-09-17T12:56:31"
+}

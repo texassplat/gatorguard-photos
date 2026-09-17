@@ -1,0 +1,48 @@
+{
+ "finish": "stop",
+ "usage": {
+  "input_tokens": 5097,
+  "output_tokens": 271,
+  "cost": 0.0191832
+ },
+ "served_by": "Modal",
+ "label": {
+  "content": "floor_photo",
+  "area": "commercial_or_industrial",
+  "setting": "commercial",
+  "system": "metallic",
+  "color": "Charcoal",
+  "color_confidence": "low",
+  "color_runner_up": "Gray",
+  "color_description": "dark gray metallic swirls with bright blue vein highlights",
+  "shot_type": "finished",
+  "people": "none",
+  "faces_identifiable": false,
+  "privacy": [],
+  "branding_visible": false,
+  "quality": "4",
+  "issues": [],
+  "website_ready": true,
+  "title": "Metallic epoxy floor with blue vein swirls",
+  "alt_text": "Dark gray metallic epoxy floor with blue swirls in a wood-paneled commercial space, metallic epoxy floor coating",
+  "tags": [
+   "metallic epoxy",
+   "liquid art",
+   "gray metallic",
+   "blue veins",
+   "commercial floor",
+   "wood panel walls",
+   "garage doors",
+   "glossy floor",
+   "drone video",
+   "gesse la job 2024"
+  ],
+  "filename": "gray-metallic-floor-blue-veins-commercial"
+ },
+ "id": "3ca2e8a84802",
+ "provider": "kimi",
+ "model": "moonshotai/kimi-k3",
+ "mode": "run",
+ "blind": false,
+ "at": "2026-09-17T12:46:37"
+}

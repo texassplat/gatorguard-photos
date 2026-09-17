@@ -1,0 +1,45 @@
+{
+ "finish": "stop",
+ "usage": {
+  "input_tokens": 5025,
+  "output_tokens": 267,
+  "cost": 0.00922116
+ },
+ "served_by": "DigitalOcean",
+ "label": {
+  "alt_text": "Basement with light gray full flake floor, stairs and red support poles, full flake basement floor coating",
+  "area": "basement",
+  "branding_visible": false,
+  "color": "unknown",
+  "color_confidence": "low",
+  "color_description": "light gray and beige fine chips, small size",
+  "color_runner_up": "Quartzite",
+  "content": "floor_photo",
+  "faces_identifiable": false,
+  "filename": "basement-gray-full-flake-floor",
+  "issues": [],
+  "people": "none",
+  "privacy": [],
+  "quality": "4",
+  "setting": "residential",
+  "shot_type": "finished",
+  "system": "full_flake",
+  "tags": [
+   "basement",
+   "full flake",
+   "gray chips",
+   "stairs",
+   "support poles",
+   "sink",
+   "finished floor"
+  ],
+  "title": "Basement with light gray full flake floor",
+  "website_ready": true
+ },
+ "id": "c77dd269cd9c",
+ "provider": "kimi",
+ "model": "moonshotai/kimi-k3",
+ "mode": "run",
+ "blind": false,
+ "at": "2026-09-17T12:31:20"
+}

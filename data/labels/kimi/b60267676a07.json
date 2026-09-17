@@ -1,0 +1,46 @@
+{
+ "finish": "stop",
+ "usage": {
+  "input_tokens": 5065,
+  "output_tokens": 248,
+  "cost": 0.018915
+ },
+ "served_by": "Parasail",
+ "label": {
+  "content": "floor_photo",
+  "area": "garage",
+  "setting": "residential",
+  "system": "full_flake",
+  "color": "Granite",
+  "color_confidence": "low",
+  "color_runner_up": "Callisto",
+  "color_description": "gray base with fine white, black and light gray chips",
+  "shot_type": "finished",
+  "people": "none",
+  "faces_identifiable": false,
+  "privacy": [],
+  "branding_visible": false,
+  "quality": "4",
+  "issues": [],
+  "website_ready": true,
+  "title": "Garage with gray full flake floor and stairs",
+  "alt_text": "Finished garage with gray full flake floor coating, white stairs and cinder block wall",
+  "tags": [
+   "garage",
+   "full flake",
+   "gray floor",
+   "stairs",
+   "cinder block wall",
+   "finished floor",
+   "flake floor coating",
+   "residential"
+  ],
+  "filename": "garage-gray-full-flake-floor-stairs"
+ },
+ "id": "b60267676a07",
+ "provider": "kimi",
+ "model": "moonshotai/kimi-k3",
+ "mode": "run",
+ "blind": false,
+ "at": "2026-09-17T12:44:42"
+}

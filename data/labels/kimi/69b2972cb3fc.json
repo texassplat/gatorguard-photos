@@ -1,0 +1,47 @@
+{
+ "finish": "stop",
+ "usage": {
+  "input_tokens": 5326,
+  "output_tokens": 227,
+  "cost": 0.0102246
+ },
+ "served_by": "Together",
+ "label": {
+  "content": "floor_photo",
+  "area": "patio_or_porch",
+  "setting": "residential",
+  "system": "full_flake",
+  "color": "Chestnut with Rust Red",
+  "color_confidence": "medium",
+  "color_runner_up": "Chestnut",
+  "color_description": "tan and brown chips with red and black accents, medium size",
+  "shot_type": "finished",
+  "people": "none",
+  "faces_identifiable": false,
+  "privacy": [],
+  "branding_visible": false,
+  "quality": "4",
+  "issues": [],
+  "website_ready": true,
+  "title": "Front porch with warm brown full flake floor",
+  "alt_text": "Low angle view of a coated front porch with tan, brown and red flake chips beside a brick house, full flake porch floor coating",
+  "tags": [
+   "porch",
+   "exterior",
+   "full flake",
+   "tan chips",
+   "red chips",
+   "brick house",
+   "white railing",
+   "residential",
+   "finished floor"
+  ],
+  "filename": "brick-home-porch-brown-full-flake"
+ },
+ "id": "69b2972cb3fc",
+ "provider": "kimi",
+ "model": "moonshotai/kimi-k3",
+ "mode": "run",
+ "blind": false,
+ "at": "2026-09-17T12:36:56"
+}

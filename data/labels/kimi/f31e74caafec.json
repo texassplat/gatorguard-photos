@@ -1,0 +1,46 @@
+{
+ "finish": "stop",
+ "usage": {
+  "input_tokens": 4851,
+  "output_tokens": 220,
+  "cost": 0.017853
+ },
+ "served_by": "Parasail",
+ "label": {
+  "content": "floor_photo",
+  "area": "not_visible",
+  "setting": "unknown",
+  "system": "full_flake",
+  "color": "Chestnut",
+  "color_confidence": "low",
+  "color_runner_up": "Windermere",
+  "color_description": "dark brown base with tan, black and cream chips, small to medium size",
+  "shot_type": "close_up",
+  "people": "none",
+  "faces_identifiable": false,
+  "privacy": [],
+  "branding_visible": false,
+  "quality": "4",
+  "issues": [],
+  "website_ready": true,
+  "title": "Close-up of glossy brown full flake floor",
+  "alt_text": "Close-up of a glossy full flake garage floor with brown, tan and black chips reflecting light",
+  "tags": [
+   "close up",
+   "full flake",
+   "glossy finish",
+   "brown chips",
+   "tan chips",
+   "black chips",
+   "reflective floor",
+   "garage floor"
+  ],
+  "filename": "close-up-brown-full-flake-floor"
+ },
+ "id": "f31e74caafec",
+ "provider": "kimi",
+ "model": "moonshotai/kimi-k3",
+ "mode": "run",
+ "blind": false,
+ "at": "2026-09-17T12:32:50"
+}

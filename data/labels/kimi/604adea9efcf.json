@@ -1,0 +1,51 @@
+{
+ "finish": "stop",
+ "usage": {
+  "input_tokens": 5316,
+  "output_tokens": 257,
+  "cost": 0.019803
+ },
+ "served_by": "Parasail",
+ "label": {
+  "content": "people_or_team",
+  "area": "garage",
+  "setting": "residential",
+  "system": "full_flake",
+  "color": "Granite",
+  "color_confidence": "medium",
+  "color_runner_up": "Silver Butte",
+  "color_description": "light gray base with white, gray and black chips, small to medium size",
+  "shot_type": "finished",
+  "people": "prominent",
+  "faces_identifiable": true,
+  "privacy": [
+   "customer_face"
+  ],
+  "branding_visible": false,
+  "quality": "3",
+  "issues": [
+   "cluttered"
+  ],
+  "website_ready": false,
+  "title": "Installers moving storage cabinet in flake floor garage",
+  "alt_text": "Two installers position a rolling storage cabinet in a garage with a gray full flake epoxy floor and white refrigerator",
+  "tags": [
+   "garage",
+   "full flake",
+   "gray flake floor",
+   "installers",
+   "crew working",
+   "storage cabinets",
+   "refrigerator",
+   "finished floor",
+   "residential garage"
+  ],
+  "filename": "installers-moving-cabinet-gray-flake-garage"
+ },
+ "id": "604adea9efcf",
+ "provider": "kimi",
+ "model": "moonshotai/kimi-k3",
+ "mode": "run",
+ "blind": false,
+ "at": "2026-09-17T12:46:50"
+}

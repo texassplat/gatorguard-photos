@@ -1,0 +1,47 @@
+{
+ "finish": "stop",
+ "usage": {
+  "input_tokens": 5325,
+  "output_tokens": 206,
+  "cost": 0.01624645
+ },
+ "served_by": "DigitalOcean",
+ "label": {
+  "alt_text": "Low angle view of a garage with gray, black and white full flake floor coating and wood paneled walls",
+  "area": "garage",
+  "branding_visible": false,
+  "color": "Granite",
+  "color_confidence": "medium",
+  "color_description": "gray, black and white chips, medium size, speckled salt-and-pepper look",
+  "color_runner_up": "Infinity",
+  "content": "floor_photo",
+  "faces_identifiable": false,
+  "filename": "garage-gray-flake-floor-low-angle",
+  "issues": [],
+  "people": "none",
+  "privacy": [],
+  "quality": "4",
+  "setting": "residential",
+  "shot_type": "finished",
+  "system": "full_flake",
+  "tags": [
+   "garage floor",
+   "full flake",
+   "gray chips",
+   "black chips",
+   "white chips",
+   "wood panel walls",
+   "stem wall",
+   "finished floor",
+   "low angle"
+  ],
+  "title": "Low angle garage floor with gray full flake",
+  "website_ready": true
+ },
+ "id": "7f00b6ded576",
+ "provider": "kimi",
+ "model": "moonshotai/kimi-k3",
+ "mode": "run",
+ "blind": false,
+ "at": "2026-09-17T12:43:49"
+}

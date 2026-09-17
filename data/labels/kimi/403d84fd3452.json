@@ -1,0 +1,47 @@
+{
+ "finish": "stop",
+ "usage": {
+  "input_tokens": 5058,
+  "output_tokens": 212,
+  "cost": 0.0091956
+ },
+ "served_by": "Together",
+ "label": {
+  "content": "floor_photo",
+  "area": "driveway_or_walkway",
+  "setting": "commercial",
+  "system": "poly_enhance",
+  "color": "not_applicable",
+  "color_confidence": "none",
+  "color_runner_up": "not_applicable",
+  "color_description": "",
+  "shot_type": "in_progress",
+  "people": "none",
+  "faces_identifiable": false,
+  "privacy": [],
+  "branding_visible": false,
+  "quality": "4",
+  "issues": [],
+  "website_ready": false,
+  "title": "Paver driveway sealed with wet look finish",
+  "alt_text": "Brick paver driveway with glossy wet look sealer, concrete banding, cones and caution tape during poly enhance application",
+  "tags": [
+   "poly enhance",
+   "pavers",
+   "driveway",
+   "wet look sealer",
+   "clear sealer",
+   "cones",
+   "caution tape",
+   "in progress",
+   "commercial"
+  ],
+  "filename": "paver-driveway-wet-look-sealer"
+ },
+ "id": "403d84fd3452",
+ "provider": "kimi",
+ "model": "moonshotai/kimi-k3",
+ "mode": "run",
+ "blind": false,
+ "at": "2026-09-17T12:55:04"
+}

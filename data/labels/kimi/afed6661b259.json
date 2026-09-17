@@ -1,0 +1,47 @@
+{
+ "finish": "stop",
+ "usage": {
+  "input_tokens": 5158,
+  "output_tokens": 249,
+  "cost": 0.00740607
+ },
+ "served_by": "Morph",
+ "label": {
+  "content": "floor_photo",
+  "area": "interior_room",
+  "setting": "residential",
+  "system": "metallic",
+  "color": "Cappuccino",
+  "color_confidence": "medium",
+  "color_runner_up": "Copper",
+  "color_description": "swirled brown and copper metallic epoxy, marbled reflective finish, no chips",
+  "shot_type": "finished",
+  "people": "none",
+  "faces_identifiable": false,
+  "privacy": [],
+  "branding_visible": false,
+  "quality": "4",
+  "issues": [],
+  "website_ready": true,
+  "title": "Living room with brown metallic epoxy floor",
+  "alt_text": "Brown and copper swirled metallic epoxy floor in a living room with couches and rug",
+  "tags": [
+   "metallic",
+   "liquid art",
+   "brown metallic",
+   "copper swirl",
+   "living room",
+   "basement",
+   "finished floor",
+   "couch",
+   "area rug"
+  ],
+  "filename": "brown-metallic-epoxy-living-room-floor"
+ },
+ "id": "afed6661b259",
+ "provider": "kimi",
+ "model": "moonshotai/kimi-k3",
+ "mode": "run",
+ "blind": false,
+ "at": "2026-09-17T12:50:28"
+}

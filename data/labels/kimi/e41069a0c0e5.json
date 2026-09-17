@@ -1,0 +1,46 @@
+{
+ "finish": "stop",
+ "usage": {
+  "input_tokens": 5319,
+  "output_tokens": 227,
+  "cost": 0.0102036
+ },
+ "served_by": "Together",
+ "label": {
+  "content": "floor_photo",
+  "area": "garage",
+  "setting": "residential",
+  "system": "full_flake",
+  "color": "Santana",
+  "color_confidence": "medium",
+  "color_runner_up": "Ocotillo",
+  "color_description": "tan and brown chips with small black and white flecks, small to medium size",
+  "shot_type": "finished",
+  "people": "none",
+  "faces_identifiable": false,
+  "privacy": [],
+  "branding_visible": false,
+  "quality": "4",
+  "issues": [],
+  "website_ready": true,
+  "title": "Garage with tan full flake floor and white doors",
+  "alt_text": "Garage with tan and brown full flake floor coating in front of two white overhead doors",
+  "tags": [
+   "garage",
+   "full flake",
+   "tan chips",
+   "brown chips",
+   "garage doors",
+   "finished floor",
+   "residential",
+   "glossy"
+  ],
+  "filename": "garage-tan-full-flake-white-doors"
+ },
+ "id": "e41069a0c0e5",
+ "provider": "kimi",
+ "model": "moonshotai/kimi-k3",
+ "mode": "run",
+ "blind": false,
+ "at": "2026-09-17T12:44:22"
+}

@@ -1,0 +1,47 @@
+{
+ "finish": "stop",
+ "usage": {
+  "input_tokens": 5211,
+  "output_tokens": 248,
+  "cost": 0.019353
+ },
+ "served_by": "Parasail",
+ "label": {
+  "content": "floor_photo",
+  "area": "garage",
+  "setting": "unknown",
+  "system": "full_flake",
+  "color": "Granite",
+  "color_confidence": "medium",
+  "color_runner_up": "Pacific Coast",
+  "color_description": "gray base with black, white and small tan chips, medium size",
+  "shot_type": "close_up",
+  "people": "none",
+  "faces_identifiable": false,
+  "privacy": [],
+  "branding_visible": false,
+  "quality": "4",
+  "issues": [],
+  "website_ready": false,
+  "title": "Soda can spill on gray flake floor",
+  "alt_text": "Spilled soda can resting on a gray full flake garage floor coating, showing a sticky puddle on the surface",
+  "tags": [
+   "spill",
+   "soda can",
+   "stain resistance",
+   "full flake",
+   "gray chips",
+   "black chips",
+   "close up",
+   "garage floor",
+   "mess"
+  ],
+  "filename": "soda-spill-gray-flake-floor"
+ },
+ "id": "c4cb7c05eacb",
+ "provider": "kimi",
+ "model": "moonshotai/kimi-k3",
+ "mode": "run",
+ "blind": false,
+ "at": "2026-09-17T12:40:38"
+}

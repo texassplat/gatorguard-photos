@@ -1,0 +1,50 @@
+{
+ "finish": "stop",
+ "usage": {
+  "input_tokens": 5253,
+  "output_tokens": 180,
+  "cost": 0.006859695
+ },
+ "served_by": "Morph",
+ "label": {
+  "content": "floor_photo",
+  "area": "patio_or_porch",
+  "setting": "residential",
+  "system": "stamped_concrete",
+  "color": "unknown",
+  "color_confidence": "none",
+  "color_runner_up": "not_applicable",
+  "color_description": "gray, tan and brown stamped stone pattern with glossy sealer",
+  "shot_type": "finished",
+  "people": "none",
+  "faces_identifiable": false,
+  "privacy": [],
+  "branding_visible": false,
+  "quality": "4",
+  "issues": [
+   "wet_or_dirty"
+  ],
+  "website_ready": true,
+  "title": "Sealed stamped concrete backyard patio",
+  "alt_text": "Glossy sealed stamped concrete patio behind a house with bay window, trees and hedges",
+  "tags": [
+   "patio",
+   "stamped concrete",
+   "sealed concrete",
+   "wet look",
+   "gray and tan",
+   "stone pattern",
+   "backyard",
+   "glossy",
+   "ashlar stamp",
+   "residential"
+  ],
+  "filename": "sealed-stamped-concrete-backyard-patio"
+ },
+ "id": "d4225e08d966",
+ "provider": "kimi",
+ "model": "moonshotai/kimi-k3",
+ "mode": "run",
+ "blind": false,
+ "at": "2026-09-17T12:57:39"
+}

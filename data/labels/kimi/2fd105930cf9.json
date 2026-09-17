@@ -1,0 +1,47 @@
+{
+ "finish": "stop",
+ "usage": {
+  "input_tokens": 5334,
+  "output_tokens": 195,
+  "cost": 0.018927
+ },
+ "served_by": "Parasail",
+ "label": {
+  "content": "floor_photo",
+  "area": "interior_room",
+  "setting": "residential",
+  "system": "full_flake",
+  "color": "Stone Ridge",
+  "color_confidence": "medium",
+  "color_runner_up": "Stone Crest",
+  "color_description": "gray base with white, black and red chips, small to medium size",
+  "shot_type": "finished",
+  "people": "none",
+  "faces_identifiable": false,
+  "privacy": [],
+  "branding_visible": false,
+  "quality": "4",
+  "issues": [],
+  "website_ready": true,
+  "title": "Interior hallway with gray and red flake floor",
+  "alt_text": "Interior hallway with gray full flake floor with white, black and red chips near dark stairs, full flake floor coating",
+  "tags": [
+   "interior",
+   "hallway",
+   "full flake",
+   "gray chips",
+   "red chips",
+   "stairs",
+   "white trim",
+   "finished floor",
+   "residential"
+  ],
+  "filename": "interior-hallway-gray-red-flake-floor"
+ },
+ "id": "2fd105930cf9",
+ "provider": "kimi",
+ "model": "moonshotai/kimi-k3",
+ "mode": "run",
+ "blind": false,
+ "at": "2026-09-17T12:48:32"
+}

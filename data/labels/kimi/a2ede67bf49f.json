@@ -1,0 +1,48 @@
+{
+ "finish": "stop",
+ "usage": {
+  "input_tokens": 5327,
+  "output_tokens": 210,
+  "cost": 0.01348542
+ },
+ "served_by": "Phala",
+ "label": {
+  "alt_text": "Basement music room with a dark gray marbled metallic epoxy floor, drum set, keyboard and motorcycle banner",
+  "area": "basement",
+  "branding_visible": false,
+  "color": "Charcoal",
+  "color_confidence": "medium",
+  "color_description": "dark gray and charcoal swirled metallic, reflective marbled finish",
+  "color_runner_up": "Gray",
+  "content": "floor_photo",
+  "faces_identifiable": false,
+  "filename": "basement-music-room-charcoal-metallic-floor",
+  "issues": [],
+  "people": "none",
+  "privacy": [],
+  "quality": "4",
+  "setting": "residential",
+  "shot_type": "finished",
+  "system": "metallic",
+  "tags": [
+   "metallic epoxy",
+   "liquid art",
+   "basement",
+   "music room",
+   "drum set",
+   "keyboard",
+   "dark gray",
+   "marbled",
+   "reflective floor",
+   "finished"
+  ],
+  "title": "Basement music room with dark gray metallic floor",
+  "website_ready": true
+ },
+ "id": "a2ede67bf49f",
+ "provider": "kimi",
+ "model": "moonshotai/kimi-k3",
+ "mode": "run",
+ "blind": false,
+ "at": "2026-09-17T12:51:41"
+}

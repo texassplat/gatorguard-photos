@@ -1,0 +1,47 @@
+{
+ "finish": "stop",
+ "usage": {
+  "input_tokens": 5318,
+  "output_tokens": 206,
+  "cost": 0.0098856
+ },
+ "served_by": "Together",
+ "label": {
+  "content": "floor_photo",
+  "area": "commercial_or_industrial",
+  "setting": "commercial",
+  "system": "solid_color",
+  "color": "unknown",
+  "color_confidence": "none",
+  "color_runner_up": "not_applicable",
+  "color_description": "light gray floor with no visible chips, glossy finish",
+  "shot_type": "finished",
+  "people": "background",
+  "faces_identifiable": false,
+  "privacy": [],
+  "branding_visible": false,
+  "quality": "4",
+  "issues": [],
+  "website_ready": true,
+  "title": "Auto shop with gray coated floor and yellow stripe",
+  "alt_text": "Commercial auto repair shop with a glossy gray coated concrete floor and yellow safety stripe, lifts and vehicles in background",
+  "tags": [
+   "commercial floor",
+   "auto shop",
+   "gray floor",
+   "yellow stripe",
+   "glossy",
+   "solid color",
+   "car lift",
+   "service bay",
+   "finished floor"
+  ],
+  "filename": "auto-shop-gray-floor-yellow-stripe"
+ },
+ "id": "8ce46b6291f4",
+ "provider": "kimi",
+ "model": "moonshotai/kimi-k3",
+ "mode": "run",
+ "blind": false,
+ "at": "2026-09-17T12:34:57"
+}

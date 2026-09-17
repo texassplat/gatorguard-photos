@@ -1,0 +1,47 @@
+{
+ "finish": "stop",
+ "usage": {
+  "input_tokens": 5320,
+  "output_tokens": 221,
+  "cost": 0.0101166
+ },
+ "served_by": "Together",
+ "label": {
+  "content": "floor_photo",
+  "area": "garage",
+  "setting": "residential",
+  "system": "full_flake",
+  "color": "Chestnut",
+  "color_confidence": "medium",
+  "color_runner_up": "Ocotillo",
+  "color_description": "tan, brown and black chips, small to medium size",
+  "shot_type": "finished",
+  "people": "none",
+  "faces_identifiable": false,
+  "privacy": [],
+  "branding_visible": false,
+  "quality": "4",
+  "issues": [],
+  "website_ready": true,
+  "title": "Unfinished garage with tan full flake floor",
+  "alt_text": "New full flake garage floor with tan, brown and black chips in a garage with exposed stud walls",
+  "tags": [
+   "garage",
+   "full flake",
+   "tan chips",
+   "brown chips",
+   "black chips",
+   "exposed studs",
+   "unfinished walls",
+   "glossy floor",
+   "finished floor"
+  ],
+  "filename": "garage-tan-full-flake-exposed-studs"
+ },
+ "id": "c069f0e7ec9b",
+ "provider": "kimi",
+ "model": "moonshotai/kimi-k3",
+ "mode": "run",
+ "blind": false,
+ "at": "2026-09-17T12:42:47"
+}

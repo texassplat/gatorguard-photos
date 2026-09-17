@@ -1,0 +1,48 @@
+{
+ "finish": "stop",
+ "usage": {
+  "input_tokens": 5319,
+  "output_tokens": 252,
+  "cost": 0.019737
+ },
+ "served_by": "Parasail",
+ "label": {
+  "content": "people_or_team",
+  "area": "garage",
+  "setting": "residential",
+  "system": "not_applicable",
+  "color": "not_applicable",
+  "color_confidence": "none",
+  "color_runner_up": "not_applicable",
+  "color_description": "",
+  "shot_type": "crew_working",
+  "people": "prominent",
+  "faces_identifiable": true,
+  "privacy": [],
+  "branding_visible": true,
+  "quality": "4",
+  "issues": [],
+  "website_ready": false,
+  "title": "Crew member with vacuum at residential garage job",
+  "alt_text": "GatorGuard crew member giving thumbs up beside green vacuum equipment at a residential garage",
+  "tags": [
+   "crew",
+   "installer",
+   "vacuum",
+   "dust collection",
+   "garage",
+   "in progress",
+   "thumbs up",
+   "equipment",
+   "residential",
+   "branding"
+  ],
+  "filename": "crew-member-vacuum-garage-job"
+ },
+ "id": "ef035abd92ee",
+ "provider": "kimi",
+ "model": "moonshotai/kimi-k3",
+ "mode": "run",
+ "blind": false,
+ "at": "2026-09-17T12:47:32"
+}

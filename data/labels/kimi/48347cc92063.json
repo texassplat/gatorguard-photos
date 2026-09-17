@@ -1,0 +1,47 @@
+{
+ "finish": "stop",
+ "usage": {
+  "input_tokens": 5253,
+  "output_tokens": 297,
+  "cost": 0.020214
+ },
+ "served_by": "Parasail",
+ "label": {
+  "content": "floor_photo",
+  "area": "garage",
+  "setting": "residential",
+  "system": "full_flake",
+  "color": "Stone Rowe",
+  "color_confidence": "low",
+  "color_runner_up": "Infinity",
+  "color_description": "fine gray, white and black chips over a dark charcoal base",
+  "shot_type": "finished",
+  "people": "none",
+  "faces_identifiable": false,
+  "privacy": [],
+  "branding_visible": false,
+  "quality": "5",
+  "issues": [],
+  "website_ready": true,
+  "title": "White sports car on dark gray flake garage floor",
+  "alt_text": "White sports car parked on a dark gray full flake garage floor coating with fine gray and white chips",
+  "tags": [
+   "garage",
+   "full flake",
+   "dark gray floor",
+   "white car",
+   "sports car",
+   "fine chips",
+   "gray white black chips",
+   "finished floor",
+   "glossy"
+  ],
+  "filename": "white-sports-car-dark-flake-garage"
+ },
+ "id": "48347cc92063",
+ "provider": "kimi",
+ "model": "moonshotai/kimi-k3",
+ "mode": "run",
+ "blind": false,
+ "at": "2026-09-17T12:41:32"
+}

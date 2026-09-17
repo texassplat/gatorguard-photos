@@ -1,0 +1,46 @@
+{
+ "finish": "stop",
+ "usage": {
+  "input_tokens": 5229,
+  "output_tokens": 272,
+  "cost": 0.019767
+ },
+ "served_by": "Parasail",
+ "label": {
+  "content": "floor_photo",
+  "area": "garage",
+  "setting": "residential",
+  "system": "full_flake",
+  "color": "Desert Edge",
+  "color_confidence": "medium",
+  "color_runner_up": "Shalestone",
+  "color_description": "light tan and cream chips with small brown and gray flecks, fine to medium size",
+  "shot_type": "finished",
+  "people": "none",
+  "faces_identifiable": false,
+  "privacy": [],
+  "branding_visible": false,
+  "quality": "4",
+  "issues": [],
+  "website_ready": true,
+  "title": "Garage bar area with Desert Edge flake floor",
+  "alt_text": "Garage with wood bar and stools on a light tan Desert Edge full flake garage floor coating",
+  "tags": [
+   "garage",
+   "full flake",
+   "tan chips",
+   "desert edge",
+   "home bar",
+   "bar stools",
+   "garage door",
+   "finished floor"
+  ],
+  "filename": "garage-bar-desert-edge-flake-floor"
+ },
+ "id": "4e913cc63890",
+ "provider": "kimi",
+ "model": "moonshotai/kimi-k3",
+ "mode": "run",
+ "blind": false,
+ "at": "2026-09-17T12:41:46"
+}

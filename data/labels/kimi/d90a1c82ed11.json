@@ -1,0 +1,47 @@
+{
+ "finish": "stop",
+ "usage": {
+  "input_tokens": 5338,
+  "output_tokens": 295,
+  "cost": 0.020439
+ },
+ "served_by": "Parasail",
+ "label": {
+  "content": "floor_photo",
+  "area": "garage",
+  "setting": "residential",
+  "system": "full_flake",
+  "color": "Gun Metal",
+  "color_confidence": "medium",
+  "color_runner_up": "Stone Rowe",
+  "color_description": "dark gray base with gray and white chips, small to medium size",
+  "shot_type": "finished",
+  "people": "none",
+  "faces_identifiable": false,
+  "privacy": [],
+  "branding_visible": false,
+  "quality": "4",
+  "issues": [],
+  "website_ready": true,
+  "title": "Large finished garage with dark gray flake floor",
+  "alt_text": "Spacious clean garage with dark gray full flake floor coating, open door, bikes hanging on back wall",
+  "tags": [
+   "garage",
+   "full flake",
+   "dark gray floor",
+   "gray chips",
+   "finished floor",
+   "garage door open",
+   "bikes",
+   "clean garage",
+   "residential"
+  ],
+  "filename": "garage-dark-gray-flake-floor-finished"
+ },
+ "id": "d90a1c82ed11",
+ "provider": "kimi",
+ "model": "moonshotai/kimi-k3",
+ "mode": "run",
+ "blind": false,
+ "at": "2026-09-17T12:40:54"
+}

@@ -1,0 +1,48 @@
+{
+ "finish": "stop",
+ "usage": {
+  "input_tokens": 5599,
+  "output_tokens": 262,
+  "cost": 0.008369445
+ },
+ "served_by": "Morph",
+ "label": {
+  "content": "floor_photo",
+  "area": "pool_deck",
+  "setting": "residential",
+  "system": "full_flake",
+  "color": "Zircon",
+  "color_confidence": "high",
+  "color_runner_up": "Pacific Coast",
+  "color_description": "light gray base with gray, blue-gray and white chips, medium size",
+  "shot_type": "finished",
+  "people": "none",
+  "faces_identifiable": false,
+  "privacy": [],
+  "branding_visible": false,
+  "quality": "5",
+  "issues": [],
+  "website_ready": true,
+  "title": "Gray flake pool deck with covered pool",
+  "alt_text": "Backyard pool deck with light gray full flake coating around a covered pool, white vinyl fence and trees. Pool deck floor coating.",
+  "tags": [
+   "pool deck",
+   "full flake",
+   "gray chips",
+   "blue gray chips",
+   "zircon",
+   "covered pool",
+   "white fence",
+   "backyard",
+   "finished floor",
+   "saw cut joints"
+  ],
+  "filename": "gray-flake-pool-deck-covered-pool"
+ },
+ "id": "5c60381c3c8b",
+ "provider": "kimi",
+ "model": "moonshotai/kimi-k3",
+ "mode": "run",
+ "blind": false,
+ "at": "2026-09-17T12:56:52"
+}

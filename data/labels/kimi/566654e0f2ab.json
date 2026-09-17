@@ -1,0 +1,45 @@
+{
+ "finish": "stop",
+ "usage": {
+  "input_tokens": 5323,
+  "output_tokens": 209,
+  "cost": 0.00922996
+ },
+ "served_by": "DigitalOcean",
+ "label": {
+  "alt_text": "Commercial hallway with gray, black and white full flake floor coating between painted block walls",
+  "area": "commercial_or_industrial",
+  "branding_visible": false,
+  "color": "Granite",
+  "color_confidence": "medium",
+  "color_description": "gray, black and white chips, small to medium size",
+  "color_runner_up": "Stone Rowe",
+  "content": "floor_photo",
+  "faces_identifiable": false,
+  "filename": "commercial-hallway-gray-flake-floor",
+  "issues": [],
+  "people": "background",
+  "privacy": [],
+  "quality": "4",
+  "setting": "commercial",
+  "shot_type": "finished",
+  "system": "full_flake",
+  "tags": [
+   "commercial hallway",
+   "full flake",
+   "gray black white chips",
+   "block walls",
+   "corridor floor",
+   "flake floor coating",
+   "speckled floor"
+  ],
+  "title": "Commercial hallway with gray full flake floor",
+  "website_ready": true
+ },
+ "id": "566654e0f2ab",
+ "provider": "kimi",
+ "model": "moonshotai/kimi-k3",
+ "mode": "run",
+ "blind": false,
+ "at": "2026-09-17T12:34:49"
+}

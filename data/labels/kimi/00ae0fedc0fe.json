@@ -1,0 +1,47 @@
+{
+ "finish": "stop",
+ "usage": {
+  "input_tokens": 5316,
+  "output_tokens": 228,
+  "cost": 0.019368
+ },
+ "served_by": "Parasail",
+ "label": {
+  "content": "floor_photo",
+  "area": "not_visible",
+  "setting": "unknown",
+  "system": "full_flake",
+  "color": "Granite",
+  "color_confidence": "medium",
+  "color_runner_up": "Stone Rowe",
+  "color_description": "gray, black and white chips, small to medium size, dense broadcast",
+  "shot_type": "finished",
+  "people": "none",
+  "faces_identifiable": false,
+  "privacy": [],
+  "branding_visible": true,
+  "quality": "4",
+  "issues": [],
+  "website_ready": false,
+  "title": "Harley Davidson logo mat on gray flake floor",
+  "alt_text": "Round Harley Davidson Motor Oil logo mat on a gray, black and white full flake garage floor coating",
+  "tags": [
+   "custom logo",
+   "harley davidson",
+   "logo floor",
+   "full flake",
+   "gray chips",
+   "black chips",
+   "white chips",
+   "garage floor",
+   "finished floor"
+  ],
+  "filename": "harley-davidson-logo-gray-flake-floor"
+ },
+ "id": "00ae0fedc0fe",
+ "provider": "kimi",
+ "model": "moonshotai/kimi-k3",
+ "mode": "run",
+ "blind": false,
+ "at": "2026-09-17T12:53:08"
+}

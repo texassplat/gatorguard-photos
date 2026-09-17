@@ -1,0 +1,46 @@
+{
+ "finish": "stop",
+ "usage": {
+  "input_tokens": 5320,
+  "output_tokens": 222,
+  "cost": 0.0101316
+ },
+ "served_by": "Together",
+ "label": {
+  "content": "floor_photo",
+  "area": "garage",
+  "setting": "residential",
+  "system": "full_flake",
+  "color": "Gun Metal",
+  "color_confidence": "low",
+  "color_runner_up": "Stone Rowe",
+  "color_description": "dark gray and brown chips with black and white specks, small to medium size",
+  "shot_type": "finished",
+  "people": "none",
+  "faces_identifiable": false,
+  "privacy": [],
+  "branding_visible": false,
+  "quality": "4",
+  "issues": [],
+  "website_ready": true,
+  "title": "Garage with dark gray full flake floor",
+  "alt_text": "Finished garage floor with dark gray and brown flake coating, wood paneled walls and stairs, full flake garage floor coating",
+  "tags": [
+   "garage",
+   "full flake",
+   "dark gray chips",
+   "brown chips",
+   "wood panel walls",
+   "stairs",
+   "glossy finish",
+   "finished floor"
+  ],
+  "filename": "garage-dark-gray-full-flake-floor"
+ },
+ "id": "aea41fb1b6ff",
+ "provider": "kimi",
+ "model": "moonshotai/kimi-k3",
+ "mode": "run",
+ "blind": false,
+ "at": "2026-09-17T12:42:59"
+}

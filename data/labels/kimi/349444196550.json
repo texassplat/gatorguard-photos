@@ -1,0 +1,47 @@
+{
+ "finish": "stop",
+ "usage": {
+  "input_tokens": 5319,
+  "output_tokens": 232,
+  "cost": 0.0102786
+ },
+ "served_by": "Together",
+ "label": {
+  "content": "floor_photo",
+  "area": "garage",
+  "setting": "residential",
+  "system": "full_flake",
+  "color": "Santana",
+  "color_confidence": "medium",
+  "color_runner_up": "Ocotillo",
+  "color_description": "tan base with brown, black and cream chips, medium size",
+  "shot_type": "finished",
+  "people": "none",
+  "faces_identifiable": false,
+  "privacy": [],
+  "branding_visible": false,
+  "quality": "4",
+  "issues": [],
+  "website_ready": true,
+  "title": "Garage with tan full flake floor and wall shelves",
+  "alt_text": "Garage with tan, brown and black full flake floor coating, wall shelves and coated stem wall",
+  "tags": [
+   "garage",
+   "full flake",
+   "tan chips",
+   "brown chips",
+   "black chips",
+   "wall shelves",
+   "stem wall",
+   "finished floor",
+   "glossy"
+  ],
+  "filename": "garage-tan-full-flake-floor-shelves"
+ },
+ "id": "349444196550",
+ "provider": "kimi",
+ "model": "moonshotai/kimi-k3",
+ "mode": "run",
+ "blind": false,
+ "at": "2026-09-17T12:42:51"
+}

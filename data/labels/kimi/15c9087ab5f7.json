@@ -1,0 +1,46 @@
+{
+ "finish": "stop",
+ "usage": {
+  "input_tokens": 5322,
+  "output_tokens": 227,
+  "cost": 0.0213081
+ },
+ "served_by": "Fireworks",
+ "label": {
+  "content": "floor_photo",
+  "area": "garage",
+  "setting": "residential",
+  "system": "full_flake",
+  "color": "Granite",
+  "color_confidence": "medium",
+  "color_runner_up": "Stone Rowe",
+  "color_description": "gray, white and black chips, small size, overall medium gray look",
+  "shot_type": "finished",
+  "people": "none",
+  "faces_identifiable": false,
+  "privacy": [],
+  "branding_visible": false,
+  "quality": "4",
+  "issues": [],
+  "website_ready": true,
+  "title": "Garage with gray full flake floor",
+  "alt_text": "Garage with a gray full flake floor coating, saw-cut control joints and a water softener in the corner",
+  "tags": [
+   "garage",
+   "full flake",
+   "gray floor",
+   "gray white black chips",
+   "control joints",
+   "finished floor",
+   "water softener",
+   "residential"
+  ],
+  "filename": "garage-gray-full-flake-floor"
+ },
+ "id": "15c9087ab5f7",
+ "provider": "kimi",
+ "model": "moonshotai/kimi-k3",
+ "mode": "run",
+ "blind": false,
+ "at": "2026-09-17T12:45:16"
+}

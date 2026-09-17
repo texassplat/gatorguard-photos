@@ -1,0 +1,46 @@
+{
+ "finish": "stop",
+ "usage": {
+  "input_tokens": 5201,
+  "output_tokens": 268,
+  "cost": 0.00968291
+ },
+ "served_by": "DigitalOcean",
+ "label": {
+  "alt_text": "Close up of a tan full flake epoxy floor with brown and black chips near wood cabinets",
+  "area": "interior_room",
+  "branding_visible": false,
+  "color": "unknown",
+  "color_confidence": "low",
+  "color_description": "tan, brown, black and white chips, small to medium size",
+  "color_runner_up": "Chestnut",
+  "content": "floor_photo",
+  "faces_identifiable": false,
+  "filename": "tan-full-flake-floor-close-up",
+  "issues": [],
+  "people": "none",
+  "privacy": [],
+  "quality": "4",
+  "setting": "residential",
+  "shot_type": "close_up",
+  "system": "full_flake",
+  "tags": [
+   "full flake",
+   "close up",
+   "tan chips",
+   "brown chips",
+   "black chips",
+   "glossy floor",
+   "wood cabinets",
+   "interior"
+  ],
+  "title": "Low angle close up of tan full flake floor",
+  "website_ready": false
+ },
+ "id": "1aebc658f652",
+ "provider": "kimi",
+ "model": "moonshotai/kimi-k3",
+ "mode": "run",
+ "blind": false,
+ "at": "2026-09-17T12:32:21"
+}

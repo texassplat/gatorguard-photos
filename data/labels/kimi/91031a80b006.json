@@ -1,0 +1,47 @@
+{
+ "finish": "stop",
+ "usage": {
+  "input_tokens": 5206,
+  "output_tokens": 207,
+  "cost": 0.0095646
+ },
+ "served_by": "Together",
+ "label": {
+  "content": "people_or_team",
+  "area": "commercial_or_industrial",
+  "setting": "unknown",
+  "system": "full_flake",
+  "color": "unknown",
+  "color_confidence": "low",
+  "color_runner_up": "unknown",
+  "color_description": "light tan and gray chips, small size, seen at a distance",
+  "shot_type": "team_or_portrait",
+  "people": "prominent",
+  "faces_identifiable": false,
+  "privacy": [],
+  "branding_visible": true,
+  "quality": "4",
+  "issues": [],
+  "website_ready": false,
+  "title": "Crew in green shirts during gameday photoshoot",
+  "alt_text": "Four GatorGuard crew members in green shirts posing in a large room with a light flake floor during a photoshoot",
+  "tags": [
+   "crew",
+   "photoshoot",
+   "gameday",
+   "green shirts",
+   "team",
+   "full flake floor",
+   "stool",
+   "banner",
+   "indoor"
+  ],
+  "filename": "crew-green-shirts-gameday-photoshoot"
+ },
+ "id": "91031a80b006",
+ "provider": "kimi",
+ "model": "moonshotai/kimi-k3",
+ "mode": "run",
+ "blind": false,
+ "at": "2026-09-17T12:38:45"
+}

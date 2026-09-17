@@ -1,0 +1,47 @@
+{
+ "finish": "stop",
+ "usage": {
+  "input_tokens": 5327,
+  "output_tokens": 242,
+  "cost": 0.0104526
+ },
+ "served_by": "Together",
+ "label": {
+  "content": "floor_photo",
+  "area": "patio_or_porch",
+  "setting": "residential",
+  "system": "metallic",
+  "color": "Cappuccino",
+  "color_confidence": "medium",
+  "color_runner_up": "Copper",
+  "color_description": "warm brown metallic with lighter tan marbled swirls, glossy",
+  "shot_type": "finished",
+  "people": "none",
+  "faces_identifiable": false,
+  "privacy": [],
+  "branding_visible": false,
+  "quality": "4",
+  "issues": [],
+  "website_ready": true,
+  "title": "Sunroom with brown metallic epoxy floor",
+  "alt_text": "Enclosed porch with glossy brown marbled metallic epoxy floor and white trim, metallic floor coating",
+  "tags": [
+   "metallic epoxy",
+   "liquid art",
+   "brown metallic",
+   "sunroom",
+   "enclosed porch",
+   "glossy floor",
+   "marbled",
+   "residential",
+   "finished floor"
+  ],
+  "filename": "sunroom-brown-metallic-epoxy-floor"
+ },
+ "id": "e7f753ef6f79",
+ "provider": "kimi",
+ "model": "moonshotai/kimi-k3",
+ "mode": "run",
+ "blind": false,
+ "at": "2026-09-17T12:51:27"
+}

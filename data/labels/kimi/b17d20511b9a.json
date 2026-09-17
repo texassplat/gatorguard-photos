@@ -1,0 +1,48 @@
+{
+ "finish": "stop",
+ "usage": {
+  "input_tokens": 5256,
+  "output_tokens": 171,
+  "cost": 0.00677082
+ },
+ "served_by": "Morph",
+ "label": {
+  "content": "floor_photo",
+  "area": "basement",
+  "setting": "residential",
+  "system": "solid_color_chip",
+  "color": "unknown",
+  "color_confidence": "low",
+  "color_runner_up": "Shalestone",
+  "color_description": "small light tan and beige chips, uniform speckled look",
+  "shot_type": "finished",
+  "people": "none",
+  "faces_identifiable": false,
+  "privacy": [],
+  "branding_visible": false,
+  "quality": "3",
+  "issues": [
+   "cluttered"
+  ],
+  "website_ready": false,
+  "title": "Basement utility room with light tan chip floor",
+  "alt_text": "Basement utility room with a light tan single color chip floor coating near a furnace and floor drain",
+  "tags": [
+   "basement",
+   "utility room",
+   "solid color chip",
+   "tan chips",
+   "beige floor",
+   "furnace",
+   "floor drain",
+   "finished floor"
+  ],
+  "filename": "basement-utility-room-tan-chip-floor"
+ },
+ "id": "b17d20511b9a",
+ "provider": "kimi",
+ "model": "moonshotai/kimi-k3",
+ "mode": "run",
+ "blind": false,
+ "at": "2026-09-17T12:57:27"
+}

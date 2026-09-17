@@ -1,0 +1,46 @@
+{
+ "finish": "stop",
+ "usage": {
+  "input_tokens": 5313,
+  "output_tokens": 267,
+  "cost": 0.0107856
+ },
+ "served_by": "Together",
+ "label": {
+  "content": "floor_photo",
+  "area": "basement",
+  "setting": "residential",
+  "system": "unknown",
+  "color": "unknown",
+  "color_confidence": "none",
+  "color_runner_up": "not_applicable",
+  "color_description": "wet white base coat being rolled over bare concrete",
+  "shot_type": "in_progress",
+  "people": "prominent",
+  "faces_identifiable": true,
+  "privacy": [],
+  "branding_visible": false,
+  "quality": "4",
+  "issues": [],
+  "website_ready": false,
+  "title": "Crew rolling white base coat on basement floor",
+  "alt_text": "Two workers rolling white coating over a concrete basement floor with support columns",
+  "tags": [
+   "basement floor",
+   "in progress",
+   "rolling coating",
+   "white base coat",
+   "crew working",
+   "support columns",
+   "concrete floor",
+   "epoxy application"
+  ],
+  "filename": "crew-rolling-white-base-coat-basement"
+ },
+ "id": "0814055cb283",
+ "provider": "kimi",
+ "model": "moonshotai/kimi-k3",
+ "mode": "run",
+ "blind": false,
+ "at": "2026-09-17T12:54:23"
+}

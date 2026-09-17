@@ -1,0 +1,47 @@
+{
+ "finish": "stop",
+ "usage": {
+  "input_tokens": 5242,
+  "output_tokens": 227,
+  "cost": 0.0099726
+ },
+ "served_by": "Together",
+ "label": {
+  "content": "floor_photo",
+  "area": "garage",
+  "setting": "residential",
+  "system": "full_flake",
+  "color": "Santana",
+  "color_confidence": "medium",
+  "color_runner_up": "Chestnut",
+  "color_description": "light tan base with fine tan, brown and black chips",
+  "shot_type": "finished",
+  "people": "none",
+  "faces_identifiable": false,
+  "privacy": [],
+  "branding_visible": false,
+  "quality": "4",
+  "issues": [],
+  "website_ready": true,
+  "title": "White Camaro on tan full flake garage floor",
+  "alt_text": "Front of a white Chevrolet Camaro with black and red stripes parked on a tan full flake garage floor coating",
+  "tags": [
+   "garage",
+   "full flake",
+   "tan chips",
+   "fine chips",
+   "car",
+   "camaro",
+   "white car",
+   "finished floor",
+   "residential"
+  ],
+  "filename": "white-camaro-tan-flake-garage-floor"
+ },
+ "id": "7fc0b39742cf",
+ "provider": "kimi",
+ "model": "moonshotai/kimi-k3",
+ "mode": "run",
+ "blind": false,
+ "at": "2026-09-17T12:40:47"
+}

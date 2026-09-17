@@ -1,0 +1,48 @@
+{
+ "finish": "stop",
+ "usage": {
+  "input_tokens": 5331,
+  "output_tokens": 244,
+  "cost": 0.019653
+ },
+ "served_by": "Parasail",
+ "label": {
+  "content": "floor_photo",
+  "area": "driveway_or_walkway",
+  "setting": "residential",
+  "system": "full_flake",
+  "color": "Chestnut",
+  "color_confidence": "low",
+  "color_runner_up": "Santana",
+  "color_description": "tan, brown, black and gray chips, fine to medium size",
+  "shot_type": "finished",
+  "people": "none",
+  "faces_identifiable": false,
+  "privacy": [],
+  "branding_visible": false,
+  "quality": "4",
+  "issues": [],
+  "website_ready": true,
+  "title": "Coated accessibility ramp with black railings",
+  "alt_text": "Exterior ramp with full flake floor coating in tan and brown chips between black metal railings",
+  "tags": [
+   "exterior",
+   "ramp",
+   "walkway",
+   "full flake",
+   "tan chips",
+   "brown chips",
+   "black railing",
+   "handicap ramp",
+   "finished floor",
+   "residential"
+  ],
+  "filename": "coated-ramp-black-railings-full-flake"
+ },
+ "id": "31878209f821",
+ "provider": "kimi",
+ "model": "moonshotai/kimi-k3",
+ "mode": "run",
+ "blind": false,
+ "at": "2026-09-17T12:36:26"
+}

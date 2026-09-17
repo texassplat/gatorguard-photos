@@ -1,0 +1,51 @@
+{
+ "finish": "stop",
+ "usage": {
+  "input_tokens": 5250,
+  "output_tokens": 313,
+  "cost": 0.020445
+ },
+ "served_by": "Parasail",
+ "label": {
+  "content": "floor_photo",
+  "area": "garage",
+  "setting": "residential",
+  "system": "full_flake",
+  "color": "Granite",
+  "color_confidence": "medium",
+  "color_runner_up": "Stone Rowe",
+  "color_description": "gray base with black and white chips, small to medium size",
+  "shot_type": "finished",
+  "people": "none",
+  "faces_identifiable": false,
+  "privacy": [],
+  "branding_visible": true,
+  "quality": "3",
+  "issues": [
+   "text_overlay",
+   "cluttered"
+  ],
+  "website_ready": false,
+  "title": "Garage workshop with gray full flake floor",
+  "alt_text": "Glossy gray full flake garage floor in a workshop with tool walls and brick accent wall, full flake garage floor coating",
+  "tags": [
+   "garage",
+   "full flake",
+   "gray floor",
+   "black and white chips",
+   "workshop",
+   "pegboard tools",
+   "brick wall",
+   "finished",
+   "text overlay",
+   "gator logo"
+  ],
+  "filename": "garage-workshop-gray-full-flake-floor"
+ },
+ "id": "d23c05d0ee8b",
+ "provider": "kimi",
+ "model": "moonshotai/kimi-k3",
+ "mode": "run",
+ "blind": false,
+ "at": "2026-09-17T12:43:22"
+}

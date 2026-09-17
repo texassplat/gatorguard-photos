@@ -1,0 +1,47 @@
+{
+ "finish": "stop",
+ "usage": {
+  "input_tokens": 5320,
+  "output_tokens": 244,
+  "cost": 0.0104616
+ },
+ "served_by": "Together",
+ "label": {
+  "content": "floor_photo",
+  "area": "garage",
+  "setting": "residential",
+  "system": "full_flake",
+  "color": "Granite",
+  "color_confidence": "medium",
+  "color_runner_up": "Stone Rowe",
+  "color_description": "gray, white and black chips, small to medium size, overall cool gray look",
+  "shot_type": "finished",
+  "people": "none",
+  "faces_identifiable": false,
+  "privacy": [],
+  "branding_visible": false,
+  "quality": "4",
+  "issues": [],
+  "website_ready": true,
+  "title": "Garage with gray flake floor and storage wall",
+  "alt_text": "Finished garage with gray full flake floor, storage bench with shoe cubbies and wall mounted slatwall with hooks",
+  "tags": [
+   "garage",
+   "full flake",
+   "gray chips",
+   "storage bench",
+   "shoe cubbies",
+   "slatwall",
+   "wall hooks",
+   "finished floor",
+   "garage organization"
+  ],
+  "filename": "garage-gray-flake-floor-storage-wall"
+ },
+ "id": "11a49fc2b672",
+ "provider": "kimi",
+ "model": "moonshotai/kimi-k3",
+ "mode": "run",
+ "blind": false,
+ "at": "2026-09-17T12:44:05"
+}

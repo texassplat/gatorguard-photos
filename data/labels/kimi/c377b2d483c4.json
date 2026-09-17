@@ -1,0 +1,46 @@
+{
+ "finish": "stop",
+ "usage": {
+  "input_tokens": 5402,
+  "output_tokens": 345,
+  "cost": 0.021381
+ },
+ "served_by": "Parasail",
+ "label": {
+  "content": "floor_photo",
+  "area": "interior_room",
+  "setting": "residential",
+  "system": "full_flake",
+  "color": "Chestnut",
+  "color_confidence": "medium",
+  "color_runner_up": "Chestnut with Rust Red",
+  "color_description": "tan, brown and black chips with some rust red flecks, small to medium size",
+  "shot_type": "close_up",
+  "people": "none",
+  "faces_identifiable": false,
+  "privacy": [],
+  "branding_visible": false,
+  "quality": "3",
+  "issues": [],
+  "website_ready": false,
+  "title": "Close up of glossy brown full flake floor",
+  "alt_text": "Low angle close up of a glossy brown full flake floor with tan, brown and black chips, full flake floor coating",
+  "tags": [
+   "full flake",
+   "close up",
+   "glossy floor",
+   "brown chips",
+   "tan chips",
+   "interior floor",
+   "clear coat",
+   "flake floor"
+  ],
+  "filename": "close-up-brown-full-flake-floor"
+ },
+ "id": "c377b2d483c4",
+ "provider": "kimi",
+ "model": "moonshotai/kimi-k3",
+ "mode": "run",
+ "blind": false,
+ "at": "2026-09-17T12:32:30"
+}

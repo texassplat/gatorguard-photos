@@ -1,0 +1,48 @@
+{
+ "finish": "stop",
+ "usage": {
+  "input_tokens": 5326,
+  "output_tokens": 301,
+  "cost": 0.020493
+ },
+ "served_by": "Parasail",
+ "label": {
+  "content": "floor_photo",
+  "area": "pool_deck",
+  "setting": "residential",
+  "system": "full_flake",
+  "color": "Chestnut",
+  "color_confidence": "medium",
+  "color_runner_up": "Santana",
+  "color_description": "tan, brown and black chips, medium size, glossy clear coat",
+  "shot_type": "finished",
+  "people": "none",
+  "faces_identifiable": false,
+  "privacy": [],
+  "branding_visible": false,
+  "quality": "4",
+  "issues": [],
+  "website_ready": true,
+  "title": "Backyard pool deck with tan flake coating",
+  "alt_text": "Inground pool surrounded by a tan, brown and black speckled flake coated concrete pool deck with patio furniture and trees",
+  "tags": [
+   "pool deck",
+   "full flake",
+   "tan chips",
+   "brown chips",
+   "swimming pool",
+   "backyard",
+   "patio furniture",
+   "glossy finish",
+   "outdoor",
+   "finished floor"
+  ],
+  "filename": "tan-flake-coated-pool-deck"
+ },
+ "id": "2b7cdd510e92",
+ "provider": "kimi",
+ "model": "moonshotai/kimi-k3",
+ "mode": "pilot",
+ "blind": false,
+ "at": "2026-09-17T12:24:51"
+}

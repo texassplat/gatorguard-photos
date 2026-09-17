@@ -1,0 +1,46 @@
+{
+ "finish": "stop",
+ "usage": {
+  "input_tokens": 5329,
+  "output_tokens": 216,
+  "cost": 0.019227
+ },
+ "served_by": "Fireworks",
+ "label": {
+  "content": "floor_photo",
+  "area": "interior_room",
+  "setting": "residential",
+  "system": "solid_color",
+  "color": "Gray",
+  "color_confidence": "low",
+  "color_runner_up": "unknown",
+  "color_description": "smooth glossy gray floor, no chips or swirl pattern visible",
+  "shot_type": "finished",
+  "people": "none",
+  "faces_identifiable": false,
+  "privacy": [],
+  "branding_visible": false,
+  "quality": "4",
+  "issues": [],
+  "website_ready": true,
+  "title": "Sunroom with glossy gray coated floor",
+  "alt_text": "Sunroom with glossy gray solid color floor coating, stone accent wall and windows",
+  "tags": [
+   "sunroom",
+   "gray floor",
+   "solid color",
+   "glossy",
+   "windows",
+   "stone accent wall",
+   "interior",
+   "finished floor"
+  ],
+  "filename": "sunroom-glossy-gray-coated-floor"
+ },
+ "id": "92d692fd5a6a",
+ "provider": "kimi",
+ "model": "moonshotai/kimi-k3",
+ "mode": "run",
+ "blind": false,
+ "at": "2026-09-17T12:36:52"
+}

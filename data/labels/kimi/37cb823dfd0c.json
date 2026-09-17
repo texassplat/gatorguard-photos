@@ -1,0 +1,47 @@
+{
+ "finish": "stop",
+ "usage": {
+  "input_tokens": 5253,
+  "output_tokens": 228,
+  "cost": 0.019179
+ },
+ "served_by": "Fireworks",
+ "label": {
+  "content": "floor_photo",
+  "area": "patio_or_porch",
+  "setting": "residential",
+  "system": "full_flake",
+  "color": "unknown",
+  "color_confidence": "low",
+  "color_runner_up": "Callisto",
+  "color_description": "very light gray and off-white fine chips",
+  "shot_type": "finished",
+  "people": "none",
+  "faces_identifiable": false,
+  "privacy": [],
+  "branding_visible": false,
+  "quality": "4",
+  "issues": [],
+  "website_ready": true,
+  "title": "Backyard patio with light full flake floor",
+  "alt_text": "Patio with light gray flake coated floor, dining set, umbrellas and lounge chair by a house porch",
+  "tags": [
+   "patio",
+   "full flake",
+   "outdoor living",
+   "light gray chips",
+   "patio furniture",
+   "umbrella",
+   "porch columns",
+   "backyard",
+   "finished floor"
+  ],
+  "filename": "patio-light-flake-floor-furniture"
+ },
+ "id": "37cb823dfd0c",
+ "provider": "kimi",
+ "model": "moonshotai/kimi-k3",
+ "mode": "run",
+ "blind": false,
+ "at": "2026-09-17T12:37:58"
+}

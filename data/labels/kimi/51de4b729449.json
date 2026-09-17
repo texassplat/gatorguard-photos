@@ -1,0 +1,46 @@
+{
+ "finish": "stop",
+ "usage": {
+  "input_tokens": 4996,
+  "output_tokens": 398,
+  "cost": 0.020958
+ },
+ "served_by": "Fireworks",
+ "label": {
+  "content": "floor_photo",
+  "area": "patio_or_porch",
+  "setting": "residential",
+  "system": "unknown",
+  "color": "unknown",
+  "color_confidence": "none",
+  "color_runner_up": "not_applicable",
+  "color_description": "natural exposed aggregate pebbles in brown, tan and gray tones with a wet-look sealer",
+  "shot_type": "finished",
+  "people": "none",
+  "faces_identifiable": false,
+  "privacy": [],
+  "branding_visible": false,
+  "quality": "4",
+  "issues": [],
+  "website_ready": true,
+  "title": "Covered porch with sealed exposed aggregate floor",
+  "alt_text": "Covered porch with sealed exposed aggregate concrete floor, brick planter and covered grills",
+  "tags": [
+   "porch",
+   "exposed aggregate",
+   "wet look sealer",
+   "exterior",
+   "covered patio",
+   "brick planter",
+   "residential",
+   "sealed concrete"
+  ],
+  "filename": "covered-porch-sealed-exposed-aggregate"
+ },
+ "id": "51de4b729449",
+ "provider": "kimi",
+ "model": "moonshotai/kimi-k3",
+ "mode": "run",
+ "blind": false,
+ "at": "2026-09-17T12:36:28"
+}

@@ -1,0 +1,47 @@
+{
+ "finish": "stop",
+ "usage": {
+  "input_tokens": 5211,
+  "output_tokens": 228,
+  "cost": 0.019053
+ },
+ "served_by": "Parasail",
+ "label": {
+  "content": "floor_photo",
+  "area": "not_visible",
+  "setting": "unknown",
+  "system": "full_flake",
+  "color": "Pacific Coast",
+  "color_confidence": "low",
+  "color_runner_up": "Stone Ridge",
+  "color_description": "gray base with white, black and small tan or rust chips, medium size",
+  "shot_type": "close_up",
+  "people": "none",
+  "faces_identifiable": false,
+  "privacy": [],
+  "branding_visible": false,
+  "quality": "4",
+  "issues": [],
+  "website_ready": true,
+  "title": "Nachos and cheese on gray flake floor",
+  "alt_text": "Tortilla chips with spilled cheese sauce on a gray full flake epoxy floor with white and black chips",
+  "tags": [
+   "gameday",
+   "nachos",
+   "tortilla chips",
+   "cheese spill",
+   "gray flake floor",
+   "full flake",
+   "food on floor",
+   "easy clean",
+   "close up"
+  ],
+  "filename": "nachos-cheese-on-gray-flake-floor"
+ },
+ "id": "6f9c268bccd7",
+ "provider": "kimi",
+ "model": "moonshotai/kimi-k3",
+ "mode": "run",
+ "blind": false,
+ "at": "2026-09-17T12:39:14"
+}

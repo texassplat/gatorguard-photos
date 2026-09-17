@@ -1,0 +1,47 @@
+{
+ "finish": "stop",
+ "usage": {
+  "input_tokens": 5345,
+  "output_tokens": 223,
+  "cost": 0.0102216
+ },
+ "served_by": "Together",
+ "label": {
+  "content": "floor_photo",
+  "area": "garage",
+  "setting": "residential",
+  "system": "full_flake",
+  "color": "Granite",
+  "color_confidence": "medium",
+  "color_runner_up": "Stone Rowe",
+  "color_description": "white, gray and black chips, medium size",
+  "shot_type": "close_up",
+  "people": "none",
+  "faces_identifiable": false,
+  "privacy": [],
+  "branding_visible": false,
+  "quality": "4",
+  "issues": [],
+  "website_ready": true,
+  "title": "Close up of gray full flake garage floor edge",
+  "alt_text": "Close up of a gray, white and black full flake garage floor coating along the door edge",
+  "tags": [
+   "full flake",
+   "garage floor",
+   "close up",
+   "gray chips",
+   "black chips",
+   "white chips",
+   "floor edge",
+   "garage door",
+   "finished floor"
+  ],
+  "filename": "gray-full-flake-garage-floor-close-up"
+ },
+ "id": "721b4f2568a3",
+ "provider": "kimi",
+ "model": "moonshotai/kimi-k3",
+ "mode": "run",
+ "blind": false,
+ "at": "2026-09-17T12:35:10"
+}

@@ -1,0 +1,47 @@
+{
+ "finish": "stop",
+ "usage": {
+  "input_tokens": 5211,
+  "output_tokens": 208,
+  "cost": 0.018753
+ },
+ "served_by": "Parasail",
+ "label": {
+  "content": "people_or_team",
+  "area": "showroom_or_retail",
+  "setting": "unknown",
+  "system": "full_flake",
+  "color": "unknown",
+  "color_confidence": "none",
+  "color_runner_up": "unknown",
+  "color_description": "fine gray, tan and white chips, mostly hidden by dog",
+  "shot_type": "other",
+  "people": "prominent",
+  "faces_identifiable": false,
+  "privacy": [],
+  "branding_visible": false,
+  "quality": "4",
+  "issues": [],
+  "website_ready": false,
+  "title": "Golden retriever shaking hands on flake floor",
+  "alt_text": "Golden retriever giving a paw to a person, sitting on a speckled flake floor with green costume pieces",
+  "tags": [
+   "dog",
+   "golden retriever",
+   "photoshoot",
+   "gameday",
+   "flake floor",
+   "indoor",
+   "pet",
+   "handshake",
+   "green costume"
+  ],
+  "filename": "golden-retriever-paw-shake-flake-floor"
+ },
+ "id": "2f2251d2ded8",
+ "provider": "kimi",
+ "model": "moonshotai/kimi-k3",
+ "mode": "run",
+ "blind": false,
+ "at": "2026-09-17T12:40:12"
+}

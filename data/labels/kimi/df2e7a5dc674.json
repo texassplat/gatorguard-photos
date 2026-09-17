@@ -1,0 +1,46 @@
+{
+ "finish": "stop",
+ "usage": {
+  "input_tokens": 5327,
+  "output_tokens": 214,
+  "cost": 0.01353942
+ },
+ "served_by": "Phala",
+ "label": {
+  "alt_text": "Sunroom with glossy brown metallic epoxy floor and large windows overlooking a green lawn",
+  "area": "patio_or_porch",
+  "branding_visible": false,
+  "color": "Cappuccino",
+  "color_confidence": "medium",
+  "color_description": "warm medium brown metallic with lighter tan swirls",
+  "color_runner_up": "Copper",
+  "content": "floor_photo",
+  "faces_identifiable": false,
+  "filename": "sunroom-brown-metallic-epoxy-floor",
+  "issues": [],
+  "people": "none",
+  "privacy": [],
+  "quality": "4",
+  "setting": "residential",
+  "shot_type": "finished",
+  "system": "metallic",
+  "tags": [
+   "metallic epoxy",
+   "brown metallic floor",
+   "sunroom",
+   "reflective floor",
+   "swirled finish",
+   "windows",
+   "residential",
+   "liquid art"
+  ],
+  "title": "Sunroom with glossy brown metallic epoxy floor",
+  "website_ready": true
+ },
+ "id": "df2e7a5dc674",
+ "provider": "kimi",
+ "model": "moonshotai/kimi-k3",
+ "mode": "run",
+ "blind": false,
+ "at": "2026-09-17T12:51:38"
+}

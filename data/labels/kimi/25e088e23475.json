@@ -1,0 +1,48 @@
+{
+ "finish": "stop",
+ "usage": {
+  "input_tokens": 4979,
+  "output_tokens": 230,
+  "cost": 0.0092286
+ },
+ "served_by": "Together",
+ "label": {
+  "content": "floor_photo",
+  "area": "basement",
+  "setting": "residential",
+  "system": "full_flake",
+  "color": "unknown",
+  "color_confidence": "low",
+  "color_runner_up": "Lunar",
+  "color_description": "very light gray and white chips, fine size",
+  "shot_type": "finished",
+  "people": "none",
+  "faces_identifiable": false,
+  "privacy": [],
+  "branding_visible": false,
+  "quality": "3",
+  "issues": [
+   "dark"
+  ],
+  "website_ready": false,
+  "title": "Basement with light gray full flake floor",
+  "alt_text": "Unfinished basement with light gray full flake floor coating, support poles and ductwork",
+  "tags": [
+   "basement",
+   "full flake",
+   "light gray",
+   "support poles",
+   "ductwork",
+   "unfinished walls",
+   "glossy floor",
+   "old style"
+  ],
+  "filename": "basement-light-gray-full-flake-floor"
+ },
+ "id": "25e088e23475",
+ "provider": "kimi",
+ "model": "moonshotai/kimi-k3",
+ "mode": "run",
+ "blind": false,
+ "at": "2026-09-17T12:54:20"
+}

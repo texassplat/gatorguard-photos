@@ -1,0 +1,47 @@
+{
+ "finish": "stop",
+ "usage": {
+  "input_tokens": 5317,
+  "output_tokens": 314,
+  "cost": 0.020661
+ },
+ "served_by": "Parasail",
+ "label": {
+  "content": "floor_photo",
+  "area": "pool_deck",
+  "setting": "residential",
+  "system": "full_flake",
+  "color": "unknown",
+  "color_confidence": "low",
+  "color_runner_up": "Aurora",
+  "color_description": "very light gray base with fine sparse dark speckle",
+  "shot_type": "finished",
+  "people": "none",
+  "faces_identifiable": false,
+  "privacy": [],
+  "branding_visible": false,
+  "quality": "4",
+  "issues": [],
+  "website_ready": true,
+  "title": "Pool deck with light gray coated concrete",
+  "alt_text": "Inground pool surrounded by a light gray coated concrete pool deck with river rock border, pool deck coating",
+  "tags": [
+   "pool deck",
+   "light gray",
+   "fine speckle",
+   "swimming pool",
+   "river rock border",
+   "backyard",
+   "finished",
+   "residential",
+   "old style"
+  ],
+  "filename": "light-gray-coated-pool-deck"
+ },
+ "id": "11005f388d0a",
+ "provider": "kimi",
+ "model": "moonshotai/kimi-k3",
+ "mode": "run",
+ "blind": false,
+ "at": "2026-09-17T12:54:18"
+}

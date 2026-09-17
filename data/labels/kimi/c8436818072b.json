@@ -1,0 +1,47 @@
+{
+ "finish": "stop",
+ "usage": {
+  "input_tokens": 4844,
+  "output_tokens": 223,
+  "cost": 0.017877
+ },
+ "served_by": "Parasail",
+ "label": {
+  "content": "floor_photo",
+  "area": "garage",
+  "setting": "residential",
+  "system": "full_flake",
+  "color": "Black Canyon",
+  "color_confidence": "low",
+  "color_runner_up": "Chestnut",
+  "color_description": "dark brown and black chips with some tan, small to medium size, glossy wet-look clear coat",
+  "shot_type": "finished",
+  "people": "none",
+  "faces_identifiable": false,
+  "privacy": [],
+  "branding_visible": true,
+  "quality": "4",
+  "issues": [],
+  "website_ready": false,
+  "title": "Glossy dark flake garage floor with truck outside",
+  "alt_text": "Glossy dark brown and black flake garage floor with a truck parked in the driveway outside",
+  "tags": [
+   "garage floor",
+   "full flake",
+   "dark brown chips",
+   "glossy finish",
+   "wet look",
+   "garage door",
+   "truck",
+   "residential",
+   "driveway"
+  ],
+  "filename": "glossy-dark-flake-garage-floor"
+ },
+ "id": "c8436818072b",
+ "provider": "kimi",
+ "model": "moonshotai/kimi-k3",
+ "mode": "pilot",
+ "blind": false,
+ "at": "2026-09-17T12:24:46"
+}

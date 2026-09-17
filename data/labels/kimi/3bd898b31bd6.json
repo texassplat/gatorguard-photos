@@ -1,0 +1,49 @@
+{
+ "finish": "stop",
+ "usage": {
+  "input_tokens": 4978,
+  "output_tokens": 184,
+  "cost": 0.00638607
+ },
+ "served_by": "Morph",
+ "label": {
+  "content": "marketing_graphic",
+  "area": "garage",
+  "setting": "residential",
+  "system": "full_flake",
+  "color": "unknown",
+  "color_confidence": "low",
+  "color_runner_up": "unknown",
+  "color_description": "backgrounds show gray and tan speckled flake floors and a dark metallic floor with a red sports car",
+  "shot_type": "graphic",
+  "people": "none",
+  "faces_identifiable": false,
+  "privacy": [],
+  "branding_visible": true,
+  "quality": "3",
+  "issues": [
+   "text_overlay"
+  ],
+  "website_ready": false,
+  "title": "25 percent off sale promo video",
+  "alt_text": "Four-panel promo video with GatorGuard logo, 25 percent off sale text, coated garage floors and a red sports car",
+  "tags": [
+   "promo video",
+   "sale graphic",
+   "25 percent off",
+   "garage floor",
+   "flake floor",
+   "metallic floor",
+   "red sports car",
+   "financing offer",
+   "advertising"
+  ],
+  "filename": "25-off-sale-promo-video"
+ },
+ "id": "3bd898b31bd6",
+ "provider": "kimi",
+ "model": "moonshotai/kimi-k3",
+ "mode": "run",
+ "blind": false,
+ "at": "2026-09-17T12:58:20"
+}

@@ -1,0 +1,48 @@
+{
+ "finish": "stop",
+ "usage": {
+  "input_tokens": 4958,
+  "output_tokens": 207,
+  "cost": 0.0088206
+ },
+ "served_by": "Together",
+ "label": {
+  "content": "floor_photo",
+  "area": "interior_room",
+  "setting": "commercial",
+  "system": "full_flake",
+  "color": "Granite",
+  "color_confidence": "low",
+  "color_runner_up": "Stone Rowe",
+  "color_description": "gray base with small black, white and gray chips",
+  "shot_type": "finished",
+  "people": "none",
+  "faces_identifiable": false,
+  "privacy": [],
+  "branding_visible": false,
+  "quality": "4",
+  "issues": [],
+  "website_ready": true,
+  "title": "Gray full flake floor in tiled restroom",
+  "alt_text": "Gray full flake floor coating in a tiled restroom with a toilet and grab bar",
+  "tags": [
+   "full flake",
+   "restroom",
+   "commercial",
+   "gray floor",
+   "tile walls",
+   "glossy finish",
+   "small chips",
+   "interior",
+   "toilet",
+   "clean"
+  ],
+  "filename": "gray-full-flake-restroom-floor"
+ },
+ "id": "ab53eb7fbd47",
+ "provider": "kimi",
+ "model": "moonshotai/kimi-k3",
+ "mode": "run",
+ "blind": false,
+ "at": "2026-09-17T12:48:09"
+}

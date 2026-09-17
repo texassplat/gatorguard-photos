@@ -1,0 +1,46 @@
+{
+ "finish": "stop",
+ "usage": {
+  "input_tokens": 5324,
+  "output_tokens": 285,
+  "cost": 0.01726695
+ },
+ "served_by": "DigitalOcean",
+ "label": {
+  "alt_text": "Garage finished with gray full flake floor coating and coated stem walls near a window bench",
+  "area": "garage",
+  "branding_visible": true,
+  "color": "Zircon",
+  "color_confidence": "medium",
+  "color_description": "gray, white and black chips, small to medium size",
+  "color_runner_up": "Granite",
+  "content": "floor_photo",
+  "faces_identifiable": false,
+  "filename": "garage-gray-full-flake-window-bench",
+  "issues": [],
+  "people": "none",
+  "privacy": [],
+  "quality": "4",
+  "setting": "residential",
+  "shot_type": "finished",
+  "system": "full_flake",
+  "tags": [
+   "garage",
+   "full flake",
+   "gray chips",
+   "silver floor",
+   "stem wall",
+   "window bench",
+   "white walls",
+   "finished floor"
+  ],
+  "title": "Garage with gray full flake floor and window bench",
+  "website_ready": true
+ },
+ "id": "521463ebe220",
+ "provider": "kimi",
+ "model": "moonshotai/kimi-k3",
+ "mode": "run",
+ "blind": false,
+ "at": "2026-09-17T12:45:24"
+}

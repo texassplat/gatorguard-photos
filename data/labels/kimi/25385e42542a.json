@@ -1,0 +1,47 @@
+{
+ "finish": "stop",
+ "usage": {
+  "input_tokens": 5320,
+  "output_tokens": 267,
+  "cost": 0.0108066
+ },
+ "served_by": "Together",
+ "label": {
+  "content": "floor_photo",
+  "area": "garage",
+  "setting": "residential",
+  "system": "full_flake",
+  "color": "Pacific Coast",
+  "color_confidence": "medium",
+  "color_runner_up": "Indigo",
+  "color_description": "blue-gray base with gray, white and small dark chips, medium size",
+  "shot_type": "finished",
+  "people": "none",
+  "faces_identifiable": false,
+  "privacy": [],
+  "branding_visible": false,
+  "quality": "4",
+  "issues": [],
+  "website_ready": true,
+  "title": "Garage with blue-gray full flake floor and storage",
+  "alt_text": "Finished garage with blue-gray full flake floor, cabinets, wall organizers and windows, full flake garage floor coating",
+  "tags": [
+   "garage",
+   "full flake",
+   "blue gray floor",
+   "cabinets",
+   "wall storage",
+   "windows",
+   "finished floor",
+   "garage organization",
+   "speckled floor"
+  ],
+  "filename": "garage-blue-gray-full-flake-storage"
+ },
+ "id": "25385e42542a",
+ "provider": "kimi",
+ "model": "moonshotai/kimi-k3",
+ "mode": "run",
+ "blind": false,
+ "at": "2026-09-17T12:44:05"
+}

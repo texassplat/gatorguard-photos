@@ -1,0 +1,48 @@
+{
+ "finish": "stop",
+ "usage": {
+  "input_tokens": 5312,
+  "output_tokens": 280,
+  "cost": 0.0109776
+ },
+ "served_by": "Together",
+ "label": {
+  "content": "floor_photo",
+  "area": "garage",
+  "setting": "residential",
+  "system": "full_flake",
+  "color": "unknown",
+  "color_confidence": "low",
+  "color_runner_up": "unknown",
+  "color_description": "red base with sparse small tan, white and black chips",
+  "shot_type": "finished",
+  "people": "none",
+  "faces_identifiable": false,
+  "privacy": [],
+  "branding_visible": true,
+  "quality": "4",
+  "issues": [],
+  "website_ready": true,
+  "title": "Garage with glossy red flake floor",
+  "alt_text": "Glossy red garage floor with sparse tan and black flakes, tools on wall and GatorGuard truck outside, flake garage floor coating",
+  "tags": [
+   "garage",
+   "red floor",
+   "flake floor",
+   "glossy",
+   "sparse flakes",
+   "tan chips",
+   "garage door open",
+   "gatorguard truck",
+   "finished floor",
+   "old style"
+  ],
+  "filename": "garage-glossy-red-flake-floor"
+ },
+ "id": "6dfc5fac19a4",
+ "provider": "kimi",
+ "model": "moonshotai/kimi-k3",
+ "mode": "run",
+ "blind": false,
+ "at": "2026-09-17T12:53:38"
+}

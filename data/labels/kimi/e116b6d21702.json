@@ -1,0 +1,48 @@
+{
+ "finish": "stop",
+ "usage": {
+  "input_tokens": 5313,
+  "output_tokens": 234,
+  "cost": 0.0102906
+ },
+ "served_by": "Together",
+ "label": {
+  "content": "floor_photo",
+  "area": "garage",
+  "setting": "residential",
+  "system": "full_flake",
+  "color": "Stone Crest",
+  "color_confidence": "low",
+  "color_runner_up": "Stone Ridge",
+  "color_description": "gray, black and white chips with scattered rust red and tan flecks, small to medium size",
+  "shot_type": "in_progress",
+  "people": "background",
+  "faces_identifiable": false,
+  "privacy": [],
+  "branding_visible": false,
+  "quality": "3",
+  "issues": [
+   "blurry"
+  ],
+  "website_ready": false,
+  "title": "Scraping excess flakes off gray flake floor",
+  "alt_text": "Worker scraping excess vinyl flakes on a gray full flake garage floor with rust red flecks during coating installation",
+  "tags": [
+   "full flake",
+   "in progress",
+   "scraping flakes",
+   "gray chips",
+   "rust red flecks",
+   "garage floor",
+   "flake floor coating",
+   "crew working"
+  ],
+  "filename": "scraping-gray-flake-floor-in-progress"
+ },
+ "id": "e116b6d21702",
+ "provider": "kimi",
+ "model": "moonshotai/kimi-k3",
+ "mode": "run",
+ "blind": false,
+ "at": "2026-09-17T12:54:53"
+}

@@ -1,0 +1,48 @@
+{
+ "finish": "stop",
+ "usage": {
+  "input_tokens": 5333,
+  "output_tokens": 306,
+  "cost": 0.020589
+ },
+ "served_by": "Parasail",
+ "label": {
+  "content": "floor_photo",
+  "area": "basement",
+  "setting": "residential",
+  "system": "full_flake",
+  "color": "Granite",
+  "color_confidence": "medium",
+  "color_runner_up": "Stone Rowe",
+  "color_description": "light gray base with black, white and gray chips, small to medium size",
+  "shot_type": "finished",
+  "people": "none",
+  "faces_identifiable": false,
+  "privacy": [],
+  "branding_visible": false,
+  "quality": "4",
+  "issues": [
+   "cluttered"
+  ],
+  "website_ready": true,
+  "title": "Basement with gray full flake floor",
+  "alt_text": "Basement room with gray full flake floor coating, wall mounted TVs and doorway to adjacent room",
+  "tags": [
+   "basement",
+   "full flake",
+   "gray floor",
+   "gray chips",
+   "tv wall",
+   "finished floor",
+   "residential",
+   "speckled floor"
+  ],
+  "filename": "basement-gray-full-flake-floor"
+ },
+ "id": "902de3430952",
+ "provider": "kimi",
+ "model": "moonshotai/kimi-k3",
+ "mode": "run",
+ "blind": false,
+ "at": "2026-09-17T12:31:26"
+}

@@ -1,0 +1,47 @@
+{
+ "finish": "stop",
+ "usage": {
+  "input_tokens": 5257,
+  "output_tokens": 225,
+  "cost": 0.01349892
+ },
+ "served_by": "Phala",
+ "label": {
+  "alt_text": "Glossy clear-sealed gray concrete floor in an empty commercial space with light reflections, grind and seal concrete floor",
+  "area": "commercial_or_industrial",
+  "branding_visible": false,
+  "color": "not_applicable",
+  "color_confidence": "none",
+  "color_description": "",
+  "color_runner_up": "not_applicable",
+  "content": "floor_photo",
+  "faces_identifiable": false,
+  "filename": "glossy-grind-seal-commercial-concrete-floor",
+  "issues": [],
+  "people": "none",
+  "privacy": [],
+  "quality": "4",
+  "setting": "commercial",
+  "shot_type": "finished",
+  "system": "grind_and_seal",
+  "tags": [
+   "grind and seal",
+   "clear sealer",
+   "gray concrete",
+   "glossy floor",
+   "polished look",
+   "commercial floor",
+   "empty room",
+   "reflective floor",
+   "natural concrete"
+  ],
+  "title": "Glossy grind and seal floor in commercial space",
+  "website_ready": true
+ },
+ "id": "cb1e7bd38daf",
+ "provider": "kimi",
+ "model": "moonshotai/kimi-k3",
+ "mode": "run",
+ "blind": false,
+ "at": "2026-09-17T12:46:43"
+}

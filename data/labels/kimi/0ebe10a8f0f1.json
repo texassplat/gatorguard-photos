@@ -1,0 +1,46 @@
+{
+ "finish": "stop",
+ "usage": {
+  "input_tokens": 5322,
+  "output_tokens": 275,
+  "cost": 0.020091
+ },
+ "served_by": "Parasail",
+ "label": {
+  "content": "floor_photo",
+  "area": "commercial_or_industrial",
+  "setting": "commercial",
+  "system": "solid_color",
+  "color": "Gray",
+  "color_confidence": "low",
+  "color_runner_up": "unknown",
+  "color_description": "solid light gray coating, no chips",
+  "shot_type": "finished",
+  "people": "none",
+  "faces_identifiable": false,
+  "privacy": [],
+  "branding_visible": false,
+  "quality": "4",
+  "issues": [],
+  "website_ready": true,
+  "title": "Commercial room with solid gray coated floor",
+  "alt_text": "Commercial room with white paneled walls, electrical panels and a glossy solid gray coated concrete floor",
+  "tags": [
+   "commercial",
+   "solid color floor",
+   "gray floor",
+   "electrical panels",
+   "white walls",
+   "glossy finish",
+   "warehouse",
+   "finished floor"
+  ],
+  "filename": "commercial-room-solid-gray-floor"
+ },
+ "id": "0ebe10a8f0f1",
+ "provider": "kimi",
+ "model": "moonshotai/kimi-k3",
+ "mode": "run",
+ "blind": false,
+ "at": "2026-09-17T12:33:57"
+}

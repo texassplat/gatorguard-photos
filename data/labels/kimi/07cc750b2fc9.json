@@ -1,0 +1,47 @@
+{
+ "finish": "stop",
+ "usage": {
+  "input_tokens": 5329,
+  "output_tokens": 250,
+  "cost": 0.01315899
+ },
+ "served_by": "Alibaba",
+ "label": {
+  "content": "floor_photo",
+  "area": "interior_room",
+  "setting": "residential",
+  "system": "full_flake",
+  "color": "Granite",
+  "color_confidence": "medium",
+  "color_runner_up": "Aurora",
+  "color_description": "gray base with black and white chips, small to medium size",
+  "shot_type": "finished",
+  "people": "none",
+  "faces_identifiable": false,
+  "privacy": [],
+  "branding_visible": false,
+  "quality": "4",
+  "issues": [],
+  "website_ready": true,
+  "title": "Glossy gray flake floor with wood accent walls",
+  "alt_text": "Glossy gray full flake floor with black and white chips in a room with wood plank accent walls and white cabinets",
+  "tags": [
+   "full flake",
+   "gray floor",
+   "black and white chips",
+   "glossy",
+   "wood accent wall",
+   "white cabinets",
+   "finished",
+   "interior",
+   "recessed lighting"
+  ],
+  "filename": "gray-flake-floor-wood-accent-walls"
+ },
+ "id": "07cc750b2fc9",
+ "provider": "kimi",
+ "model": "moonshotai/kimi-k3",
+ "mode": "run",
+ "blind": false,
+ "at": "2026-09-17T12:53:37"
+}

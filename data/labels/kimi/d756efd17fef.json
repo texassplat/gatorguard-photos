@@ -1,0 +1,46 @@
+{
+ "finish": "stop",
+ "usage": {
+  "input_tokens": 5341,
+  "output_tokens": 181,
+  "cost": 0.018738
+ },
+ "served_by": "Parasail",
+ "label": {
+  "content": "floor_photo",
+  "area": "commercial_or_industrial",
+  "setting": "commercial",
+  "system": "full_flake",
+  "color": "unknown",
+  "color_confidence": "low",
+  "color_runner_up": "Santana",
+  "color_description": "light tan and cream chips with fine dark specks, small chip size",
+  "shot_type": "finished",
+  "people": "none",
+  "faces_identifiable": false,
+  "privacy": [],
+  "branding_visible": false,
+  "quality": "4",
+  "issues": [],
+  "website_ready": true,
+  "title": "Commercial restroom hallway with light tan flake floor",
+  "alt_text": "Glossy light tan full flake floor in a commercial hallway with restroom doorway and fluorescent lighting",
+  "tags": [
+   "commercial floor",
+   "full flake",
+   "tan chips",
+   "restroom hallway",
+   "hallway",
+   "glossy finish",
+   "finished floor",
+   "interior"
+  ],
+  "filename": "commercial-hallway-tan-flake-floor"
+ },
+ "id": "d756efd17fef",
+ "provider": "kimi",
+ "model": "moonshotai/kimi-k3",
+ "mode": "run",
+ "blind": false,
+ "at": "2026-09-17T12:33:23"
+}

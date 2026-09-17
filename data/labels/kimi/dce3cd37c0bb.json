@@ -1,0 +1,47 @@
+{
+ "finish": "stop",
+ "usage": {
+  "input_tokens": 5323,
+  "output_tokens": 248,
+  "cost": 0.00973501
+ },
+ "served_by": "DigitalOcean",
+ "label": {
+  "alt_text": "Gray and black full flake floor in a commercial hallway with carpeted doorway",
+  "area": "commercial_or_industrial",
+  "branding_visible": false,
+  "color": "Granite",
+  "color_confidence": "medium",
+  "color_description": "gray, black and white chips, small to medium size",
+  "color_runner_up": "Infinity",
+  "content": "floor_photo",
+  "faces_identifiable": false,
+  "filename": "commercial-hallway-gray-flake-floor",
+  "issues": [],
+  "people": "none",
+  "privacy": [],
+  "quality": "4",
+  "setting": "commercial",
+  "shot_type": "finished",
+  "system": "full_flake",
+  "tags": [
+   "commercial floor",
+   "full flake",
+   "gray chips",
+   "black and white chips",
+   "hallway",
+   "doorway",
+   "carpet transition",
+   "glossy finish",
+   "interior"
+  ],
+  "title": "Commercial hallway with gray full flake floor",
+  "website_ready": true
+ },
+ "id": "dce3cd37c0bb",
+ "provider": "kimi",
+ "model": "moonshotai/kimi-k3",
+ "mode": "run",
+ "blind": false,
+ "at": "2026-09-17T12:34:46"
+}

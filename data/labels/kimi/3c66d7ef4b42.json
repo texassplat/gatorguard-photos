@@ -1,0 +1,48 @@
+{
+ "finish": "stop",
+ "usage": {
+  "input_tokens": 5097,
+  "output_tokens": 246,
+  "cost": 0.0098226
+ },
+ "served_by": "Together",
+ "label": {
+  "content": "floor_photo",
+  "area": "commercial_or_industrial",
+  "setting": "commercial",
+  "system": "metallic",
+  "color": "Gray",
+  "color_confidence": "low",
+  "color_runner_up": "Charcoal",
+  "color_description": "dark gray metallic with bright blue and white swirls",
+  "shot_type": "finished",
+  "people": "none",
+  "faces_identifiable": false,
+  "privacy": [],
+  "branding_visible": false,
+  "quality": "4",
+  "issues": [],
+  "website_ready": true,
+  "title": "Commercial floor with gray and blue metallic epoxy",
+  "alt_text": "Large commercial space with reflective gray metallic epoxy floor with blue and white swirls, metallic floor coating",
+  "tags": [
+   "metallic epoxy",
+   "liquid art",
+   "commercial floor",
+   "gray metallic",
+   "blue swirls",
+   "white swirls",
+   "reflective floor",
+   "drone video",
+   "large space",
+   "finished"
+  ],
+  "filename": "commercial-gray-blue-metallic-floor"
+ },
+ "id": "3c66d7ef4b42",
+ "provider": "kimi",
+ "model": "moonshotai/kimi-k3",
+ "mode": "run",
+ "blind": false,
+ "at": "2026-09-17T12:46:38"
+}

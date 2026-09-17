@@ -1,0 +1,47 @@
+{
+ "finish": "stop",
+ "usage": {
+  "input_tokens": 5322,
+  "output_tokens": 231,
+  "cost": 0.00951231
+ },
+ "served_by": "DigitalOcean",
+ "label": {
+  "alt_text": "Commercial restroom with corrugated metal walls and gray full flake concrete floor coating",
+  "area": "commercial_or_industrial",
+  "branding_visible": false,
+  "color": "Granite",
+  "color_confidence": "medium",
+  "color_description": "gray, white and black chips, medium size",
+  "color_runner_up": "Infinity",
+  "content": "floor_photo",
+  "faces_identifiable": false,
+  "filename": "commercial-restroom-gray-flake-floor",
+  "issues": [],
+  "people": "none",
+  "privacy": [],
+  "quality": "4",
+  "setting": "commercial",
+  "shot_type": "finished",
+  "system": "full_flake",
+  "tags": [
+   "commercial restroom",
+   "full flake",
+   "gray chips",
+   "corrugated metal walls",
+   "sinks",
+   "finished floor",
+   "gray white black chips",
+   "low angle",
+   "bathroom"
+  ],
+  "title": "Commercial restroom with gray full flake floor",
+  "website_ready": true
+ },
+ "id": "42f47d5bef02",
+ "provider": "kimi",
+ "model": "moonshotai/kimi-k3",
+ "mode": "run",
+ "blind": false,
+ "at": "2026-09-17T12:33:39"
+}

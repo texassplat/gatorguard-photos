@@ -1,0 +1,48 @@
+{
+ "finish": "stop",
+ "usage": {
+  "input_tokens": 5247,
+  "output_tokens": 162,
+  "cost": 0.006659445
+ },
+ "served_by": "Morph",
+ "label": {
+  "content": "floor_photo",
+  "area": "not_visible",
+  "setting": "unknown",
+  "system": "full_flake",
+  "color": "Pacific Coast",
+  "color_confidence": "low",
+  "color_runner_up": "Cobalt",
+  "color_description": "blue base with blue, white and gray chips, small to medium size",
+  "shot_type": "close_up",
+  "people": "none",
+  "faces_identifiable": false,
+  "privacy": [],
+  "branding_visible": false,
+  "quality": "3",
+  "issues": [
+   "cluttered"
+  ],
+  "website_ready": false,
+  "title": "Blue flake floor close up",
+  "alt_text": "Close up of a blue full flake floor with blue, white and gray chips",
+  "tags": [
+   "close up",
+   "full flake",
+   "blue chips",
+   "white chips",
+   "gray chips",
+   "blue floor",
+   "speckled",
+   "coated floor"
+  ],
+  "filename": "blue-full-flake-close-up"
+ },
+ "id": "80b14cbb23e2",
+ "provider": "kimi",
+ "model": "moonshotai/kimi-k3",
+ "mode": "run",
+ "blind": false,
+ "at": "2026-09-17T12:54:58"
+}

@@ -1,0 +1,47 @@
+{
+ "finish": "stop",
+ "usage": {
+  "input_tokens": 4942,
+  "output_tokens": 236,
+  "cost": 0.0092076
+ },
+ "served_by": "Together",
+ "label": {
+  "content": "floor_photo",
+  "area": "garage",
+  "setting": "residential",
+  "system": "full_flake",
+  "color": "unknown",
+  "color_confidence": "low",
+  "color_runner_up": "Lunar",
+  "color_description": "light gray base with sparse fine gray and white chips",
+  "shot_type": "finished",
+  "people": "none",
+  "faces_identifiable": false,
+  "privacy": [],
+  "branding_visible": false,
+  "quality": "4",
+  "issues": [],
+  "website_ready": true,
+  "title": "Garage with light gray flake floor and white borders",
+  "alt_text": "Garage with light gray full flake floor coating and white taped border lines, unfinished OSB and stone walls",
+  "tags": [
+   "garage",
+   "full flake",
+   "light gray",
+   "white border lines",
+   "tape design",
+   "unfinished walls",
+   "osb wall",
+   "stone veneer",
+   "glossy floor"
+  ],
+  "filename": "garage-light-gray-flake-white-borders"
+ },
+ "id": "349723cb3497",
+ "provider": "kimi",
+ "model": "moonshotai/kimi-k3",
+ "mode": "run",
+ "blind": false,
+ "at": "2026-09-17T12:54:57"
+}

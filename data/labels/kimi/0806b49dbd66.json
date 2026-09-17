@@ -1,0 +1,46 @@
+{
+ "finish": "stop",
+ "usage": {
+  "input_tokens": 5661,
+  "output_tokens": 243,
+  "cost": 0.0114696
+ },
+ "served_by": "Together",
+ "label": {
+  "content": "before_after_composite",
+  "area": "interior_room",
+  "setting": "residential",
+  "system": "metallic",
+  "color": "Cappuccino",
+  "color_confidence": "medium",
+  "color_runner_up": "Charcoal",
+  "color_description": "dark brown and gray marbled metallic, glossy swirled finish",
+  "shot_type": "before_after",
+  "people": "none",
+  "faces_identifiable": false,
+  "privacy": [],
+  "branding_visible": false,
+  "quality": "4",
+  "issues": [],
+  "website_ready": true,
+  "title": "Before and after metallic floor in hobby room",
+  "alt_text": "Before and after of a room floor, bare concrete above and a glossy brown gray marbled metallic epoxy floor below",
+  "tags": [
+   "before and after",
+   "metallic epoxy",
+   "marbled floor",
+   "brown gray metallic",
+   "glossy floor",
+   "interior room",
+   "motorcycle posters",
+   "carpet removal"
+  ],
+  "filename": "before-after-metallic-floor-hobby-room"
+ },
+ "id": "0806b49dbd66",
+ "provider": "kimi",
+ "model": "moonshotai/kimi-k3",
+ "mode": "run",
+ "blind": false,
+ "at": "2026-09-17T12:51:40"
+}

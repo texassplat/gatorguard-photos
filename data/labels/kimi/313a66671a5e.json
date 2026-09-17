@@ -1,0 +1,47 @@
+{
+ "finish": "stop",
+ "usage": {
+  "input_tokens": 5328,
+  "output_tokens": 265,
+  "cost": 0.0108006
+ },
+ "served_by": "Together",
+ "label": {
+  "content": "floor_photo",
+  "area": "garage",
+  "setting": "residential",
+  "system": "full_flake",
+  "color": "unknown",
+  "color_confidence": "low",
+  "color_runner_up": "Stone Ridge",
+  "color_description": "tan, brown, black and gray chips, small to medium size",
+  "shot_type": "close_up",
+  "people": "none",
+  "faces_identifiable": false,
+  "privacy": [],
+  "branding_visible": false,
+  "quality": "4",
+  "issues": [],
+  "website_ready": false,
+  "title": "Close up of garage floor edge lip with flake coating",
+  "alt_text": "Close up of a coated garage floor edge lip with tan, brown and gray flakes meeting bare concrete at the driveway",
+  "tags": [
+   "edge lip",
+   "garage floor",
+   "full flake",
+   "close up",
+   "tan chips",
+   "brown chips",
+   "gray chips",
+   "driveway transition",
+   "concrete edge"
+  ],
+  "filename": "garage-floor-edge-lip-flake-close-up"
+ },
+ "id": "313a66671a5e",
+ "provider": "kimi",
+ "model": "moonshotai/kimi-k3",
+ "mode": "run",
+ "blind": false,
+ "at": "2026-09-17T12:49:27"
+}

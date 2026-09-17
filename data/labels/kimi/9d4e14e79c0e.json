@@ -1,0 +1,48 @@
+{
+ "finish": "stop",
+ "usage": {
+  "input_tokens": 5072,
+  "output_tokens": 227,
+  "cost": 0.018621
+ },
+ "served_by": "Parasail",
+ "label": {
+  "content": "floor_photo",
+  "area": "basement",
+  "setting": "residential",
+  "system": "solid_color",
+  "color": "unknown",
+  "color_confidence": "low",
+  "color_runner_up": "Crimson",
+  "color_description": "glossy solid red coating, no chips visible",
+  "shot_type": "finished",
+  "people": "none",
+  "faces_identifiable": false,
+  "privacy": [],
+  "branding_visible": false,
+  "quality": "4",
+  "issues": [
+   "wet_or_dirty"
+  ],
+  "website_ready": true,
+  "title": "Basement with glossy red solid color floor",
+  "alt_text": "Glossy red solid color coated basement floor with floor drain and concrete walls",
+  "tags": [
+   "basement",
+   "red floor",
+   "solid color",
+   "glossy",
+   "floor drain",
+   "concrete walls",
+   "finished floor",
+   "old style"
+  ],
+  "filename": "glossy-red-solid-color-basement-floor"
+ },
+ "id": "9d4e14e79c0e",
+ "provider": "kimi",
+ "model": "moonshotai/kimi-k3",
+ "mode": "pilot",
+ "blind": false,
+ "at": "2026-09-17T12:24:45"
+}

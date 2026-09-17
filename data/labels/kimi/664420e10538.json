@@ -1,0 +1,46 @@
+{
+ "finish": "stop",
+ "usage": {
+  "input_tokens": 5351,
+  "output_tokens": 903,
+  "cost": 0.01840785
+ },
+ "served_by": "Wafer",
+ "label": {
+  "content": "floor_photo",
+  "area": "basement",
+  "setting": "unknown",
+  "system": "solid_color",
+  "color": "unknown",
+  "color_confidence": "low",
+  "color_runner_up": "not_applicable",
+  "color_description": "solid white to off-white glossy coating, no chips",
+  "shot_type": "finished",
+  "people": "none",
+  "faces_identifiable": false,
+  "privacy": [],
+  "branding_visible": false,
+  "quality": "3",
+  "issues": [],
+  "website_ready": false,
+  "title": "White solid color floor with brick walls",
+  "alt_text": "Glossy white solid color coated floor in an empty room with painted brick walls",
+  "tags": [
+   "solid color",
+   "white floor",
+   "glossy",
+   "basement",
+   "painted brick walls",
+   "interior",
+   "no flakes",
+   "finished floor"
+  ],
+  "filename": "white-solid-color-floor-brick-walls"
+ },
+ "id": "664420e10538",
+ "provider": "kimi",
+ "model": "moonshotai/kimi-k3",
+ "mode": "run",
+ "blind": false,
+ "at": "2026-09-17T12:54:43"
+}

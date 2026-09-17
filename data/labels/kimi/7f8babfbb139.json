@@ -1,0 +1,46 @@
+{
+ "finish": "stop",
+ "usage": {
+  "input_tokens": 5211,
+  "output_tokens": 297,
+  "cost": 0.020088
+ },
+ "served_by": "Parasail",
+ "label": {
+  "content": "other",
+  "area": "interior_room",
+  "setting": "unknown",
+  "system": "full_flake",
+  "color": "Granite",
+  "color_confidence": "low",
+  "color_runner_up": "unknown",
+  "color_description": "gray, white and black chips, small size",
+  "shot_type": "finished",
+  "people": "prominent",
+  "faces_identifiable": false,
+  "privacy": [],
+  "branding_visible": false,
+  "quality": "3",
+  "issues": [],
+  "website_ready": false,
+  "title": "Golden retriever on gray full flake floor",
+  "alt_text": "Golden retriever and person with green costume on a gray flake coated floor in a white room",
+  "tags": [
+   "dog",
+   "golden retriever",
+   "photoshoot",
+   "green costume",
+   "full flake",
+   "gray chips",
+   "interior",
+   "gameday"
+  ],
+  "filename": "golden-retriever-green-costume-flake-floor"
+ },
+ "id": "7f8babfbb139",
+ "provider": "kimi",
+ "model": "moonshotai/kimi-k3",
+ "mode": "run",
+ "blind": false,
+ "at": "2026-09-17T12:40:12"
+}

@@ -1,0 +1,47 @@
+{
+ "finish": "stop",
+ "usage": {
+  "input_tokens": 5334,
+  "output_tokens": 321,
+  "cost": 0.01977615
+ },
+ "served_by": "DeepInfra",
+ "label": {
+  "content": "floor_photo",
+  "area": "interior_room",
+  "setting": "residential",
+  "system": "full_flake",
+  "color": "Lunar",
+  "color_confidence": "low",
+  "color_runner_up": "Infinity",
+  "color_description": "light gray base with fine white, gray and black chips, small size",
+  "shot_type": "finished",
+  "people": "none",
+  "faces_identifiable": false,
+  "privacy": [],
+  "branding_visible": false,
+  "quality": "4",
+  "issues": [],
+  "website_ready": true,
+  "title": "Basement game room with gray full flake floor",
+  "alt_text": "Game room with bar, stools and poker table on a gray full flake garage style floor coating",
+  "tags": [
+   "full flake",
+   "interior",
+   "game room",
+   "basement bar",
+   "gray chips",
+   "poker table",
+   "bar stools",
+   "red accents",
+   "finished floor"
+  ],
+  "filename": "game-room-gray-full-flake-floor"
+ },
+ "id": "54d690432dd9",
+ "provider": "kimi",
+ "model": "moonshotai/kimi-k3",
+ "mode": "run",
+ "blind": false,
+ "at": "2026-09-17T12:48:19"
+}

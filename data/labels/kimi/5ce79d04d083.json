@@ -1,0 +1,48 @@
+{
+ "finish": "stop",
+ "usage": {
+  "input_tokens": 5336,
+  "output_tokens": 201,
+  "cost": 0.0188502
+ },
+ "served_by": "Modal",
+ "label": {
+  "content": "floor_photo",
+  "area": "garage",
+  "setting": "residential",
+  "system": "full_flake",
+  "color": "Galaxy",
+  "color_confidence": "high",
+  "color_runner_up": "Black Canyon",
+  "color_description": "black base with silver, gray and white chips, medium size",
+  "shot_type": "finished",
+  "people": "none",
+  "faces_identifiable": false,
+  "privacy": [],
+  "branding_visible": false,
+  "quality": "4",
+  "issues": [],
+  "website_ready": true,
+  "title": "Garage with black Galaxy full flake floor",
+  "alt_text": "Empty garage with glossy black full flake floor with silver and gray chips, full flake garage floor coating",
+  "tags": [
+   "garage",
+   "full flake",
+   "black floor",
+   "silver chips",
+   "gray chips",
+   "glossy",
+   "finished floor",
+   "garage door",
+   "yellow wall",
+   "low angle"
+  ],
+  "filename": "garage-black-galaxy-full-flake-floor"
+ },
+ "id": "5ce79d04d083",
+ "provider": "kimi",
+ "model": "moonshotai/kimi-k3",
+ "mode": "run",
+ "blind": false,
+ "at": "2026-09-17T12:41:51"
+}

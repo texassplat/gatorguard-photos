@@ -1,0 +1,46 @@
+{
+ "finish": "stop",
+ "usage": {
+  "input_tokens": 5322,
+  "output_tokens": 260,
+  "cost": 0.0107076
+ },
+ "served_by": "Together",
+ "label": {
+  "content": "floor_photo",
+  "area": "commercial_or_industrial",
+  "setting": "commercial",
+  "system": "tile_coating",
+  "color": "unknown",
+  "color_confidence": "low",
+  "color_runner_up": "unknown",
+  "color_description": "dark gray base with dense white and light gray chips, small to medium size",
+  "shot_type": "finished",
+  "people": "none",
+  "faces_identifiable": false,
+  "privacy": [],
+  "branding_visible": false,
+  "quality": "4",
+  "issues": [],
+  "website_ready": true,
+  "title": "Commercial restroom with coated tile floor",
+  "alt_text": "Coated tile floor in a commercial restroom with sink counter, dark gray and white speckled tile coating",
+  "tags": [
+   "tile coating",
+   "restroom",
+   "commercial floor",
+   "dark gray chips",
+   "white chips",
+   "sinks",
+   "speckled floor",
+   "finished"
+  ],
+  "filename": "commercial-restroom-coated-tile-floor"
+ },
+ "id": "eec83d47b786",
+ "provider": "kimi",
+ "model": "moonshotai/kimi-k3",
+ "mode": "run",
+ "blind": false,
+ "at": "2026-09-17T12:58:06"
+}

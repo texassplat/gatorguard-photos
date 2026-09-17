@@ -1,0 +1,49 @@
+{
+ "finish": "stop",
+ "usage": {
+  "input_tokens": 4979,
+  "output_tokens": 160,
+  "cost": 0.006135945
+ },
+ "served_by": "Morph",
+ "label": {
+  "content": "floor_photo",
+  "area": "not_visible",
+  "setting": "unknown",
+  "system": "metallic",
+  "color": "Cappuccino",
+  "color_confidence": "medium",
+  "color_runner_up": "Copper",
+  "color_description": "brown and tan marbled metallic swirl, glossy wet look",
+  "shot_type": "in_progress",
+  "people": "none",
+  "faces_identifiable": false,
+  "privacy": [],
+  "branding_visible": false,
+  "quality": "3",
+  "issues": [
+   "blurry"
+  ],
+  "website_ready": false,
+  "title": "Rolling clear coat over brown metallic floor",
+  "alt_text": "Worker rolling clear topcoat over a brown marbled metallic epoxy floor",
+  "tags": [
+   "metallic",
+   "liquid art",
+   "in progress",
+   "topcoat",
+   "roller",
+   "brown metallic",
+   "marbled",
+   "crew working",
+   "glossy"
+  ],
+  "filename": "rolling-topcoat-brown-metallic-floor"
+ },
+ "id": "77d6353ecffa",
+ "provider": "kimi",
+ "model": "moonshotai/kimi-k3",
+ "mode": "run",
+ "blind": false,
+ "at": "2026-09-17T12:58:43"
+}

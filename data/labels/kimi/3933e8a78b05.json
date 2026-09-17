@@ -1,0 +1,47 @@
+{
+ "finish": "stop",
+ "usage": {
+  "input_tokens": 5319,
+  "output_tokens": 277,
+  "cost": 0.020112
+ },
+ "served_by": "Parasail",
+ "label": {
+  "content": "floor_photo",
+  "area": "garage",
+  "setting": "residential",
+  "system": "full_flake",
+  "color": "unknown",
+  "color_confidence": "low",
+  "color_runner_up": "Granite",
+  "color_description": "gray, white and black chips, small to medium size",
+  "shot_type": "finished",
+  "people": "none",
+  "faces_identifiable": false,
+  "privacy": [],
+  "branding_visible": true,
+  "quality": "4",
+  "issues": [],
+  "website_ready": true,
+  "title": "Garage floor with Porsche crest logo inlay",
+  "alt_text": "Gray full flake garage floor with a Porsche crest logo inlay and a silver Porsche parked inside, full flake garage floor coating",
+  "tags": [
+   "garage",
+   "full flake",
+   "custom logo",
+   "logo inlay",
+   "porsche",
+   "gray chips",
+   "sports car",
+   "finished floor",
+   "luxury garage"
+  ],
+  "filename": "garage-full-flake-porsche-logo-inlay"
+ },
+ "id": "3933e8a78b05",
+ "provider": "kimi",
+ "model": "moonshotai/kimi-k3",
+ "mode": "run",
+ "blind": false,
+ "at": "2026-09-17T12:53:08"
+}

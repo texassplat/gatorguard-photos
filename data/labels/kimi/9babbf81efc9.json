@@ -1,0 +1,48 @@
+{
+ "finish": "stop",
+ "usage": {
+  "input_tokens": 5320,
+  "output_tokens": 253,
+  "cost": 0.019755
+ },
+ "served_by": "Fireworks",
+ "label": {
+  "content": "floor_photo",
+  "area": "commercial_or_industrial",
+  "setting": "commercial",
+  "system": "full_flake",
+  "color": "Granite",
+  "color_confidence": "medium",
+  "color_runner_up": "Aurora",
+  "color_description": "gray base with black, white and light gray chips, medium size",
+  "shot_type": "finished",
+  "people": "none",
+  "faces_identifiable": false,
+  "privacy": [],
+  "branding_visible": false,
+  "quality": "3",
+  "issues": [
+   "tilted"
+  ],
+  "website_ready": false,
+  "title": "Commercial room with gray full flake floor",
+  "alt_text": "Commercial room with glossy gray flake floor coating, white block walls, doors and a wall AC unit",
+  "tags": [
+   "commercial",
+   "full flake",
+   "gray floor",
+   "black and white chips",
+   "glossy",
+   "interior room",
+   "cinder block walls",
+   "finished floor"
+  ],
+  "filename": "commercial-room-gray-full-flake-floor"
+ },
+ "id": "9babbf81efc9",
+ "provider": "kimi",
+ "model": "moonshotai/kimi-k3",
+ "mode": "run",
+ "blind": false,
+ "at": "2026-09-17T12:35:01"
+}

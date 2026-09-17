@@ -1,0 +1,48 @@
+{
+ "finish": "stop",
+ "usage": {
+  "input_tokens": 5319,
+  "output_tokens": 236,
+  "cost": 0.0103386
+ },
+ "served_by": "Together",
+ "label": {
+  "content": "floor_photo",
+  "area": "garage",
+  "setting": "residential",
+  "system": "full_flake",
+  "color": "Granite",
+  "color_confidence": "low",
+  "color_runner_up": "Callisto",
+  "color_description": "fine gray, white and tan chips, small size",
+  "shot_type": "finished",
+  "people": "none",
+  "faces_identifiable": false,
+  "privacy": [],
+  "branding_visible": false,
+  "quality": "4",
+  "issues": [],
+  "website_ready": true,
+  "title": "Garage with gray fine flake floor",
+  "alt_text": "Clean garage with gray fine flake coated floor, saw cut joints, pegboard with tools and ladder on wall, full flake garage floor coating",
+  "tags": [
+   "garage",
+   "full flake",
+   "gray chips",
+   "fine flake",
+   "saw cut joints",
+   "pegboard",
+   "tools",
+   "ladder",
+   "finished floor",
+   "clean garage"
+  ],
+  "filename": "garage-gray-fine-flake-floor"
+ },
+ "id": "fc84037a320f",
+ "provider": "kimi",
+ "model": "moonshotai/kimi-k3",
+ "mode": "run",
+ "blind": false,
+ "at": "2026-09-17T12:43:08"
+}

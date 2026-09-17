@@ -1,0 +1,47 @@
+{
+ "finish": "stop",
+ "usage": {
+  "input_tokens": 4853,
+  "output_tokens": 247,
+  "cost": 0.011692875
+ },
+ "served_by": "Morph",
+ "label": {
+  "content": "floor_photo",
+  "area": "patio_or_porch",
+  "setting": "residential",
+  "system": "full_flake",
+  "color": "unknown",
+  "color_confidence": "none",
+  "color_runner_up": "unknown",
+  "color_description": "light gray chips with white and dark speckles, small to medium size",
+  "shot_type": "finished",
+  "people": "none",
+  "faces_identifiable": false,
+  "privacy": [],
+  "branding_visible": false,
+  "quality": "4",
+  "issues": [],
+  "website_ready": true,
+  "title": "Front porch with light gray full flake floor",
+  "alt_text": "Finished front porch with light gray full flake floor coating and brick edging, caution tape across entrance",
+  "tags": [
+   "exterior",
+   "porch",
+   "full flake",
+   "light gray",
+   "brick border",
+   "residential",
+   "finished floor",
+   "caution tape",
+   "front entry"
+  ],
+  "filename": "front-porch-light-gray-full-flake"
+ },
+ "id": "ccaf33aa1a48",
+ "provider": "kimi",
+ "model": "moonshotai/kimi-k3",
+ "mode": "run",
+ "blind": false,
+ "at": "2026-09-17T12:36:48"
+}

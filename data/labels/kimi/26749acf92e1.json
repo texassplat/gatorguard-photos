@@ -1,0 +1,47 @@
+{
+ "finish": "stop",
+ "usage": {
+  "input_tokens": 5260,
+  "output_tokens": 313,
+  "cost": 0.020475
+ },
+ "served_by": "Parasail",
+ "label": {
+  "content": "floor_photo",
+  "area": "garage",
+  "setting": "residential",
+  "system": "full_flake",
+  "color": "Ocotillo",
+  "color_confidence": "low",
+  "color_runner_up": "Callisto",
+  "color_description": "small light tan, cream and gray chips on a pale base",
+  "shot_type": "finished",
+  "people": "none",
+  "faces_identifiable": false,
+  "privacy": [],
+  "branding_visible": false,
+  "quality": "4",
+  "issues": [],
+  "website_ready": true,
+  "title": "Garage with light tan full flake floor and tool wall",
+  "alt_text": "Clean garage with a light tan speckled full flake garage floor coating and yard tools hanging on a wall rack",
+  "tags": [
+   "garage",
+   "full flake",
+   "tan chips",
+   "tool wall",
+   "garden tools",
+   "finished floor",
+   "residential",
+   "clean garage",
+   "window"
+  ],
+  "filename": "garage-tan-full-flake-tool-wall"
+ },
+ "id": "26749acf92e1",
+ "provider": "kimi",
+ "model": "moonshotai/kimi-k3",
+ "mode": "run",
+ "blind": false,
+ "at": "2026-09-17T12:44:45"
+}

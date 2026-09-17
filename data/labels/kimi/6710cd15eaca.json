@@ -1,0 +1,47 @@
+{
+ "finish": "stop",
+ "usage": {
+  "input_tokens": 5263,
+  "output_tokens": 264,
+  "cost": 0.007760445
+ },
+ "served_by": "Morph",
+ "label": {
+  "content": "floor_photo",
+  "area": "interior_room",
+  "setting": "residential",
+  "system": "metallic",
+  "color": "Copper",
+  "color_confidence": "high",
+  "color_runner_up": "Cappuccino",
+  "color_description": "swirled copper and bronze metallic epoxy with lighter and darker brown marbling, high gloss, no chips",
+  "shot_type": "finished",
+  "people": "none",
+  "faces_identifiable": false,
+  "privacy": [],
+  "branding_visible": false,
+  "quality": "4",
+  "issues": [],
+  "website_ready": true,
+  "title": "Empty room with copper metallic epoxy floor",
+  "alt_text": "Glossy copper metallic epoxy floor with bronze marbling in an empty white room, Liquid Art metallic floor coating",
+  "tags": [
+   "metallic epoxy",
+   "copper",
+   "liquid art",
+   "interior room",
+   "high gloss",
+   "swirled",
+   "marbled floor",
+   "basement or living space",
+   "finished floor"
+  ],
+  "filename": "copper-metallic-epoxy-empty-room"
+ },
+ "id": "6710cd15eaca",
+ "provider": "kimi",
+ "model": "moonshotai/kimi-k3",
+ "mode": "run",
+ "blind": false,
+ "at": "2026-09-17T12:51:45"
+}

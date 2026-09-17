@@ -1,0 +1,46 @@
+{
+ "finish": "stop",
+ "usage": {
+  "input_tokens": 5323,
+  "output_tokens": 355,
+  "cost": 0.021294
+ },
+ "served_by": "Parasail",
+ "label": {
+  "content": "floor_photo",
+  "area": "commercial_or_industrial",
+  "setting": "commercial",
+  "system": "full_flake",
+  "color": "Granite",
+  "color_confidence": "low",
+  "color_runner_up": "Infinity",
+  "color_description": "gray, white and black chips, small to medium size",
+  "shot_type": "finished",
+  "people": "none",
+  "faces_identifiable": false,
+  "privacy": [],
+  "branding_visible": false,
+  "quality": "4",
+  "issues": [],
+  "website_ready": true,
+  "title": "Commercial space with gray full flake floor",
+  "alt_text": "Gray full flake floor coating in a commercial space with cinder block walls and pallet racking",
+  "tags": [
+   "commercial floor",
+   "full flake",
+   "gray chips",
+   "cinder block walls",
+   "pallet rack",
+   "glossy finish",
+   "finished floor",
+   "warehouse"
+  ],
+  "filename": "commercial-gray-full-flake-floor"
+ },
+ "id": "2f9dcf169aeb",
+ "provider": "kimi",
+ "model": "moonshotai/kimi-k3",
+ "mode": "run",
+ "blind": false,
+ "at": "2026-09-17T12:34:44"
+}

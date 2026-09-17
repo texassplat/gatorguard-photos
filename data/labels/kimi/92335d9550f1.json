@@ -1,0 +1,48 @@
+{
+ "finish": "stop",
+ "usage": {
+  "input_tokens": 5331,
+  "output_tokens": 382,
+  "cost": 0.021723
+ },
+ "served_by": "Parasail",
+ "label": {
+  "content": "floor_photo",
+  "area": "patio_or_porch",
+  "setting": "residential",
+  "system": "full_flake",
+  "color": "Silver Butte",
+  "color_confidence": "low",
+  "color_runner_up": "Lunar",
+  "color_description": "light gray base with small white, gray and black chips",
+  "shot_type": "finished",
+  "people": "none",
+  "faces_identifiable": false,
+  "privacy": [],
+  "branding_visible": false,
+  "quality": "4",
+  "issues": [],
+  "website_ready": true,
+  "title": "Front porch and walkway with gray flake floor",
+  "alt_text": "Coated front porch, steps and walkway with light gray full flake finish on a brick home, full flake patio floor coating",
+  "tags": [
+   "front porch",
+   "patio",
+   "full flake",
+   "gray chips",
+   "white chips",
+   "exterior",
+   "steps",
+   "walkway",
+   "brick house",
+   "finished"
+  ],
+  "filename": "gray-flake-front-porch-and-walkway"
+ },
+ "id": "92335d9550f1",
+ "provider": "kimi",
+ "model": "moonshotai/kimi-k3",
+ "mode": "run",
+ "blind": false,
+ "at": "2026-09-17T12:37:41"
+}

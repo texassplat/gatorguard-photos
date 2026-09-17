@@ -1,0 +1,50 @@
+{
+ "finish": "stop",
+ "usage": {
+  "input_tokens": 5201,
+  "output_tokens": 235,
+  "cost": 0.0099696
+ },
+ "served_by": "Together",
+ "label": {
+  "content": "floor_photo",
+  "area": "not_visible",
+  "setting": "unknown",
+  "system": "full_flake",
+  "color": "Chestnut",
+  "color_confidence": "low",
+  "color_runner_up": "Santana",
+  "color_description": "tan, brown and black chips, medium size, partly wet with fresh clear coat",
+  "shot_type": "close_up",
+  "people": "none",
+  "faces_identifiable": false,
+  "privacy": [],
+  "branding_visible": false,
+  "quality": "4",
+  "issues": [
+   "wet_or_dirty"
+  ],
+  "website_ready": false,
+  "title": "Roller applying clear coat over flake floor",
+  "alt_text": "Close up of a roller applying clear topcoat over a tan and brown full flake floor coating",
+  "tags": [
+   "close up",
+   "roller",
+   "clear coat",
+   "topcoat",
+   "full flake",
+   "tan chips",
+   "brown chips",
+   "black chips",
+   "in progress",
+   "wet floor"
+  ],
+  "filename": "roller-clear-coat-flake-floor"
+ },
+ "id": "40a50fb0de31",
+ "provider": "kimi",
+ "model": "moonshotai/kimi-k3",
+ "mode": "run",
+ "blind": false,
+ "at": "2026-09-17T12:33:14"
+}

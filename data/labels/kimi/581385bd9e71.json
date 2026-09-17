@@ -1,0 +1,47 @@
+{
+ "finish": "stop",
+ "usage": {
+  "input_tokens": 5317,
+  "output_tokens": 248,
+  "cost": 0.0105126
+ },
+ "served_by": "Together",
+ "label": {
+  "content": "floor_photo",
+  "area": "commercial_or_industrial",
+  "setting": "commercial",
+  "system": "full_flake",
+  "color": "Granite",
+  "color_confidence": "medium",
+  "color_runner_up": "Infinity",
+  "color_description": "gray, white and black chips, small to medium size",
+  "shot_type": "finished",
+  "people": "none",
+  "faces_identifiable": false,
+  "privacy": [],
+  "branding_visible": false,
+  "quality": "4",
+  "issues": [],
+  "website_ready": true,
+  "title": "Commercial entryway with gray full flake floor",
+  "alt_text": "Gray full flake coated floor at a commercial building entry with open doors and brick walls, full flake floor coating",
+  "tags": [
+   "commercial",
+   "entryway",
+   "full flake",
+   "gray chips",
+   "white chips",
+   "black chips",
+   "brick walls",
+   "glass doors",
+   "finished floor"
+  ],
+  "filename": "commercial-entryway-gray-full-flake-floor"
+ },
+ "id": "581385bd9e71",
+ "provider": "kimi",
+ "model": "moonshotai/kimi-k3",
+ "mode": "run",
+ "blind": false,
+ "at": "2026-09-17T12:34:11"
+}

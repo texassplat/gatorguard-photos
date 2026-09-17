@@ -1,0 +1,47 @@
+{
+ "finish": "stop",
+ "usage": {
+  "input_tokens": 5218,
+  "output_tokens": 191,
+  "cost": 0.018519
+ },
+ "served_by": "Parasail",
+ "label": {
+  "content": "floor_photo",
+  "area": "basement",
+  "setting": "residential",
+  "system": "metallic",
+  "color": "Cappuccino",
+  "color_confidence": "medium",
+  "color_runner_up": "Copper",
+  "color_description": "swirled brown metallic epoxy with lighter tan marbling, glossy",
+  "shot_type": "finished",
+  "people": "none",
+  "faces_identifiable": false,
+  "privacy": [],
+  "branding_visible": false,
+  "quality": "4",
+  "issues": [],
+  "website_ready": true,
+  "title": "Basement bar with brown metallic epoxy floor",
+  "alt_text": "Finished basement bar with stone island and glossy brown metallic epoxy floor, metallic floor coating",
+  "tags": [
+   "metallic floor",
+   "basement",
+   "basement bar",
+   "brown metallic",
+   "swirled epoxy",
+   "stone bar",
+   "wet bar",
+   "glossy floor",
+   "finished floor"
+  ],
+  "filename": "basement-bar-brown-metallic-floor"
+ },
+ "id": "744e59aa62f1",
+ "provider": "kimi",
+ "model": "moonshotai/kimi-k3",
+ "mode": "run",
+ "blind": false,
+ "at": "2026-09-17T12:50:21"
+}

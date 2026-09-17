@@ -1,0 +1,48 @@
+{
+ "finish": "stop",
+ "usage": {
+  "input_tokens": 5349,
+  "output_tokens": 243,
+  "cost": 0.019692
+ },
+ "served_by": "Fireworks",
+ "label": {
+  "content": "floor_photo",
+  "area": "patio_or_porch",
+  "setting": "residential",
+  "system": "full_flake",
+  "color": "Granite",
+  "color_confidence": "medium",
+  "color_runner_up": "Stone Rowe",
+  "color_description": "light gray, white and charcoal chips, medium size",
+  "shot_type": "finished",
+  "people": "none",
+  "faces_identifiable": false,
+  "privacy": [],
+  "branding_visible": false,
+  "quality": "4",
+  "issues": [],
+  "website_ready": true,
+  "title": "Front porch with gray full flake floor",
+  "alt_text": "Front porch and covered entry of a brick house with gray full flake floor coating and welcome flag",
+  "tags": [
+   "porch",
+   "front entry",
+   "full flake",
+   "gray chips",
+   "brick house",
+   "exterior",
+   "welcome flag",
+   "residential",
+   "steps",
+   "finished floor"
+  ],
+  "filename": "front-porch-gray-full-flake-floor"
+ },
+ "id": "5e82a3ea4fcc",
+ "provider": "kimi",
+ "model": "moonshotai/kimi-k3",
+ "mode": "run",
+ "blind": false,
+ "at": "2026-09-17T12:36:05"
+}

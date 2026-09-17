@@ -1,0 +1,46 @@
+{
+ "finish": "stop",
+ "usage": {
+  "input_tokens": 4493,
+  "output_tokens": 296,
+  "cost": 0.017919
+ },
+ "served_by": "Parasail",
+ "label": {
+  "content": "floor_photo",
+  "area": "interior_room",
+  "setting": "residential",
+  "system": "metallic",
+  "color": "Copper",
+  "color_confidence": "medium",
+  "color_runner_up": "Cappuccino",
+  "color_description": "swirled metallic copper and caramel tones with a glossy reflective finish",
+  "shot_type": "finished",
+  "people": "none",
+  "faces_identifiable": false,
+  "privacy": [],
+  "branding_visible": false,
+  "quality": "3",
+  "issues": [],
+  "website_ready": false,
+  "title": "Basement hallway with copper metallic epoxy floor",
+  "alt_text": "Interior hallway with a glossy copper-toned metallic epoxy floor and stone wainscoting on gray walls",
+  "tags": [
+   "metallic epoxy",
+   "copper floor",
+   "liquid art",
+   "interior floor",
+   "hallway",
+   "glossy",
+   "swirl pattern",
+   "stone wainscoting"
+  ],
+  "filename": "copper-metallic-interior-hallway-floor"
+ },
+ "id": "85211c97762e",
+ "provider": "kimi",
+ "model": "moonshotai/kimi-k3",
+ "mode": "run",
+ "blind": false,
+ "at": "2026-09-17T12:49:38"
+}

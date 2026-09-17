@@ -1,0 +1,49 @@
+{
+ "finish": "stop",
+ "usage": {
+  "input_tokens": 5331,
+  "output_tokens": 350,
+  "cost": 0.01453296598464
+ },
+ "served_by": "Makora",
+ "label": {
+  "content": "floor_photo",
+  "area": "patio_or_porch",
+  "setting": "residential",
+  "system": "full_flake",
+  "color": "unknown",
+  "color_confidence": "low",
+  "color_runner_up": "Chestnut",
+  "color_description": "tan, brown and black chips, small size, wet glossy clear coat",
+  "shot_type": "in_progress",
+  "people": "none",
+  "faces_identifiable": false,
+  "privacy": [],
+  "branding_visible": false,
+  "quality": "4",
+  "issues": [
+   "wet_or_dirty"
+  ],
+  "website_ready": false,
+  "title": "Freshly coated flake floor on covered porch",
+  "alt_text": "Low angle view of a wet full flake coated floor on a covered porch with plastic masking on railings",
+  "tags": [
+   "porch",
+   "covered porch",
+   "full flake",
+   "wet clear coat",
+   "tan and brown chips",
+   "exterior",
+   "masking plastic",
+   "brick wall",
+   "in progress"
+  ],
+  "filename": "covered-porch-wet-flake-floor"
+ },
+ "id": "838ad4594b31",
+ "provider": "kimi",
+ "model": "moonshotai/kimi-k3",
+ "mode": "run",
+ "blind": false,
+ "at": "2026-09-17T12:37:06"
+}

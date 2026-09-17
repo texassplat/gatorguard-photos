@@ -1,0 +1,49 @@
+{
+ "finish": "stop",
+ "usage": {
+  "input_tokens": 5590,
+  "output_tokens": 170,
+  "cost": 0.00738657
+ },
+ "served_by": "Morph",
+ "label": {
+  "content": "before_after_composite",
+  "area": "pool_deck",
+  "setting": "residential",
+  "system": "full_flake",
+  "color": "unknown",
+  "color_confidence": "low",
+  "color_runner_up": "unknown",
+  "color_description": "light gray and white chips, small to medium size",
+  "shot_type": "before_after",
+  "people": "none",
+  "faces_identifiable": false,
+  "privacy": [],
+  "branding_visible": false,
+  "quality": "3",
+  "issues": [
+   "cluttered"
+  ],
+  "website_ready": false,
+  "title": "Before and after pool deck flake coating",
+  "alt_text": "Before and after composite of a cracked concrete pool deck and its finished light gray full flake coating.",
+  "tags": [
+   "pool deck",
+   "before and after",
+   "cracked concrete",
+   "full flake",
+   "light gray chips",
+   "wood deck",
+   "fence",
+   "pool cover",
+   "composite"
+  ],
+  "filename": "pool-deck-before-after-flake-coating"
+ },
+ "id": "8c69856d5176",
+ "provider": "kimi",
+ "model": "moonshotai/kimi-k3",
+ "mode": "run",
+ "blind": false,
+ "at": "2026-09-17T12:56:46"
+}

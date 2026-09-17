@@ -1,0 +1,47 @@
+{
+ "finish": "stop",
+ "usage": {
+  "input_tokens": 5324,
+  "output_tokens": 195,
+  "cost": 0.0097386
+ },
+ "served_by": "Together",
+ "label": {
+  "content": "floor_photo",
+  "area": "garage",
+  "setting": "residential",
+  "system": "full_flake",
+  "color": "Quartzite",
+  "color_confidence": "medium",
+  "color_runner_up": "unknown",
+  "color_description": "black, white and gray chips, small to medium size",
+  "shot_type": "finished",
+  "people": "none",
+  "faces_identifiable": false,
+  "privacy": [],
+  "branding_visible": false,
+  "quality": "4",
+  "issues": [],
+  "website_ready": true,
+  "title": "Garage with black and gray full flake floor",
+  "alt_text": "Garage floor with black, white and gray full flake coating and coated stem walls and steps",
+  "tags": [
+   "garage",
+   "full flake",
+   "black chips",
+   "white chips",
+   "gray chips",
+   "stem wall",
+   "garage steps",
+   "finished floor",
+   "glossy"
+  ],
+  "filename": "garage-black-gray-full-flake-floor"
+ },
+ "id": "5fc4a541120a",
+ "provider": "kimi",
+ "model": "moonshotai/kimi-k3",
+ "mode": "run",
+ "blind": false,
+ "at": "2026-09-17T12:46:14"
+}

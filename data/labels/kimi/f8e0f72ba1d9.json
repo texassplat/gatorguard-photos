@@ -1,0 +1,46 @@
+{
+ "finish": "stop",
+ "usage": {
+  "input_tokens": 5320,
+  "output_tokens": 208,
+  "cost": 0.0099216
+ },
+ "served_by": "Together",
+ "label": {
+  "content": "floor_photo",
+  "area": "garage",
+  "setting": "residential",
+  "system": "metallic",
+  "color": "Crimson",
+  "color_confidence": "high",
+  "color_runner_up": "Copper",
+  "color_description": "deep red metallic epoxy with subtle marbling and fine sparkle",
+  "shot_type": "finished",
+  "people": "none",
+  "faces_identifiable": false,
+  "privacy": [],
+  "branding_visible": false,
+  "quality": "4",
+  "issues": [],
+  "website_ready": true,
+  "title": "Garage with deep red metallic epoxy floor",
+  "alt_text": "Glossy deep red metallic epoxy garage floor beside a white wall with crutches stored upright",
+  "tags": [
+   "garage",
+   "metallic epoxy",
+   "red floor",
+   "glossy",
+   "finished floor",
+   "crutches",
+   "white walls",
+   "liquid art"
+  ],
+  "filename": "garage-red-metallic-epoxy-floor"
+ },
+ "id": "f8e0f72ba1d9",
+ "provider": "kimi",
+ "model": "moonshotai/kimi-k3",
+ "mode": "run",
+ "blind": false,
+ "at": "2026-09-17T12:43:16"
+}

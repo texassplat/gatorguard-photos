@@ -1,0 +1,48 @@
+{
+ "finish": "stop",
+ "usage": {
+  "input_tokens": 5334,
+  "output_tokens": 286,
+  "cost": 0.020292
+ },
+ "served_by": "Parasail",
+ "label": {
+  "content": "floor_photo",
+  "area": "interior_room",
+  "setting": "unknown",
+  "system": "full_flake",
+  "color": "Stone Ridge",
+  "color_confidence": "medium",
+  "color_runner_up": "Stone Crest",
+  "color_description": "small white, gray and black chips with scattered red and brown chips",
+  "shot_type": "finished",
+  "people": "background",
+  "faces_identifiable": false,
+  "privacy": [],
+  "branding_visible": false,
+  "quality": "4",
+  "issues": [],
+  "website_ready": true,
+  "title": "Finished interior full flake floor with kitchenette",
+  "alt_text": "Interior room with full flake floor in white, gray, black and red chips, with black cabinets and red chairs",
+  "tags": [
+   "full flake",
+   "interior",
+   "finished floor",
+   "gray white black chips",
+   "red accent chips",
+   "kitchenette",
+   "black cabinets",
+   "red chairs",
+   "basement finish",
+   "small chips"
+  ],
+  "filename": "interior-full-flake-floor-kitchenette"
+ },
+ "id": "ff4a572ef187",
+ "provider": "kimi",
+ "model": "moonshotai/kimi-k3",
+ "mode": "run",
+ "blind": false,
+ "at": "2026-09-17T12:48:27"
+}

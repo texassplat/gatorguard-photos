@@ -1,0 +1,47 @@
+{
+ "finish": "stop",
+ "usage": {
+  "input_tokens": 5349,
+  "output_tokens": 308,
+  "cost": 0.020667
+ },
+ "served_by": "Fireworks",
+ "label": {
+  "content": "floor_photo",
+  "area": "not_visible",
+  "setting": "unknown",
+  "system": "full_flake",
+  "color": "Granite",
+  "color_confidence": "low",
+  "color_runner_up": "Stone Rowe",
+  "color_description": "gray, black and white chips with scattered tan and rust accents, small to medium size",
+  "shot_type": "close_up",
+  "people": "none",
+  "faces_identifiable": false,
+  "privacy": [],
+  "branding_visible": false,
+  "quality": "4",
+  "issues": [],
+  "website_ready": false,
+  "title": "Close up of cut lines in gray flake floor",
+  "alt_text": "Close up of sawn cut lines crossing a glossy gray full flake coated concrete floor with tan chip accents",
+  "tags": [
+   "close up",
+   "cut lines",
+   "tool joints",
+   "control joints",
+   "full flake",
+   "gray chips",
+   "tan chips",
+   "glossy finish",
+   "concrete floor"
+  ],
+  "filename": "gray-flake-floor-cut-lines-close-up"
+ },
+ "id": "fd6ee79919b5",
+ "provider": "kimi",
+ "model": "moonshotai/kimi-k3",
+ "mode": "run",
+ "blind": false,
+ "at": "2026-09-17T12:35:36"
+}

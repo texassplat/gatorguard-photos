@@ -1,0 +1,47 @@
+{
+ "finish": "stop",
+ "usage": {
+  "input_tokens": 5321,
+  "output_tokens": 229,
+  "cost": 0.0102396
+ },
+ "served_by": "Together",
+ "label": {
+  "content": "floor_photo",
+  "area": "driveway_or_walkway",
+  "setting": "residential",
+  "system": "poly_enhance",
+  "color": "not_applicable",
+  "color_confidence": "none",
+  "color_runner_up": "not_applicable",
+  "color_description": "glossy wet-look sealer over brown and tan interlocking pavers",
+  "shot_type": "finished",
+  "people": "none",
+  "faces_identifiable": false,
+  "privacy": [],
+  "branding_visible": false,
+  "quality": "4",
+  "issues": [],
+  "website_ready": true,
+  "title": "Sealed paver walkway beside brick home",
+  "alt_text": "Glossy sealed paver walkway and patio beside a brick house with a wet-look poly enhance sealer",
+  "tags": [
+   "poly enhance",
+   "pavers",
+   "walkway",
+   "patio",
+   "wet look sealer",
+   "brick house",
+   "glossy",
+   "outdoor",
+   "residential"
+  ],
+  "filename": "sealed-paver-walkway-brick-home"
+ },
+ "id": "709216022343",
+ "provider": "kimi",
+ "model": "moonshotai/kimi-k3",
+ "mode": "run",
+ "blind": false,
+ "at": "2026-09-17T12:56:07"
+}

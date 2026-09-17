@@ -1,0 +1,50 @@
+{
+ "finish": "stop",
+ "usage": {
+  "input_tokens": 5191,
+  "output_tokens": 263,
+  "cost": 0.0103596
+ },
+ "served_by": "Together",
+ "label": {
+  "content": "floor_photo",
+  "area": "garage",
+  "setting": "residential",
+  "system": "full_flake",
+  "color": "Granite",
+  "color_confidence": "low",
+  "color_runner_up": "Silver Butte",
+  "color_description": "light gray base with white, gray and black chips, small to medium size",
+  "shot_type": "finished",
+  "people": "none",
+  "faces_identifiable": false,
+  "privacy": [],
+  "branding_visible": false,
+  "quality": "3",
+  "issues": [
+   "cluttered"
+  ],
+  "website_ready": false,
+  "title": "Garage with gray full flake floor and racing memorabilia",
+  "alt_text": "Garage with gray full flake floor, cabinets, tools and racing memorabilia on walls and ceiling",
+  "tags": [
+   "garage",
+   "full flake",
+   "gray chips",
+   "white chips",
+   "black chips",
+   "cabinets",
+   "racing memorabilia",
+   "cluttered",
+   "finished floor",
+   "residential"
+  ],
+  "filename": "garage-gray-full-flake-racing-memorabilia"
+ },
+ "id": "6e47602c3f9f",
+ "provider": "kimi",
+ "model": "moonshotai/kimi-k3",
+ "mode": "run",
+ "blind": false,
+ "at": "2026-09-17T12:43:24"
+}

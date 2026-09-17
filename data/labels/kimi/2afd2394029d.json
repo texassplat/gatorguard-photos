@@ -1,0 +1,48 @@
+{
+ "finish": "stop",
+ "usage": {
+  "input_tokens": 4963,
+  "output_tokens": 265,
+  "cost": 0.018864
+ },
+ "served_by": "Parasail",
+ "label": {
+  "content": "floor_photo",
+  "area": "interior_room",
+  "setting": "residential",
+  "system": "full_flake",
+  "color": "Granite",
+  "color_confidence": "low",
+  "color_runner_up": "Callisto",
+  "color_description": "gray, white and black chips, small to medium size",
+  "shot_type": "finished",
+  "people": "none",
+  "faces_identifiable": false,
+  "privacy": [],
+  "branding_visible": false,
+  "quality": "4",
+  "issues": [],
+  "website_ready": true,
+  "title": "Entry room with gray full flake floor",
+  "alt_text": "Wood-paneled entry room with a gray, white and black full flake epoxy floor and step up to a second level.",
+  "tags": [
+   "interior",
+   "full flake",
+   "gray chips",
+   "white chips",
+   "black chips",
+   "wood panel walls",
+   "entry room",
+   "finished floor",
+   "step up",
+   "glossy"
+  ],
+  "filename": "interior-room-gray-full-flake-floor"
+ },
+ "id": "2afd2394029d",
+ "provider": "kimi",
+ "model": "moonshotai/kimi-k3",
+ "mode": "run",
+ "blind": false,
+ "at": "2026-09-17T12:48:15"
+}

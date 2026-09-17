@@ -1,0 +1,48 @@
+{
+ "finish": "stop",
+ "usage": {
+  "input_tokens": 5332,
+  "output_tokens": 302,
+  "cost": 0.0113676
+ },
+ "served_by": "Together",
+ "label": {
+  "content": "floor_photo",
+  "area": "basement",
+  "setting": "residential",
+  "system": "solid_color",
+  "color": "unknown",
+  "color_confidence": "none",
+  "color_runner_up": "not_applicable",
+  "color_description": "solid bright red coating, glossy, no chips",
+  "shot_type": "finished",
+  "people": "none",
+  "faces_identifiable": false,
+  "privacy": [],
+  "branding_visible": false,
+  "quality": "3",
+  "issues": [
+   "dark"
+  ],
+  "website_ready": false,
+  "title": "Glossy red solid color floor in unfinished room",
+  "alt_text": "Glossy red solid color coated floor in an unfinished interior room with exposed wall framing",
+  "tags": [
+   "red floor",
+   "solid color",
+   "glossy",
+   "unfinished walls",
+   "interior",
+   "basement",
+   "coated concrete",
+   "wet look"
+  ],
+  "filename": "glossy-red-solid-color-floor"
+ },
+ "id": "316aa38222b5",
+ "provider": "kimi",
+ "model": "moonshotai/kimi-k3",
+ "mode": "run",
+ "blind": false,
+ "at": "2026-09-17T12:53:07"
+}

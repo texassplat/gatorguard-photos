@@ -1,0 +1,49 @@
+{
+ "finish": "stop",
+ "usage": {
+  "input_tokens": 5247,
+  "output_tokens": 172,
+  "cost": 0.006764445
+ },
+ "served_by": "Morph",
+ "label": {
+  "content": "floor_photo",
+  "area": "basement",
+  "setting": "residential",
+  "system": "full_flake",
+  "color": "Stone Ridge",
+  "color_confidence": "low",
+  "color_runner_up": "Lunar",
+  "color_description": "light cream and gray chips with sparse black and tan accents, small to medium size",
+  "shot_type": "finished",
+  "people": "none",
+  "faces_identifiable": false,
+  "privacy": [],
+  "branding_visible": false,
+  "quality": "4",
+  "issues": [
+   "cluttered"
+  ],
+  "website_ready": false,
+  "title": "Basement bar with light full flake floor",
+  "alt_text": "Finished basement bar area with brick walls and a light speckled full flake basement floor coating",
+  "tags": [
+   "basement",
+   "full flake",
+   "bar",
+   "brick walls",
+   "finished floor",
+   "light chips",
+   "gray chips",
+   "glossy",
+   "residential"
+  ],
+  "filename": "basement-bar-light-full-flake-floor"
+ },
+ "id": "380babfa0266",
+ "provider": "kimi",
+ "model": "moonshotai/kimi-k3",
+ "mode": "run",
+ "blind": false,
+ "at": "2026-09-17T12:54:49"
+}

@@ -1,0 +1,45 @@
+{
+ "finish": "stop",
+ "usage": {
+  "input_tokens": 5345,
+  "output_tokens": 231,
+  "cost": 0.00957096
+ },
+ "served_by": "DigitalOcean",
+ "label": {
+  "alt_text": "Close up of a tan chip coated concrete floor with two saw joints in a white-painted room",
+  "area": "other_exterior",
+  "branding_visible": false,
+  "color": "Silverado",
+  "color_confidence": "medium",
+  "color_description": "small tan and cream chips, solid tan look",
+  "color_runner_up": "Willow",
+  "content": "floor_photo",
+  "faces_identifiable": false,
+  "filename": "tan-chip-floor-close-up",
+  "issues": [],
+  "people": "none",
+  "privacy": [],
+  "quality": "4",
+  "setting": "residential",
+  "shot_type": "close_up",
+  "system": "solid_color_chip",
+  "tags": [
+   "close up",
+   "tan chips",
+   "solid color chip",
+   "saw joints",
+   "white walls",
+   "coated floor",
+   "small chips"
+  ],
+  "title": "Close up of tan chip floor with saw joints",
+  "website_ready": false
+ },
+ "id": "38091490ae48",
+ "provider": "kimi",
+ "model": "moonshotai/kimi-k3",
+ "mode": "run",
+ "blind": false,
+ "at": "2026-09-17T12:32:03"
+}

@@ -1,0 +1,48 @@
+{
+ "finish": "stop",
+ "usage": {
+  "input_tokens": 5359,
+  "output_tokens": 298,
+  "cost": 0.020547
+ },
+ "served_by": "Parasail",
+ "label": {
+  "content": "floor_photo",
+  "area": "patio_or_porch",
+  "setting": "residential",
+  "system": "poly_enhance",
+  "color": "not_applicable",
+  "color_confidence": "none",
+  "color_runner_up": "not_applicable",
+  "color_description": "gray and tan stamped stone pattern with a darker reddish border, wet-look sealer",
+  "shot_type": "finished",
+  "people": "none",
+  "faces_identifiable": false,
+  "privacy": [],
+  "branding_visible": false,
+  "quality": "4",
+  "issues": [],
+  "website_ready": true,
+  "title": "Sealed stamped concrete patio around wood deck",
+  "alt_text": "Stamped concrete patio with glossy clear sealer, stone pattern and brick border around a wooden deck, poly enhance sealer",
+  "tags": [
+   "stamped concrete",
+   "patio",
+   "clear sealer",
+   "wet look",
+   "poly enhance",
+   "stone pattern",
+   "brick border",
+   "wood deck",
+   "backyard",
+   "finished"
+  ],
+  "filename": "sealed-stamped-concrete-patio-with-deck"
+ },
+ "id": "99109cb2709e",
+ "provider": "kimi",
+ "model": "moonshotai/kimi-k3",
+ "mode": "run",
+ "blind": false,
+ "at": "2026-09-17T12:55:30"
+}

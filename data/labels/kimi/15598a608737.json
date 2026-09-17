@@ -1,0 +1,48 @@
+{
+ "finish": "stop",
+ "usage": {
+  "input_tokens": 5265,
+  "output_tokens": 239,
+  "cost": 0.007501695
+ },
+ "served_by": "Morph",
+ "label": {
+  "content": "floor_photo",
+  "area": "garage",
+  "setting": "residential",
+  "system": "full_flake",
+  "color": "Stone Ridge",
+  "color_confidence": "low",
+  "color_runner_up": "Granite",
+  "color_description": "gray base with black, white and small tan or brown chips, medium size",
+  "shot_type": "close_up",
+  "people": "none",
+  "faces_identifiable": false,
+  "privacy": [],
+  "branding_visible": false,
+  "quality": "3",
+  "issues": [
+   "overexposed"
+  ],
+  "website_ready": false,
+  "title": "Garage flake floor edge at driveway lip",
+  "alt_text": "Close up of a gray full flake garage floor edge meeting bare concrete driveway, full flake garage floor coating",
+  "tags": [
+   "garage floor",
+   "full flake",
+   "edge lip",
+   "gray chips",
+   "black white chips",
+   "driveway transition",
+   "floor edge",
+   "close up"
+  ],
+  "filename": "garage-flake-floor-edge-lip"
+ },
+ "id": "15598a608737",
+ "provider": "kimi",
+ "model": "moonshotai/kimi-k3",
+ "mode": "run",
+ "blind": false,
+ "at": "2026-09-17T12:49:25"
+}

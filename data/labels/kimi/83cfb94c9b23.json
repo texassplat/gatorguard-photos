@@ -1,0 +1,47 @@
+{
+ "finish": "stop",
+ "usage": {
+  "input_tokens": 5333,
+  "output_tokens": 205,
+  "cost": 0.019074
+ },
+ "served_by": "Parasail",
+ "label": {
+  "content": "floor_photo",
+  "area": "basement",
+  "setting": "residential",
+  "system": "full_flake",
+  "color": "Chestnut",
+  "color_confidence": "medium",
+  "color_runner_up": "Santana",
+  "color_description": "tan and brown chips with black specks, small to medium size",
+  "shot_type": "finished",
+  "people": "none",
+  "faces_identifiable": false,
+  "privacy": [],
+  "branding_visible": false,
+  "quality": "4",
+  "issues": [],
+  "website_ready": true,
+  "title": "Basement floor with tan full flake coating",
+  "alt_text": "Finished basement with glossy tan full flake epoxy floor, stairs and floor drain visible, full flake basement floor coating",
+  "tags": [
+   "basement",
+   "full flake",
+   "tan chips",
+   "brown chips",
+   "glossy floor",
+   "floor drain",
+   "stairs",
+   "residential",
+   "finished floor"
+  ],
+  "filename": "basement-tan-full-flake-floor"
+ },
+ "id": "83cfb94c9b23",
+ "provider": "kimi",
+ "model": "moonshotai/kimi-k3",
+ "mode": "run",
+ "blind": false,
+ "at": "2026-09-17T12:31:15"
+}

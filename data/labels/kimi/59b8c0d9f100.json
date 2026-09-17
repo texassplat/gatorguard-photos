@@ -1,0 +1,47 @@
+{
+ "finish": "stop",
+ "usage": {
+  "input_tokens": 5102,
+  "output_tokens": 277,
+  "cost": 0.019461
+ },
+ "served_by": "Parasail",
+ "label": {
+  "content": "floor_photo",
+  "area": "commercial_or_industrial",
+  "setting": "commercial",
+  "system": "metallic",
+  "color": "unknown",
+  "color_confidence": "none",
+  "color_runner_up": "unknown",
+  "color_description": "gray and white marbled metallic with bold blue veins",
+  "shot_type": "finished",
+  "people": "none",
+  "faces_identifiable": false,
+  "privacy": [],
+  "branding_visible": false,
+  "quality": "4",
+  "issues": [],
+  "website_ready": true,
+  "title": "Metallic epoxy floor with blue veins in large shop",
+  "alt_text": "Large open building with gray, white and blue marbled metallic epoxy floor and exposed wood walls",
+  "tags": [
+   "metallic epoxy",
+   "gray",
+   "blue veins",
+   "marbled",
+   "large shop",
+   "pole barn",
+   "drone",
+   "finished floor",
+   "liquid art"
+  ],
+  "filename": "metallic-floor-blue-veins-large-shop"
+ },
+ "id": "59b8c0d9f100",
+ "provider": "kimi",
+ "model": "moonshotai/kimi-k3",
+ "mode": "run",
+ "blind": false,
+ "at": "2026-09-17T12:46:34"
+}

@@ -1,0 +1,45 @@
+{
+ "finish": "stop",
+ "usage": {
+  "input_tokens": 5333,
+  "output_tokens": 295,
+  "cost": 0.020424
+ },
+ "served_by": "Parasail",
+ "label": {
+  "content": "floor_photo",
+  "area": "interior_room",
+  "setting": "residential",
+  "system": "full_flake",
+  "color": "Quartzite",
+  "color_confidence": "low",
+  "color_runner_up": "Zircon",
+  "color_description": "fine gray, white and charcoal chips, small size",
+  "shot_type": "finished",
+  "people": "none",
+  "faces_identifiable": false,
+  "privacy": [],
+  "branding_visible": false,
+  "quality": "4",
+  "issues": [],
+  "website_ready": true,
+  "title": "Gray full flake floor meeting wood-look tile",
+  "alt_text": "Gray full flake floor coating with glossy finish meeting wood-look tile at a doorway in an interior room",
+  "tags": [
+   "full flake",
+   "gray chips",
+   "interior room",
+   "tile transition",
+   "glossy floor",
+   "doorway",
+   "finished floor"
+  ],
+  "filename": "gray-full-flake-floor-tile-transition"
+ },
+ "id": "b41ade0622ce",
+ "provider": "kimi",
+ "model": "moonshotai/kimi-k3",
+ "mode": "run",
+ "blind": false,
+ "at": "2026-09-17T12:48:12"
+}

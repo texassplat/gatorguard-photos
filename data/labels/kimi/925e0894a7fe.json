@@ -1,0 +1,48 @@
+{
+ "finish": "stop",
+ "usage": {
+  "input_tokens": 5341,
+  "output_tokens": 245,
+  "cost": 0.0105396
+ },
+ "served_by": "Together",
+ "label": {
+  "content": "floor_photo",
+  "area": "garage",
+  "setting": "residential",
+  "system": "full_flake",
+  "color": "Granite",
+  "color_confidence": "low",
+  "color_runner_up": "Silver Butte",
+  "color_description": "light gray base with small gray, white and black chips",
+  "shot_type": "finished",
+  "people": "none",
+  "faces_identifiable": false,
+  "privacy": [],
+  "branding_visible": false,
+  "quality": "4",
+  "issues": [],
+  "website_ready": true,
+  "title": "Two-car garage with light gray full flake floor",
+  "alt_text": "Clean two-car garage with light gray full flake floor coating, wood cabinets and open garage door",
+  "tags": [
+   "garage",
+   "full flake",
+   "gray floor",
+   "cabinets",
+   "workbench",
+   "garage door open",
+   "finished floor",
+   "tools on wall",
+   "small chips",
+   "residential"
+  ],
+  "filename": "garage-light-gray-full-flake-floor"
+ },
+ "id": "925e0894a7fe",
+ "provider": "kimi",
+ "model": "moonshotai/kimi-k3",
+ "mode": "run",
+ "blind": false,
+ "at": "2026-09-17T12:40:47"
+}

@@ -1,0 +1,48 @@
+{
+ "finish": "stop",
+ "usage": {
+  "input_tokens": 5256,
+  "output_tokens": 156,
+  "cost": 0.00661332
+ },
+ "served_by": "Morph",
+ "label": {
+  "content": "floor_photo",
+  "area": "basement",
+  "setting": "residential",
+  "system": "solid_color_chip",
+  "color": "unknown",
+  "color_confidence": "low",
+  "color_runner_up": "unknown",
+  "color_description": "small tan and cream chips, uniform single-tone blend",
+  "shot_type": "finished",
+  "people": "none",
+  "faces_identifiable": false,
+  "privacy": [],
+  "branding_visible": false,
+  "quality": "3",
+  "issues": [
+   "dark"
+  ],
+  "website_ready": false,
+  "title": "Basement with tan solid color chip floor",
+  "alt_text": "Basement with tan solid color chip floor coating, blue walls and wood stairs",
+  "tags": [
+   "basement",
+   "solid color chip",
+   "tan chips",
+   "stairs",
+   "unfinished walls",
+   "residential",
+   "floor coating",
+   "cream chips"
+  ],
+  "filename": "basement-tan-solid-color-chip-floor"
+ },
+ "id": "42515f1c38a5",
+ "provider": "kimi",
+ "model": "moonshotai/kimi-k3",
+ "mode": "run",
+ "blind": false,
+ "at": "2026-09-17T12:57:06"
+}

@@ -1,0 +1,47 @@
+{
+ "finish": "stop",
+ "usage": {
+  "input_tokens": 5341,
+  "output_tokens": 267,
+  "cost": 0.020028
+ },
+ "served_by": "Parasail",
+ "label": {
+  "content": "floor_photo",
+  "area": "garage",
+  "setting": "residential",
+  "system": "full_flake",
+  "color": "Stone Rowe",
+  "color_confidence": "low",
+  "color_runner_up": "Santana",
+  "color_description": "light tan base with fine tan, black and white chips, small chip size",
+  "shot_type": "finished",
+  "people": "background",
+  "faces_identifiable": false,
+  "privacy": [],
+  "branding_visible": false,
+  "quality": "3",
+  "issues": [
+   "cluttered"
+  ],
+  "website_ready": false,
+  "title": "Garage with light tan full flake floor",
+  "alt_text": "Glossy light tan full flake garage floor with fine chips, roller and finger visible in corner.",
+  "tags": [
+   "garage",
+   "full flake",
+   "tan chips",
+   "fine chips",
+   "glossy floor",
+   "garage door",
+   "finished floor"
+  ],
+  "filename": "garage-light-tan-full-flake-floor"
+ },
+ "id": "54cc0ccc7425",
+ "provider": "kimi",
+ "model": "moonshotai/kimi-k3",
+ "mode": "run",
+ "blind": false,
+ "at": "2026-09-17T12:41:34"
+}

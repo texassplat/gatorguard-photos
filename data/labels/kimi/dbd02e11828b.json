@@ -1,0 +1,46 @@
+{
+ "finish": "stop",
+ "usage": {
+  "input_tokens": 5323,
+  "output_tokens": 215,
+  "cost": 0.019194
+ },
+ "served_by": "Parasail",
+ "label": {
+  "content": "floor_photo",
+  "area": "commercial_or_industrial",
+  "setting": "commercial",
+  "system": "full_flake",
+  "color": "Quartzite",
+  "color_confidence": "medium",
+  "color_runner_up": "Granite",
+  "color_description": "gray, white and black fine chips, small size",
+  "shot_type": "finished",
+  "people": "none",
+  "faces_identifiable": false,
+  "privacy": [],
+  "branding_visible": false,
+  "quality": "4",
+  "issues": [],
+  "website_ready": true,
+  "title": "Office hallway with gray full flake floor",
+  "alt_text": "Commercial office hallway with a glossy gray full flake epoxy floor coating and office desk visible through doorway",
+  "tags": [
+   "commercial",
+   "hallway",
+   "office",
+   "full flake",
+   "gray chips",
+   "glossy floor",
+   "finished floor",
+   "interior"
+  ],
+  "filename": "office-hallway-gray-full-flake-floor"
+ },
+ "id": "dbd02e11828b",
+ "provider": "kimi",
+ "model": "moonshotai/kimi-k3",
+ "mode": "run",
+ "blind": false,
+ "at": "2026-09-17T12:34:18"
+}

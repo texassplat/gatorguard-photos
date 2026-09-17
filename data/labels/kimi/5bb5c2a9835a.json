@@ -1,0 +1,47 @@
+{
+ "finish": "stop",
+ "usage": {
+  "input_tokens": 5319,
+  "output_tokens": 224,
+  "cost": 0.0101586
+ },
+ "served_by": "Together",
+ "label": {
+  "content": "floor_photo",
+  "area": "garage",
+  "setting": "residential",
+  "system": "full_flake",
+  "color": "Granite",
+  "color_confidence": "medium",
+  "color_runner_up": "Silver Butte",
+  "color_description": "gray, white and black chips, medium size",
+  "shot_type": "finished",
+  "people": "none",
+  "faces_identifiable": false,
+  "privacy": [],
+  "branding_visible": false,
+  "quality": "4",
+  "issues": [],
+  "website_ready": true,
+  "title": "Garage with gray full flake floor and coated steps",
+  "alt_text": "Garage with gray full flake floor coating on the floor, stem walls and entry steps",
+  "tags": [
+   "garage",
+   "full flake",
+   "gray chips",
+   "steps",
+   "stem wall",
+   "finished floor",
+   "white walls",
+   "workbench",
+   "epoxy flake floor"
+  ],
+  "filename": "garage-gray-full-flake-floor-steps"
+ },
+ "id": "5bb5c2a9835a",
+ "provider": "kimi",
+ "model": "moonshotai/kimi-k3",
+ "mode": "run",
+ "blind": false,
+ "at": "2026-09-17T12:44:56"
+}

@@ -1,0 +1,52 @@
+{
+ "finish": "stop",
+ "usage": {
+  "input_tokens": 5325,
+  "output_tokens": 268,
+  "cost": 0.019995
+ },
+ "served_by": "Parasail",
+ "label": {
+  "content": "floor_photo",
+  "area": "garage",
+  "setting": "residential",
+  "system": "full_flake",
+  "color": "unknown",
+  "color_confidence": "low",
+  "color_runner_up": "Stone Rowe",
+  "color_description": "gray, white and black chips, small to medium size",
+  "shot_type": "finished",
+  "people": "prominent",
+  "faces_identifiable": true,
+  "privacy": [
+   "customer_face"
+  ],
+  "branding_visible": false,
+  "quality": "4",
+  "issues": [
+   "cluttered"
+  ],
+  "website_ready": false,
+  "title": "Garage with gray full flake floor and homeowners",
+  "alt_text": "Garage with a gray full flake epoxy floor, storage shelves, ladder and three people standing near the back wall",
+  "tags": [
+   "garage",
+   "full flake",
+   "gray chips",
+   "white chips",
+   "black chips",
+   "garage door",
+   "storage shelves",
+   "ladder",
+   "finished floor",
+   "residential"
+  ],
+  "filename": "garage-gray-full-flake-floor-homeowners"
+ },
+ "id": "c27c8c28308d",
+ "provider": "kimi",
+ "model": "moonshotai/kimi-k3",
+ "mode": "run",
+ "blind": false,
+ "at": "2026-09-17T12:43:44"
+}

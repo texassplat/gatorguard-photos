@@ -1,0 +1,47 @@
+{
+ "finish": "stop",
+ "usage": {
+  "input_tokens": 5327,
+  "output_tokens": 268,
+  "cost": 0.0108426
+ },
+ "served_by": "Together",
+ "label": {
+  "content": "floor_photo",
+  "area": "basement",
+  "setting": "residential",
+  "system": "metallic",
+  "color": "Sapphire",
+  "color_confidence": "high",
+  "color_runner_up": "Denim",
+  "color_description": "vivid blue metallic with swirled lighter and darker blue marbling",
+  "shot_type": "finished",
+  "people": "none",
+  "faces_identifiable": false,
+  "privacy": [],
+  "branding_visible": false,
+  "quality": "4",
+  "issues": [],
+  "website_ready": true,
+  "title": "Basement with vivid blue metallic epoxy floor",
+  "alt_text": "Glossy blue metallic epoxy floor in a basement with painted brick walls and a support column, metallic floor coating",
+  "tags": [
+   "metallic epoxy",
+   "blue floor",
+   "basement",
+   "painted brick wall",
+   "support column",
+   "glossy",
+   "swirled",
+   "liquid art",
+   "finished floor"
+  ],
+  "filename": "blue-metallic-basement-floor"
+ },
+ "id": "fd071c22151d",
+ "provider": "kimi",
+ "model": "moonshotai/kimi-k3",
+ "mode": "run",
+ "blind": false,
+ "at": "2026-09-17T12:52:14"
+}

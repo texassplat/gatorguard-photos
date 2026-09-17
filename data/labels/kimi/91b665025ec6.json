@@ -1,0 +1,46 @@
+{
+ "finish": "stop",
+ "usage": {
+  "input_tokens": 5319,
+  "output_tokens": 238,
+  "cost": 0.0103686
+ },
+ "served_by": "Together",
+ "label": {
+  "content": "floor_photo",
+  "area": "garage",
+  "setting": "residential",
+  "system": "full_flake",
+  "color": "Sedona",
+  "color_confidence": "medium",
+  "color_runner_up": "Ocotillo",
+  "color_description": "tan and brown chips with black accents, medium size",
+  "shot_type": "finished",
+  "people": "none",
+  "faces_identifiable": false,
+  "privacy": [],
+  "branding_visible": false,
+  "quality": "4",
+  "issues": [],
+  "website_ready": true,
+  "title": "Garage with tan brown full flake floor",
+  "alt_text": "Bright garage with glossy tan and brown full flake floor, large windows and arched window, full flake garage floor coating",
+  "tags": [
+   "garage",
+   "full flake",
+   "tan chips",
+   "brown chips",
+   "glossy floor",
+   "arched window",
+   "white walls",
+   "finished floor"
+  ],
+  "filename": "garage-tan-brown-full-flake-floor"
+ },
+ "id": "91b665025ec6",
+ "provider": "kimi",
+ "model": "moonshotai/kimi-k3",
+ "mode": "run",
+ "blind": false,
+ "at": "2026-09-17T12:45:47"
+}

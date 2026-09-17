@@ -1,0 +1,48 @@
+{
+ "finish": "stop",
+ "usage": {
+  "input_tokens": 5256,
+  "output_tokens": 155,
+  "cost": 0.00660282
+ },
+ "served_by": "Morph",
+ "label": {
+  "content": "floor_photo",
+  "area": "patio_or_porch",
+  "setting": "residential",
+  "system": "poly_enhance",
+  "color": "not_applicable",
+  "color_confidence": "none",
+  "color_runner_up": "not_applicable",
+  "color_description": "",
+  "shot_type": "close_up",
+  "people": "none",
+  "faces_identifiable": false,
+  "privacy": [],
+  "branding_visible": false,
+  "quality": "3",
+  "issues": [
+   "cluttered"
+  ],
+  "website_ready": false,
+  "title": "Patio chairs on sealed concrete deck",
+  "alt_text": "Black metal patio chairs with tan cushions on wet-look sealed concrete patio",
+  "tags": [
+   "patio",
+   "poly enhance",
+   "sealed concrete",
+   "outdoor furniture",
+   "wet look",
+   "brick wall",
+   "exterior",
+   "chairs"
+  ],
+  "filename": "patio-chairs-sealed-concrete"
+ },
+ "id": "055de507d08f",
+ "provider": "kimi",
+ "model": "moonshotai/kimi-k3",
+ "mode": "run",
+ "blind": false,
+ "at": "2026-09-17T12:56:04"
+}

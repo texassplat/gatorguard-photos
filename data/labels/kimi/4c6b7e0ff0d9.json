@@ -1,0 +1,47 @@
+{
+ "finish": "stop",
+ "usage": {
+  "input_tokens": 5256,
+  "output_tokens": 185,
+  "cost": 0.00691782
+ },
+ "served_by": "Morph",
+ "label": {
+  "content": "floor_photo",
+  "area": "patio_or_porch",
+  "setting": "residential",
+  "system": "poly_enhance",
+  "color": "not_applicable",
+  "color_confidence": "none",
+  "color_runner_up": "not_applicable",
+  "color_description": "sealed clay paver bricks in red, orange, brown and gray tones, wet look",
+  "shot_type": "finished",
+  "people": "none",
+  "faces_identifiable": false,
+  "privacy": [],
+  "branding_visible": false,
+  "quality": "4",
+  "issues": [],
+  "website_ready": true,
+  "title": "Sealed red brick paver patio behind brick home",
+  "alt_text": "Red and brown brick paver patio with glossy sealer behind a brick house, poly enhance sealed patio",
+  "tags": [
+   "patio",
+   "pavers",
+   "brick pavers",
+   "wet look sealer",
+   "poly enhance",
+   "sealed patio",
+   "backyard",
+   "red brick",
+   "glossy finish"
+  ],
+  "filename": "sealed-brick-paver-patio"
+ },
+ "id": "4c6b7e0ff0d9",
+ "provider": "kimi",
+ "model": "moonshotai/kimi-k3",
+ "mode": "run",
+ "blind": false,
+ "at": "2026-09-17T12:55:41"
+}

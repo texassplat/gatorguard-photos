@@ -1,0 +1,48 @@
+{
+ "finish": "stop",
+ "usage": {
+  "input_tokens": 5340,
+  "output_tokens": 209,
+  "cost": 0.0099966
+ },
+ "served_by": "Together",
+ "label": {
+  "content": "floor_photo",
+  "area": "patio_or_porch",
+  "setting": "residential",
+  "system": "stamped_concrete",
+  "color": "not_applicable",
+  "color_confidence": "none",
+  "color_runner_up": "not_applicable",
+  "color_description": "brown stamped concrete with a wet-look sealer, no chips",
+  "shot_type": "finished",
+  "people": "none",
+  "faces_identifiable": false,
+  "privacy": [],
+  "branding_visible": false,
+  "quality": "4",
+  "issues": [],
+  "website_ready": true,
+  "title": "Brown stamped concrete patio with curved border",
+  "alt_text": "Brown stamped concrete patio with curved brick-pattern border beside a house sunroom, sealed stamped concrete patio",
+  "tags": [
+   "stamped concrete",
+   "patio",
+   "brown",
+   "wet look sealer",
+   "curved border",
+   "brick pattern border",
+   "gravel bed",
+   "sunroom",
+   "residential",
+   "finished"
+  ],
+  "filename": "brown-stamped-concrete-patio-curved-border"
+ },
+ "id": "07d7addfd10d",
+ "provider": "kimi",
+ "model": "moonshotai/kimi-k3",
+ "mode": "run",
+ "blind": false,
+ "at": "2026-09-17T12:57:25"
+}

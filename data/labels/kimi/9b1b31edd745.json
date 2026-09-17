@@ -1,0 +1,47 @@
+{
+ "finish": "stop",
+ "usage": {
+  "input_tokens": 5337,
+  "output_tokens": 236,
+  "cost": 0.0103926
+ },
+ "served_by": "Together",
+ "label": {
+  "content": "floor_photo",
+  "area": "garage",
+  "setting": "residential",
+  "system": "full_flake",
+  "color": "Granite",
+  "color_confidence": "medium",
+  "color_runner_up": "Stone Rowe",
+  "color_description": "gray, white and black chips, small to medium size",
+  "shot_type": "finished",
+  "people": "none",
+  "faces_identifiable": false,
+  "privacy": [],
+  "branding_visible": false,
+  "quality": "4",
+  "issues": [],
+  "website_ready": true,
+  "title": "Garage with gray full flake floor in sunlight",
+  "alt_text": "Garage with gray, white and black full flake floor coating, part in sunlight, matching stem wall, open garage door",
+  "tags": [
+   "garage",
+   "full flake",
+   "gray floor",
+   "gray white black chips",
+   "stem wall",
+   "sunlight",
+   "open garage door",
+   "finished floor",
+   "flake floor coating"
+  ],
+  "filename": "garage-gray-full-flake-floor-sunlight"
+ },
+ "id": "9b1b31edd745",
+ "provider": "kimi",
+ "model": "moonshotai/kimi-k3",
+ "mode": "run",
+ "blind": false,
+ "at": "2026-09-17T12:41:48"
+}

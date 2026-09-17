@@ -1,0 +1,48 @@
+{
+ "finish": "stop",
+ "usage": {
+  "input_tokens": 5331,
+  "output_tokens": 285,
+  "cost": 0.020268
+ },
+ "served_by": "Fireworks",
+ "label": {
+  "content": "floor_photo",
+  "area": "patio_or_porch",
+  "setting": "residential",
+  "system": "full_flake",
+  "color": "Santana",
+  "color_confidence": "medium",
+  "color_runner_up": "Ocotillo",
+  "color_description": "tan and brown chips with small black and white chips, small size",
+  "shot_type": "finished",
+  "people": "none",
+  "faces_identifiable": false,
+  "privacy": [],
+  "branding_visible": false,
+  "quality": "4",
+  "issues": [],
+  "website_ready": true,
+  "title": "Covered porch with tan full flake floor",
+  "alt_text": "Covered porch with tan full flake floor coating, saw-cut grid pattern, brick stem wall and white doors",
+  "tags": [
+   "porch",
+   "exterior",
+   "full flake",
+   "tan chips",
+   "brown chips",
+   "saw cut joints",
+   "brick wall",
+   "glossy finish",
+   "finished floor",
+   "patio"
+  ],
+  "filename": "tan-full-flake-covered-porch"
+ },
+ "id": "1abd0db7f77f",
+ "provider": "kimi",
+ "model": "moonshotai/kimi-k3",
+ "mode": "run",
+ "blind": false,
+ "at": "2026-09-17T12:36:35"
+}

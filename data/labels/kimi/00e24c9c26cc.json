@@ -1,0 +1,48 @@
+{
+ "finish": "stop",
+ "usage": {
+  "input_tokens": 5149,
+  "output_tokens": 171,
+  "cost": 0.006570195
+ },
+ "served_by": "Morph",
+ "label": {
+  "content": "floor_photo",
+  "area": "basement",
+  "setting": "residential",
+  "system": "metallic",
+  "color": "Gray",
+  "color_confidence": "medium",
+  "color_runner_up": "Denim",
+  "color_description": "swirled silver gray and white metallic, marbled and reflective",
+  "shot_type": "finished",
+  "people": "none",
+  "faces_identifiable": false,
+  "privacy": [],
+  "branding_visible": false,
+  "quality": "5",
+  "issues": [],
+  "website_ready": true,
+  "title": "Gray metallic epoxy floor in basement bar",
+  "alt_text": "Gray and white marbled metallic epoxy floor in a basement lounge with white shelving and wine bottles",
+  "tags": [
+   "metallic epoxy",
+   "gray metallic",
+   "swirled floor",
+   "basement",
+   "basement bar",
+   "wine display",
+   "white shelves",
+   "reflective floor",
+   "finished floor",
+   "lounge chair"
+  ],
+  "filename": "gray-metallic-basement-bar-floor"
+ },
+ "id": "00e24c9c26cc",
+ "provider": "kimi",
+ "model": "moonshotai/kimi-k3",
+ "mode": "run",
+ "blind": false,
+ "at": "2026-09-17T12:50:36"
+}

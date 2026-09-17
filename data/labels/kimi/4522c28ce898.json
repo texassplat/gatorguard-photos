@@ -1,0 +1,51 @@
+{
+ "finish": "stop",
+ "usage": {
+  "input_tokens": 4909,
+  "output_tokens": 309,
+  "cost": 0.00946926
+ },
+ "served_by": "DigitalOcean",
+ "label": {
+  "alt_text": "Worker spreading clear coat over brown full flake floor, applying box-in technique in empty garage",
+  "area": "garage",
+  "branding_visible": false,
+  "color": "unknown",
+  "color_confidence": "low",
+  "color_description": "tan and brown chips over a dark brown base, small to medium size",
+  "color_runner_up": "Chestnut",
+  "content": "floor_photo",
+  "faces_identifiable": false,
+  "filename": "worker-applying-box-in-clear-flake-floor",
+  "issues": [
+   "low_resolution",
+   "tilted",
+   "text_overlay"
+  ],
+  "people": "prominent",
+  "privacy": [],
+  "quality": "2",
+  "setting": "residential",
+  "shot_type": "in_progress",
+  "system": "full_flake",
+  "tags": [
+   "full flake",
+   "clear coat",
+   "box in technique",
+   "squeegee",
+   "worker",
+   "garage floor",
+   "tan brown chips",
+   "screenshot",
+   "old style floor"
+  ],
+  "title": "Worker spreading clear coat on flake floor",
+  "website_ready": false
+ },
+ "id": "4522c28ce898",
+ "provider": "kimi",
+ "model": "moonshotai/kimi-k3",
+ "mode": "run",
+ "blind": false,
+ "at": "2026-09-17T12:53:40"
+}

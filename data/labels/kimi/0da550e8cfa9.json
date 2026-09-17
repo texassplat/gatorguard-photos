@@ -1,0 +1,46 @@
+{
+ "finish": "stop",
+ "usage": {
+  "input_tokens": 5211,
+  "output_tokens": 298,
+  "cost": 0.020103
+ },
+ "served_by": "Parasail",
+ "label": {
+  "content": "floor_photo",
+  "area": "not_visible",
+  "setting": "unknown",
+  "system": "full_flake",
+  "color": "unknown",
+  "color_confidence": "low",
+  "color_runner_up": "Quartzite",
+  "color_description": "gray, black and white chips, small to medium size, sparse coverage",
+  "shot_type": "finished",
+  "people": "none",
+  "faces_identifiable": false,
+  "privacy": [],
+  "branding_visible": false,
+  "quality": "4",
+  "issues": [],
+  "website_ready": false,
+  "title": "Nacho chips and cheese dip on gray flake floor",
+  "alt_text": "Tortilla chips with cheese sauce arranged on a gray full flake epoxy floor, gameday photoshoot",
+  "tags": [
+   "gameday photoshoot",
+   "nachos",
+   "chips and cheese",
+   "gray flake floor",
+   "full flake",
+   "food on floor",
+   "tailgate",
+   "easy clean"
+  ],
+  "filename": "nachos-cheese-gray-flake-floor"
+ },
+ "id": "0da550e8cfa9",
+ "provider": "kimi",
+ "model": "moonshotai/kimi-k3",
+ "mode": "run",
+ "blind": false,
+ "at": "2026-09-17T12:39:13"
+}

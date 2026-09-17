@@ -1,0 +1,47 @@
+{
+ "finish": "stop",
+ "usage": {
+  "input_tokens": 5206,
+  "output_tokens": 214,
+  "cost": 0.0096696
+ },
+ "served_by": "Together",
+ "label": {
+  "content": "floor_photo",
+  "area": "not_visible",
+  "setting": "unknown",
+  "system": "full_flake",
+  "color": "Granite",
+  "color_confidence": "low",
+  "color_runner_up": "Callisto",
+  "color_description": "gray, white and black chips, small to medium size",
+  "shot_type": "close_up",
+  "people": "none",
+  "faces_identifiable": false,
+  "privacy": [],
+  "branding_visible": false,
+  "quality": "4",
+  "issues": [],
+  "website_ready": false,
+  "title": "Nachos and cheese spilled on flake floor",
+  "alt_text": "Tortilla chips and nacho cheese spilled on a gray full flake garage floor coating",
+  "tags": [
+   "gameday",
+   "nachos",
+   "chips and cheese",
+   "spill",
+   "full flake",
+   "gray chips",
+   "garage floor",
+   "stain resistance",
+   "close up"
+  ],
+  "filename": "nachos-spilled-on-gray-flake-floor"
+ },
+ "id": "865631f4a539",
+ "provider": "kimi",
+ "model": "moonshotai/kimi-k3",
+ "mode": "run",
+ "blind": false,
+ "at": "2026-09-17T12:39:25"
+}

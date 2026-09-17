@@ -1,0 +1,48 @@
+{
+ "finish": "stop",
+ "usage": {
+  "input_tokens": 5339,
+  "output_tokens": 332,
+  "cost": 0.020997
+ },
+ "served_by": "Parasail",
+ "label": {
+  "content": "floor_photo",
+  "area": "garage",
+  "setting": "residential",
+  "system": "full_flake",
+  "color": "unknown",
+  "color_confidence": "low",
+  "color_runner_up": "Silverado",
+  "color_description": "gray, white and tan-brown chips, small to medium size, glossy clear coat",
+  "shot_type": "close_up",
+  "people": "none",
+  "faces_identifiable": false,
+  "privacy": [],
+  "branding_visible": false,
+  "quality": "4",
+  "issues": [],
+  "website_ready": false,
+  "title": "Close up of cut line in flake garage floor",
+  "alt_text": "Close up of a cut control joint in a glossy full flake garage floor with gray, white and tan chips",
+  "tags": [
+   "close up",
+   "cut line",
+   "control joint",
+   "tool joint",
+   "full flake",
+   "garage floor",
+   "gray chips",
+   "tan chips",
+   "glossy",
+   "detail"
+  ],
+  "filename": "cut-line-close-up-flake-garage-floor"
+ },
+ "id": "842a2dd7b6b5",
+ "provider": "kimi",
+ "model": "moonshotai/kimi-k3",
+ "mode": "run",
+ "blind": false,
+ "at": "2026-09-17T12:35:41"
+}

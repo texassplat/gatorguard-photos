@@ -1,0 +1,48 @@
+{
+ "finish": "stop",
+ "usage": {
+  "input_tokens": 5341,
+  "output_tokens": 210,
+  "cost": 0.019173
+ },
+ "served_by": "Parasail",
+ "label": {
+  "content": "floor_photo",
+  "area": "garage",
+  "setting": "residential",
+  "system": "full_flake",
+  "color": "Galaxy",
+  "color_confidence": "high",
+  "color_runner_up": "Gun Metal",
+  "color_description": "black and dark gray base with white and light gray chips, small to medium size",
+  "shot_type": "finished",
+  "people": "none",
+  "faces_identifiable": false,
+  "privacy": [],
+  "branding_visible": false,
+  "quality": "4",
+  "issues": [],
+  "website_ready": true,
+  "title": "Garage with glossy black full flake floor",
+  "alt_text": "Empty garage with glossy black full flake floor in Galaxy chips and coated stem walls, full flake garage floor coating",
+  "tags": [
+   "garage",
+   "full flake",
+   "galaxy",
+   "black floor",
+   "glossy",
+   "white chips",
+   "stem wall",
+   "finished floor",
+   "two car garage",
+   "dark gray"
+  ],
+  "filename": "garage-galaxy-black-full-flake-floor"
+ },
+ "id": "0768551e6d20",
+ "provider": "kimi",
+ "model": "moonshotai/kimi-k3",
+ "mode": "run",
+ "blind": false,
+ "at": "2026-09-17T12:41:53"
+}

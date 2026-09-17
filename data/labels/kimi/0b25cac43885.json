@@ -1,0 +1,46 @@
+{
+ "finish": "stop",
+ "usage": {
+  "input_tokens": 4915,
+  "output_tokens": 174,
+  "cost": 0.017355
+ },
+ "served_by": "Parasail",
+ "label": {
+  "content": "floor_photo",
+  "area": "commercial_or_industrial",
+  "setting": "commercial",
+  "system": "solid_color",
+  "color": "unknown",
+  "color_confidence": "none",
+  "color_runner_up": "unknown",
+  "color_description": "solid light tan or cream coating, no chips visible",
+  "shot_type": "finished",
+  "people": "none",
+  "faces_identifiable": false,
+  "privacy": [],
+  "branding_visible": false,
+  "quality": "3",
+  "issues": [
+   "overexposed"
+  ],
+  "website_ready": false,
+  "title": "Commercial room with solid tan floor coating",
+  "alt_text": "Glossy solid tan coated concrete floor in a commercial room with wood panel walls",
+  "tags": [
+   "solid color floor",
+   "tan coating",
+   "commercial floor",
+   "glossy finish",
+   "wood panel walls",
+   "indoor room"
+  ],
+  "filename": "commercial-room-solid-tan-floor"
+ },
+ "id": "0b25cac43885",
+ "provider": "kimi",
+ "model": "moonshotai/kimi-k3",
+ "mode": "run",
+ "blind": false,
+ "at": "2026-09-17T12:33:38"
+}

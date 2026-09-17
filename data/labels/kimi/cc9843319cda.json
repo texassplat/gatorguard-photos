@@ -1,0 +1,47 @@
+{
+ "finish": "stop",
+ "usage": {
+  "input_tokens": 5329,
+  "output_tokens": 320,
+  "cost": 0.020787
+ },
+ "served_by": "Fireworks",
+ "label": {
+  "content": "floor_photo",
+  "area": "patio_or_porch",
+  "setting": "residential",
+  "system": "full_flake",
+  "color": "Santana",
+  "color_confidence": "medium",
+  "color_runner_up": "Windermere",
+  "color_description": "tan, brown, black and white chips, small to medium size",
+  "shot_type": "finished",
+  "people": "none",
+  "faces_identifiable": false,
+  "privacy": [],
+  "branding_visible": false,
+  "quality": "4",
+  "issues": [],
+  "website_ready": true,
+  "title": "Backyard patio with tan full flake floor",
+  "alt_text": "Backyard patio with tan full flake floor coating, grill, flower beds and wood fence",
+  "tags": [
+   "patio",
+   "full flake",
+   "tan chips",
+   "brown chips",
+   "backyard",
+   "grill",
+   "flower beds",
+   "exterior",
+   "finished floor"
+  ],
+  "filename": "backyard-patio-tan-full-flake-floor"
+ },
+ "id": "cc9843319cda",
+ "provider": "kimi",
+ "model": "moonshotai/kimi-k3",
+ "mode": "run",
+ "blind": false,
+ "at": "2026-09-17T12:37:31"
+}

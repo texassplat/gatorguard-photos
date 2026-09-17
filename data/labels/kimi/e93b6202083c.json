@@ -1,0 +1,46 @@
+{
+ "finish": "stop",
+ "usage": {
+  "input_tokens": 5337,
+  "output_tokens": 262,
+  "cost": 0.019941
+ },
+ "served_by": "Fireworks",
+ "label": {
+  "content": "floor_photo",
+  "area": "garage",
+  "setting": "unknown",
+  "system": "full_flake",
+  "color": "Stone Ridge",
+  "color_confidence": "medium",
+  "color_runner_up": "Zircon",
+  "color_description": "light gray base with white, black and gray chips and scattered tan and rust flecks, small to medium size",
+  "shot_type": "close_up",
+  "people": "none",
+  "faces_identifiable": false,
+  "privacy": [],
+  "branding_visible": false,
+  "quality": "4",
+  "issues": [],
+  "website_ready": false,
+  "title": "Close up of cut line in gray flake floor",
+  "alt_text": "Close up of a cut tool joint across a gray full flake floor with black, white and tan chips",
+  "tags": [
+   "close up",
+   "cut line",
+   "tool joint",
+   "full flake",
+   "gray flake",
+   "tan chips",
+   "black chips",
+   "control joint"
+  ],
+  "filename": "gray-flake-floor-cut-line-close-up"
+ },
+ "id": "e93b6202083c",
+ "provider": "kimi",
+ "model": "moonshotai/kimi-k3",
+ "mode": "run",
+ "blind": false,
+ "at": "2026-09-17T12:35:48"
+}

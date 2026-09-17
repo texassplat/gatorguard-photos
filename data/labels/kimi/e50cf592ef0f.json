@@ -1,0 +1,46 @@
+{
+ "finish": "stop",
+ "usage": {
+  "input_tokens": 5326,
+  "output_tokens": 225,
+  "cost": 0.0101946
+ },
+ "served_by": "Together",
+ "label": {
+  "content": "floor_photo",
+  "area": "patio_or_porch",
+  "setting": "residential",
+  "system": "full_flake",
+  "color": "unknown",
+  "color_confidence": "low",
+  "color_runner_up": "Aurora",
+  "color_description": "fine light gray and white chips, small size",
+  "shot_type": "finished",
+  "people": "none",
+  "faces_identifiable": false,
+  "privacy": [],
+  "branding_visible": false,
+  "quality": "4",
+  "issues": [],
+  "website_ready": true,
+  "title": "Covered front porch with gray flake floor",
+  "alt_text": "Covered farmhouse porch with light gray flake floor coating, white columns and rock landscaping",
+  "tags": [
+   "porch",
+   "exterior",
+   "full flake",
+   "gray chips",
+   "white columns",
+   "farmhouse",
+   "covered porch",
+   "finished floor"
+  ],
+  "filename": "covered-porch-gray-flake-floor"
+ },
+ "id": "e50cf592ef0f",
+ "provider": "kimi",
+ "model": "moonshotai/kimi-k3",
+ "mode": "run",
+ "blind": false,
+ "at": "2026-09-17T12:37:13"
+}

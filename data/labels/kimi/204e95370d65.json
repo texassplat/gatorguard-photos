@@ -1,0 +1,47 @@
+{
+ "finish": "stop",
+ "usage": {
+  "input_tokens": 5317,
+  "output_tokens": 266,
+  "cost": 0.019941
+ },
+ "served_by": "Parasail",
+ "label": {
+  "content": "floor_photo",
+  "area": "garage",
+  "setting": "residential",
+  "system": "unknown",
+  "color": "unknown",
+  "color_confidence": "none",
+  "color_runner_up": "not_applicable",
+  "color_description": "wet light gray coating being rolled, no chips visible yet",
+  "shot_type": "in_progress",
+  "people": "prominent",
+  "faces_identifiable": true,
+  "privacy": [],
+  "branding_visible": false,
+  "quality": "4",
+  "issues": [],
+  "website_ready": false,
+  "title": "Installer rolling gray base coat in garage",
+  "alt_text": "Installer in respirator rolling light gray coating onto a garage floor with a large roller, in progress floor coating",
+  "tags": [
+   "installer",
+   "rolling",
+   "in progress",
+   "garage",
+   "gray coating",
+   "roller",
+   "respirator",
+   "crew",
+   "base coat"
+  ],
+  "filename": "installer-rolling-gray-garage-coating"
+ },
+ "id": "204e95370d65",
+ "provider": "kimi",
+ "model": "moonshotai/kimi-k3",
+ "mode": "run",
+ "blind": false,
+ "at": "2026-09-17T12:46:48"
+}

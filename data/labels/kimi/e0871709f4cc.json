@@ -1,0 +1,48 @@
+{
+ "finish": "stop",
+ "usage": {
+  "input_tokens": 5350,
+  "output_tokens": 243,
+  "cost": 0.0105366
+ },
+ "served_by": "Together",
+ "label": {
+  "content": "floor_photo",
+  "area": "basement",
+  "setting": "residential",
+  "system": "full_flake",
+  "color": "Chestnut",
+  "color_confidence": "low",
+  "color_runner_up": "Willow",
+  "color_description": "tan, brown and gray chips, small to medium size",
+  "shot_type": "finished",
+  "people": "none",
+  "faces_identifiable": false,
+  "privacy": [],
+  "branding_visible": false,
+  "quality": "3",
+  "issues": [
+   "dark"
+  ],
+  "website_ready": false,
+  "title": "Basement with tan full flake floor",
+  "alt_text": "Basement room with a tan and brown full flake floor coating, white walls and wood paneling",
+  "tags": [
+   "basement",
+   "full flake",
+   "tan chips",
+   "brown chips",
+   "wood paneling",
+   "white walls",
+   "finished floor",
+   "interior"
+  ],
+  "filename": "basement-tan-full-flake-floor"
+ },
+ "id": "e0871709f4cc",
+ "provider": "kimi",
+ "model": "moonshotai/kimi-k3",
+ "mode": "run",
+ "blind": false,
+ "at": "2026-09-17T12:30:46"
+}

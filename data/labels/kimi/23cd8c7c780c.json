@@ -1,0 +1,47 @@
+{
+ "finish": "stop",
+ "usage": {
+  "input_tokens": 5322,
+  "output_tokens": 230,
+  "cost": 0.0102576
+ },
+ "served_by": "Together",
+ "label": {
+  "content": "floor_photo",
+  "area": "commercial_or_industrial",
+  "setting": "commercial",
+  "system": "tile_coating",
+  "color": "Galaxy",
+  "color_confidence": "low",
+  "color_runner_up": "Gun Metal",
+  "color_description": "black base with white and gray chips, small to medium size",
+  "shot_type": "finished",
+  "people": "none",
+  "faces_identifiable": false,
+  "privacy": [],
+  "branding_visible": false,
+  "quality": "3",
+  "issues": [],
+  "website_ready": false,
+  "title": "Restroom with black flake tile coating",
+  "alt_text": "Black full flake floor coating over tile in a restroom with cinder block walls and wood door",
+  "tags": [
+   "tile coating",
+   "restroom",
+   "black flake",
+   "white chips",
+   "gray chips",
+   "cinder block wall",
+   "wood door",
+   "commercial floor",
+   "finished"
+  ],
+  "filename": "restroom-black-flake-tile-coating"
+ },
+ "id": "23cd8c7c780c",
+ "provider": "kimi",
+ "model": "moonshotai/kimi-k3",
+ "mode": "run",
+ "blind": false,
+ "at": "2026-09-17T12:58:06"
+}

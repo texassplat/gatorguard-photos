@@ -1,0 +1,47 @@
+{
+ "finish": "stop",
+ "usage": {
+  "input_tokens": 5196,
+  "output_tokens": 204,
+  "cost": 0.018648
+ },
+ "served_by": "Parasail",
+ "label": {
+  "content": "floor_photo",
+  "area": "garage",
+  "setting": "residential",
+  "system": "full_flake",
+  "color": "Granite",
+  "color_confidence": "medium",
+  "color_runner_up": "Stone Rowe",
+  "color_description": "gray, white and black chips, small to medium size",
+  "shot_type": "finished",
+  "people": "none",
+  "faces_identifiable": false,
+  "privacy": [],
+  "branding_visible": false,
+  "quality": "4",
+  "issues": [],
+  "website_ready": true,
+  "title": "Garage entry steps with gray full flake coating",
+  "alt_text": "Garage entry stairs and landing coated in gray full flake epoxy with white railings and gray walls",
+  "tags": [
+   "garage",
+   "full flake",
+   "stairs",
+   "steps",
+   "gray chips",
+   "entryway",
+   "white railing",
+   "finished floor",
+   "garage epoxy"
+  ],
+  "filename": "garage-entry-steps-gray-full-flake"
+ },
+ "id": "adbd093608f1",
+ "provider": "kimi",
+ "model": "moonshotai/kimi-k3",
+ "mode": "run",
+ "blind": false,
+ "at": "2026-09-17T12:46:34"
+}

@@ -1,0 +1,47 @@
+{
+ "finish": "stop",
+ "usage": {
+  "input_tokens": 4957,
+  "output_tokens": 287,
+  "cost": 0.01352592
+ },
+ "served_by": "Phala",
+ "label": {
+  "alt_text": "Interior room with gray swirled metallic epoxy floor, white cabinetry and floor vent; Liquid Art metallic floor coating",
+  "area": "interior_room",
+  "branding_visible": false,
+  "color": "Charcoal",
+  "color_confidence": "medium",
+  "color_description": "gray and charcoal marbled metallic swirls, reflective",
+  "color_runner_up": "Gray",
+  "content": "floor_photo",
+  "faces_identifiable": false,
+  "filename": "gray-metallic-epoxy-interior-floor",
+  "issues": [],
+  "people": "none",
+  "privacy": [],
+  "quality": "4",
+  "setting": "residential",
+  "shot_type": "finished",
+  "system": "metallic",
+  "tags": [
+   "metallic epoxy",
+   "liquid art",
+   "gray metallic",
+   "swirled",
+   "reflective floor",
+   "interior room",
+   "white cabinets",
+   "floor vent",
+   "finished"
+  ],
+  "title": "Gray metallic epoxy floor in interior room",
+  "website_ready": true
+ },
+ "id": "e14c6a58d268",
+ "provider": "kimi",
+ "model": "moonshotai/kimi-k3",
+ "mode": "run",
+ "blind": false,
+ "at": "2026-09-17T12:52:22"
+}

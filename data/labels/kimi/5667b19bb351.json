@@ -1,0 +1,47 @@
+{
+ "finish": "stop",
+ "usage": {
+  "input_tokens": 5326,
+  "output_tokens": 313,
+  "cost": 0.0205002
+ },
+ "served_by": "Modal",
+ "label": {
+  "content": "floor_photo",
+  "area": "patio_or_porch",
+  "setting": "residential",
+  "system": "full_flake",
+  "color": "Stone Ridge",
+  "color_confidence": "medium",
+  "color_runner_up": "Granite",
+  "color_description": "gray, tan, black and brown chips, medium size",
+  "shot_type": "finished",
+  "people": "none",
+  "faces_identifiable": false,
+  "privacy": [],
+  "branding_visible": false,
+  "quality": "4",
+  "issues": [],
+  "website_ready": true,
+  "title": "Wheelchair ramp porch with gray full flake floor",
+  "alt_text": "Covered porch and accessibility ramp coated in a gray, tan and black full flake concrete floor coating with black metal railings",
+  "tags": [
+   "porch",
+   "ramp",
+   "full flake",
+   "gray chips",
+   "tan chips",
+   "exterior",
+   "metal railing",
+   "residential",
+   "finished"
+  ],
+  "filename": "porch-ramp-gray-full-flake-floor"
+ },
+ "id": "5667b19bb351",
+ "provider": "kimi",
+ "model": "moonshotai/kimi-k3",
+ "mode": "run",
+ "blind": false,
+ "at": "2026-09-17T12:36:23"
+}

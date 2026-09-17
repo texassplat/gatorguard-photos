@@ -1,0 +1,47 @@
+{
+ "finish": "stop",
+ "usage": {
+  "input_tokens": 5337,
+  "output_tokens": 240,
+  "cost": 0.0073422
+ },
+ "served_by": "Together",
+ "label": {
+  "content": "floor_photo",
+  "area": "basement",
+  "setting": "residential",
+  "system": "full_flake",
+  "color": "Granite",
+  "color_confidence": "medium",
+  "color_runner_up": "Stone Rowe",
+  "color_description": "gray base with white, gray and black chips, medium size",
+  "shot_type": "finished",
+  "people": "none",
+  "faces_identifiable": false,
+  "privacy": [],
+  "branding_visible": false,
+  "quality": "4",
+  "issues": [],
+  "website_ready": true,
+  "title": "Basement with gray full flake floor and fireplace",
+  "alt_text": "Finished basement with glossy gray full flake floor coating, support pole, brick fireplace and kitchenette",
+  "tags": [
+   "basement",
+   "full flake",
+   "gray floor",
+   "white gray black chips",
+   "fireplace",
+   "support pole",
+   "finished floor",
+   "glossy",
+   "basement remodel"
+  ],
+  "filename": "basement-gray-full-flake-floor-fireplace"
+ },
+ "id": "3ae7e8777a4a",
+ "provider": "kimi",
+ "model": "moonshotai/kimi-k3",
+ "mode": "pilot",
+ "blind": true,
+ "at": "2026-09-17T12:25:53"
+}

@@ -1,0 +1,48 @@
+{
+ "finish": "stop",
+ "usage": {
+  "input_tokens": 5324,
+  "output_tokens": 272,
+  "cost": 0.020052
+ },
+ "served_by": "Parasail",
+ "label": {
+  "content": "floor_photo",
+  "area": "garage",
+  "setting": "residential",
+  "system": "full_flake",
+  "color": "Lunar",
+  "color_confidence": "medium",
+  "color_runner_up": "Callisto",
+  "color_description": "light gray base with fine gray, white and dark speckled chips",
+  "shot_type": "finished",
+  "people": "none",
+  "faces_identifiable": false,
+  "privacy": [],
+  "branding_visible": false,
+  "quality": "4",
+  "issues": [],
+  "website_ready": true,
+  "title": "Garage with light gray full flake floor",
+  "alt_text": "Finished garage floor with light gray speckled full flake coating, white cabinets and stem wall",
+  "tags": [
+   "garage",
+   "full flake",
+   "gray flakes",
+   "light gray floor",
+   "finished",
+   "white cabinets",
+   "stem wall",
+   "glossy",
+   "speckled",
+   "flake floor"
+  ],
+  "filename": "garage-light-gray-full-flake-floor"
+ },
+ "id": "559ec536abf9",
+ "provider": "kimi",
+ "model": "moonshotai/kimi-k3",
+ "mode": "run",
+ "blind": false,
+ "at": "2026-09-17T12:45:11"
+}

@@ -1,0 +1,46 @@
+{
+ "finish": "stop",
+ "usage": {
+  "input_tokens": 5210,
+  "output_tokens": 222,
+  "cost": 0.01896
+ },
+ "served_by": "Parasail",
+ "label": {
+  "content": "people_or_team",
+  "area": "not_visible",
+  "setting": "unknown",
+  "system": "full_flake",
+  "color": "unknown",
+  "color_confidence": "low",
+  "color_runner_up": "unknown",
+  "color_description": "fine gray, tan and white chips, small size",
+  "shot_type": "team_or_portrait",
+  "people": "prominent",
+  "faces_identifiable": false,
+  "privacy": [],
+  "branding_visible": true,
+  "quality": "4",
+  "issues": [],
+  "website_ready": false,
+  "title": "GatorGuard crew celebrating on coated showroom floor",
+  "alt_text": "Five crew members in green GatorGuard shirts cheering on a speckled coated concrete floor",
+  "tags": [
+   "team photo",
+   "crew",
+   "gameday photoshoot",
+   "green shirts",
+   "coated floor",
+   "full flake",
+   "celebration",
+   "showroom"
+  ],
+  "filename": "crew-celebrating-coated-floor"
+ },
+ "id": "603b16b0c3f1",
+ "provider": "kimi",
+ "model": "moonshotai/kimi-k3",
+ "mode": "run",
+ "blind": false,
+ "at": "2026-09-17T12:38:23"
+}

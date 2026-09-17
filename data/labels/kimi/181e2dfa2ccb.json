@@ -1,0 +1,48 @@
+{
+ "finish": "stop",
+ "usage": {
+  "input_tokens": 5325,
+  "output_tokens": 323,
+  "cost": 0.0116616
+ },
+ "served_by": "Together",
+ "label": {
+  "content": "floor_photo",
+  "area": "patio_or_porch",
+  "setting": "residential",
+  "system": "full_flake",
+  "color": "Granite",
+  "color_confidence": "medium",
+  "color_runner_up": "Lunar",
+  "color_description": "light gray base with white, black and gray chips, small to medium size",
+  "shot_type": "finished",
+  "people": "background",
+  "faces_identifiable": true,
+  "privacy": [
+   "customer_face"
+  ],
+  "branding_visible": false,
+  "quality": "4",
+  "issues": [],
+  "website_ready": false,
+  "title": "Patio with gray full flake floor and hot tub",
+  "alt_text": "Gray full flake patio floor beside a hot tub and stone knee wall on a house with dark siding",
+  "tags": [
+   "patio",
+   "full flake",
+   "gray chips",
+   "hot tub",
+   "stone wall",
+   "exterior",
+   "dark siding",
+   "finished floor"
+  ],
+  "filename": "gray-full-flake-patio-hot-tub"
+ },
+ "id": "181e2dfa2ccb",
+ "provider": "kimi",
+ "model": "moonshotai/kimi-k3",
+ "mode": "run",
+ "blind": false,
+ "at": "2026-09-17T12:37:49"
+}

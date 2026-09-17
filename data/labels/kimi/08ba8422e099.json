@@ -1,0 +1,46 @@
+{
+ "finish": "stop",
+ "usage": {
+  "input_tokens": 4924,
+  "output_tokens": 222,
+  "cost": 0.0171969
+ },
+ "served_by": "DeepInfra",
+ "label": {
+  "content": "floor_photo",
+  "area": "patio_or_porch",
+  "setting": "residential",
+  "system": "full_flake",
+  "color": "Avalon",
+  "color_confidence": "medium",
+  "color_runner_up": "Lunar",
+  "color_description": "light gray base with white, light gray and small dark chips, fine to medium size",
+  "shot_type": "finished",
+  "people": "none",
+  "faces_identifiable": false,
+  "privacy": [],
+  "branding_visible": false,
+  "quality": "4",
+  "issues": [],
+  "website_ready": true,
+  "title": "Light gray full flake porch floor at entry",
+  "alt_text": "Light gray full flake coated porch floor in front of a stone veneer wall and entry door",
+  "tags": [
+   "full flake",
+   "porch",
+   "exterior",
+   "light gray chips",
+   "stone veneer",
+   "entry door",
+   "residential",
+   "finished floor"
+  ],
+  "filename": "light-gray-full-flake-porch-entry"
+ },
+ "id": "08ba8422e099",
+ "provider": "kimi",
+ "model": "moonshotai/kimi-k3",
+ "mode": "run",
+ "blind": false,
+ "at": "2026-09-17T12:36:54"
+}

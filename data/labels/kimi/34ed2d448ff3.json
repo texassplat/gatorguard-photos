@@ -1,0 +1,46 @@
+{
+ "finish": "stop",
+ "usage": {
+  "input_tokens": 5332,
+  "output_tokens": 230,
+  "cost": 0.019446
+ },
+ "served_by": "Parasail",
+ "label": {
+  "content": "floor_photo",
+  "area": "garage",
+  "setting": "residential",
+  "system": "metallic",
+  "color": "Charcoal",
+  "color_confidence": "medium",
+  "color_runner_up": "Gray",
+  "color_description": "dark gray metallic with lighter gray and white swirls, no chips",
+  "shot_type": "finished",
+  "people": "none",
+  "faces_identifiable": false,
+  "privacy": [],
+  "branding_visible": false,
+  "quality": "4",
+  "issues": [],
+  "website_ready": true,
+  "title": "Drum kit on gray metallic epoxy floor",
+  "alt_text": "Drum kit and guitar cases on a dark gray swirled metallic epoxy garage floor with a motorcycle poster",
+  "tags": [
+   "metallic epoxy",
+   "garage floor",
+   "gray metallic",
+   "swirled finish",
+   "drum kit",
+   "guitar cases",
+   "music room",
+   "reflective floor"
+  ],
+  "filename": "gray-metallic-floor-drum-kit"
+ },
+ "id": "34ed2d448ff3",
+ "provider": "kimi",
+ "model": "moonshotai/kimi-k3",
+ "mode": "run",
+ "blind": false,
+ "at": "2026-09-17T12:51:40"
+}

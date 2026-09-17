@@ -1,0 +1,48 @@
+{
+ "finish": "stop",
+ "usage": {
+  "input_tokens": 5206,
+  "output_tokens": 229,
+  "cost": 0.0098946
+ },
+ "served_by": "Together",
+ "label": {
+  "content": "people_or_team",
+  "area": "interior_room",
+  "setting": "unknown",
+  "system": "full_flake",
+  "color": "unknown",
+  "color_confidence": "low",
+  "color_runner_up": "unknown",
+  "color_description": "light tan and gray chips, small size",
+  "shot_type": "team_or_portrait",
+  "people": "prominent",
+  "faces_identifiable": true,
+  "privacy": [
+   "customer_face"
+  ],
+  "branding_visible": false,
+  "quality": "3",
+  "issues": [],
+  "website_ready": false,
+  "title": "Team in green shirts on flake floor",
+  "alt_text": "Four people in neon green shirts standing in a room with a light speckled flake floor",
+  "tags": [
+   "team",
+   "photoshoot",
+   "green shirts",
+   "flake floor",
+   "interior",
+   "stool",
+   "group of people",
+   "gameday"
+  ],
+  "filename": "team-green-shirts-flake-floor"
+ },
+ "id": "51364a98066f",
+ "provider": "kimi",
+ "model": "moonshotai/kimi-k3",
+ "mode": "run",
+ "blind": false,
+ "at": "2026-09-17T12:38:56"
+}

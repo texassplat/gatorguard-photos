@@ -1,0 +1,47 @@
+{
+ "finish": "stop",
+ "usage": {
+  "input_tokens": 5206,
+  "output_tokens": 307,
+  "cost": 0.0110646
+ },
+ "served_by": "Together",
+ "label": {
+  "content": "floor_photo",
+  "area": "garage",
+  "setting": "unknown",
+  "system": "full_flake",
+  "color": "unknown",
+  "color_confidence": "low",
+  "color_runner_up": "Shalestone",
+  "color_description": "light gray, white and tan chips, small to medium size",
+  "shot_type": "finished",
+  "people": "none",
+  "faces_identifiable": false,
+  "privacy": [],
+  "branding_visible": false,
+  "quality": "4",
+  "issues": [],
+  "website_ready": true,
+  "title": "Golden retriever sitting on flake garage floor",
+  "alt_text": "Golden retriever with green toy sitting on a light gray and tan full flake garage floor coating",
+  "tags": [
+   "dog",
+   "golden retriever",
+   "full flake",
+   "garage floor",
+   "gray chips",
+   "tan chips",
+   "pet friendly",
+   "photoshoot",
+   "finished floor"
+  ],
+  "filename": "golden-retriever-flake-garage-floor"
+ },
+ "id": "d48e001b5a9e",
+ "provider": "kimi",
+ "model": "moonshotai/kimi-k3",
+ "mode": "run",
+ "blind": false,
+ "at": "2026-09-17T12:40:26"
+}

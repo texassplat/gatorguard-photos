@@ -1,0 +1,47 @@
+{
+ "finish": "stop",
+ "usage": {
+  "input_tokens": 5345,
+  "output_tokens": 231,
+  "cost": 0.0195
+ },
+ "served_by": "Parasail",
+ "label": {
+  "content": "floor_photo",
+  "area": "garage",
+  "setting": "residential",
+  "system": "full_flake",
+  "color": "Silverado",
+  "color_confidence": "medium",
+  "color_runner_up": "Infinity",
+  "color_description": "light to mid gray chips with white and black specks, small size",
+  "shot_type": "finished",
+  "people": "none",
+  "faces_identifiable": false,
+  "privacy": [],
+  "branding_visible": false,
+  "quality": "4",
+  "issues": [],
+  "website_ready": true,
+  "title": "Garage with gray full flake floor",
+  "alt_text": "Finished gray full flake garage floor with coated stem walls, wall shelves and storage bins",
+  "tags": [
+   "garage",
+   "full flake",
+   "gray flakes",
+   "finished floor",
+   "stem wall",
+   "wall shelving",
+   "storage",
+   "coated floor",
+   "clean"
+  ],
+  "filename": "garage-gray-full-flake-finished"
+ },
+ "id": "f3678b4cfcb7",
+ "provider": "kimi",
+ "model": "moonshotai/kimi-k3",
+ "mode": "run",
+ "blind": false,
+ "at": "2026-09-17T12:41:03"
+}

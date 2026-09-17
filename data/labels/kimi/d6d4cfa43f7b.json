@@ -1,0 +1,46 @@
+{
+ "finish": "stop",
+ "usage": {
+  "input_tokens": 5072,
+  "output_tokens": 223,
+  "cost": 0.018561
+ },
+ "served_by": "Parasail",
+ "label": {
+  "content": "floor_photo",
+  "area": "basement",
+  "setting": "residential",
+  "system": "metallic",
+  "color": "Cappuccino",
+  "color_confidence": "medium",
+  "color_runner_up": "Copper",
+  "color_description": "brown metallic swirl with lighter tan marbling, no chips",
+  "shot_type": "finished",
+  "people": "none",
+  "faces_identifiable": false,
+  "privacy": [],
+  "branding_visible": false,
+  "quality": "4",
+  "issues": [],
+  "website_ready": true,
+  "title": "Brown metallic epoxy floor in basement room",
+  "alt_text": "Brown marbled metallic epoxy floor in a room with red and beige walls, metallic epoxy floor coating",
+  "tags": [
+   "metallic epoxy",
+   "brown metallic",
+   "marbled floor",
+   "basement floor",
+   "liquid art",
+   "red wall",
+   "reflective floor",
+   "interior floor"
+  ],
+  "filename": "brown-metallic-epoxy-basement-floor"
+ },
+ "id": "d6d4cfa43f7b",
+ "provider": "kimi",
+ "model": "moonshotai/kimi-k3",
+ "mode": "run",
+ "blind": false,
+ "at": "2026-09-17T12:51:14"
+}

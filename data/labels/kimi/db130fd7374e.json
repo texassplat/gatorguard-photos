@@ -1,0 +1,48 @@
+{
+ "finish": "stop",
+ "usage": {
+  "input_tokens": 5329,
+  "output_tokens": 257,
+  "cost": 0.019842
+ },
+ "served_by": "Parasail",
+ "label": {
+  "content": "floor_photo",
+  "area": "not_visible",
+  "setting": "unknown",
+  "system": "full_flake",
+  "color": "Granite",
+  "color_confidence": "low",
+  "color_runner_up": "Silver Butte",
+  "color_description": "fine gray, white and dark speckled chips on gray base",
+  "shot_type": "close_up",
+  "people": "none",
+  "faces_identifiable": false,
+  "privacy": [],
+  "branding_visible": false,
+  "quality": "4",
+  "issues": [
+   "dark"
+  ],
+  "website_ready": false,
+  "title": "Close up of gray full flake floor with saw cut joints",
+  "alt_text": "Close up of a gray full flake garage floor coating with fine gray and white chips and saw cut control joints",
+  "tags": [
+   "close up",
+   "full flake",
+   "gray floor",
+   "fine chips",
+   "saw cut joints",
+   "garage floor",
+   "control joints",
+   "speckled"
+  ],
+  "filename": "gray-full-flake-floor-close-up"
+ },
+ "id": "db130fd7374e",
+ "provider": "kimi",
+ "model": "moonshotai/kimi-k3",
+ "mode": "run",
+ "blind": false,
+ "at": "2026-09-17T12:33:04"
+}

@@ -1,0 +1,46 @@
+{
+ "finish": "stop",
+ "usage": {
+  "input_tokens": 4926,
+  "output_tokens": 261,
+  "cost": 0.018693
+ },
+ "served_by": "Parasail",
+ "label": {
+  "content": "floor_photo",
+  "area": "not_visible",
+  "setting": "unknown",
+  "system": "metallic",
+  "color": "Denim",
+  "color_confidence": "medium",
+  "color_runner_up": "Gray",
+  "color_description": "swirled blue-gray metallic with darker marbling, glossy",
+  "shot_type": "finished",
+  "people": "none",
+  "faces_identifiable": false,
+  "privacy": [],
+  "branding_visible": false,
+  "quality": "4",
+  "issues": [],
+  "website_ready": true,
+  "title": "Blue metallic epoxy floor by white block wall",
+  "alt_text": "Blue-gray swirled metallic epoxy floor with white painted block wall, Liquid Art metallic floor coating",
+  "tags": [
+   "metallic",
+   "liquid art",
+   "blue floor",
+   "swirled",
+   "marbled",
+   "glossy",
+   "block wall",
+   "epoxy floor"
+  ],
+  "filename": "blue-metallic-epoxy-floor-block-wall"
+ },
+ "id": "dee9ee1e756e",
+ "provider": "kimi",
+ "model": "moonshotai/kimi-k3",
+ "mode": "run",
+ "blind": false,
+ "at": "2026-09-17T12:49:46"
+}

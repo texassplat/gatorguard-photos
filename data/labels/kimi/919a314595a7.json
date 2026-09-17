@@ -1,0 +1,48 @@
+{
+ "finish": "stop",
+ "usage": {
+  "input_tokens": 5257,
+  "output_tokens": 177,
+  "cost": 0.006835695
+ },
+ "served_by": "Morph",
+ "label": {
+  "content": "floor_photo",
+  "area": "interior_room",
+  "setting": "unknown",
+  "system": "tile_coating",
+  "color": "Quartzite",
+  "color_confidence": "medium",
+  "color_runner_up": "Gun Metal",
+  "color_description": "dark charcoal base with fine white and light gray chips, speckled peppered look",
+  "shot_type": "finished",
+  "people": "none",
+  "faces_identifiable": false,
+  "privacy": [],
+  "branding_visible": false,
+  "quality": "3",
+  "issues": [],
+  "website_ready": false,
+  "title": "Bathroom floor with dark gray flake tile coating",
+  "alt_text": "Dark gray flake-coated bathroom floor with white tile walls and a floating vanity, tile floor coating",
+  "tags": [
+   "tile coating",
+   "bathroom floor",
+   "dark gray",
+   "white chips",
+   "flake floor",
+   "white tile walls",
+   "vanity",
+   "small room",
+   "finished floor",
+   "fine chips"
+  ],
+  "filename": "dark-gray-flake-tile-bathroom-floor"
+ },
+ "id": "919a314595a7",
+ "provider": "kimi",
+ "model": "moonshotai/kimi-k3",
+ "mode": "run",
+ "blind": false,
+ "at": "2026-09-17T12:58:12"
+}

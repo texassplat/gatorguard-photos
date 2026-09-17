@@ -1,0 +1,48 @@
+{
+ "finish": "stop",
+ "usage": {
+  "input_tokens": 5256,
+  "output_tokens": 187,
+  "cost": 0.00693882
+ },
+ "served_by": "Morph",
+ "label": {
+  "content": "floor_photo",
+  "area": "driveway_or_walkway",
+  "setting": "residential",
+  "system": "poly_enhance",
+  "color": "not_applicable",
+  "color_confidence": "none",
+  "color_runner_up": "not_applicable",
+  "color_description": "no coating color visible, wet-look sealer over red-brown paver bricks",
+  "shot_type": "finished",
+  "people": "none",
+  "faces_identifiable": false,
+  "privacy": [],
+  "branding_visible": false,
+  "quality": "4",
+  "issues": [],
+  "website_ready": true,
+  "title": "Sealed brick paver walkway with wet-look finish",
+  "alt_text": "Brick paver front walkway with glossy wet-look sealer beside lawn and mulch beds, poly enhance sealer",
+  "tags": [
+   "walkway",
+   "pavers",
+   "brick pavers",
+   "wet look",
+   "sealer",
+   "front yard",
+   "residential",
+   "landscaping",
+   "curved path",
+   "finished"
+  ],
+  "filename": "sealed-brick-paver-front-walkway"
+ },
+ "id": "a171df48e86a",
+ "provider": "kimi",
+ "model": "moonshotai/kimi-k3",
+ "mode": "run",
+ "blind": false,
+ "at": "2026-09-17T12:56:22"
+}

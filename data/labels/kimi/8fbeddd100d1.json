@@ -1,0 +1,47 @@
+{
+ "finish": "stop",
+ "usage": {
+  "input_tokens": 5334,
+  "output_tokens": 245,
+  "cost": 0.0105186
+ },
+ "served_by": "Together",
+ "label": {
+  "content": "floor_photo",
+  "area": "garage",
+  "setting": "residential",
+  "system": "full_flake",
+  "color": "unknown",
+  "color_confidence": "low",
+  "color_runner_up": "Gun Metal",
+  "color_description": "very dark, nearly black floor with fine light speckling under a glossy clear coat",
+  "shot_type": "close_up",
+  "people": "none",
+  "faces_identifiable": false,
+  "privacy": [],
+  "branding_visible": false,
+  "quality": "4",
+  "issues": [],
+  "website_ready": true,
+  "title": "Close up of tool joint in dark garage floor",
+  "alt_text": "Low angle close up of a cut tool joint in a glossy dark coated garage floor with a work truck outside",
+  "tags": [
+   "tool joint",
+   "cut line",
+   "close up",
+   "garage floor",
+   "dark floor",
+   "glossy finish",
+   "work truck",
+   "blue shelving",
+   "full flake"
+  ],
+  "filename": "garage-floor-tool-joint-close-up"
+ },
+ "id": "8fbeddd100d1",
+ "provider": "kimi",
+ "model": "moonshotai/kimi-k3",
+ "mode": "run",
+ "blind": false,
+ "at": "2026-09-17T12:35:39"
+}

@@ -1,0 +1,49 @@
+{
+ "finish": "stop",
+ "usage": {
+  "input_tokens": 4920,
+  "output_tokens": 219,
+  "cost": 0.0088866
+ },
+ "served_by": "Together",
+ "label": {
+  "content": "document_or_screenshot",
+  "area": "interior_room",
+  "setting": "residential",
+  "system": "metallic",
+  "color": "Cappuccino",
+  "color_confidence": "low",
+  "color_runner_up": "Copper",
+  "color_description": "brown and tan swirled metallic epoxy, marbled coffee tones",
+  "shot_type": "finished",
+  "people": "none",
+  "faces_identifiable": false,
+  "privacy": [],
+  "branding_visible": false,
+  "quality": "2",
+  "issues": [
+   "text_overlay",
+   "low_resolution"
+  ],
+  "website_ready": false,
+  "title": "Brown metallic epoxy floor in home hallway",
+  "alt_text": "Screenshot of a brown and tan swirled metallic epoxy floor in a residential hallway, metallic epoxy floor coating",
+  "tags": [
+   "metallic epoxy",
+   "liquid art",
+   "brown metallic",
+   "swirled floor",
+   "hallway",
+   "interior floor",
+   "screenshot",
+   "glossy floor"
+  ],
+  "filename": "brown-metallic-epoxy-hallway-screenshot"
+ },
+ "id": "dcbcb3a154ad",
+ "provider": "kimi",
+ "model": "moonshotai/kimi-k3",
+ "mode": "run",
+ "blind": false,
+ "at": "2026-09-17T12:51:17"
+}

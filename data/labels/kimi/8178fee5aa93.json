@@ -1,0 +1,46 @@
+{
+ "finish": "stop",
+ "usage": {
+  "input_tokens": 5321,
+  "output_tokens": 226,
+  "cost": 0.0101946
+ },
+ "served_by": "Together",
+ "label": {
+  "content": "floor_photo",
+  "area": "basement",
+  "setting": "residential",
+  "system": "solid_color_chip",
+  "color": "unknown",
+  "color_confidence": "low",
+  "color_runner_up": "Aurora",
+  "color_description": "light gray chips, small to medium size, uniform speckled look",
+  "shot_type": "finished",
+  "people": "none",
+  "faces_identifiable": false,
+  "privacy": [],
+  "branding_visible": false,
+  "quality": "4",
+  "issues": [],
+  "website_ready": true,
+  "title": "Basement with light gray solid color chip floor",
+  "alt_text": "Finished basement with light gray solid color chip floor coating, support poles and punching bag",
+  "tags": [
+   "basement",
+   "solid color chip",
+   "gray floor",
+   "finished floor",
+   "support poles",
+   "punching bag",
+   "interior",
+   "speckled gray"
+  ],
+  "filename": "basement-light-gray-solid-color-chip"
+ },
+ "id": "8178fee5aa93",
+ "provider": "kimi",
+ "model": "moonshotai/kimi-k3",
+ "mode": "run",
+ "blind": false,
+ "at": "2026-09-17T12:57:20"
+}

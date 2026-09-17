@@ -1,0 +1,46 @@
+{
+ "finish": "stop",
+ "usage": {
+  "input_tokens": 5398,
+  "output_tokens": 234,
+  "cost": 0.019704
+ },
+ "served_by": "Parasail",
+ "label": {
+  "content": "floor_photo",
+  "area": "garage",
+  "setting": "residential",
+  "system": "full_flake",
+  "color": "Granite",
+  "color_confidence": "medium",
+  "color_runner_up": "Quartzite",
+  "color_description": "gray base with fine black, white and gray chips, medium density",
+  "shot_type": "finished",
+  "people": "none",
+  "faces_identifiable": false,
+  "privacy": [],
+  "branding_visible": false,
+  "quality": "4",
+  "issues": [],
+  "website_ready": true,
+  "title": "Garage with gray full flake floor and stem wall",
+  "alt_text": "Finished garage floor in gray full flake coating with coated stem wall and entry steps",
+  "tags": [
+   "garage",
+   "full flake",
+   "gray floor",
+   "gray chips",
+   "stem wall",
+   "finished floor",
+   "residential",
+   "garage floor coating"
+  ],
+  "filename": "garage-gray-full-flake-floor"
+ },
+ "id": "bcef5bedb324",
+ "provider": "kimi",
+ "model": "moonshotai/kimi-k3",
+ "mode": "run",
+ "blind": false,
+ "at": "2026-09-17T12:44:26"
+}

@@ -1,0 +1,48 @@
+{
+ "finish": "stop",
+ "usage": {
+  "input_tokens": 5256,
+  "output_tokens": 168,
+  "cost": 0.00673932
+ },
+ "served_by": "Morph",
+ "label": {
+  "content": "floor_photo",
+  "area": "other_exterior",
+  "setting": "residential",
+  "system": "poly_enhance",
+  "color": "unknown",
+  "color_confidence": "none",
+  "color_runner_up": "unknown",
+  "color_description": "gray concrete with exposed tan, brown and gray pebble aggregate",
+  "shot_type": "close_up",
+  "people": "none",
+  "faces_identifiable": false,
+  "privacy": [],
+  "branding_visible": false,
+  "quality": "3",
+  "issues": [
+   "blurry"
+  ],
+  "website_ready": false,
+  "title": "Low angle of sealed exposed aggregate surface",
+  "alt_text": "Low angle close-up of a glossy wet-look sealed exposed aggregate surface outdoors",
+  "tags": [
+   "poly enhance",
+   "wet look sealer",
+   "exposed aggregate",
+   "close up",
+   "outdoor concrete",
+   "glossy finish",
+   "low angle",
+   "sealed concrete"
+  ],
+  "filename": "sealed-exposed-aggregate-low-angle"
+ },
+ "id": "e7b0e9474ad2",
+ "provider": "kimi",
+ "model": "moonshotai/kimi-k3",
+ "mode": "run",
+ "blind": false,
+ "at": "2026-09-17T12:56:03"
+}

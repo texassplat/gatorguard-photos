@@ -1,0 +1,46 @@
+{
+ "finish": "stop",
+ "usage": {
+  "input_tokens": 5219,
+  "output_tokens": 306,
+  "cost": 0.020247
+ },
+ "served_by": "Parasail",
+ "label": {
+  "content": "floor_photo",
+  "area": "basement",
+  "setting": "residential",
+  "system": "metallic",
+  "color": "Charcoal",
+  "color_confidence": "medium",
+  "color_runner_up": "Gray",
+  "color_description": "swirled gray and brown metallic epoxy with high gloss",
+  "shot_type": "finished",
+  "people": "none",
+  "faces_identifiable": false,
+  "privacy": [],
+  "branding_visible": false,
+  "quality": "5",
+  "issues": [],
+  "website_ready": true,
+  "title": "Metallic epoxy basement floor by carpeted staircase",
+  "alt_text": "Glossy gray metallic epoxy basement floor reflecting a carpeted staircase and white columns, metallic floor coating",
+  "tags": [
+   "metallic epoxy",
+   "basement floor",
+   "gray metallic",
+   "high gloss",
+   "reflective floor",
+   "staircase",
+   "finished floor",
+   "swirl pattern"
+  ],
+  "filename": "metallic-basement-floor-carpeted-staircase"
+ },
+ "id": "d35c194b80c7",
+ "provider": "kimi",
+ "model": "moonshotai/kimi-k3",
+ "mode": "run",
+ "blind": false,
+ "at": "2026-09-17T12:50:45"
+}

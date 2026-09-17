@@ -1,0 +1,46 @@
+{
+ "finish": "stop",
+ "usage": {
+  "input_tokens": 5313,
+  "output_tokens": 191,
+  "cost": 0.0096456
+ },
+ "served_by": "Together",
+ "label": {
+  "content": "floor_photo",
+  "area": "basement",
+  "setting": "residential",
+  "system": "solid_color",
+  "color": "unknown",
+  "color_confidence": "none",
+  "color_runner_up": "not_applicable",
+  "color_description": "glossy white coating being rolled out, no chips",
+  "shot_type": "in_progress",
+  "people": "prominent",
+  "faces_identifiable": false,
+  "privacy": [],
+  "branding_visible": false,
+  "quality": "4",
+  "issues": [],
+  "website_ready": false,
+  "title": "Worker rolling white epoxy coating in basement",
+  "alt_text": "Worker rolling a glossy white coating across a basement floor with support poles and painted block walls",
+  "tags": [
+   "basement",
+   "white coating",
+   "in progress",
+   "rolling epoxy",
+   "support poles",
+   "painted block walls",
+   "exposed ceiling",
+   "crew working"
+  ],
+  "filename": "worker-rolling-white-basement-coating"
+ },
+ "id": "8bf8d1b56ba8",
+ "provider": "kimi",
+ "model": "moonshotai/kimi-k3",
+ "mode": "run",
+ "blind": false,
+ "at": "2026-09-17T12:54:26"
+}

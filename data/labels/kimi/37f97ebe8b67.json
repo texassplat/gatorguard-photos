@@ -1,0 +1,47 @@
+{
+ "finish": "stop",
+ "usage": {
+  "input_tokens": 5332,
+  "output_tokens": 306,
+  "cost": 0.0114276
+ },
+ "served_by": "Together",
+ "label": {
+  "content": "floor_photo",
+  "area": "garage",
+  "setting": "residential",
+  "system": "full_flake",
+  "color": "Ocotillo",
+  "color_confidence": "low",
+  "color_runner_up": "Santana",
+  "color_description": "mostly tan chips with small black and white specks, fine to medium size",
+  "shot_type": "finished",
+  "people": "none",
+  "faces_identifiable": false,
+  "privacy": [],
+  "branding_visible": false,
+  "quality": "4",
+  "issues": [],
+  "website_ready": true,
+  "title": "Garage with tan full flake floor and saw cuts",
+  "alt_text": "Finished garage floor with tan full flake coating, saw cut lines and sunlight shadows, full flake garage floor coating",
+  "tags": [
+   "garage",
+   "full flake",
+   "tan chips",
+   "saw cut lines",
+   "unfinished drywall",
+   "exposed studs",
+   "sunlight",
+   "finished floor",
+   "entry steps"
+  ],
+  "filename": "garage-tan-full-flake-saw-cuts"
+ },
+ "id": "37f97ebe8b67",
+ "provider": "kimi",
+ "model": "moonshotai/kimi-k3",
+ "mode": "run",
+ "blind": false,
+ "at": "2026-09-17T12:40:53"
+}

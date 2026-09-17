@@ -1,0 +1,45 @@
+{
+ "finish": "stop",
+ "usage": {
+  "input_tokens": 5252,
+  "output_tokens": 260,
+  "cost": 0.00970936
+ },
+ "served_by": "DigitalOcean",
+ "label": {
+  "alt_text": "Close up of a glossy full flake coated floor with white, gray, black and tan chips",
+  "area": "not_visible",
+  "branding_visible": false,
+  "color": "Stone Rowe",
+  "color_confidence": "medium",
+  "color_description": "white, gray, black and tan chips, medium to small size",
+  "color_runner_up": "Quartzite",
+  "content": "floor_photo",
+  "faces_identifiable": false,
+  "filename": "close-up-tan-gray-flake-floor",
+  "issues": [],
+  "people": "none",
+  "privacy": [],
+  "quality": "3",
+  "setting": "unknown",
+  "shot_type": "close_up",
+  "system": "full_flake",
+  "tags": [
+   "full flake",
+   "close up",
+   "glossy",
+   "white base",
+   "tan and black chips",
+   "clear coat",
+   "floor detail"
+  ],
+  "title": "Close up of glossy white and tan flake floor",
+  "website_ready": false
+ },
+ "id": "67f7d858e912",
+ "provider": "kimi",
+ "model": "moonshotai/kimi-k3",
+ "mode": "run",
+ "blind": false,
+ "at": "2026-09-17T12:33:00"
+}

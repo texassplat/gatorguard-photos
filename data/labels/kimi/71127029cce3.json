@@ -1,0 +1,46 @@
+{
+ "finish": "stop",
+ "usage": {
+  "input_tokens": 5324,
+  "output_tokens": 257,
+  "cost": 0.019827
+ },
+ "served_by": "Parasail",
+ "label": {
+  "content": "floor_photo",
+  "area": "garage",
+  "setting": "residential",
+  "system": "full_flake",
+  "color": "Ocotillo",
+  "color_confidence": "medium",
+  "color_runner_up": "Santana",
+  "color_description": "light tan base with fine tan, brown and black chips",
+  "shot_type": "finished",
+  "people": "none",
+  "faces_identifiable": false,
+  "privacy": [],
+  "branding_visible": false,
+  "quality": "4",
+  "issues": [],
+  "website_ready": true,
+  "title": "Garage with tan full flake floor and coated steps",
+  "alt_text": "Garage with light tan full flake floor coating, coated stem walls and steps, open door to driveway",
+  "tags": [
+   "garage",
+   "full flake",
+   "tan chips",
+   "coated steps",
+   "stem wall",
+   "finished floor",
+   "residential",
+   "glossy"
+  ],
+  "filename": "garage-tan-full-flake-floor"
+ },
+ "id": "71127029cce3",
+ "provider": "kimi",
+ "model": "moonshotai/kimi-k3",
+ "mode": "run",
+ "blind": false,
+ "at": "2026-09-17T12:44:59"
+}

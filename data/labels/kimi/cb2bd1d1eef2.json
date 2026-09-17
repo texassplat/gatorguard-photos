@@ -1,0 +1,48 @@
+{
+ "finish": "stop",
+ "usage": {
+  "input_tokens": 5325,
+  "output_tokens": 327,
+  "cost": 0.02088
+ },
+ "served_by": "Parasail",
+ "label": {
+  "content": "floor_photo",
+  "area": "garage",
+  "setting": "residential",
+  "system": "full_flake",
+  "color": "Stone Ridge",
+  "color_confidence": "medium",
+  "color_runner_up": "Stone Crest",
+  "color_description": "gray, black and white chips with tan and rust brown accents, medium size",
+  "shot_type": "crew_working",
+  "people": "background",
+  "faces_identifiable": false,
+  "privacy": [],
+  "branding_visible": false,
+  "quality": "4",
+  "issues": [],
+  "website_ready": false,
+  "title": "Crew working on gray flake garage floor",
+  "alt_text": "Low angle view of a gray full flake garage floor with tan and rust chips while two workers coat along the wall",
+  "tags": [
+   "garage",
+   "full flake",
+   "gray chips",
+   "rust brown chips",
+   "crew working",
+   "low angle",
+   "wet clear coat",
+   "floor coating",
+   "residential",
+   "vent"
+  ],
+  "filename": "crew-coating-gray-flake-garage-floor"
+ },
+ "id": "cb2bd1d1eef2",
+ "provider": "kimi",
+ "model": "moonshotai/kimi-k3",
+ "mode": "run",
+ "blind": false,
+ "at": "2026-09-17T12:44:20"
+}

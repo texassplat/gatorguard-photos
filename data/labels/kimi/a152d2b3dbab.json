@@ -1,0 +1,47 @@
+{
+ "finish": "stop",
+ "usage": {
+  "input_tokens": 5328,
+  "output_tokens": 365,
+  "cost": 0.021459
+ },
+ "served_by": "Parasail",
+ "label": {
+  "content": "floor_photo",
+  "area": "garage",
+  "setting": "unknown",
+  "system": "full_flake",
+  "color": "Windermere",
+  "color_confidence": "medium",
+  "color_runner_up": "Sedona",
+  "color_description": "white and tan chips with brown, black and rust accents, small to medium size",
+  "shot_type": "close_up",
+  "people": "none",
+  "faces_identifiable": false,
+  "privacy": [],
+  "branding_visible": false,
+  "quality": "4",
+  "issues": [],
+  "website_ready": true,
+  "title": "Close-up of tan and brown full flake floor",
+  "alt_text": "Low angle close-up of a glossy full flake floor with tan, brown, black and white chips",
+  "tags": [
+   "full flake",
+   "close up",
+   "glossy",
+   "tan chips",
+   "brown chips",
+   "black chips",
+   "white chips",
+   "clear coat",
+   "floor detail"
+  ],
+  "filename": "close-up-tan-brown-full-flake-floor"
+ },
+ "id": "a152d2b3dbab",
+ "provider": "kimi",
+ "model": "moonshotai/kimi-k3",
+ "mode": "run",
+ "blind": false,
+ "at": "2026-09-17T12:32:45"
+}

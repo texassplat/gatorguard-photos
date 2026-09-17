@@ -1,0 +1,46 @@
+{
+ "finish": "stop",
+ "usage": {
+  "input_tokens": 5348,
+  "output_tokens": 274,
+  "cost": 0.020154
+ },
+ "served_by": "Parasail",
+ "label": {
+  "content": "floor_photo",
+  "area": "basement",
+  "setting": "residential",
+  "system": "full_flake",
+  "color": "Gold Mine",
+  "color_confidence": "medium",
+  "color_runner_up": "Zircon",
+  "color_description": "gray base with white, black and light gray chips, small to medium size, glossy finish",
+  "shot_type": "finished",
+  "people": "none",
+  "faces_identifiable": false,
+  "privacy": [],
+  "branding_visible": false,
+  "quality": "4",
+  "issues": [],
+  "website_ready": true,
+  "title": "Basement with gray full flake floor",
+  "alt_text": "Basement with glossy gray full flake floor, support post, stairs and hanging coats, full flake basement floor coating",
+  "tags": [
+   "basement",
+   "full flake",
+   "gray chips",
+   "glossy floor",
+   "support post",
+   "stairs",
+   "finished floor",
+   "residential"
+  ],
+  "filename": "basement-gray-full-flake-floor"
+ },
+ "id": "bfcae343544c",
+ "provider": "kimi",
+ "model": "moonshotai/kimi-k3",
+ "mode": "run",
+ "blind": false,
+ "at": "2026-09-17T12:30:55"
+}

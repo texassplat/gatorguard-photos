@@ -1,0 +1,48 @@
+{
+ "finish": "stop",
+ "usage": {
+  "input_tokens": 5331,
+  "output_tokens": 374,
+  "cost": 0.01483896598464
+ },
+ "served_by": "Makora",
+ "label": {
+  "content": "floor_photo",
+  "area": "patio_or_porch",
+  "setting": "residential",
+  "system": "full_flake",
+  "color": "Stone Ridge",
+  "color_confidence": "medium",
+  "color_runner_up": "Stone Rowe",
+  "color_description": "small gray, white and tan chips with a few brown and red flecks on a light base",
+  "shot_type": "finished",
+  "people": "none",
+  "faces_identifiable": false,
+  "privacy": [],
+  "branding_visible": false,
+  "quality": "4",
+  "issues": [],
+  "website_ready": true,
+  "title": "Back patio with light gray full flake floor",
+  "alt_text": "Coated concrete patio with light gray, white and tan flake finish behind a brick house, full flake patio floor",
+  "tags": [
+   "patio",
+   "exterior",
+   "full flake",
+   "gray chips",
+   "tan chips",
+   "brick house",
+   "backyard",
+   "finished floor",
+   "sunny day",
+   "wood fence"
+  ],
+  "filename": "back-patio-gray-full-flake-floor"
+ },
+ "id": "bd39d1d5c72c",
+ "provider": "kimi",
+ "model": "moonshotai/kimi-k3",
+ "mode": "run",
+ "blind": false,
+ "at": "2026-09-17T12:37:08"
+}

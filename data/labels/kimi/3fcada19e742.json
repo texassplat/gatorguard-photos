@@ -1,0 +1,46 @@
+{
+ "finish": "stop",
+ "usage": {
+  "input_tokens": 5325,
+  "output_tokens": 338,
+  "cost": 0.021045
+ },
+ "served_by": "Parasail",
+ "label": {
+  "content": "floor_photo",
+  "area": "garage",
+  "setting": "residential",
+  "system": "full_flake",
+  "color": "Chestnut",
+  "color_confidence": "medium",
+  "color_runner_up": "Ocotillo",
+  "color_description": "warm tan and brown chips with black and gray specks, small to medium size, dense broadcast",
+  "shot_type": "finished",
+  "people": "none",
+  "faces_identifiable": false,
+  "privacy": [],
+  "branding_visible": false,
+  "quality": "4",
+  "issues": [],
+  "website_ready": true,
+  "title": "Garage with warm brown full flake floor",
+  "alt_text": "Finished full flake garage floor with warm brown and tan chips against unfinished OSB walls",
+  "tags": [
+   "garage",
+   "full flake",
+   "brown chips",
+   "tan chips",
+   "osb walls",
+   "unfinished walls",
+   "stem wall",
+   "finished floor"
+  ],
+  "filename": "garage-brown-full-flake-floor"
+ },
+ "id": "3fcada19e742",
+ "provider": "kimi",
+ "model": "moonshotai/kimi-k3",
+ "mode": "run",
+ "blind": false,
+ "at": "2026-09-17T12:44:33"
+}

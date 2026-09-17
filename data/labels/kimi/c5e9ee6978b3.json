@@ -1,0 +1,48 @@
+{
+ "finish": "stop",
+ "usage": {
+  "input_tokens": 5340,
+  "output_tokens": 273,
+  "cost": 0.020115
+ },
+ "served_by": "Parasail",
+ "label": {
+  "content": "floor_photo",
+  "area": "garage",
+  "setting": "residential",
+  "system": "full_flake",
+  "color": "Granite",
+  "color_confidence": "medium",
+  "color_runner_up": "Avalon",
+  "color_description": "gray base with white, gray and black chips, small to medium size",
+  "shot_type": "finished",
+  "people": "none",
+  "faces_identifiable": false,
+  "privacy": [],
+  "branding_visible": false,
+  "quality": "3",
+  "issues": [
+   "cluttered"
+  ],
+  "website_ready": false,
+  "title": "Garage with gray full flake floor and workbench",
+  "alt_text": "Garage with gray full flake floor coating, workbench, cabinets and windows along the wall",
+  "tags": [
+   "garage",
+   "full flake",
+   "gray floor",
+   "white gray black chips",
+   "workbench",
+   "cabinets",
+   "windows",
+   "finished floor"
+  ],
+  "filename": "garage-gray-full-flake-workbench"
+ },
+ "id": "c5e9ee6978b3",
+ "provider": "kimi",
+ "model": "moonshotai/kimi-k3",
+ "mode": "run",
+ "blind": false,
+ "at": "2026-09-17T12:41:30"
+}

@@ -1,0 +1,47 @@
+{
+ "finish": "stop",
+ "usage": {
+  "input_tokens": 5317,
+  "output_tokens": 248,
+  "cost": 0.0105126
+ },
+ "served_by": "Together",
+ "label": {
+  "content": "floor_photo",
+  "area": "commercial_or_industrial",
+  "setting": "commercial",
+  "system": "full_flake",
+  "color": "Black Canyon",
+  "color_confidence": "medium",
+  "color_runner_up": "Gun Metal",
+  "color_description": "black base with small white and gray chips, fine speckle",
+  "shot_type": "finished",
+  "people": "none",
+  "faces_identifiable": false,
+  "privacy": [],
+  "branding_visible": false,
+  "quality": "4",
+  "issues": [],
+  "website_ready": true,
+  "title": "Commercial room with black full flake floor",
+  "alt_text": "Commercial interior with a glossy black full flake floor, white doors and a mounted deer head on a post",
+  "tags": [
+   "commercial",
+   "full flake",
+   "black floor",
+   "white and gray chips",
+   "glossy",
+   "interior",
+   "finished floor",
+   "doors",
+   "taxidermy"
+  ],
+  "filename": "commercial-black-full-flake-floor"
+ },
+ "id": "9192bafc2595",
+ "provider": "kimi",
+ "model": "moonshotai/kimi-k3",
+ "mode": "run",
+ "blind": false,
+ "at": "2026-09-17T12:34:53"
+}

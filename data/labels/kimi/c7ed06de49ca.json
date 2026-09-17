@@ -1,0 +1,46 @@
+{
+ "finish": "stop",
+ "usage": {
+  "input_tokens": 5346,
+  "output_tokens": 228,
+  "cost": 0.019458
+ },
+ "served_by": "Parasail",
+ "label": {
+  "content": "floor_photo",
+  "area": "not_visible",
+  "setting": "unknown",
+  "system": "full_flake",
+  "color": "Chestnut",
+  "color_confidence": "low",
+  "color_runner_up": "Santana",
+  "color_description": "warm brown base with small tan, cream and dark brown chips, fine chip size",
+  "shot_type": "close_up",
+  "people": "none",
+  "faces_identifiable": false,
+  "privacy": [],
+  "branding_visible": false,
+  "quality": "4",
+  "issues": [],
+  "website_ready": true,
+  "title": "Close up of glossy brown full flake floor",
+  "alt_text": "Close up of a glossy brown full flake floor coating with fine tan and dark brown chips",
+  "tags": [
+   "close up",
+   "full flake",
+   "brown chips",
+   "tan chips",
+   "glossy",
+   "fine chips",
+   "flake texture",
+   "coated floor"
+  ],
+  "filename": "close-up-brown-full-flake-floor"
+ },
+ "id": "c7ed06de49ca",
+ "provider": "kimi",
+ "model": "moonshotai/kimi-k3",
+ "mode": "run",
+ "blind": false,
+ "at": "2026-09-17T12:32:03"
+}

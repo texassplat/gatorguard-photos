@@ -1,0 +1,46 @@
+{
+ "finish": "stop",
+ "usage": {
+  "input_tokens": 5332,
+  "output_tokens": 281,
+  "cost": 0.020211
+ },
+ "served_by": "Parasail",
+ "label": {
+  "content": "floor_photo",
+  "area": "interior_room",
+  "setting": "residential",
+  "system": "metallic",
+  "color": "Gray",
+  "color_confidence": "medium",
+  "color_runner_up": "Silverado",
+  "color_description": "swirled metallic silver gray and white, marbled reflective finish, no chips",
+  "shot_type": "finished",
+  "people": "none",
+  "faces_identifiable": false,
+  "privacy": [],
+  "branding_visible": false,
+  "quality": "4",
+  "issues": [],
+  "website_ready": true,
+  "title": "Gray metallic epoxy floor in white interior room",
+  "alt_text": "Swirled gray and white metallic epoxy floor in a room with white walls and open door, metallic floor coating",
+  "tags": [
+   "metallic epoxy",
+   "gray metallic",
+   "marbled floor",
+   "interior room",
+   "swirl pattern",
+   "glossy floor",
+   "white walls",
+   "liquid art"
+  ],
+  "filename": "gray-metallic-epoxy-interior-room"
+ },
+ "id": "507194f42218",
+ "provider": "kimi",
+ "model": "moonshotai/kimi-k3",
+ "mode": "run",
+ "blind": false,
+ "at": "2026-09-17T12:50:57"
+}

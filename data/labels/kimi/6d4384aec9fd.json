@@ -1,0 +1,46 @@
+{
+ "finish": "stop",
+ "usage": {
+  "input_tokens": 5256,
+  "output_tokens": 239,
+  "cost": 0.00748482
+ },
+ "served_by": "Morph",
+ "label": {
+  "content": "floor_photo",
+  "area": "basement",
+  "setting": "residential",
+  "system": "solid_color_chip",
+  "color": "unknown",
+  "color_confidence": "low",
+  "color_runner_up": "Shalestone",
+  "color_description": "small tan and beige chips, dense and fairly uniform",
+  "shot_type": "finished",
+  "people": "none",
+  "faces_identifiable": false,
+  "privacy": [],
+  "branding_visible": false,
+  "quality": "3",
+  "issues": [],
+  "website_ready": false,
+  "title": "Basement hallway with tan solid color chip floor",
+  "alt_text": "Basement hallway and carpeted stairs with a tan solid color chip floor coating on the concrete",
+  "tags": [
+   "basement",
+   "solid color chip",
+   "tan chips",
+   "beige floor",
+   "hallway",
+   "stairs",
+   "residential",
+   "finished floor"
+  ],
+  "filename": "basement-hallway-tan-solid-color-chip"
+ },
+ "id": "6d4384aec9fd",
+ "provider": "kimi",
+ "model": "moonshotai/kimi-k3",
+ "mode": "run",
+ "blind": false,
+ "at": "2026-09-17T12:56:57"
+}

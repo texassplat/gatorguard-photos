@@ -1,0 +1,45 @@
+{
+ "finish": "stop",
+ "usage": {
+  "input_tokens": 5317,
+  "output_tokens": 308,
+  "cost": 0.020571
+ },
+ "served_by": "Parasail",
+ "label": {
+  "content": "floor_photo",
+  "area": "not_visible",
+  "setting": "unknown",
+  "system": "full_flake",
+  "color": "unknown",
+  "color_confidence": "low",
+  "color_runner_up": "unknown",
+  "color_description": "bright red base with sparse small white and light speckles",
+  "shot_type": "close_up",
+  "people": "none",
+  "faces_identifiable": false,
+  "privacy": [],
+  "branding_visible": false,
+  "quality": "3",
+  "issues": [],
+  "website_ready": false,
+  "title": "Close up of red flake coated floor",
+  "alt_text": "Close up of a glossy red floor coating with sparse white speckles",
+  "tags": [
+   "red floor",
+   "flake coating",
+   "close up",
+   "glossy",
+   "white speckles",
+   "old style",
+   "red epoxy floor"
+  ],
+  "filename": "red-flake-floor-close-up"
+ },
+ "id": "ce5970d77486",
+ "provider": "kimi",
+ "model": "moonshotai/kimi-k3",
+ "mode": "run",
+ "blind": false,
+ "at": "2026-09-17T12:54:05"
+}

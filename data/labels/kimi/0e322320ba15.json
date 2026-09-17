@@ -1,0 +1,46 @@
+{
+ "finish": "stop",
+ "usage": {
+  "input_tokens": 5328,
+  "output_tokens": 259,
+  "cost": 0.019869
+ },
+ "served_by": "Parasail",
+ "label": {
+  "content": "floor_photo",
+  "area": "not_visible",
+  "setting": "unknown",
+  "system": "full_flake",
+  "color": "Stone Crest",
+  "color_confidence": "low",
+  "color_runner_up": "Stone Ridge",
+  "color_description": "white, gray and black chips with scattered tan and rust accents, small to medium size",
+  "shot_type": "close_up",
+  "people": "none",
+  "faces_identifiable": false,
+  "privacy": [],
+  "branding_visible": false,
+  "quality": "4",
+  "issues": [],
+  "website_ready": true,
+  "title": "Close up of gray flake floor with rust accents",
+  "alt_text": "Close up of a glossy full flake floor with white, gray, black and rust colored chips",
+  "tags": [
+   "close up",
+   "full flake",
+   "gray floor",
+   "white chips",
+   "black chips",
+   "rust accents",
+   "glossy finish",
+   "flake texture"
+  ],
+  "filename": "close-up-gray-flake-floor"
+ },
+ "id": "0e322320ba15",
+ "provider": "kimi",
+ "model": "moonshotai/kimi-k3",
+ "mode": "run",
+ "blind": false,
+ "at": "2026-09-17T12:32:40"
+}

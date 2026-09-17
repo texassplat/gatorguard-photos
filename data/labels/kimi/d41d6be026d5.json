@@ -1,0 +1,48 @@
+{
+ "finish": "stop",
+ "usage": {
+  "input_tokens": 5329,
+  "output_tokens": 246,
+  "cost": 0.0105186
+ },
+ "served_by": "Together",
+ "label": {
+  "content": "floor_photo",
+  "area": "garage",
+  "setting": "residential",
+  "system": "full_flake",
+  "color": "Granite",
+  "color_confidence": "medium",
+  "color_runner_up": "Callisto",
+  "color_description": "gray, white and black chips, medium size",
+  "shot_type": "close_up",
+  "people": "none",
+  "faces_identifiable": false,
+  "privacy": [],
+  "branding_visible": false,
+  "quality": "4",
+  "issues": [],
+  "website_ready": true,
+  "title": "Low angle of gray full flake garage floor",
+  "alt_text": "Low angle close up of a gray, white and black full flake garage floor meeting bare concrete at the open garage door",
+  "tags": [
+   "garage",
+   "full flake",
+   "gray chips",
+   "black and white chips",
+   "low angle",
+   "garage door open",
+   "driveway edge",
+   "crisp line",
+   "finished floor",
+   "close up"
+  ],
+  "filename": "gray-full-flake-garage-floor-low-angle"
+ },
+ "id": "d41d6be026d5",
+ "provider": "kimi",
+ "model": "moonshotai/kimi-k3",
+ "mode": "run",
+ "blind": false,
+ "at": "2026-09-17T12:35:22"
+}

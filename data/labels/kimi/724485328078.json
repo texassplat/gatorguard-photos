@@ -1,0 +1,47 @@
+{
+ "finish": "stop",
+ "usage": {
+  "input_tokens": 4916,
+  "output_tokens": 242,
+  "cost": 0.0092196
+ },
+ "served_by": "Together",
+ "label": {
+  "content": "floor_photo",
+  "area": "interior_room",
+  "setting": "residential",
+  "system": "full_flake",
+  "color": "unknown",
+  "color_confidence": "low",
+  "color_runner_up": "Chestnut",
+  "color_description": "small brown, tan and black chips, fairly fine blend",
+  "shot_type": "close_up",
+  "people": "none",
+  "faces_identifiable": false,
+  "privacy": [],
+  "branding_visible": false,
+  "quality": "3",
+  "issues": [],
+  "website_ready": false,
+  "title": "Brown full flake floor meeting kitchen tile",
+  "alt_text": "Close view of a brown full flake coated floor next to a tiled kitchen area with a white refrigerator",
+  "tags": [
+   "full flake",
+   "interior floor",
+   "brown chips",
+   "tan chips",
+   "kitchen tile",
+   "transition",
+   "refrigerator",
+   "close up",
+   "residential"
+  ],
+  "filename": "brown-full-flake-floor-kitchen-tile"
+ },
+ "id": "724485328078",
+ "provider": "kimi",
+ "model": "moonshotai/kimi-k3",
+ "mode": "run",
+ "blind": false,
+ "at": "2026-09-17T12:33:04"
+}

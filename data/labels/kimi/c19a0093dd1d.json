@@ -1,0 +1,48 @@
+{
+ "finish": "stop",
+ "usage": {
+  "input_tokens": 5221,
+  "output_tokens": 282,
+  "cost": 0.019893
+ },
+ "served_by": "Parasail",
+ "label": {
+  "content": "floor_photo",
+  "area": "basement",
+  "setting": "residential",
+  "system": "metallic",
+  "color": "Charcoal",
+  "color_confidence": "high",
+  "color_runner_up": "Gray",
+  "color_description": "black and dark gray metallic epoxy with subtle swirled marbling, high gloss",
+  "shot_type": "finished",
+  "people": "none",
+  "faces_identifiable": false,
+  "privacy": [],
+  "branding_visible": false,
+  "quality": "4",
+  "issues": [],
+  "website_ready": true,
+  "title": "Basement bar with black metallic epoxy floor",
+  "alt_text": "Finished basement bar and seating area with a glossy black metallic epoxy floor",
+  "tags": [
+   "basement",
+   "metallic epoxy",
+   "black floor",
+   "bar",
+   "wine rack",
+   "glossy floor",
+   "swirled",
+   "finished",
+   "lounge",
+   "charcoal"
+  ],
+  "filename": "basement-bar-black-metallic-floor"
+ },
+ "id": "c19a0093dd1d",
+ "provider": "kimi",
+ "model": "moonshotai/kimi-k3",
+ "mode": "run",
+ "blind": false,
+ "at": "2026-09-17T12:50:31"
+}

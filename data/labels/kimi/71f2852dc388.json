@@ -1,0 +1,48 @@
+{
+ "finish": "stop",
+ "usage": {
+  "input_tokens": 5320,
+  "output_tokens": 219,
+  "cost": 0.0100866
+ },
+ "served_by": "Together",
+ "label": {
+  "content": "floor_photo",
+  "area": "garage",
+  "setting": "residential",
+  "system": "full_flake",
+  "color": "Granite",
+  "color_confidence": "low",
+  "color_runner_up": "unknown",
+  "color_description": "light gray, white and dark gray chips, small to medium size",
+  "shot_type": "in_progress",
+  "people": "prominent",
+  "faces_identifiable": true,
+  "privacy": [],
+  "branding_visible": false,
+  "quality": "4",
+  "issues": [],
+  "website_ready": false,
+  "title": "Crew member rolling topcoat on garage flake floor",
+  "alt_text": "Worker rolling clear topcoat over a gray full flake garage floor in a garage with plywood walls and windows",
+  "tags": [
+   "garage",
+   "full flake",
+   "topcoat rolling",
+   "in progress",
+   "gray chips",
+   "white chips",
+   "crew working",
+   "plywood walls",
+   "window",
+   "roller"
+  ],
+  "filename": "crew-rolling-topcoat-garage-flake-floor"
+ },
+ "id": "71f2852dc388",
+ "provider": "kimi",
+ "model": "moonshotai/kimi-k3",
+ "mode": "run",
+ "blind": false,
+ "at": "2026-09-17T12:44:17"
+}

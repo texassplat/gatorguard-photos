@@ -1,0 +1,48 @@
+{
+ "finish": "stop",
+ "usage": {
+  "input_tokens": 5141,
+  "output_tokens": 169,
+  "cost": 0.006534195
+ },
+ "served_by": "Morph",
+ "label": {
+  "content": "floor_photo",
+  "area": "not_visible",
+  "setting": "unknown",
+  "system": "full_flake",
+  "color": "unknown",
+  "color_confidence": "low",
+  "color_runner_up": "unknown",
+  "color_description": "gray base with black, white and tan chips, small to medium size",
+  "shot_type": "close_up",
+  "people": "none",
+  "faces_identifiable": false,
+  "privacy": [],
+  "branding_visible": false,
+  "quality": "3",
+  "issues": [
+   "wet_or_dirty"
+  ],
+  "website_ready": false,
+  "title": "Soda can spilling on flake floor",
+  "alt_text": "Red soda can on its side spilling onto a gray flake epoxy garage floor coating",
+  "tags": [
+   "spill test",
+   "soda can",
+   "full flake",
+   "gray flake",
+   "easy clean",
+   "gameday photoshoot",
+   "stain resistance",
+   "close up"
+  ],
+  "filename": "soda-can-spill-flake-floor"
+ },
+ "id": "097c9d23b1af",
+ "provider": "kimi",
+ "model": "moonshotai/kimi-k3",
+ "mode": "run",
+ "blind": false,
+ "at": "2026-09-17T12:40:47"
+}

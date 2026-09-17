@@ -1,0 +1,46 @@
+{
+ "finish": "stop",
+ "usage": {
+  "input_tokens": 5330,
+  "output_tokens": 332,
+  "cost": 0.02097
+ },
+ "served_by": "Parasail",
+ "label": {
+  "content": "floor_photo",
+  "area": "garage",
+  "setting": "unknown",
+  "system": "full_flake",
+  "color": "Stone Ridge",
+  "color_confidence": "low",
+  "color_runner_up": "Stone Crest",
+  "color_description": "gray, black and white chips with scattered orange-tan accents, medium size",
+  "shot_type": "close_up",
+  "people": "none",
+  "faces_identifiable": false,
+  "privacy": [],
+  "branding_visible": false,
+  "quality": "4",
+  "issues": [],
+  "website_ready": true,
+  "title": "Gray flake floor with orange accent chips",
+  "alt_text": "Low angle close-up of a gray full flake floor with black, white and orange chips in an empty garage",
+  "tags": [
+   "full flake",
+   "close up",
+   "gray chips",
+   "orange accent chips",
+   "garage",
+   "glossy finish",
+   "empty room",
+   "white walls"
+  ],
+  "filename": "gray-flake-floor-orange-accent-chips"
+ },
+ "id": "36dd1b0ad14e",
+ "provider": "kimi",
+ "model": "moonshotai/kimi-k3",
+ "mode": "run",
+ "blind": false,
+ "at": "2026-09-17T12:32:42"
+}

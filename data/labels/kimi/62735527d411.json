@@ -1,0 +1,47 @@
+{
+ "finish": "stop",
+ "usage": {
+  "input_tokens": 5211,
+  "output_tokens": 286,
+  "cost": 0.019923
+ },
+ "served_by": "Parasail",
+ "label": {
+  "content": "floor_photo",
+  "area": "garage",
+  "setting": "unknown",
+  "system": "full_flake",
+  "color": "Stone Rowe",
+  "color_confidence": "medium",
+  "color_runner_up": "Granite",
+  "color_description": "gray base with black, white and tan chips, small to medium size",
+  "shot_type": "close_up",
+  "people": "none",
+  "faces_identifiable": false,
+  "privacy": [],
+  "branding_visible": false,
+  "quality": "4",
+  "issues": [],
+  "website_ready": true,
+  "title": "Soda can spilling on gray full flake floor",
+  "alt_text": "Red soda can spilling onto a gray full flake garage floor coating with black, white and tan chips",
+  "tags": [
+   "full flake",
+   "spill test",
+   "soda can",
+   "stain resistance",
+   "gray chips",
+   "black and tan chips",
+   "garage floor",
+   "close up",
+   "gameday photoshoot"
+  ],
+  "filename": "soda-can-spill-gray-full-flake-floor"
+ },
+ "id": "62735527d411",
+ "provider": "kimi",
+ "model": "moonshotai/kimi-k3",
+ "mode": "run",
+ "blind": false,
+ "at": "2026-09-17T12:40:38"
+}

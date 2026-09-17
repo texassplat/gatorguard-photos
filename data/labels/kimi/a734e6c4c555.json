@@ -1,0 +1,47 @@
+{
+ "finish": "stop",
+ "usage": {
+  "input_tokens": 5321,
+  "output_tokens": 214,
+  "cost": 0.0100146
+ },
+ "served_by": "Together",
+ "label": {
+  "content": "floor_photo",
+  "area": "driveway_or_walkway",
+  "setting": "residential",
+  "system": "poly_enhance",
+  "color": "not_applicable",
+  "color_confidence": "none",
+  "color_runner_up": "not_applicable",
+  "color_description": "multicolored brick pavers in red, tan and gray with a glossy wet-look sealer",
+  "shot_type": "finished",
+  "people": "none",
+  "faces_identifiable": false,
+  "privacy": [],
+  "branding_visible": false,
+  "quality": "4",
+  "issues": [],
+  "website_ready": true,
+  "title": "Sealed brick paver walkway with garden beds",
+  "alt_text": "Brick paver walkway with glossy wet-look sealer beside azaleas and hostas, poly enhance sealed pavers",
+  "tags": [
+   "walkway",
+   "brick pavers",
+   "wet look sealer",
+   "poly enhance",
+   "garden",
+   "azaleas",
+   "hostas",
+   "outdoor",
+   "finished"
+  ],
+  "filename": "sealed-brick-paver-garden-walkway"
+ },
+ "id": "a734e6c4c555",
+ "provider": "kimi",
+ "model": "moonshotai/kimi-k3",
+ "mode": "run",
+ "blind": false,
+ "at": "2026-09-17T12:55:17"
+}

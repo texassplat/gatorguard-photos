@@ -1,0 +1,47 @@
+{
+ "finish": "stop",
+ "usage": {
+  "input_tokens": 5211,
+  "output_tokens": 211,
+  "cost": 0.018798
+ },
+ "served_by": "Parasail",
+ "label": {
+  "content": "people_or_team",
+  "area": "garage",
+  "setting": "unknown",
+  "system": "full_flake",
+  "color": "unknown",
+  "color_confidence": "low",
+  "color_runner_up": "unknown",
+  "color_description": "tan, gray and black chips, small size",
+  "shot_type": "team_or_portrait",
+  "people": "prominent",
+  "faces_identifiable": true,
+  "privacy": [],
+  "branding_visible": false,
+  "quality": "4",
+  "issues": [],
+  "website_ready": false,
+  "title": "Crew celebrating on full flake garage floor",
+  "alt_text": "Five GatorGuard crew members in green shirts cheering on a speckled full flake garage floor",
+  "tags": [
+   "team",
+   "crew",
+   "green shirts",
+   "celebration",
+   "garage",
+   "full flake",
+   "tan chips",
+   "photoshoot",
+   "gameday"
+  ],
+  "filename": "crew-celebrating-on-flake-garage-floor"
+ },
+ "id": "2944b21ee58f",
+ "provider": "kimi",
+ "model": "moonshotai/kimi-k3",
+ "mode": "run",
+ "blind": false,
+ "at": "2026-09-17T12:39:01"
+}

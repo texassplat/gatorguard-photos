@@ -1,0 +1,48 @@
+{
+ "finish": "stop",
+ "usage": {
+  "input_tokens": 5245,
+  "output_tokens": 296,
+  "cost": 0.020175
+ },
+ "served_by": "Fireworks",
+ "label": {
+  "content": "floor_photo",
+  "area": "commercial_or_industrial",
+  "setting": "commercial",
+  "system": "full_flake",
+  "color": "Chestnut",
+  "color_confidence": "medium",
+  "color_runner_up": "Santana",
+  "color_description": "tan and brown chips with black flecks, medium size",
+  "shot_type": "finished",
+  "people": "none",
+  "faces_identifiable": false,
+  "privacy": [],
+  "branding_visible": false,
+  "quality": "3",
+  "issues": [
+   "text_overlay"
+  ],
+  "website_ready": false,
+  "title": "Commercial room with tan full flake floor",
+  "alt_text": "Commercial interior with a tan, brown and black full flake floor, taped door and wall outlet, full flake floor coating",
+  "tags": [
+   "commercial",
+   "full flake",
+   "tan chips",
+   "brown chips",
+   "black chips",
+   "finished floor",
+   "interior",
+   "speckled floor"
+  ],
+  "filename": "commercial-tan-full-flake-floor"
+ },
+ "id": "cd5aa043ea1e",
+ "provider": "kimi",
+ "model": "moonshotai/kimi-k3",
+ "mode": "run",
+ "blind": false,
+ "at": "2026-09-17T12:34:37"
+}

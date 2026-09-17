@@ -1,0 +1,49 @@
+{
+ "finish": "stop",
+ "usage": {
+  "input_tokens": 5332,
+  "output_tokens": 255,
+  "cost": 0.019821
+ },
+ "served_by": "Parasail",
+ "label": {
+  "content": "floor_photo",
+  "area": "interior_room",
+  "setting": "residential",
+  "system": "metallic",
+  "color": "Gray",
+  "color_confidence": "low",
+  "color_runner_up": "Charcoal",
+  "color_description": "gray and taupe marbled metallic swirls with lighter silver highlights",
+  "shot_type": "finished",
+  "people": "none",
+  "faces_identifiable": false,
+  "privacy": [],
+  "branding_visible": false,
+  "quality": "3",
+  "issues": [
+   "dark"
+  ],
+  "website_ready": false,
+  "title": "Metallic gray epoxy floor in small closet",
+  "alt_text": "Gray and taupe marbled metallic epoxy floor in a small interior closet or alcove, metallic epoxy floor coating",
+  "tags": [
+   "metallic epoxy",
+   "gray floor",
+   "closet",
+   "interior floor",
+   "marbled",
+   "swirled",
+   "reflective",
+   "finished floor",
+   "liquid art"
+  ],
+  "filename": "gray-metallic-epoxy-closet-floor"
+ },
+ "id": "4323c9b9d3c5",
+ "provider": "kimi",
+ "model": "moonshotai/kimi-k3",
+ "mode": "run",
+ "blind": false,
+ "at": "2026-09-17T12:52:28"
+}

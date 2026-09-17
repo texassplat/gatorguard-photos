@@ -1,0 +1,47 @@
+{
+ "finish": "stop",
+ "usage": {
+  "input_tokens": 5030,
+  "output_tokens": 224,
+  "cost": 0.016605
+ },
+ "served_by": "Phala",
+ "label": {
+  "alt_text": "Covered brick porch with a tan speckled flake concrete coating overlooking a green lawn",
+  "area": "patio_or_porch",
+  "branding_visible": false,
+  "color": "Ocotillo",
+  "color_confidence": "low",
+  "color_description": "tan and brown chips with dark accents, small to medium size",
+  "color_runner_up": "Chestnut",
+  "content": "floor_photo",
+  "faces_identifiable": false,
+  "filename": "brick-porch-tan-flake-floor",
+  "issues": [],
+  "people": "none",
+  "privacy": [],
+  "quality": "3",
+  "setting": "residential",
+  "shot_type": "finished",
+  "system": "full_flake",
+  "tags": [
+   "porch",
+   "patio",
+   "covered porch",
+   "brick house",
+   "tan chips",
+   "full flake",
+   "exterior",
+   "lawn",
+   "finished floor"
+  ],
+  "title": "Covered brick porch with tan flake floor",
+  "website_ready": false
+ },
+ "id": "f78218b81cdc",
+ "provider": "kimi",
+ "model": "moonshotai/kimi-k3",
+ "mode": "run",
+ "blind": false,
+ "at": "2026-09-17T12:36:46"
+}

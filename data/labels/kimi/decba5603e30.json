@@ -1,0 +1,48 @@
+{
+ "finish": "stop",
+ "usage": {
+  "input_tokens": 4993,
+  "output_tokens": 223,
+  "cost": 0.0091656
+ },
+ "served_by": "Together",
+ "label": {
+  "content": "floor_photo",
+  "area": "patio_or_porch",
+  "setting": "residential",
+  "system": "full_flake",
+  "color": "Granite",
+  "color_confidence": "medium",
+  "color_runner_up": "Silver Butte",
+  "color_description": "gray, white and black chips, small to medium size",
+  "shot_type": "finished",
+  "people": "none",
+  "faces_identifiable": false,
+  "privacy": [],
+  "branding_visible": false,
+  "quality": "4",
+  "issues": [],
+  "website_ready": true,
+  "title": "Front porch with gray full flake floor",
+  "alt_text": "Brick home front porch with gray, white and black full flake coating, blue door and white columns",
+  "tags": [
+   "front porch",
+   "exterior",
+   "full flake",
+   "gray chips",
+   "white chips",
+   "black chips",
+   "brick house",
+   "blue door",
+   "columns",
+   "finished"
+  ],
+  "filename": "front-porch-gray-full-flake"
+ },
+ "id": "decba5603e30",
+ "provider": "kimi",
+ "model": "moonshotai/kimi-k3",
+ "mode": "run",
+ "blind": false,
+ "at": "2026-09-17T12:37:18"
+}

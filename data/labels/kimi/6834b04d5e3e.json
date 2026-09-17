@@ -1,0 +1,48 @@
+{
+ "finish": "stop",
+ "usage": {
+  "input_tokens": 5209,
+  "output_tokens": 211,
+  "cost": 0.0187731
+ },
+ "served_by": "Fireworks",
+ "label": {
+  "content": "people_or_team",
+  "area": "showroom_or_retail",
+  "setting": "commercial",
+  "system": "full_flake",
+  "color": "unknown",
+  "color_confidence": "low",
+  "color_runner_up": "unknown",
+  "color_description": "fine tan, brown and gray chips, small size",
+  "shot_type": "team_or_portrait",
+  "people": "prominent",
+  "faces_identifiable": true,
+  "privacy": [
+   "customer_face"
+  ],
+  "branding_visible": true,
+  "quality": "4",
+  "issues": [],
+  "website_ready": false,
+  "title": "Team photoshoot in showroom on flake floor",
+  "alt_text": "Four people in matching green shirts standing on a speckled flake epoxy floor during a team photoshoot",
+  "tags": [
+   "team",
+   "photoshoot",
+   "gameday",
+   "green shirts",
+   "showroom",
+   "flake floor",
+   "tan chips",
+   "staff"
+  ],
+  "filename": "team-photoshoot-showroom-flake-floor"
+ },
+ "id": "6834b04d5e3e",
+ "provider": "kimi",
+ "model": "moonshotai/kimi-k3",
+ "mode": "run",
+ "blind": false,
+ "at": "2026-09-17T12:38:52"
+}

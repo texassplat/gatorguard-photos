@@ -1,0 +1,47 @@
+{
+ "finish": "stop",
+ "usage": {
+  "input_tokens": 5320,
+  "output_tokens": 258,
+  "cost": 0.0106716
+ },
+ "served_by": "Together",
+ "label": {
+  "content": "floor_photo",
+  "area": "garage",
+  "setting": "residential",
+  "system": "full_flake",
+  "color": "Ocotillo",
+  "color_confidence": "medium",
+  "color_runner_up": "Santana",
+  "color_description": "tan and beige chips with small black and white flecks, fine to medium size",
+  "shot_type": "finished",
+  "people": "none",
+  "faces_identifiable": false,
+  "privacy": [],
+  "branding_visible": false,
+  "quality": "4",
+  "issues": [],
+  "website_ready": true,
+  "title": "Garage with tan full flake floor and bikes",
+  "alt_text": "Garage with a tan full flake floor coating, bicycles and garden tools stored along the wall",
+  "tags": [
+   "garage",
+   "full flake",
+   "tan chips",
+   "beige floor",
+   "bicycles",
+   "finished floor",
+   "residential",
+   "garage storage",
+   "epoxy flake floor"
+  ],
+  "filename": "garage-tan-full-flake-floor-bikes"
+ },
+ "id": "4c73eefb6b0a",
+ "provider": "kimi",
+ "model": "moonshotai/kimi-k3",
+ "mode": "run",
+ "blind": false,
+ "at": "2026-09-17T12:45:38"
+}

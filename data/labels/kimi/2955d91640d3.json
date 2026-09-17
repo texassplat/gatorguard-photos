@@ -1,0 +1,49 @@
+{
+ "finish": "stop",
+ "usage": {
+  "input_tokens": 5316,
+  "output_tokens": 253,
+  "cost": 0.019743
+ },
+ "served_by": "Parasail",
+ "label": {
+  "content": "floor_photo",
+  "area": "garage",
+  "setting": "residential",
+  "system": "full_flake",
+  "color": "unknown",
+  "color_confidence": "low",
+  "color_runner_up": "Gun Metal",
+  "color_description": "dark charcoal base with fine gray, black and purple-toned chips, small to medium size",
+  "shot_type": "finished",
+  "people": "none",
+  "faces_identifiable": false,
+  "privacy": [],
+  "branding_visible": false,
+  "quality": "3",
+  "issues": [
+   "low_resolution"
+  ],
+  "website_ready": false,
+  "title": "Empty garage with dark purple-gray full flake floor",
+  "alt_text": "Empty two-car garage with dark full flake floor coating and matching stem wall, white walls and open garage door",
+  "tags": [
+   "garage",
+   "full flake",
+   "dark flake",
+   "gray chips",
+   "purple tone",
+   "stem wall",
+   "finished floor",
+   "empty garage",
+   "vikings theme"
+  ],
+  "filename": "garage-dark-purple-full-flake-floor"
+ },
+ "id": "2955d91640d3",
+ "provider": "kimi",
+ "model": "moonshotai/kimi-k3",
+ "mode": "run",
+ "blind": false,
+ "at": "2026-09-17T12:53:12"
+}

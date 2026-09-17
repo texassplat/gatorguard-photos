@@ -1,0 +1,46 @@
+{
+ "finish": "stop",
+ "usage": {
+  "input_tokens": 4849,
+  "output_tokens": 232,
+  "cost": 0.018027
+ },
+ "served_by": "Parasail",
+ "label": {
+  "content": "floor_photo",
+  "area": "not_visible",
+  "setting": "unknown",
+  "system": "full_flake",
+  "color": "Ocotillo",
+  "color_confidence": "medium",
+  "color_runner_up": "Chestnut",
+  "color_description": "tan base with black, white, brown and gray chips, small to medium size",
+  "shot_type": "close_up",
+  "people": "none",
+  "faces_identifiable": false,
+  "privacy": [],
+  "branding_visible": false,
+  "quality": "4",
+  "issues": [],
+  "website_ready": true,
+  "title": "Close up of tan full flake floor",
+  "alt_text": "Close up of a glossy full flake floor with tan, black and white chips in an unfinished room",
+  "tags": [
+   "full flake",
+   "close up",
+   "tan chips",
+   "black chips",
+   "flake floor coating",
+   "glossy finish",
+   "unfinished room",
+   "wood framing"
+  ],
+  "filename": "tan-full-flake-floor-close-up"
+ },
+ "id": "6aeef20fc2ac",
+ "provider": "kimi",
+ "model": "moonshotai/kimi-k3",
+ "mode": "run",
+ "blind": false,
+ "at": "2026-09-17T12:33:15"
+}

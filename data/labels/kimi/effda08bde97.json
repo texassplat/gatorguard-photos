@@ -1,0 +1,46 @@
+{
+ "finish": "stop",
+ "usage": {
+  "input_tokens": 5313,
+  "output_tokens": 179,
+  "cost": 0.0094656
+ },
+ "served_by": "Together",
+ "label": {
+  "content": "floor_photo",
+  "area": "basement",
+  "setting": "residential",
+  "system": "solid_color",
+  "color": "unknown",
+  "color_confidence": "none",
+  "color_runner_up": "not_applicable",
+  "color_description": "glossy white solid coating, no chips",
+  "shot_type": "finished",
+  "people": "none",
+  "faces_identifiable": false,
+  "privacy": [],
+  "branding_visible": false,
+  "quality": "4",
+  "issues": [],
+  "website_ready": true,
+  "title": "Basement with glossy white solid color floor",
+  "alt_text": "Basement with glossy white solid color floor coating, painted brick walls and support poles",
+  "tags": [
+   "basement",
+   "white floor",
+   "solid color",
+   "glossy",
+   "painted brick",
+   "support poles",
+   "finished",
+   "interior"
+  ],
+  "filename": "basement-white-solid-color-floor"
+ },
+ "id": "effda08bde97",
+ "provider": "kimi",
+ "model": "moonshotai/kimi-k3",
+ "mode": "run",
+ "blind": false,
+ "at": "2026-09-17T12:54:30"
+}

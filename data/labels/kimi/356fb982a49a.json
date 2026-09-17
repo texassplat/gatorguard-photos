@@ -1,0 +1,48 @@
+{
+ "finish": "stop",
+ "usage": {
+  "input_tokens": 5322,
+  "output_tokens": 233,
+  "cost": 0.0103026
+ },
+ "served_by": "Together",
+ "label": {
+  "content": "floor_photo",
+  "area": "patio_or_porch",
+  "setting": "residential",
+  "system": "poly_enhance",
+  "color": "not_applicable",
+  "color_confidence": "none",
+  "color_runner_up": "not_applicable",
+  "color_description": "",
+  "shot_type": "finished",
+  "people": "none",
+  "faces_identifiable": false,
+  "privacy": [],
+  "branding_visible": false,
+  "quality": "4",
+  "issues": [],
+  "website_ready": true,
+  "title": "Stamped concrete patio with wet look sealer",
+  "alt_text": "Stamped concrete patio in gray and tan ashlar pattern with glossy wet look sealer, poly enhance patio sealer",
+  "tags": [
+   "patio",
+   "stamped concrete",
+   "wet look sealer",
+   "poly enhance",
+   "ashlar pattern",
+   "gray concrete",
+   "tan border",
+   "backyard",
+   "landscaping",
+   "finished"
+  ],
+  "filename": "stamped-concrete-patio-wet-look-sealer"
+ },
+ "id": "356fb982a49a",
+ "provider": "kimi",
+ "model": "moonshotai/kimi-k3",
+ "mode": "run",
+ "blind": false,
+ "at": "2026-09-17T12:55:38"
+}

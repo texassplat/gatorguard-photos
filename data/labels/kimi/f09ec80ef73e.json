@@ -1,0 +1,46 @@
+{
+ "finish": "stop",
+ "usage": {
+  "input_tokens": 5219,
+  "output_tokens": 201,
+  "cost": 0.018672
+ },
+ "served_by": "Fireworks",
+ "label": {
+  "content": "floor_photo",
+  "area": "patio_or_porch",
+  "setting": "residential",
+  "system": "full_flake",
+  "color": "Granite",
+  "color_confidence": "low",
+  "color_runner_up": "Silver Butte",
+  "color_description": "gray, white and black chips, small size",
+  "shot_type": "finished",
+  "people": "none",
+  "faces_identifiable": false,
+  "privacy": [],
+  "branding_visible": false,
+  "quality": "4",
+  "issues": [],
+  "website_ready": true,
+  "title": "High-rise balcony with gray full flake floor",
+  "alt_text": "Wicker sofa and plants on a high-rise balcony with a gray speckled full flake patio floor coating",
+  "tags": [
+   "patio",
+   "balcony",
+   "full flake",
+   "gray chips",
+   "wicker furniture",
+   "outdoor rug",
+   "exterior",
+   "finished floor"
+  ],
+  "filename": "balcony-patio-gray-full-flake"
+ },
+ "id": "f09ec80ef73e",
+ "provider": "kimi",
+ "model": "moonshotai/kimi-k3",
+ "mode": "run",
+ "blind": false,
+ "at": "2026-09-17T12:37:51"
+}

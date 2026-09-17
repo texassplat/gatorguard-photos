@@ -1,0 +1,48 @@
+{
+ "finish": "stop",
+ "usage": {
+  "input_tokens": 5316,
+  "output_tokens": 175,
+  "cost": 0.0094146
+ },
+ "served_by": "Together",
+ "label": {
+  "content": "marketing_graphic",
+  "area": "not_visible",
+  "setting": "unknown",
+  "system": "not_applicable",
+  "color": "not_applicable",
+  "color_confidence": "none",
+  "color_runner_up": "not_applicable",
+  "color_description": "",
+  "shot_type": "graphic",
+  "people": "none",
+  "faces_identifiable": false,
+  "privacy": [],
+  "branding_visible": true,
+  "quality": "4",
+  "issues": [
+   "text_overlay"
+  ],
+  "website_ready": false,
+  "title": "Cincinnati thank you review request graphic",
+  "alt_text": "GatorGuard Concrete Coatings Cincinnati thank you graphic asking customers to leave a review",
+  "tags": [
+   "thank you graphic",
+   "review request",
+   "birdeye asset",
+   "cincinnati",
+   "gatorguard logo",
+   "gator mascot",
+   "marketing graphic",
+   "text overlay"
+  ],
+  "filename": "cincinnati-thank-you-review-graphic"
+ },
+ "id": "33af9669b44a",
+ "provider": "kimi",
+ "model": "moonshotai/kimi-k3",
+ "mode": "run",
+ "blind": false,
+ "at": "2026-09-17T12:31:50"
+}

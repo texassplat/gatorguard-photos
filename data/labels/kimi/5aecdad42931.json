@@ -1,0 +1,48 @@
+{
+ "finish": "stop",
+ "usage": {
+  "input_tokens": 5319,
+  "output_tokens": 261,
+  "cost": 0.019872
+ },
+ "served_by": "Parasail",
+ "label": {
+  "content": "people_or_team",
+  "area": "garage",
+  "setting": "residential",
+  "system": "unknown",
+  "color": "not_applicable",
+  "color_confidence": "none",
+  "color_runner_up": "not_applicable",
+  "color_description": "",
+  "shot_type": "crew_working",
+  "people": "prominent",
+  "faces_identifiable": true,
+  "privacy": [],
+  "branding_visible": true,
+  "quality": "4",
+  "issues": [],
+  "website_ready": false,
+  "title": "Crew prepping garage with vacuum equipment",
+  "alt_text": "Two GatorGuard crew members prepping a residential garage with green vacuum equipment and hoses, one giving a thumbs up.",
+  "tags": [
+   "crew",
+   "installers",
+   "garage",
+   "prep work",
+   "vacuum equipment",
+   "grinding",
+   "thumbs up",
+   "residential",
+   "in progress",
+   "gatorguard branding"
+  ],
+  "filename": "crew-prep-garage-vacuum-thumbs-up"
+ },
+ "id": "5aecdad42931",
+ "provider": "kimi",
+ "model": "moonshotai/kimi-k3",
+ "mode": "run",
+ "blind": false,
+ "at": "2026-09-17T12:47:25"
+}

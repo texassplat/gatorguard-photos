@@ -1,0 +1,50 @@
+{
+ "finish": "stop",
+ "usage": {
+  "input_tokens": 5206,
+  "output_tokens": 259,
+  "cost": 0.019503
+ },
+ "served_by": "Parasail",
+ "label": {
+  "content": "floor_photo",
+  "area": "basement",
+  "setting": "residential",
+  "system": "full_flake",
+  "color": "Silver Butte",
+  "color_confidence": "low",
+  "color_runner_up": "Stone Rowe",
+  "color_description": "light gray and white chips with black speckles, small size",
+  "shot_type": "finished",
+  "people": "none",
+  "faces_identifiable": false,
+  "privacy": [],
+  "branding_visible": false,
+  "quality": "3",
+  "issues": [
+   "cluttered"
+  ],
+  "website_ready": false,
+  "title": "Basement with light gray full flake floor",
+  "alt_text": "Finished basement with wood panel walls and a light gray full flake garage floor coating",
+  "tags": [
+   "basement",
+   "full flake",
+   "gray chips",
+   "white chips",
+   "black speckles",
+   "wood panel walls",
+   "wet bar",
+   "finished floor",
+   "residential",
+   "epoxy flake floor"
+  ],
+  "filename": "basement-light-gray-full-flake-floor"
+ },
+ "id": "58c1c40bba85",
+ "provider": "kimi",
+ "model": "moonshotai/kimi-k3",
+ "mode": "run",
+ "blind": false,
+ "at": "2026-09-17T12:31:11"
+}

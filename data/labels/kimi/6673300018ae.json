@@ -1,0 +1,47 @@
+{
+ "finish": "stop",
+ "usage": {
+  "input_tokens": 5321,
+  "output_tokens": 179,
+  "cost": 0.0094896
+ },
+ "served_by": "Together",
+ "label": {
+  "content": "floor_photo",
+  "area": "patio_or_porch",
+  "setting": "residential",
+  "system": "poly_enhance",
+  "color": "not_applicable",
+  "color_confidence": "none",
+  "color_runner_up": "not_applicable",
+  "color_description": "",
+  "shot_type": "finished",
+  "people": "none",
+  "faces_identifiable": false,
+  "privacy": [],
+  "branding_visible": false,
+  "quality": "4",
+  "issues": [],
+  "website_ready": true,
+  "title": "Sealed paver front porch with wet look",
+  "alt_text": "Covered front porch with gray and tan pavers sealed with a wet look poly enhance sealer",
+  "tags": [
+   "pavers",
+   "front porch",
+   "wet look sealer",
+   "poly enhance",
+   "gray pavers",
+   "tan pavers",
+   "covered porch",
+   "outdoor",
+   "finished"
+  ],
+  "filename": "sealed-paver-front-porch"
+ },
+ "id": "6673300018ae",
+ "provider": "kimi",
+ "model": "moonshotai/kimi-k3",
+ "mode": "run",
+ "blind": false,
+ "at": "2026-09-17T12:55:37"
+}

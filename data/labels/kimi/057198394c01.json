@@ -1,0 +1,47 @@
+{
+ "finish": "stop",
+ "usage": {
+  "input_tokens": 5032,
+  "output_tokens": 279,
+  "cost": 0.0101226
+ },
+ "served_by": "Together",
+ "label": {
+  "content": "floor_photo",
+  "area": "interior_room",
+  "setting": "residential",
+  "system": "full_flake",
+  "color": "Shalestone",
+  "color_confidence": "low",
+  "color_runner_up": "Stone Rowe",
+  "color_description": "cream and light tan chips with fine black specks, small size",
+  "shot_type": "finished",
+  "people": "none",
+  "faces_identifiable": false,
+  "privacy": [],
+  "branding_visible": false,
+  "quality": "4",
+  "issues": [],
+  "website_ready": true,
+  "title": "Interior room with light full flake floor",
+  "alt_text": "Finished full flake floor with cream and tan chips in an interior room with a window and removed baseboards",
+  "tags": [
+   "full flake",
+   "interior room",
+   "cream floor",
+   "tan chips",
+   "black specks",
+   "glossy finish",
+   "window",
+   "finished floor",
+   "residential"
+  ],
+  "filename": "interior-room-light-full-flake-floor"
+ },
+ "id": "057198394c01",
+ "provider": "kimi",
+ "model": "moonshotai/kimi-k3",
+ "mode": "run",
+ "blind": false,
+ "at": "2026-09-17T12:48:01"
+}

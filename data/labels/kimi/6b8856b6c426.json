@@ -1,0 +1,48 @@
+{
+ "finish": "stop",
+ "usage": {
+  "input_tokens": 5280,
+  "output_tokens": 252,
+  "cost": 0.00766632
+ },
+ "served_by": "Morph",
+ "label": {
+  "content": "floor_photo",
+  "area": "basement",
+  "setting": "residential",
+  "system": "metallic",
+  "color": "Copper",
+  "color_confidence": "high",
+  "color_runner_up": "Cappuccino",
+  "color_description": "Copper and bronze metallic with lighter tan marbling, glossy swirled finish, no chips",
+  "shot_type": "finished",
+  "people": "none",
+  "faces_identifiable": false,
+  "privacy": [],
+  "branding_visible": false,
+  "quality": "4",
+  "issues": [],
+  "website_ready": true,
+  "title": "Basement with copper metallic epoxy floor",
+  "alt_text": "Basement with glossy copper metallic epoxy floor, freshly coated, with exposed wall studs and treadmill in background",
+  "tags": [
+   "basement",
+   "metallic floor",
+   "copper",
+   "liquid art",
+   "swirled epoxy",
+   "glossy floor",
+   "exposed studs",
+   "renovation",
+   "treadmill",
+   "reflective floor"
+  ],
+  "filename": "copper-metallic-basement-floor"
+ },
+ "id": "6b8856b6c426",
+ "provider": "kimi",
+ "model": "moonshotai/kimi-k3",
+ "mode": "run",
+ "blind": false,
+ "at": "2026-09-17T12:50:41"
+}

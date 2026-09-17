@@ -1,0 +1,47 @@
+{
+ "finish": "stop",
+ "usage": {
+  "input_tokens": 5342,
+  "output_tokens": 227,
+  "cost": 0.0102726
+ },
+ "served_by": "Together",
+ "label": {
+  "content": "floor_photo",
+  "area": "patio_or_porch",
+  "setting": "residential",
+  "system": "poly_enhance",
+  "color": "not_applicable",
+  "color_confidence": "none",
+  "color_runner_up": "not_applicable",
+  "color_description": "",
+  "shot_type": "finished",
+  "people": "none",
+  "faces_identifiable": false,
+  "privacy": [],
+  "branding_visible": false,
+  "quality": "4",
+  "issues": [],
+  "website_ready": true,
+  "title": "Front porch with sealed scored concrete tiles",
+  "alt_text": "Wet-look sealed concrete porch with scored tile pattern in front of a brick home with glass double doors",
+  "tags": [
+   "porch",
+   "poly enhance",
+   "scored concrete",
+   "tile pattern",
+   "wet look sealer",
+   "brick house",
+   "double doors",
+   "finished",
+   "residential"
+  ],
+  "filename": "sealed-scored-concrete-front-porch"
+ },
+ "id": "82932893ec9c",
+ "provider": "kimi",
+ "model": "moonshotai/kimi-k3",
+ "mode": "run",
+ "blind": false,
+ "at": "2026-09-17T12:55:04"
+}

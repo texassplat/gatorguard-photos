@@ -1,0 +1,48 @@
+{
+ "finish": "stop",
+ "usage": {
+  "input_tokens": 5331,
+  "output_tokens": 279,
+  "cost": 0.020178
+ },
+ "served_by": "Parasail",
+ "label": {
+  "content": "floor_photo",
+  "area": "driveway_or_walkway",
+  "setting": "commercial",
+  "system": "full_flake",
+  "color": "Santana",
+  "color_confidence": "medium",
+  "color_runner_up": "Chestnut",
+  "color_description": "tan base with brown, black and cream chips, small to medium size",
+  "shot_type": "finished",
+  "people": "none",
+  "faces_identifiable": false,
+  "privacy": [],
+  "branding_visible": true,
+  "quality": "4",
+  "issues": [],
+  "website_ready": true,
+  "title": "Flake coated walkway with GatorGuard truck",
+  "alt_text": "Curved outdoor walkway with tan full flake coating and GatorGuard truck parked nearby, full flake exterior floor coating",
+  "tags": [
+   "walkway",
+   "exterior",
+   "full flake",
+   "tan chips",
+   "brown chips",
+   "commercial",
+   "railings",
+   "gatorguard truck",
+   "finished",
+   "sunny"
+  ],
+  "filename": "tan-flake-walkway-with-gatorguard-truck"
+ },
+ "id": "f9874859b40b",
+ "provider": "kimi",
+ "model": "moonshotai/kimi-k3",
+ "mode": "run",
+ "blind": false,
+ "at": "2026-09-17T12:36:19"
+}

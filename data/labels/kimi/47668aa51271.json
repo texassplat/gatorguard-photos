@@ -1,0 +1,46 @@
+{
+ "finish": "stop",
+ "usage": {
+  "input_tokens": 5252,
+  "output_tokens": 237,
+  "cost": 0.00745632
+ },
+ "served_by": "Morph",
+ "label": {
+  "content": "floor_photo",
+  "area": "patio_or_porch",
+  "setting": "residential",
+  "system": "poly_enhance",
+  "color": "not_applicable",
+  "color_confidence": "none",
+  "color_runner_up": "not_applicable",
+  "color_description": "",
+  "shot_type": "finished",
+  "people": "none",
+  "faces_identifiable": false,
+  "privacy": [],
+  "branding_visible": false,
+  "quality": "4",
+  "issues": [],
+  "website_ready": true,
+  "title": "Gray stamped patio with wet-look sealer",
+  "alt_text": "Gray stamped concrete patio with wet-look sealer beside a screened porch and garden",
+  "tags": [
+   "patio",
+   "stamped concrete",
+   "wet look sealer",
+   "gray",
+   "ashlar pattern",
+   "screened porch",
+   "garden",
+   "outdoor living"
+  ],
+  "filename": "gray-stamped-patio-wet-look-sealer"
+ },
+ "id": "47668aa51271",
+ "provider": "kimi",
+ "model": "moonshotai/kimi-k3",
+ "mode": "run",
+ "blind": false,
+ "at": "2026-09-17T12:55:24"
+}

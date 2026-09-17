@@ -1,0 +1,50 @@
+{
+ "finish": "stop",
+ "usage": {
+  "input_tokens": 5250,
+  "output_tokens": 279,
+  "cost": 0.0107766
+ },
+ "served_by": "Together",
+ "label": {
+  "content": "floor_photo",
+  "area": "patio_or_porch",
+  "setting": "residential",
+  "system": "full_flake",
+  "color": "unknown",
+  "color_confidence": "low",
+  "color_runner_up": "Avalon",
+  "color_description": "very light gray and beige fine chips, washed out by bright sun",
+  "shot_type": "finished",
+  "people": "none",
+  "faces_identifiable": false,
+  "privacy": [],
+  "branding_visible": false,
+  "quality": "4",
+  "issues": [
+   "overexposed"
+  ],
+  "website_ready": true,
+  "title": "Sunny patio with light speckled coated floor",
+  "alt_text": "Covered patio with columns, lounge chair and light speckled coated concrete floor, patio floor coating",
+  "tags": [
+   "patio",
+   "covered porch",
+   "columns",
+   "lounge chair",
+   "potted plants",
+   "light gray chips",
+   "fine flake",
+   "outdoor floor",
+   "sunny",
+   "residential"
+  ],
+  "filename": "sunny-patio-light-speckled-floor"
+ },
+ "id": "1a3b7f58c419",
+ "provider": "kimi",
+ "model": "moonshotai/kimi-k3",
+ "mode": "run",
+ "blind": false,
+ "at": "2026-09-17T12:37:56"
+}

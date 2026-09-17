@@ -1,0 +1,47 @@
+{
+ "finish": "stop",
+ "usage": {
+  "input_tokens": 5328,
+  "output_tokens": 341,
+  "cost": 0.0119406
+ },
+ "served_by": "Together",
+ "label": {
+  "content": "floor_photo",
+  "area": "garage",
+  "setting": "residential",
+  "system": "full_flake",
+  "color": "Santana",
+  "color_confidence": "medium",
+  "color_runner_up": "Chestnut",
+  "color_description": "tan, brown and black chips, medium size",
+  "shot_type": "close_up",
+  "people": "background",
+  "faces_identifiable": false,
+  "privacy": [],
+  "branding_visible": false,
+  "quality": "4",
+  "issues": [],
+  "website_ready": false,
+  "title": "Close up of garage floor edge lip with tan flake",
+  "alt_text": "Low angle close up of a tan full flake garage floor edge lip meeting the driveway, with two people outside",
+  "tags": [
+   "garage",
+   "edge lip",
+   "close up",
+   "full flake",
+   "tan chips",
+   "brown chips",
+   "black chips",
+   "driveway transition",
+   "finished floor"
+  ],
+  "filename": "garage-floor-edge-lip-tan-flake"
+ },
+ "id": "2c0b65e5cfe6",
+ "provider": "kimi",
+ "model": "moonshotai/kimi-k3",
+ "mode": "run",
+ "blind": false,
+ "at": "2026-09-17T12:49:09"
+}

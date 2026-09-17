@@ -1,0 +1,47 @@
+{
+ "finish": "stop",
+ "usage": {
+  "input_tokens": 5326,
+  "output_tokens": 211,
+  "cost": 0.0099846
+ },
+ "served_by": "Together",
+ "label": {
+  "content": "floor_photo",
+  "area": "patio_or_porch",
+  "setting": "residential",
+  "system": "full_flake",
+  "color": "Chestnut",
+  "color_confidence": "medium",
+  "color_runner_up": "Sedona",
+  "color_description": "tan, brown and black chips with some white, medium size",
+  "shot_type": "finished",
+  "people": "none",
+  "faces_identifiable": false,
+  "privacy": [],
+  "branding_visible": false,
+  "quality": "4",
+  "issues": [],
+  "website_ready": true,
+  "title": "Brown full flake coating on exterior patio",
+  "alt_text": "Low angle view of a brown full flake coated patio beside a house with siding, full flake patio floor coating",
+  "tags": [
+   "patio",
+   "exterior",
+   "full flake",
+   "brown chips",
+   "tan chips",
+   "low angle",
+   "residential",
+   "finished floor",
+   "house siding"
+  ],
+  "filename": "brown-full-flake-exterior-patio"
+ },
+ "id": "72039f1a29b8",
+ "provider": "kimi",
+ "model": "moonshotai/kimi-k3",
+ "mode": "run",
+ "blind": false,
+ "at": "2026-09-17T12:37:27"
+}

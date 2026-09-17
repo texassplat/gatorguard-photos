@@ -1,0 +1,47 @@
+{
+ "finish": "stop",
+ "usage": {
+  "input_tokens": 5328,
+  "output_tokens": 235,
+  "cost": 0.0103506
+ },
+ "served_by": "Together",
+ "label": {
+  "content": "floor_photo",
+  "area": "showroom_or_retail",
+  "setting": "commercial",
+  "system": "metallic",
+  "color": "Sapphire",
+  "color_confidence": "high",
+  "color_runner_up": "Denim",
+  "color_description": "bright blue metallic with lighter blue and white swirls",
+  "shot_type": "finished",
+  "people": "none",
+  "faces_identifiable": false,
+  "privacy": [],
+  "branding_visible": false,
+  "quality": "4",
+  "issues": [],
+  "website_ready": true,
+  "title": "Blue metallic epoxy floor in showroom corner",
+  "alt_text": "Glossy blue metallic epoxy floor with swirling patterns in a showroom corner with brochure racks, metallic epoxy floor coating",
+  "tags": [
+   "metallic epoxy",
+   "blue floor",
+   "sapphire",
+   "swirled",
+   "glossy",
+   "showroom",
+   "brochure racks",
+   "liquid art",
+   "reflective floor"
+  ],
+  "filename": "blue-metallic-epoxy-showroom-floor"
+ },
+ "id": "d04e4b4c723a",
+ "provider": "kimi",
+ "model": "moonshotai/kimi-k3",
+ "mode": "run",
+ "blind": false,
+ "at": "2026-09-17T12:51:16"
+}

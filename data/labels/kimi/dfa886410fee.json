@@ -1,0 +1,47 @@
+{
+ "finish": "stop",
+ "usage": {
+  "input_tokens": 5206,
+  "output_tokens": 234,
+  "cost": 0.0099696
+ },
+ "served_by": "Together",
+ "label": {
+  "content": "floor_photo",
+  "area": "not_visible",
+  "setting": "unknown",
+  "system": "full_flake",
+  "color": "Chestnut",
+  "color_confidence": "medium",
+  "color_runner_up": "Ocotillo",
+  "color_description": "tan, brown and black chips, medium size",
+  "shot_type": "close_up",
+  "people": "none",
+  "faces_identifiable": false,
+  "privacy": [],
+  "branding_visible": true,
+  "quality": "4",
+  "issues": [],
+  "website_ready": false,
+  "title": "Spilled soda can on tan full flake floor",
+  "alt_text": "Coca-Cola can tipped over with soda spilled on a tan, brown and black full flake garage floor coating",
+  "tags": [
+   "full flake",
+   "spill test",
+   "soda can",
+   "stain resistance",
+   "tan chips",
+   "brown chips",
+   "black chips",
+   "close up",
+   "gameday photoshoot"
+  ],
+  "filename": "spilled-soda-can-full-flake-floor"
+ },
+ "id": "dfa886410fee",
+ "provider": "kimi",
+ "model": "moonshotai/kimi-k3",
+ "mode": "run",
+ "blind": false,
+ "at": "2026-09-17T12:40:34"
+}

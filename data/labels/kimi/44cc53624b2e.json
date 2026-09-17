@@ -1,0 +1,46 @@
+{
+ "finish": "stop",
+ "usage": {
+  "input_tokens": 5197,
+  "output_tokens": 296,
+  "cost": 0.020031
+ },
+ "served_by": "Parasail",
+ "label": {
+  "content": "floor_photo",
+  "area": "garage",
+  "setting": "residential",
+  "system": "full_flake",
+  "color": "Granite",
+  "color_confidence": "low",
+  "color_runner_up": "Stone Rowe",
+  "color_description": "gray, white and black chips with slight tan hints, small to medium size",
+  "shot_type": "finished",
+  "people": "none",
+  "faces_identifiable": false,
+  "privacy": [],
+  "branding_visible": false,
+  "quality": "4",
+  "issues": [],
+  "website_ready": true,
+  "title": "Empty garage with gray full flake floor",
+  "alt_text": "Empty residential garage with a glossy gray full flake garage floor coating and open garage door",
+  "tags": [
+   "garage",
+   "full flake",
+   "gray floor",
+   "epoxy flake",
+   "finished floor",
+   "glossy",
+   "empty garage",
+   "residential"
+  ],
+  "filename": "gray-full-flake-garage-floor"
+ },
+ "id": "44cc53624b2e",
+ "provider": "kimi",
+ "model": "moonshotai/kimi-k3",
+ "mode": "run",
+ "blind": false,
+ "at": "2026-09-17T12:44:30"
+}

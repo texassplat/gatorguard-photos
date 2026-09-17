@@ -1,0 +1,49 @@
+{
+ "finish": "stop",
+ "usage": {
+  "input_tokens": 5345,
+  "output_tokens": 246,
+  "cost": 0.0105666
+ },
+ "served_by": "Together",
+ "label": {
+  "content": "floor_photo",
+  "area": "interior_room",
+  "setting": "residential",
+  "system": "full_flake",
+  "color": "Chestnut",
+  "color_confidence": "medium",
+  "color_runner_up": "Santana",
+  "color_description": "tan, brown and black chips, small to medium size, warm tone",
+  "shot_type": "finished",
+  "people": "none",
+  "faces_identifiable": false,
+  "privacy": [],
+  "branding_visible": false,
+  "quality": "3",
+  "issues": [
+   "dark"
+  ],
+  "website_ready": false,
+  "title": "Basement hallway with tan full flake floor",
+  "alt_text": "Finished interior floor with tan, brown and black full flake coating beside a carpeted staircase and utility closet",
+  "tags": [
+   "full flake",
+   "interior floor",
+   "basement",
+   "tan chips",
+   "brown chips",
+   "staircase",
+   "finished floor",
+   "residential",
+   "hallway"
+  ],
+  "filename": "interior-hallway-tan-full-flake-floor"
+ },
+ "id": "8787d64aaf0c",
+ "provider": "kimi",
+ "model": "moonshotai/kimi-k3",
+ "mode": "run",
+ "blind": false,
+ "at": "2026-09-17T12:47:38"
+}

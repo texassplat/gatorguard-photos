@@ -1,0 +1,47 @@
+{
+ "finish": "stop",
+ "usage": {
+  "input_tokens": 5256,
+  "output_tokens": 182,
+  "cost": 0.00688632
+ },
+ "served_by": "Morph",
+ "label": {
+  "content": "floor_photo",
+  "area": "driveway_or_walkway",
+  "setting": "residential",
+  "system": "poly_enhance",
+  "color": "not_applicable",
+  "color_confidence": "none",
+  "color_runner_up": "not_applicable",
+  "color_description": "wet-look clear sealer over brown speckled exposed aggregate concrete",
+  "shot_type": "finished",
+  "people": "background",
+  "faces_identifiable": false,
+  "privacy": [],
+  "branding_visible": true,
+  "quality": "4",
+  "issues": [],
+  "website_ready": true,
+  "title": "Sealed exposed aggregate driveway with GatorGuard van",
+  "alt_text": "Poly Enhance sealed exposed aggregate driveway with wet look, GatorGuard van parked at curb",
+  "tags": [
+   "driveway",
+   "poly enhance",
+   "exposed aggregate",
+   "wet look sealer",
+   "clear sealer",
+   "residential",
+   "gatorguard van",
+   "curb appeal",
+   "finished"
+  ],
+  "filename": "sealed-aggregate-driveway-gatorguard-van"
+ },
+ "id": "961a88820e96",
+ "provider": "kimi",
+ "model": "moonshotai/kimi-k3",
+ "mode": "run",
+ "blind": false,
+ "at": "2026-09-17T12:56:25"
+}

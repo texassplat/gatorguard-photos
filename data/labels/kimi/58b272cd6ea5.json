@@ -1,0 +1,46 @@
+{
+ "finish": "stop",
+ "usage": {
+  "input_tokens": 5349,
+  "output_tokens": 216,
+  "cost": 0.019287
+ },
+ "served_by": "Fireworks",
+ "label": {
+  "content": "floor_photo",
+  "area": "patio_or_porch",
+  "setting": "residential",
+  "system": "full_flake",
+  "color": "Santana",
+  "color_confidence": "medium",
+  "color_runner_up": "Sedona",
+  "color_description": "tan, brown and black chips with white accents, small to medium size",
+  "shot_type": "finished",
+  "people": "none",
+  "faces_identifiable": false,
+  "privacy": [],
+  "branding_visible": false,
+  "quality": "4",
+  "issues": [],
+  "website_ready": true,
+  "title": "Screened porch with tan full flake floor",
+  "alt_text": "Screened porch with glossy tan and brown full flake concrete floor coating overlooking neighboring houses",
+  "tags": [
+   "screened porch",
+   "full flake",
+   "tan chips",
+   "brown chips",
+   "residential",
+   "exterior",
+   "glossy floor",
+   "patio floor"
+  ],
+  "filename": "screened-porch-tan-full-flake-floor"
+ },
+ "id": "58b272cd6ea5",
+ "provider": "kimi",
+ "model": "moonshotai/kimi-k3",
+ "mode": "run",
+ "blind": false,
+ "at": "2026-09-17T12:36:06"
+}

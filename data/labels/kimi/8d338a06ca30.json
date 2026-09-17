@@ -1,0 +1,45 @@
+{
+ "finish": "stop",
+ "usage": {
+  "input_tokens": 5332,
+  "output_tokens": 265,
+  "cost": 0.0108126
+ },
+ "served_by": "Together",
+ "label": {
+  "content": "floor_photo",
+  "area": "commercial_or_industrial",
+  "setting": "commercial",
+  "system": "solid_color_chip",
+  "color": "unknown",
+  "color_confidence": "none",
+  "color_runner_up": "unknown",
+  "color_description": "plain light gray floor, no chips visible at this distance",
+  "shot_type": "finished",
+  "people": "none",
+  "faces_identifiable": false,
+  "privacy": [],
+  "branding_visible": false,
+  "quality": "3",
+  "issues": [],
+  "website_ready": false,
+  "title": "Commercial room with solid gray coated floor",
+  "alt_text": "Glossy light gray coated concrete floor in a commercial room beside carpeted stairs with paint cans",
+  "tags": [
+   "commercial floor",
+   "gray floor",
+   "solid color chip",
+   "glossy coating",
+   "interior room",
+   "stairs",
+   "concrete coating"
+  ],
+  "filename": "commercial-room-gray-coated-floor"
+ },
+ "id": "8d338a06ca30",
+ "provider": "kimi",
+ "model": "moonshotai/kimi-k3",
+ "mode": "run",
+ "blind": false,
+ "at": "2026-09-17T12:33:31"
+}

@@ -1,0 +1,46 @@
+{
+ "finish": "stop",
+ "usage": {
+  "input_tokens": 5326,
+  "output_tokens": 276,
+  "cost": 0.01010526
+ },
+ "served_by": "DigitalOcean",
+ "label": {
+  "alt_text": "Finished basement with light gray solid color chip floor coating, support poles and exposed ceiling",
+  "area": "basement",
+  "branding_visible": false,
+  "color": "Avalon",
+  "color_confidence": "medium",
+  "color_description": "light gray chips of one color, fine to medium size",
+  "color_runner_up": "Callisto",
+  "content": "floor_photo",
+  "faces_identifiable": false,
+  "filename": "basement-gray-chip-floor-support-poles",
+  "issues": [],
+  "people": "none",
+  "privacy": [],
+  "quality": "4",
+  "setting": "residential",
+  "shot_type": "finished",
+  "system": "solid_color_chip",
+  "tags": [
+   "basement",
+   "solid color chip",
+   "gray chips",
+   "support poles",
+   "exposed ceiling",
+   "finished floor",
+   "residential",
+   "wide room"
+  ],
+  "title": "Basement with light gray solid color chip floor",
+  "website_ready": true
+ },
+ "id": "d992c7d2db5e",
+ "provider": "kimi",
+ "model": "moonshotai/kimi-k3",
+ "mode": "pilot",
+ "blind": false,
+ "at": "2026-09-17T12:24:59"
+}

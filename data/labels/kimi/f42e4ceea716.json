@@ -1,0 +1,48 @@
+{
+ "finish": "stop",
+ "usage": {
+  "input_tokens": 5341,
+  "output_tokens": 224,
+  "cost": 0.0188646
+ },
+ "served_by": "Together",
+ "label": {
+  "content": "floor_photo",
+  "area": "basement",
+  "setting": "residential",
+  "system": "full_flake",
+  "color": "Black Canyon",
+  "color_confidence": "high",
+  "color_runner_up": "unknown",
+  "color_description": "black, white and pinkish tan chips, small to medium size",
+  "shot_type": "finished",
+  "people": "none",
+  "faces_identifiable": false,
+  "privacy": [],
+  "branding_visible": false,
+  "quality": "4",
+  "issues": [],
+  "website_ready": true,
+  "title": "Basement with Black Canyon full flake floor",
+  "alt_text": "Low angle view of a full flake basement floor with black, white and pinkish tan chips near a furnace and water heater",
+  "tags": [
+   "basement",
+   "full flake",
+   "black canyon",
+   "black chips",
+   "tan chips",
+   "low angle",
+   "furnace",
+   "water heater",
+   "finished floor",
+   "residential"
+  ],
+  "filename": "basement-black-canyon-full-flake-floor"
+ },
+ "id": "f42e4ceea716",
+ "provider": "kimi",
+ "model": "moonshotai/kimi-k3",
+ "mode": "pilot",
+ "blind": true,
+ "at": "2026-09-17T12:24:24"
+}

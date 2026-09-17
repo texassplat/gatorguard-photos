@@ -1,0 +1,48 @@
+{
+ "finish": "stop",
+ "usage": {
+  "input_tokens": 5342,
+  "output_tokens": 229,
+  "cost": 0.0103026
+ },
+ "served_by": "Together",
+ "label": {
+  "content": "floor_photo",
+  "area": "interior_room",
+  "setting": "residential",
+  "system": "full_flake",
+  "color": "Chestnut with Rust Red",
+  "color_confidence": "medium",
+  "color_runner_up": "Sedona",
+  "color_description": "tan, brown and black chips with scattered rust red chips, small to medium size",
+  "shot_type": "finished",
+  "people": "none",
+  "faces_identifiable": false,
+  "privacy": [],
+  "branding_visible": false,
+  "quality": "4",
+  "issues": [],
+  "website_ready": true,
+  "title": "Sunroom with brown full flake floor under renovation",
+  "alt_text": "New full flake floor in tan, brown and rust chips inside an unfinished room with drywall and windows, full flake floor coating",
+  "tags": [
+   "full flake",
+   "interior room",
+   "sunroom",
+   "tan chips",
+   "brown chips",
+   "rust red chips",
+   "unfinished drywall",
+   "french doors",
+   "finished floor",
+   "sunlight"
+  ],
+  "filename": "interior-room-brown-full-flake-floor"
+ },
+ "id": "48fcd42eb2cd",
+ "provider": "kimi",
+ "model": "moonshotai/kimi-k3",
+ "mode": "run",
+ "blind": false,
+ "at": "2026-09-17T12:47:51"
+}

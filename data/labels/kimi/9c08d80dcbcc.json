@@ -1,0 +1,46 @@
+{
+ "finish": "stop",
+ "usage": {
+  "input_tokens": 5352,
+  "output_tokens": 218,
+  "cost": 0.019326
+ },
+ "served_by": "Parasail",
+ "label": {
+  "content": "floor_photo",
+  "area": "interior_room",
+  "setting": "residential",
+  "system": "full_flake",
+  "color": "Chestnut",
+  "color_confidence": "medium",
+  "color_runner_up": "Santana",
+  "color_description": "warm tan and brown chips with dark brown and black accents, small to medium size",
+  "shot_type": "finished",
+  "people": "none",
+  "faces_identifiable": false,
+  "privacy": [],
+  "branding_visible": false,
+  "quality": "4",
+  "issues": [],
+  "website_ready": true,
+  "title": "Basement room with tan full flake floor",
+  "alt_text": "Finished interior basement room with glossy tan and brown full flake floor coating and stairs",
+  "tags": [
+   "basement",
+   "full flake",
+   "tan chips",
+   "brown chips",
+   "glossy",
+   "interior",
+   "stairs",
+   "finished floor"
+  ],
+  "filename": "basement-tan-full-flake-floor"
+ },
+ "id": "9c08d80dcbcc",
+ "provider": "kimi",
+ "model": "moonshotai/kimi-k3",
+ "mode": "run",
+ "blind": false,
+ "at": "2026-09-17T12:47:43"
+}

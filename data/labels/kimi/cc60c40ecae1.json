@@ -1,0 +1,47 @@
+{
+ "finish": "stop",
+ "usage": {
+  "input_tokens": 5342,
+  "output_tokens": 324,
+  "cost": 0.0187974
+ },
+ "served_by": "Phala",
+ "label": {
+  "alt_text": "Low angle close-up of a full flake garage floor with tan, brown and black chips and glossy clear coat",
+  "area": "not_visible",
+  "branding_visible": false,
+  "color": "Chestnut with Rust Red",
+  "color_confidence": "medium",
+  "color_description": "tan, brown and black chips with scattered rust red flecks, medium size",
+  "color_runner_up": "Windermere",
+  "content": "floor_photo",
+  "faces_identifiable": false,
+  "filename": "close-up-tan-brown-flake-floor",
+  "issues": [],
+  "people": "none",
+  "privacy": [],
+  "quality": "4",
+  "setting": "residential",
+  "shot_type": "close_up",
+  "system": "full_flake",
+  "tags": [
+   "full flake",
+   "close up",
+   "tan chips",
+   "brown chips",
+   "black chips",
+   "rust red chips",
+   "glossy",
+   "floor detail",
+   "finished"
+  ],
+  "title": "Close-up of tan brown full flake floor",
+  "website_ready": false
+ },
+ "id": "cc60c40ecae1",
+ "provider": "kimi",
+ "model": "moonshotai/kimi-k3",
+ "mode": "run",
+ "blind": false,
+ "at": "2026-09-17T12:32:18"
+}

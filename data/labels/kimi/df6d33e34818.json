@@ -1,0 +1,46 @@
+{
+ "finish": "stop",
+ "usage": {
+  "input_tokens": 5265,
+  "output_tokens": 164,
+  "cost": 0.006714195
+ },
+ "served_by": "Morph",
+ "label": {
+  "content": "floor_photo",
+  "area": "garage",
+  "setting": "residential",
+  "system": "full_flake",
+  "color": "Granite",
+  "color_confidence": "medium",
+  "color_runner_up": "Infinity",
+  "color_description": "light gray, white and black chips, small to medium size",
+  "shot_type": "close_up",
+  "people": "none",
+  "faces_identifiable": false,
+  "privacy": [],
+  "branding_visible": false,
+  "quality": "4",
+  "issues": [],
+  "website_ready": false,
+  "title": "Close up of coated garage edge lip",
+  "alt_text": "Close up of a gray full flake coated edge lip with a wet floor and concrete driveway beyond",
+  "tags": [
+   "edge lip",
+   "close up",
+   "full flake",
+   "gray chips",
+   "black chips",
+   "wet floor",
+   "garage floor",
+   "concrete edge"
+  ],
+  "filename": "coated-garage-edge-lip-close-up"
+ },
+ "id": "df6d33e34818",
+ "provider": "kimi",
+ "model": "moonshotai/kimi-k3",
+ "mode": "run",
+ "blind": false,
+ "at": "2026-09-17T12:49:39"
+}

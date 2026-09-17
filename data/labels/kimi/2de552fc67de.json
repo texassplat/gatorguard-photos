@@ -1,0 +1,48 @@
+{
+ "finish": "stop",
+ "usage": {
+  "input_tokens": 5068,
+  "output_tokens": 228,
+  "cost": 0.0094656
+ },
+ "served_by": "Together",
+ "label": {
+  "content": "floor_photo",
+  "area": "basement",
+  "setting": "residential",
+  "system": "metallic",
+  "color": "Copper",
+  "color_confidence": "high",
+  "color_runner_up": "Cappuccino",
+  "color_description": "copper orange metallic with marbled variation, very glossy and reflective",
+  "shot_type": "finished",
+  "people": "none",
+  "faces_identifiable": false,
+  "privacy": [],
+  "branding_visible": false,
+  "quality": "3",
+  "issues": [
+   "blurry"
+  ],
+  "website_ready": false,
+  "title": "Copper metallic floor in unfinished basement",
+  "alt_text": "Glossy copper metallic epoxy floor reflecting unfinished basement walls, metallic floor coating",
+  "tags": [
+   "metallic",
+   "copper",
+   "basement",
+   "reflective",
+   "glossy",
+   "marbled",
+   "unfinished walls",
+   "liquid art"
+  ],
+  "filename": "copper-metallic-basement-floor"
+ },
+ "id": "2de552fc67de",
+ "provider": "kimi",
+ "model": "moonshotai/kimi-k3",
+ "mode": "run",
+ "blind": false,
+ "at": "2026-09-17T12:51:51"
+}

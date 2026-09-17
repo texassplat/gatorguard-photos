@@ -1,0 +1,48 @@
+{
+ "finish": "stop",
+ "usage": {
+  "input_tokens": 5247,
+  "output_tokens": 153,
+  "cost": 0.006564945
+ },
+ "served_by": "Morph",
+ "label": {
+  "content": "floor_photo",
+  "area": "other_exterior",
+  "setting": "commercial",
+  "system": "solid_color",
+  "color": "not_applicable",
+  "color_confidence": "none",
+  "color_runner_up": "not_applicable",
+  "color_description": "",
+  "shot_type": "finished",
+  "people": "none",
+  "faces_identifiable": false,
+  "privacy": [],
+  "branding_visible": false,
+  "quality": "3",
+  "issues": [
+   "overexposed"
+  ],
+  "website_ready": false,
+  "title": "White coated rooftop deck with block wall",
+  "alt_text": "White solid color coating on a flat rooftop deck with decorative concrete block wall and trees beyond",
+  "tags": [
+   "rooftop",
+   "white coating",
+   "solid color",
+   "exterior",
+   "decorative block wall",
+   "finished floor",
+   "flat roof",
+   "old style"
+  ],
+  "filename": "white-coated-rooftop-deck"
+ },
+ "id": "de36c38572fd",
+ "provider": "kimi",
+ "model": "moonshotai/kimi-k3",
+ "mode": "run",
+ "blind": false,
+ "at": "2026-09-17T12:53:58"
+}

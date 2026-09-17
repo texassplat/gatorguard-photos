@@ -1,0 +1,48 @@
+{
+ "finish": "stop",
+ "usage": {
+  "input_tokens": 5348,
+  "output_tokens": 282,
+  "cost": 0.01023906
+ },
+ "served_by": "DigitalOcean",
+ "label": {
+  "alt_text": "Low angle view of a basement with a glossy full flake floor, white brick wall and open ceiling, full flake basement floor.",
+  "area": "basement",
+  "branding_visible": false,
+  "color": "Gold Mine",
+  "color_confidence": "medium",
+  "color_description": "gray, white, black and tan chips, medium size",
+  "color_runner_up": "Avalon",
+  "content": "floor_photo",
+  "faces_identifiable": false,
+  "filename": "basement-full-flake-low-angle",
+  "issues": [
+   "tilted"
+  ],
+  "people": "none",
+  "privacy": [],
+  "quality": "4",
+  "setting": "residential",
+  "shot_type": "finished",
+  "system": "full_flake",
+  "tags": [
+   "basement",
+   "full flake",
+   "gray chips",
+   "white brick wall",
+   "open ceiling",
+   "glossy floor",
+   "low angle",
+   "finished floor"
+  ],
+  "title": "Basement finished with gray full flake floor",
+  "website_ready": true
+ },
+ "id": "e046e5e3c5be",
+ "provider": "kimi",
+ "model": "moonshotai/kimi-k3",
+ "mode": "run",
+ "blind": false,
+ "at": "2026-09-17T12:31:01"
+}

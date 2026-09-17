@@ -1,0 +1,47 @@
+{
+ "finish": "stop",
+ "usage": {
+  "input_tokens": 5322,
+  "output_tokens": 208,
+  "cost": 0.00921446
+ },
+ "served_by": "DigitalOcean",
+ "label": {
+  "alt_text": "Gray full flake floor beside a blue wall in a commercial space, full flake floor coating",
+  "area": "commercial_or_industrial",
+  "branding_visible": false,
+  "color": "Gray",
+  "color_confidence": "low",
+  "color_description": "fine gray, white and black chips",
+  "color_runner_up": "Infinity",
+  "content": "floor_photo",
+  "faces_identifiable": false,
+  "filename": "commercial-gray-flake-floor-blue-wall",
+  "issues": [
+   "overexposed"
+  ],
+  "people": "none",
+  "privacy": [],
+  "quality": "3",
+  "setting": "commercial",
+  "shot_type": "finished",
+  "system": "full_flake",
+  "tags": [
+   "gray flakes",
+   "blue wall",
+   "commercial floor",
+   "full flake",
+   "fine chips",
+   "sun glare",
+   "glossy"
+  ],
+  "title": "Gray full flake floor next to blue wall",
+  "website_ready": false
+ },
+ "id": "ff3547f58aab",
+ "provider": "kimi",
+ "model": "moonshotai/kimi-k3",
+ "mode": "run",
+ "blind": false,
+ "at": "2026-09-17T12:34:04"
+}

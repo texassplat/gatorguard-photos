@@ -1,0 +1,48 @@
+{
+ "finish": "stop",
+ "usage": {
+  "input_tokens": 5321,
+  "output_tokens": 194,
+  "cost": 0.0097146
+ },
+ "served_by": "Together",
+ "label": {
+  "content": "floor_photo",
+  "area": "patio_or_porch",
+  "setting": "residential",
+  "system": "poly_enhance",
+  "color": "not_applicable",
+  "color_confidence": "none",
+  "color_runner_up": "not_applicable",
+  "color_description": "",
+  "shot_type": "finished",
+  "people": "none",
+  "faces_identifiable": false,
+  "privacy": [],
+  "branding_visible": false,
+  "quality": "4",
+  "issues": [],
+  "website_ready": true,
+  "title": "Covered porch with sealed paver floor",
+  "alt_text": "Covered front porch with wet-look sealed tan and gray pavers, swing and stone column, poly enhance sealer",
+  "tags": [
+   "porch",
+   "pavers",
+   "wet look sealer",
+   "poly enhance",
+   "covered patio",
+   "swing",
+   "stone column",
+   "tan and gray pavers",
+   "exterior",
+   "finished"
+  ],
+  "filename": "sealed-paver-covered-porch"
+ },
+ "id": "277c93ca76b3",
+ "provider": "kimi",
+ "model": "moonshotai/kimi-k3",
+ "mode": "run",
+ "blind": false,
+ "at": "2026-09-17T12:55:39"
+}

@@ -1,0 +1,45 @@
+{
+ "finish": "stop",
+ "usage": {
+  "input_tokens": 5198,
+  "output_tokens": 217,
+  "cost": 0.0096906
+ },
+ "served_by": "Together",
+ "label": {
+  "content": "floor_photo",
+  "area": "not_visible",
+  "setting": "unknown",
+  "system": "full_flake",
+  "color": "Granite",
+  "color_confidence": "low",
+  "color_runner_up": "Stone Rowe",
+  "color_description": "gray, white and black chips, small size",
+  "shot_type": "close_up",
+  "people": "none",
+  "faces_identifiable": false,
+  "privacy": [],
+  "branding_visible": false,
+  "quality": "3",
+  "issues": [],
+  "website_ready": false,
+  "title": "Close up of gray full flake floor",
+  "alt_text": "Close up of a glossy gray full flake coated concrete floor with small gray, white and black chips",
+  "tags": [
+   "close up",
+   "full flake",
+   "gray chips",
+   "glossy floor",
+   "coated concrete",
+   "flake texture",
+   "garage floor coating"
+  ],
+  "filename": "gray-full-flake-floor-close-up"
+ },
+ "id": "23334ae28c86",
+ "provider": "kimi",
+ "model": "moonshotai/kimi-k3",
+ "mode": "run",
+ "blind": false,
+ "at": "2026-09-17T12:32:34"
+}

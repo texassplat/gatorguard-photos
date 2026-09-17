@@ -1,0 +1,48 @@
+{
+ "finish": "stop",
+ "usage": {
+  "input_tokens": 5333,
+  "output_tokens": 269,
+  "cost": 0.020034
+ },
+ "served_by": "Parasail",
+ "label": {
+  "content": "floor_photo",
+  "area": "basement",
+  "setting": "residential",
+  "system": "full_flake",
+  "color": "Willow",
+  "color_confidence": "medium",
+  "color_runner_up": "Ocotillo",
+  "color_description": "tan, cream and light brown chips, small to medium size",
+  "shot_type": "finished",
+  "people": "none",
+  "faces_identifiable": false,
+  "privacy": [],
+  "branding_visible": false,
+  "quality": "4",
+  "issues": [],
+  "website_ready": true,
+  "title": "Basement utility room with tan full flake floor",
+  "alt_text": "Finished basement utility room with a tan, cream and brown full flake floor, water heater, furnace and shelving, full flake basement floor coating",
+  "tags": [
+   "basement",
+   "utility room",
+   "full flake",
+   "tan chips",
+   "brown chips",
+   "water heater",
+   "furnace",
+   "floor drain",
+   "finished floor",
+   "shelving"
+  ],
+  "filename": "basement-utility-room-tan-full-flake"
+ },
+ "id": "b4a3fa05356c",
+ "provider": "kimi",
+ "model": "moonshotai/kimi-k3",
+ "mode": "run",
+ "blind": false,
+ "at": "2026-09-17T12:31:38"
+}

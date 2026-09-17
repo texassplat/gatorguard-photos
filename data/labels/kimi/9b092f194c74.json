@@ -1,0 +1,47 @@
+{
+ "finish": "stop",
+ "usage": {
+  "input_tokens": 5326,
+  "output_tokens": 346,
+  "cost": 0.01531872
+ },
+ "served_by": "Phala",
+ "label": {
+  "alt_text": "Glossy brown marbled metallic floor in a sunroom with brick walls and large windows, metallic epoxy floor coating",
+  "area": "interior_room",
+  "branding_visible": false,
+  "color": "Cappuccino",
+  "color_confidence": "medium",
+  "color_description": "marbled tan and brown metallic swirls, glossy wet look, no chips",
+  "color_runner_up": "Copper",
+  "content": "floor_photo",
+  "faces_identifiable": false,
+  "filename": "sunroom-brown-metallic-marbled-floor",
+  "issues": [],
+  "people": "none",
+  "privacy": [],
+  "quality": "4",
+  "setting": "residential",
+  "shot_type": "finished",
+  "system": "metallic",
+  "tags": [
+   "metallic floor",
+   "sunroom",
+   "enclosed porch",
+   "marbled",
+   "glossy",
+   "brown metallic",
+   "reflective floor",
+   "brick wall",
+   "windows"
+  ],
+  "title": "Sunroom with glossy brown marbled metallic floor",
+  "website_ready": true
+ },
+ "id": "9b092f194c74",
+ "provider": "kimi",
+ "model": "moonshotai/kimi-k3",
+ "mode": "run",
+ "blind": false,
+ "at": "2026-09-17T12:51:11"
+}

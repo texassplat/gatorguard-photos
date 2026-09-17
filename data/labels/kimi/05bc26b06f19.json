@@ -1,0 +1,47 @@
+{
+ "finish": "stop",
+ "usage": {
+  "input_tokens": 5213,
+  "output_tokens": 275,
+  "cost": 0.019764
+ },
+ "served_by": "Parasail",
+ "label": {
+  "content": "floor_photo",
+  "area": "basement",
+  "setting": "residential",
+  "system": "full_flake",
+  "color": "Ocotillo",
+  "color_confidence": "medium",
+  "color_runner_up": "Chestnut",
+  "color_description": "tan base with brown and black chips, small to medium size",
+  "shot_type": "finished",
+  "people": "none",
+  "faces_identifiable": false,
+  "privacy": [],
+  "branding_visible": false,
+  "quality": "4",
+  "issues": [],
+  "website_ready": true,
+  "title": "Basement kitchen with tan full flake floor",
+  "alt_text": "Finished basement with tan, brown and black flake floor, wood cabinets and a kitchenette, full flake basement floor coating",
+  "tags": [
+   "basement",
+   "full flake",
+   "tan chips",
+   "brown chips",
+   "black chips",
+   "kitchenette",
+   "wood cabinets",
+   "finished floor",
+   "residential"
+  ],
+  "filename": "basement-kitchen-tan-full-flake-floor"
+ },
+ "id": "05bc26b06f19",
+ "provider": "kimi",
+ "model": "moonshotai/kimi-k3",
+ "mode": "run",
+ "blind": false,
+ "at": "2026-09-17T12:31:42"
+}

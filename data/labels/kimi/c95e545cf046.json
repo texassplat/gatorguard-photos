@@ -1,0 +1,46 @@
+{
+ "finish": "stop",
+ "usage": {
+  "input_tokens": 5338,
+  "output_tokens": 249,
+  "cost": 0.0105906
+ },
+ "served_by": "Together",
+ "label": {
+  "content": "floor_photo",
+  "area": "garage",
+  "setting": "residential",
+  "system": "full_flake",
+  "color": "unknown",
+  "color_confidence": "low",
+  "color_runner_up": "Quartzite",
+  "color_description": "dark charcoal gray base with fine light gray and white chips, small size",
+  "shot_type": "finished",
+  "people": "none",
+  "faces_identifiable": false,
+  "privacy": [],
+  "branding_visible": false,
+  "quality": "4",
+  "issues": [],
+  "website_ready": true,
+  "title": "Garage with dark gray full flake floor",
+  "alt_text": "Finished garage with dark gray full flake floor coating, open garage door and tools on wall",
+  "tags": [
+   "garage",
+   "full flake",
+   "dark gray",
+   "fine chips",
+   "glossy",
+   "finished floor",
+   "garage door",
+   "residential"
+  ],
+  "filename": "garage-dark-gray-full-flake-floor"
+ },
+ "id": "c95e545cf046",
+ "provider": "kimi",
+ "model": "moonshotai/kimi-k3",
+ "mode": "run",
+ "blind": false,
+ "at": "2026-09-17T12:41:01"
+}

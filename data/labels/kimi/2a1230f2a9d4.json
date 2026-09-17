@@ -1,0 +1,48 @@
+{
+ "finish": "stop",
+ "usage": {
+  "input_tokens": 5327,
+  "output_tokens": 273,
+  "cost": 0.01433592
+ },
+ "served_by": "Phala",
+ "label": {
+  "alt_text": "Gray swirled metallic epoxy floor in a hallway, blue metallic floor visible in adjoining room, metallic floor coating",
+  "area": "interior_room",
+  "branding_visible": false,
+  "color": "Gray",
+  "color_confidence": "medium",
+  "color_description": "light and mid gray marbled metallic swirl with a blue metallic floor in the next room",
+  "color_runner_up": "Charcoal",
+  "content": "floor_photo",
+  "faces_identifiable": false,
+  "filename": "gray-metallic-hallway-blue-room",
+  "issues": [
+   "cluttered"
+  ],
+  "people": "none",
+  "privacy": [],
+  "quality": "3",
+  "setting": "residential",
+  "shot_type": "finished",
+  "system": "metallic",
+  "tags": [
+   "metallic epoxy",
+   "liquid art",
+   "gray metallic floor",
+   "blue metallic floor",
+   "hallway",
+   "interior floor",
+   "swirled finish",
+   "residential"
+  ],
+  "title": "Gray metallic hallway floor with blue room",
+  "website_ready": false
+ },
+ "id": "2a1230f2a9d4",
+ "provider": "kimi",
+ "model": "moonshotai/kimi-k3",
+ "mode": "run",
+ "blind": false,
+ "at": "2026-09-17T12:52:06"
+}

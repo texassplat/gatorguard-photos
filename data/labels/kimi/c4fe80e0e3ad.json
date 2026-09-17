@@ -1,0 +1,46 @@
+{
+ "finish": "stop",
+ "usage": {
+  "input_tokens": 5333,
+  "output_tokens": 252,
+  "cost": 0.00981231
+ },
+ "served_by": "DigitalOcean",
+ "label": {
+  "alt_text": "Basement with gray full flake floor, exposed wood joists and white insulated walls",
+  "area": "basement",
+  "branding_visible": false,
+  "color": "Granite",
+  "color_confidence": "low",
+  "color_description": "gray, white and black chips, small to medium size",
+  "color_runner_up": "Quartzite",
+  "content": "floor_photo",
+  "faces_identifiable": false,
+  "filename": "basement-gray-full-flake-floor",
+  "issues": [],
+  "people": "none",
+  "privacy": [],
+  "quality": "4",
+  "setting": "residential",
+  "shot_type": "finished",
+  "system": "full_flake",
+  "tags": [
+   "basement",
+   "full flake",
+   "gray chips",
+   "gray white black chips",
+   "exposed joists",
+   "support poles",
+   "small window",
+   "finished floor"
+  ],
+  "title": "Basement with gray full flake floor",
+  "website_ready": true
+ },
+ "id": "c4fe80e0e3ad",
+ "provider": "kimi",
+ "model": "moonshotai/kimi-k3",
+ "mode": "run",
+ "blind": false,
+ "at": "2026-09-17T12:31:21"
+}

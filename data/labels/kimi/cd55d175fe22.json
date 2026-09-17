@@ -1,0 +1,46 @@
+{
+ "finish": "stop",
+ "usage": {
+  "input_tokens": 5334,
+  "output_tokens": 334,
+  "cost": 0.021012
+ },
+ "served_by": "Parasail",
+ "label": {
+  "content": "floor_photo",
+  "area": "garage",
+  "setting": "residential",
+  "system": "full_flake",
+  "color": "Granite",
+  "color_confidence": "medium",
+  "color_runner_up": "Infinity",
+  "color_description": "black, white and gray chips, small to medium size, speckled salt-and-pepper look",
+  "shot_type": "close_up",
+  "people": "background",
+  "faces_identifiable": false,
+  "privacy": [],
+  "branding_visible": false,
+  "quality": "4",
+  "issues": [],
+  "website_ready": true,
+  "title": "Close-up of gray full flake floor edge in garage",
+  "alt_text": "Close-up of a black, white and gray full flake garage floor with a crisp edge where the coating meets the concrete, full flake garage floor coating",
+  "tags": [
+   "full flake",
+   "close up",
+   "garage floor",
+   "crisp edge",
+   "black white gray chips",
+   "speckled",
+   "coating edge",
+   "clean lines"
+  ],
+  "filename": "gray-full-flake-garage-floor-edge-close-up"
+ },
+ "id": "cd55d175fe22",
+ "provider": "kimi",
+ "model": "moonshotai/kimi-k3",
+ "mode": "run",
+ "blind": false,
+ "at": "2026-09-17T12:35:24"
+}

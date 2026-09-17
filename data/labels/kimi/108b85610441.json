@@ -1,0 +1,46 @@
+{
+ "finish": "stop",
+ "usage": {
+  "input_tokens": 5356,
+  "output_tokens": 232,
+  "cost": 0.0103896
+ },
+ "served_by": "Together",
+ "label": {
+  "content": "floor_photo",
+  "area": "not_visible",
+  "setting": "unknown",
+  "system": "full_flake",
+  "color": "Windermere",
+  "color_confidence": "medium",
+  "color_runner_up": "Stone Ridge",
+  "color_description": "gray base with small to medium tan, brown, black and white chips",
+  "shot_type": "close_up",
+  "people": "none",
+  "faces_identifiable": false,
+  "privacy": [],
+  "branding_visible": false,
+  "quality": "4",
+  "issues": [],
+  "website_ready": false,
+  "title": "Close up of tool joint in flake floor",
+  "alt_text": "Close up of a saw cut tool joint in a gray full flake floor with tan and brown chips",
+  "tags": [
+   "close up",
+   "tool joint",
+   "cut line",
+   "full flake",
+   "gray flake",
+   "tan chips",
+   "brown chips",
+   "surface detail"
+  ],
+  "filename": "flake-floor-tool-joint-close-up"
+ },
+ "id": "108b85610441",
+ "provider": "kimi",
+ "model": "moonshotai/kimi-k3",
+ "mode": "run",
+ "blind": false,
+ "at": "2026-09-17T12:35:27"
+}

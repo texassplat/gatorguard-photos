@@ -1,0 +1,46 @@
+{
+ "finish": "stop",
+ "usage": {
+  "input_tokens": 5189,
+  "output_tokens": 265,
+  "cost": 0.010038
+ },
+ "served_by": "Together",
+ "label": {
+  "content": "floor_photo",
+  "area": "basement",
+  "setting": "residential",
+  "system": "full_flake",
+  "color": "Ocotillo",
+  "color_confidence": "medium",
+  "color_runner_up": "Shalestone",
+  "color_description": "light cream and tan chips with small black and gray specks, fine to medium size",
+  "shot_type": "finished",
+  "people": "none",
+  "faces_identifiable": false,
+  "privacy": [],
+  "branding_visible": false,
+  "quality": "4",
+  "issues": [],
+  "website_ready": true,
+  "title": "Basement bar area with light tan flake floor",
+  "alt_text": "Basement bar with black stools on a light tan full flake floor coating",
+  "tags": [
+   "basement",
+   "full flake",
+   "bar stools",
+   "light tan floor",
+   "cream chips",
+   "finished floor",
+   "basement bar",
+   "residential"
+  ],
+  "filename": "basement-bar-light-tan-flake-floor"
+ },
+ "id": "a294248fc0cf",
+ "provider": "kimi",
+ "model": "moonshotai/kimi-k3",
+ "mode": "pilot",
+ "blind": true,
+ "at": "2026-09-17T12:25:44"
+}

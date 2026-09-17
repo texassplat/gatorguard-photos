@@ -1,0 +1,47 @@
+{
+ "finish": "stop",
+ "usage": {
+  "input_tokens": 5332,
+  "output_tokens": 230,
+  "cost": 0.019446
+ },
+ "served_by": "Parasail",
+ "label": {
+  "content": "floor_photo",
+  "area": "patio_or_porch",
+  "setting": "residential",
+  "system": "metallic",
+  "color": "Cappuccino",
+  "color_confidence": "medium",
+  "color_runner_up": "Copper",
+  "color_description": "medium brown metallic with lighter tan swirls, marbled and glossy",
+  "shot_type": "finished",
+  "people": "none",
+  "faces_identifiable": false,
+  "privacy": [],
+  "branding_visible": false,
+  "quality": "4",
+  "issues": [],
+  "website_ready": true,
+  "title": "Brown metallic epoxy floor in sunroom",
+  "alt_text": "Glossy brown metallic epoxy floor in a sunroom with large windows overlooking a green lawn, metallic floor coating",
+  "tags": [
+   "metallic epoxy",
+   "brown metallic",
+   "sunroom",
+   "porch floor",
+   "marbled floor",
+   "glossy floor",
+   "windows",
+   "liquid art",
+   "finished floor"
+  ],
+  "filename": "brown-metallic-sunroom-floor"
+ },
+ "id": "06992e4343f8",
+ "provider": "kimi",
+ "model": "moonshotai/kimi-k3",
+ "mode": "pilot",
+ "blind": false,
+ "at": "2026-09-17T12:24:51"
+}

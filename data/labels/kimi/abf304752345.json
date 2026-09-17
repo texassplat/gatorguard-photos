@@ -1,0 +1,47 @@
+{
+ "finish": "stop",
+ "usage": {
+  "input_tokens": 5262,
+  "output_tokens": 255,
+  "cost": 0.00766407
+ },
+ "served_by": "Morph",
+ "label": {
+  "content": "floor_photo",
+  "area": "patio_or_porch",
+  "setting": "residential",
+  "system": "metallic",
+  "color": "Cappuccino",
+  "color_confidence": "medium",
+  "color_runner_up": "Copper",
+  "color_description": "brown and tan swirled metallic epoxy, high gloss",
+  "shot_type": "finished",
+  "people": "none",
+  "faces_identifiable": false,
+  "privacy": [],
+  "branding_visible": false,
+  "quality": "4",
+  "issues": [],
+  "website_ready": true,
+  "title": "Brown metallic epoxy floor in screened porch",
+  "alt_text": "Glossy brown metallic epoxy floor in a screened porch with wood walls and sliding doors, Liquid Art metallic floor coating",
+  "tags": [
+   "metallic epoxy",
+   "liquid art",
+   "brown floor",
+   "swirled",
+   "high gloss",
+   "screened porch",
+   "sunroom",
+   "sliding doors",
+   "reflective"
+  ],
+  "filename": "brown-metallic-epoxy-screened-porch"
+ },
+ "id": "abf304752345",
+ "provider": "kimi",
+ "model": "moonshotai/kimi-k3",
+ "mode": "run",
+ "blind": false,
+ "at": "2026-09-17T12:52:00"
+}

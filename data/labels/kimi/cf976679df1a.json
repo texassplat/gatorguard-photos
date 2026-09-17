@@ -1,0 +1,48 @@
+{
+ "finish": "stop",
+ "usage": {
+  "input_tokens": 5213,
+  "output_tokens": 326,
+  "cost": 0.01474362
+ },
+ "served_by": "Phala",
+ "label": {
+  "alt_text": "Blue sports car parked on a dark glossy metallic epoxy floor in a garage with corrugated metal walls",
+  "area": "garage",
+  "branding_visible": false,
+  "color": "Charcoal",
+  "color_confidence": "low",
+  "color_description": "dark gray to black marbled metallic, no chips",
+  "color_runner_up": "Gun Metal",
+  "content": "floor_photo",
+  "faces_identifiable": false,
+  "filename": "blue-sports-car-dark-metallic-floor",
+  "issues": [],
+  "people": "none",
+  "privacy": [],
+  "quality": "5",
+  "setting": "unknown",
+  "shot_type": "finished",
+  "system": "metallic",
+  "tags": [
+   "metallic floor",
+   "dark gray",
+   "garage",
+   "sports car",
+   "glossy",
+   "reflective floor",
+   "metal walls",
+   "liquid art",
+   "finished floor",
+   "show car"
+  ],
+  "title": "Blue sports car on dark metallic garage floor",
+  "website_ready": true
+ },
+ "id": "cf976679df1a",
+ "provider": "kimi",
+ "model": "moonshotai/kimi-k3",
+ "mode": "run",
+ "blind": false,
+ "at": "2026-09-17T12:50:29"
+}

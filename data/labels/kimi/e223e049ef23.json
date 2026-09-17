@@ -1,0 +1,48 @@
+{
+ "finish": "stop",
+ "usage": {
+  "input_tokens": 5344,
+  "output_tokens": 298,
+  "cost": 0.01043606
+ },
+ "served_by": "DigitalOcean",
+ "label": {
+  "alt_text": "Close up of glossy full flake floor with gray, black, white and tan chips",
+  "area": "not_visible",
+  "branding_visible": false,
+  "color": "Ocotillo",
+  "color_confidence": "low",
+  "color_description": "gray, white and black chips with small orange tan accents, glossy clear coat",
+  "color_runner_up": "Chestnut",
+  "content": "floor_photo",
+  "faces_identifiable": false,
+  "filename": "close-up-glossy-flake-floor-gray-tan",
+  "issues": [],
+  "people": "none",
+  "privacy": [],
+  "quality": "4",
+  "setting": "unknown",
+  "shot_type": "close_up",
+  "system": "full_flake",
+  "tags": [
+   "close up",
+   "full flake",
+   "glossy",
+   "gray chips",
+   "white chips",
+   "black chips",
+   "tan chips",
+   "orange accent chips",
+   "clear coat",
+   "floor detail"
+  ],
+  "title": "Close up of glossy gray and tan flake floor",
+  "website_ready": true
+ },
+ "id": "e223e049ef23",
+ "provider": "kimi",
+ "model": "moonshotai/kimi-k3",
+ "mode": "run",
+ "blind": false,
+ "at": "2026-09-17T12:32:02"
+}

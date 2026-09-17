@@ -1,0 +1,46 @@
+{
+ "finish": "stop",
+ "usage": {
+  "input_tokens": 5257,
+  "output_tokens": 161,
+  "cost": 0.006667695
+ },
+ "served_by": "Morph",
+ "label": {
+  "content": "floor_photo",
+  "area": "commercial_or_industrial",
+  "setting": "commercial",
+  "system": "tile_coating",
+  "color": "unknown",
+  "color_confidence": "low",
+  "color_runner_up": "Gray",
+  "color_description": "gray base with dense small black, gray and white chips",
+  "shot_type": "finished",
+  "people": "background",
+  "faces_identifiable": false,
+  "privacy": [],
+  "branding_visible": false,
+  "quality": "3",
+  "issues": [],
+  "website_ready": false,
+  "title": "Commercial restroom with gray flake coated tile floor",
+  "alt_text": "Gray full flake coating over tile in a commercial restroom with sink counter and stall doors",
+  "tags": [
+   "commercial restroom",
+   "bathroom floor",
+   "coated tile",
+   "gray chips",
+   "black white chips",
+   "sinks",
+   "stall doors",
+   "flake floor"
+  ],
+  "filename": "commercial-restroom-gray-flake-tile-floor"
+ },
+ "id": "7122634f49f6",
+ "provider": "kimi",
+ "model": "moonshotai/kimi-k3",
+ "mode": "run",
+ "blind": false,
+ "at": "2026-09-17T12:58:10"
+}

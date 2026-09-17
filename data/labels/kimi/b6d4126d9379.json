@@ -1,0 +1,50 @@
+{
+ "finish": "stop",
+ "usage": {
+  "input_tokens": 5323,
+  "output_tokens": 270,
+  "cost": 0.01001991
+ },
+ "served_by": "DigitalOcean",
+ "label": {
+  "alt_text": "Worker clear-coating a gray full flake floor in a commercial office hallway, full flake commercial floor coating",
+  "area": "commercial_or_industrial",
+  "branding_visible": false,
+  "color": "Granite",
+  "color_confidence": "low",
+  "color_description": "gray, white and black chips, medium size, glossy clear coat",
+  "color_runner_up": "Silverado",
+  "content": "floor_photo",
+  "faces_identifiable": false,
+  "filename": "commercial-hallway-gray-flake-coating",
+  "issues": [
+   "cluttered"
+  ],
+  "people": "prominent",
+  "privacy": [],
+  "quality": "3",
+  "setting": "commercial",
+  "shot_type": "in_progress",
+  "system": "full_flake",
+  "tags": [
+   "commercial",
+   "hallway",
+   "office",
+   "full flake",
+   "gray chips",
+   "clear coat",
+   "in progress",
+   "roller",
+   "wet look",
+   "glossy floor"
+  ],
+  "title": "Worker sealing gray flake floor in office hallway",
+  "website_ready": false
+ },
+ "id": "b6d4126d9379",
+ "provider": "kimi",
+ "model": "moonshotai/kimi-k3",
+ "mode": "run",
+ "blind": false,
+ "at": "2026-09-17T12:34:32"
+}

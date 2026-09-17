@@ -1,0 +1,48 @@
+{
+ "finish": "stop",
+ "usage": {
+  "input_tokens": 5238,
+  "output_tokens": 168,
+  "cost": 0.00670557
+ },
+ "served_by": "Morph",
+ "label": {
+  "content": "marketing_graphic",
+  "area": "garage",
+  "setting": "residential",
+  "system": "full_flake",
+  "color": "unknown",
+  "color_confidence": "low",
+  "color_runner_up": "Granite",
+  "color_description": "gray base with fine gray, white and black chips, small size",
+  "shot_type": "graphic",
+  "people": "none",
+  "faces_identifiable": false,
+  "privacy": [],
+  "branding_visible": false,
+  "quality": "4",
+  "issues": [
+   "text_overlay"
+  ],
+  "website_ready": false,
+  "title": "Garage floor with We Make It More text",
+  "alt_text": "Garage with gray flake floor, white cabinets and text overlay reading We Make It More Than A Garage",
+  "tags": [
+   "garage",
+   "gray floor",
+   "full flake",
+   "white cabinets",
+   "text overlay",
+   "marketing graphic",
+   "finished floor",
+   "garage storage"
+  ],
+  "filename": "garage-flake-floor-text-overlay"
+ },
+ "id": "bb6d174ee29a",
+ "provider": "kimi",
+ "model": "moonshotai/kimi-k3",
+ "mode": "run",
+ "blind": false,
+ "at": "2026-09-17T12:59:10"
+}

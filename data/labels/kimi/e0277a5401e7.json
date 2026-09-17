@@ -1,0 +1,47 @@
+{
+ "finish": "stop",
+ "usage": {
+  "input_tokens": 5331,
+  "output_tokens": 189,
+  "cost": 0.018828
+ },
+ "served_by": "Parasail",
+ "label": {
+  "content": "floor_photo",
+  "area": "steps_or_stairs",
+  "setting": "residential",
+  "system": "bare_concrete",
+  "color": "not_applicable",
+  "color_confidence": "none",
+  "color_runner_up": "not_applicable",
+  "color_description": "",
+  "shot_type": "close_up",
+  "people": "prominent",
+  "faces_identifiable": false,
+  "privacy": [],
+  "branding_visible": false,
+  "quality": "3",
+  "issues": [],
+  "website_ready": false,
+  "title": "Crew member pointing at chipped concrete step edge",
+  "alt_text": "Gloved installer points to a chipped, crumbling concrete porch edge before coating repair",
+  "tags": [
+   "concrete damage",
+   "chipped concrete",
+   "porch step",
+   "cracked edge",
+   "before",
+   "repair",
+   "exterior",
+   "crew hand",
+   "close up"
+  ],
+  "filename": "pointing-chipped-concrete-porch-edge"
+ },
+ "id": "e0277a5401e7",
+ "provider": "kimi",
+ "model": "moonshotai/kimi-k3",
+ "mode": "run",
+ "blind": false,
+ "at": "2026-09-17T12:37:03"
+}

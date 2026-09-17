@@ -1,0 +1,46 @@
+{
+ "finish": "stop",
+ "usage": {
+  "input_tokens": 5312,
+  "output_tokens": 246,
+  "cost": 0.0104676
+ },
+ "served_by": "Together",
+ "label": {
+  "content": "floor_photo",
+  "area": "patio_or_porch",
+  "setting": "residential",
+  "system": "full_flake",
+  "color": "unknown",
+  "color_confidence": "low",
+  "color_runner_up": "Callisto",
+  "color_description": "small gray, white and black chips on a light gray base",
+  "shot_type": "finished",
+  "people": "none",
+  "faces_identifiable": false,
+  "privacy": [],
+  "branding_visible": false,
+  "quality": "4",
+  "issues": [],
+  "website_ready": true,
+  "title": "Front porch with gray full flake floor",
+  "alt_text": "Front porch with gray full flake floor coating, stone veneer walls and gray entry door",
+  "tags": [
+   "front porch",
+   "full flake",
+   "gray floor",
+   "stone veneer",
+   "entry door",
+   "small chips",
+   "finished floor",
+   "exterior coating"
+  ],
+  "filename": "front-porch-gray-full-flake-floor"
+ },
+ "id": "2a8f9f690345",
+ "provider": "kimi",
+ "model": "moonshotai/kimi-k3",
+ "mode": "run",
+ "blind": false,
+ "at": "2026-09-17T12:54:54"
+}

@@ -1,0 +1,46 @@
+{
+ "finish": "stop",
+ "usage": {
+  "input_tokens": 5320,
+  "output_tokens": 219,
+  "cost": 0.0100866
+ },
+ "served_by": "Together",
+ "label": {
+  "content": "floor_photo",
+  "area": "garage",
+  "setting": "residential",
+  "system": "full_flake",
+  "color": "unknown",
+  "color_confidence": "low",
+  "color_runner_up": "Granite",
+  "color_description": "gray, white and black chips with warm tan undertone, small to medium size",
+  "shot_type": "finished",
+  "people": "none",
+  "faces_identifiable": false,
+  "privacy": [],
+  "branding_visible": false,
+  "quality": "4",
+  "issues": [],
+  "website_ready": true,
+  "title": "Garage with gray full flake floor and workbench",
+  "alt_text": "Finished garage with gray full flake floor coating, OSB walls, workbench and windows",
+  "tags": [
+   "garage",
+   "full flake",
+   "gray chips",
+   "workbench",
+   "osb walls",
+   "windows",
+   "finished floor",
+   "garage floor coating"
+  ],
+  "filename": "garage-gray-full-flake-workbench"
+ },
+ "id": "7e45b4c95f34",
+ "provider": "kimi",
+ "model": "moonshotai/kimi-k3",
+ "mode": "run",
+ "blind": false,
+ "at": "2026-09-17T12:44:14"
+}

@@ -1,0 +1,47 @@
+{
+ "finish": "stop",
+ "usage": {
+  "input_tokens": 5331,
+  "output_tokens": 263,
+  "cost": 0.019938
+ },
+ "served_by": "Fireworks",
+ "label": {
+  "content": "floor_photo",
+  "area": "interior_room",
+  "setting": "residential",
+  "system": "full_flake",
+  "color": "Sedona",
+  "color_confidence": "medium",
+  "color_runner_up": "Chestnut",
+  "color_description": "tan, brown and black chips, small to medium size, warm overall tone",
+  "shot_type": "finished",
+  "people": "none",
+  "faces_identifiable": false,
+  "privacy": [],
+  "branding_visible": false,
+  "quality": "4",
+  "issues": [],
+  "website_ready": true,
+  "title": "Finished basement room with brown full flake floor",
+  "alt_text": "Interior room with glossy brown full flake floor coating, sliding glass door and view of adjacent room",
+  "tags": [
+   "full flake",
+   "interior room",
+   "basement",
+   "brown chips",
+   "tan chips",
+   "black chips",
+   "glossy floor",
+   "sliding door",
+   "finished floor"
+  ],
+  "filename": "interior-room-brown-full-flake-floor"
+ },
+ "id": "533fc45ae82f",
+ "provider": "kimi",
+ "model": "moonshotai/kimi-k3",
+ "mode": "run",
+ "blind": false,
+ "at": "2026-09-17T12:48:27"
+}

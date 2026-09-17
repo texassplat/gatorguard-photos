@@ -1,0 +1,46 @@
+{
+ "finish": "stop",
+ "usage": {
+  "input_tokens": 5327,
+  "output_tokens": 205,
+  "cost": 0.0098976
+ },
+ "served_by": "Together",
+ "label": {
+  "content": "floor_photo",
+  "area": "not_visible",
+  "setting": "unknown",
+  "system": "metallic",
+  "color": "Copper",
+  "color_confidence": "medium",
+  "color_runner_up": "Cappuccino",
+  "color_description": "swirled metallic in copper and bronze tones with lighter tan marbling",
+  "shot_type": "close_up",
+  "people": "none",
+  "faces_identifiable": false,
+  "privacy": [],
+  "branding_visible": false,
+  "quality": "3",
+  "issues": [],
+  "website_ready": false,
+  "title": "Close up of copper metallic epoxy floor",
+  "alt_text": "Close up of a swirled copper and bronze metallic epoxy floor coating",
+  "tags": [
+   "metallic epoxy",
+   "liquid art",
+   "copper",
+   "bronze",
+   "swirl",
+   "marbled",
+   "close up",
+   "reflective"
+  ],
+  "filename": "copper-metallic-epoxy-close-up"
+ },
+ "id": "294fb0660eeb",
+ "provider": "kimi",
+ "model": "moonshotai/kimi-k3",
+ "mode": "run",
+ "blind": false,
+ "at": "2026-09-17T12:50:59"
+}

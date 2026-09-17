@@ -1,0 +1,47 @@
+{
+ "finish": "stop",
+ "usage": {
+  "input_tokens": 5315,
+  "output_tokens": 200,
+  "cost": 0.018945
+ },
+ "served_by": "Fireworks",
+ "label": {
+  "content": "people_or_team",
+  "area": "not_visible",
+  "setting": "unknown",
+  "system": "not_applicable",
+  "color": "not_applicable",
+  "color_confidence": "none",
+  "color_runner_up": "not_applicable",
+  "color_description": "",
+  "shot_type": "team_or_portrait",
+  "people": "prominent",
+  "faces_identifiable": true,
+  "privacy": [],
+  "branding_visible": true,
+  "quality": "4",
+  "issues": [],
+  "website_ready": true,
+  "title": "GatorGuard crew posing by branded trailer",
+  "alt_text": "Four GatorGuard Concrete Coatings crew members in logo shirts standing in front of the branded box truck trailer",
+  "tags": [
+   "crew",
+   "team photo",
+   "gatorguard shirts",
+   "branded trailer",
+   "recruiting ad",
+   "employees",
+   "truck",
+   "company branding",
+   "outdoor"
+  ],
+  "filename": "gatorguard-crew-branded-trailer"
+ },
+ "id": "fcb918de1e1b",
+ "provider": "kimi",
+ "model": "moonshotai/kimi-k3",
+ "mode": "run",
+ "blind": false,
+ "at": "2026-09-17T12:35:46"
+}

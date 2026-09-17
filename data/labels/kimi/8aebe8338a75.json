@@ -1,0 +1,46 @@
+{
+ "finish": "stop",
+ "usage": {
+  "input_tokens": 5206,
+  "output_tokens": 266,
+  "cost": 0.0104496
+ },
+ "served_by": "Together",
+ "label": {
+  "content": "people_or_team",
+  "area": "showroom_or_retail",
+  "setting": "unknown",
+  "system": "full_flake",
+  "color": "Chestnut",
+  "color_confidence": "medium",
+  "color_runner_up": "Ocotillo",
+  "color_description": "tan, brown and black chips, small to medium size",
+  "shot_type": "team_or_portrait",
+  "people": "prominent",
+  "faces_identifiable": false,
+  "privacy": [],
+  "branding_visible": true,
+  "quality": "4",
+  "issues": [],
+  "website_ready": true,
+  "title": "GatorGuard team celebrating on tan flake floor",
+  "alt_text": "Five GatorGuard crew members in green shirts cheering with backs to camera on a tan full flake garage floor",
+  "tags": [
+   "team photo",
+   "crew",
+   "green shirts",
+   "gameday photoshoot",
+   "tan flake floor",
+   "full flake",
+   "celebration",
+   "branded hats"
+  ],
+  "filename": "gatoreguard-team-gameday-celebration-flake-floor"
+ },
+ "id": "8aebe8338a75",
+ "provider": "kimi",
+ "model": "moonshotai/kimi-k3",
+ "mode": "run",
+ "blind": false,
+ "at": "2026-09-17T12:38:57"
+}

@@ -1,0 +1,50 @@
+{
+ "finish": "stop",
+ "usage": {
+  "input_tokens": 5196,
+  "output_tokens": 373,
+  "cost": 0.021183
+ },
+ "served_by": "Parasail",
+ "label": {
+  "content": "floor_photo",
+  "area": "garage",
+  "setting": "residential",
+  "system": "full_flake",
+  "color": "Cobalt",
+  "color_confidence": "medium",
+  "color_runner_up": "unknown",
+  "color_description": "white base with blue, black and gray chips, small to medium size",
+  "shot_type": "finished",
+  "people": "none",
+  "faces_identifiable": false,
+  "privacy": [],
+  "branding_visible": false,
+  "quality": "4",
+  "issues": [
+   "cluttered"
+  ],
+  "website_ready": false,
+  "title": "Garage with white and blue full flake floor",
+  "alt_text": "Low angle view of a full flake garage floor with white, blue and black chips, cabinets and tool storage behind",
+  "tags": [
+   "garage",
+   "full flake",
+   "white base",
+   "blue chips",
+   "black chips",
+   "finished floor",
+   "cabinets",
+   "workbench",
+   "low angle",
+   "residential"
+  ],
+  "filename": "garage-white-blue-full-flake-floor"
+ },
+ "id": "6b5ab312279d",
+ "provider": "kimi",
+ "model": "moonshotai/kimi-k3",
+ "mode": "run",
+ "blind": false,
+ "at": "2026-09-17T12:43:31"
+}

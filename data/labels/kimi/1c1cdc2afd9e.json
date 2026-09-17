@@ -1,0 +1,46 @@
+{
+ "finish": "stop",
+ "usage": {
+  "input_tokens": 5333,
+  "output_tokens": 207,
+  "cost": 0.019104
+ },
+ "served_by": "Parasail",
+ "label": {
+  "content": "floor_photo",
+  "area": "interior_room",
+  "setting": "residential",
+  "system": "full_flake",
+  "color": "Callisto",
+  "color_confidence": "medium",
+  "color_runner_up": "Infinity",
+  "color_description": "gray, white and black chips, small to medium size",
+  "shot_type": "finished",
+  "people": "none",
+  "faces_identifiable": false,
+  "privacy": [],
+  "branding_visible": false,
+  "quality": "4",
+  "issues": [],
+  "website_ready": true,
+  "title": "Interior room with gray full flake floor",
+  "alt_text": "Finished interior room with gray full flake floor coating, floor drain, stairs and white walls",
+  "tags": [
+   "full flake",
+   "interior room",
+   "gray floor",
+   "floor drain",
+   "stairs",
+   "finished floor",
+   "basement room",
+   "gray chips"
+  ],
+  "filename": "interior-room-gray-full-flake-floor"
+ },
+ "id": "1c1cdc2afd9e",
+ "provider": "kimi",
+ "model": "moonshotai/kimi-k3",
+ "mode": "run",
+ "blind": false,
+ "at": "2026-09-17T12:48:10"
+}

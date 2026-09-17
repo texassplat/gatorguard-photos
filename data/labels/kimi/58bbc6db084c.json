@@ -1,0 +1,47 @@
+{
+ "finish": "stop",
+ "usage": {
+  "input_tokens": 5326,
+  "output_tokens": 238,
+  "cost": 0.019548
+ },
+ "served_by": "Fireworks",
+ "label": {
+  "content": "floor_photo",
+  "area": "commercial_or_industrial",
+  "setting": "commercial",
+  "system": "full_flake",
+  "color": "Granite",
+  "color_confidence": "medium",
+  "color_runner_up": "Stone Rowe",
+  "color_description": "gray, black and white chips, small to medium size",
+  "shot_type": "finished",
+  "people": "none",
+  "faces_identifiable": false,
+  "privacy": [],
+  "branding_visible": false,
+  "quality": "4",
+  "issues": [],
+  "website_ready": true,
+  "title": "Commercial restroom with gray full flake floor",
+  "alt_text": "Commercial restroom with corrugated metal walls, wall-mount sinks and a gray full flake garage floor coating",
+  "tags": [
+   "commercial",
+   "restroom",
+   "full flake",
+   "gray chips",
+   "black chips",
+   "white chips",
+   "corrugated metal walls",
+   "sinks",
+   "finished floor"
+  ],
+  "filename": "commercial-restroom-gray-full-flake-floor"
+ },
+ "id": "58bbc6db084c",
+ "provider": "kimi",
+ "model": "moonshotai/kimi-k3",
+ "mode": "run",
+ "blind": false,
+ "at": "2026-09-17T12:35:05"
+}

@@ -1,0 +1,46 @@
+{
+ "finish": "stop",
+ "usage": {
+  "input_tokens": 5343,
+  "output_tokens": 299,
+  "cost": 0.020514
+ },
+ "served_by": "Parasail",
+ "label": {
+  "content": "floor_photo",
+  "area": "garage",
+  "setting": "residential",
+  "system": "full_flake",
+  "color": "Shalestone",
+  "color_confidence": "low",
+  "color_runner_up": "Callisto",
+  "color_description": "very fine light gray and tan chips, speckled sandy look",
+  "shot_type": "finished",
+  "people": "none",
+  "faces_identifiable": false,
+  "privacy": [],
+  "branding_visible": false,
+  "quality": "4",
+  "issues": [],
+  "website_ready": true,
+  "title": "Garage with fine gray tan flake floor",
+  "alt_text": "Finished garage floor with fine gray and tan flake coating, white door and window, full flake garage floor coating",
+  "tags": [
+   "garage",
+   "full flake",
+   "fine chips",
+   "gray chips",
+   "tan chips",
+   "finished floor",
+   "glossy",
+   "residential"
+  ],
+  "filename": "garage-fine-gray-tan-flake-floor"
+ },
+ "id": "a92b2e62942a",
+ "provider": "kimi",
+ "model": "moonshotai/kimi-k3",
+ "mode": "run",
+ "blind": false,
+ "at": "2026-09-17T12:40:48"
+}

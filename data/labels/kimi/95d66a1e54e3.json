@@ -1,0 +1,47 @@
+{
+ "finish": "stop",
+ "usage": {
+  "input_tokens": 5262,
+  "output_tokens": 169,
+  "cost": 0.00676107
+ },
+ "served_by": "Morph",
+ "label": {
+  "content": "floor_photo",
+  "area": "basement",
+  "setting": "residential",
+  "system": "metallic",
+  "color": "Gray",
+  "color_confidence": "medium",
+  "color_runner_up": "Charcoal",
+  "color_description": "swirled gray and silver metallic, marbled look, no chips",
+  "shot_type": "finished",
+  "people": "none",
+  "faces_identifiable": false,
+  "privacy": [],
+  "branding_visible": false,
+  "quality": "4",
+  "issues": [],
+  "website_ready": true,
+  "title": "Gray metallic epoxy floor in basement room",
+  "alt_text": "Swirled gray metallic epoxy floor in an empty basement room with white baseboards, Liquid Art metallic floor",
+  "tags": [
+   "metallic",
+   "gray metallic",
+   "swirled floor",
+   "basement",
+   "liquid art",
+   "marbled epoxy",
+   "empty room",
+   "white baseboards",
+   "finished floor"
+  ],
+  "filename": "gray-metallic-basement-floor"
+ },
+ "id": "95d66a1e54e3",
+ "provider": "kimi",
+ "model": "moonshotai/kimi-k3",
+ "mode": "run",
+ "blind": false,
+ "at": "2026-09-17T12:52:07"
+}

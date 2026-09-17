@@ -1,0 +1,48 @@
+{
+ "finish": "stop",
+ "usage": {
+  "input_tokens": 5311,
+  "output_tokens": 212,
+  "cost": 0.0099546
+ },
+ "served_by": "Together",
+ "label": {
+  "content": "floor_photo",
+  "area": "garage",
+  "setting": "residential",
+  "system": "full_flake",
+  "color": "unknown",
+  "color_confidence": "low",
+  "color_runner_up": "Granite",
+  "color_description": "gray, white and black chips, medium size",
+  "shot_type": "in_progress",
+  "people": "prominent",
+  "faces_identifiable": true,
+  "privacy": [],
+  "branding_visible": true,
+  "quality": "4",
+  "issues": [],
+  "website_ready": false,
+  "title": "Installer rolling clear coat over gray flake garage floor",
+  "alt_text": "GatorGuard installer in respirator rolling clear topcoat over a gray full flake garage floor coating",
+  "tags": [
+   "installer",
+   "crew working",
+   "rolling topcoat",
+   "clear coat",
+   "full flake",
+   "gray chips",
+   "garage",
+   "ladder",
+   "respirator",
+   "in progress"
+  ],
+  "filename": "installer-rolling-clear-coat-flake-garage"
+ },
+ "id": "58f63d893742",
+ "provider": "kimi",
+ "model": "moonshotai/kimi-k3",
+ "mode": "run",
+ "blind": false,
+ "at": "2026-09-17T12:46:50"
+}

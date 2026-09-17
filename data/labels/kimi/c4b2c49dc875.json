@@ -1,0 +1,48 @@
+{
+ "finish": "stop",
+ "usage": {
+  "input_tokens": 5661,
+  "output_tokens": 225,
+  "cost": 0.020358
+ },
+ "served_by": "Parasail",
+ "label": {
+  "content": "marketing_graphic",
+  "area": "not_visible",
+  "setting": "unknown",
+  "system": "full_flake",
+  "color": "unknown",
+  "color_confidence": "low",
+  "color_runner_up": "Granite",
+  "color_description": "small strip of gray, white and black flake floor at bottom of graphic",
+  "shot_type": "graphic",
+  "people": "prominent",
+  "faces_identifiable": false,
+  "privacy": [],
+  "branding_visible": true,
+  "quality": "4",
+  "issues": [
+   "text_overlay"
+  ],
+  "website_ready": false,
+  "title": "Gameday Special promo graphic with cheering fans",
+  "alt_text": "Marketing graphic of fans cheering at a TV reading Gameday Special above a gray flake floor strip",
+  "tags": [
+   "gameday special",
+   "promotion",
+   "marketing graphic",
+   "fans cheering",
+   "tv",
+   "green shirts",
+   "gray flake floor",
+   "social media"
+  ],
+  "filename": "gameday-special-promo-graphic"
+ },
+ "id": "c4b2c49dc875",
+ "provider": "kimi",
+ "model": "moonshotai/kimi-k3",
+ "mode": "run",
+ "blind": false,
+ "at": "2026-09-17T12:38:19"
+}

@@ -1,0 +1,47 @@
+{
+ "finish": "stop",
+ "usage": {
+  "input_tokens": 5256,
+  "output_tokens": 164,
+  "cost": 0.00669732
+ },
+ "served_by": "Morph",
+ "label": {
+  "content": "floor_photo",
+  "area": "patio_or_porch",
+  "setting": "residential",
+  "system": "stamped_concrete",
+  "color": "not_applicable",
+  "color_confidence": "none",
+  "color_runner_up": "not_applicable",
+  "color_description": "",
+  "shot_type": "finished",
+  "people": "none",
+  "faces_identifiable": false,
+  "privacy": [],
+  "branding_visible": false,
+  "quality": "5",
+  "issues": [],
+  "website_ready": true,
+  "title": "Stamped concrete patio with landscaped garden beds",
+  "alt_text": "Brown stamped concrete patio with glossy sealer behind a house, bordered by flower beds and shrubs",
+  "tags": [
+   "stamped concrete",
+   "patio",
+   "backyard",
+   "brown",
+   "glossy sealer",
+   "landscaping",
+   "flower beds",
+   "residential",
+   "outdoor living"
+  ],
+  "filename": "stamped-concrete-patio-garden-beds"
+ },
+ "id": "fcddcc0b758a",
+ "provider": "kimi",
+ "model": "moonshotai/kimi-k3",
+ "mode": "run",
+ "blind": false,
+ "at": "2026-09-17T12:57:41"
+}

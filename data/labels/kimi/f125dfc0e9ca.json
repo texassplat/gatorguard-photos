@@ -1,0 +1,47 @@
+{
+ "finish": "stop",
+ "usage": {
+  "input_tokens": 5319,
+  "output_tokens": 256,
+  "cost": 0.019797
+ },
+ "served_by": "Parasail",
+ "label": {
+  "content": "people_or_team",
+  "area": "garage",
+  "setting": "residential",
+  "system": "bare_concrete",
+  "color": "not_applicable",
+  "color_confidence": "none",
+  "color_runner_up": "not_applicable",
+  "color_description": "",
+  "shot_type": "before",
+  "people": "prominent",
+  "faces_identifiable": true,
+  "privacy": [],
+  "branding_visible": true,
+  "quality": "4",
+  "issues": [],
+  "website_ready": false,
+  "title": "GatorGuard installer stretching on bare garage floor",
+  "alt_text": "GatorGuard crew member in a company t-shirt stretching on a bare concrete garage floor before coating prep.",
+  "tags": [
+   "crew member",
+   "stretching",
+   "garage",
+   "bare concrete",
+   "recruiting",
+   "before",
+   "grinder",
+   "cabinets",
+   "gatorguard shirt"
+  ],
+  "filename": "crew-member-stretching-garage-before-coating"
+ },
+ "id": "f125dfc0e9ca",
+ "provider": "kimi",
+ "model": "moonshotai/kimi-k3",
+ "mode": "run",
+ "blind": false,
+ "at": "2026-09-17T12:35:56"
+}

@@ -1,0 +1,50 @@
+{
+ "finish": "stop",
+ "usage": {
+  "input_tokens": 5256,
+  "output_tokens": 174,
+  "cost": 0.00680232
+ },
+ "served_by": "Morph",
+ "label": {
+  "content": "floor_photo",
+  "area": "patio_or_porch",
+  "setting": "residential",
+  "system": "poly_enhance",
+  "color": "not_applicable",
+  "color_confidence": "none",
+  "color_runner_up": "not_applicable",
+  "color_description": "",
+  "shot_type": "finished",
+  "people": "none",
+  "faces_identifiable": false,
+  "privacy": [],
+  "branding_visible": false,
+  "quality": "4",
+  "issues": [
+   "wet_or_dirty"
+  ],
+  "website_ready": true,
+  "title": "Wet-look sealed paver patio and walkway",
+  "alt_text": "Wet-look sealed paver walkway beside a brick house with garden bed and lawn, poly enhance sealer",
+  "tags": [
+   "pavers",
+   "patio",
+   "walkway",
+   "wet look",
+   "sealed pavers",
+   "brick house",
+   "backyard",
+   "garden bed",
+   "poly enhance",
+   "residential"
+  ],
+  "filename": "sealed-paver-walkway-brick-home"
+ },
+ "id": "a281a0df7e89",
+ "provider": "kimi",
+ "model": "moonshotai/kimi-k3",
+ "mode": "run",
+ "blind": false,
+ "at": "2026-09-17T12:56:16"
+}

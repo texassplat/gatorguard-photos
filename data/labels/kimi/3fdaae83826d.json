@@ -1,0 +1,46 @@
+{
+ "finish": "stop",
+ "usage": {
+  "input_tokens": 5334,
+  "output_tokens": 266,
+  "cost": 0.019992
+ },
+ "served_by": "Parasail",
+ "label": {
+  "content": "floor_photo",
+  "area": "commercial_or_industrial",
+  "setting": "commercial",
+  "system": "solid_color",
+  "color": "not_applicable",
+  "color_confidence": "none",
+  "color_runner_up": "not_applicable",
+  "color_description": "solid light gray-tan coating, no chips, glossy finish",
+  "shot_type": "finished",
+  "people": "none",
+  "faces_identifiable": false,
+  "privacy": [],
+  "branding_visible": false,
+  "quality": "4",
+  "issues": [],
+  "website_ready": true,
+  "title": "Commercial room with glossy solid gray floor",
+  "alt_text": "Glossy solid gray coated floor in a commercial room with chalkboard and windows, solid color floor coating",
+  "tags": [
+   "commercial",
+   "solid color",
+   "gray floor",
+   "glossy",
+   "interior",
+   "school room",
+   "coated concrete",
+   "reflective floor"
+  ],
+  "filename": "commercial-room-glossy-gray-solid-floor"
+ },
+ "id": "3fdaae83826d",
+ "provider": "kimi",
+ "model": "moonshotai/kimi-k3",
+ "mode": "run",
+ "blind": false,
+ "at": "2026-09-17T12:35:07"
+}

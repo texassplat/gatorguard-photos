@@ -1,0 +1,45 @@
+{
+ "finish": "stop",
+ "usage": {
+  "input_tokens": 4853,
+  "output_tokens": 288,
+  "cost": 0.00905451
+ },
+ "served_by": "DigitalOcean",
+ "label": {
+  "alt_text": "Close up of glossy full flake floor with fine silver gray and white chips",
+  "area": "not_visible",
+  "branding_visible": false,
+  "color": "Callisto",
+  "color_confidence": "low",
+  "color_description": "silver gray and white chips, very fine texture",
+  "color_runner_up": "Avalon",
+  "content": "floor_photo",
+  "faces_identifiable": false,
+  "filename": "close-up-silver-gray-flake-floor",
+  "issues": [],
+  "people": "none",
+  "privacy": [],
+  "quality": "4",
+  "setting": "unknown",
+  "shot_type": "close_up",
+  "system": "full_flake",
+  "tags": [
+   "full flake",
+   "close up",
+   "silver gray chips",
+   "fine chips",
+   "glossy finish",
+   "floor detail",
+   "white baseboard"
+  ],
+  "title": "Close up of silver-gray full flake floor",
+  "website_ready": true
+ },
+ "id": "01cbe0fe1342",
+ "provider": "kimi",
+ "model": "moonshotai/kimi-k3",
+ "mode": "run",
+ "blind": false,
+ "at": "2026-09-17T12:32:24"
+}

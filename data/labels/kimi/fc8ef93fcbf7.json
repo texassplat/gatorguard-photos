@@ -1,0 +1,48 @@
+{
+ "finish": "stop",
+ "usage": {
+  "input_tokens": 5340,
+  "output_tokens": 287,
+  "cost": 0.020325
+ },
+ "served_by": "Fireworks",
+ "label": {
+  "content": "floor_photo",
+  "area": "garage",
+  "setting": "residential",
+  "system": "full_flake",
+  "color": "Ocotillo",
+  "color_confidence": "medium",
+  "color_runner_up": "Windermere",
+  "color_description": "tan, cream, black and gray chips, small to medium size, glossy clear coat",
+  "shot_type": "close_up",
+  "people": "none",
+  "faces_identifiable": false,
+  "privacy": [],
+  "branding_visible": false,
+  "quality": "4",
+  "issues": [],
+  "website_ready": true,
+  "title": "Close up of garage full flake floor edge",
+  "alt_text": "Close up of a glossy tan full flake garage floor coating at the garage door edge, with carpet and cabinets behind",
+  "tags": [
+   "garage",
+   "full flake",
+   "close up",
+   "floor edge",
+   "garage door line",
+   "tan chips",
+   "black chips",
+   "glossy finish",
+   "crisp line",
+   "flake coating"
+  ],
+  "filename": "garage-full-flake-floor-edge-close-up"
+ },
+ "id": "fc8ef93fcbf7",
+ "provider": "kimi",
+ "model": "moonshotai/kimi-k3",
+ "mode": "run",
+ "blind": false,
+ "at": "2026-09-17T12:35:34"
+}

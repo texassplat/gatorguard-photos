@@ -1,0 +1,47 @@
+{
+ "finish": "stop",
+ "usage": {
+  "input_tokens": 5201,
+  "output_tokens": 225,
+  "cost": 0.01334772
+ },
+ "served_by": "Phala",
+ "label": {
+  "alt_text": "Close up of a garage floor edge lip with tan, brown and rust red full flake coating",
+  "area": "garage",
+  "branding_visible": false,
+  "color": "Chestnut with Rust Red",
+  "color_confidence": "medium",
+  "color_description": "tan, brown, black and rust red chips, medium size",
+  "color_runner_up": "Sedona",
+  "content": "floor_photo",
+  "faces_identifiable": false,
+  "filename": "garage-floor-edge-lip-flake-closeup",
+  "issues": [],
+  "people": "none",
+  "privacy": [],
+  "quality": "3",
+  "setting": "residential",
+  "shot_type": "close_up",
+  "system": "full_flake",
+  "tags": [
+   "garage",
+   "full flake",
+   "edge lip",
+   "close up",
+   "tan chips",
+   "brown chips",
+   "rust red chips",
+   "coated stem wall",
+   "finished floor"
+  ],
+  "title": "Close up of garage floor edge lip with flake coating",
+  "website_ready": false
+ },
+ "id": "e64d9eb5266b",
+ "provider": "kimi",
+ "model": "moonshotai/kimi-k3",
+ "mode": "run",
+ "blind": false,
+ "at": "2026-09-17T12:48:48"
+}

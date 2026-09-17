@@ -1,0 +1,48 @@
+{
+ "finish": "stop",
+ "usage": {
+  "input_tokens": 4966,
+  "output_tokens": 171,
+  "cost": 0.00622707
+ },
+ "served_by": "Morph",
+ "label": {
+  "content": "floor_photo",
+  "area": "not_visible",
+  "setting": "unknown",
+  "system": "metallic",
+  "color": "Charcoal",
+  "color_confidence": "low",
+  "color_runner_up": "Gray",
+  "color_description": "dark brown gray metallic swirls next to a tan, brown and black fine chip flake section",
+  "shot_type": "close_up",
+  "people": "none",
+  "faces_identifiable": false,
+  "privacy": [],
+  "branding_visible": false,
+  "quality": "3",
+  "issues": [
+   "dark"
+  ],
+  "website_ready": false,
+  "title": "Metallic swirl floor beside flake coating edge",
+  "alt_text": "Close-up of a dark marbled metallic epoxy floor meeting a tan and brown flake coated floor",
+  "tags": [
+   "metallic epoxy",
+   "liquid art",
+   "flake floor",
+   "close up",
+   "coating edge",
+   "swirl pattern",
+   "dark gray",
+   "tan chips"
+  ],
+  "filename": "metallic-swirl-flake-edge-close-up"
+ },
+ "id": "6c518756d2ea",
+ "provider": "kimi",
+ "model": "moonshotai/kimi-k3",
+ "mode": "run",
+ "blind": false,
+ "at": "2026-09-17T12:51:17"
+}

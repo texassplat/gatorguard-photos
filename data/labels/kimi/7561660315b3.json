@@ -1,0 +1,46 @@
+{
+ "finish": "stop",
+ "usage": {
+  "input_tokens": 5206,
+  "output_tokens": 272,
+  "cost": 0.0105396
+ },
+ "served_by": "Together",
+ "label": {
+  "content": "floor_photo",
+  "area": "not_visible",
+  "setting": "unknown",
+  "system": "full_flake",
+  "color": "Stone Rowe",
+  "color_confidence": "medium",
+  "color_runner_up": "Granite",
+  "color_description": "small gray, black, white and tan chips, fine to medium size",
+  "shot_type": "close_up",
+  "people": "none",
+  "faces_identifiable": false,
+  "privacy": [],
+  "branding_visible": false,
+  "quality": "4",
+  "issues": [],
+  "website_ready": true,
+  "title": "Golden retriever sniffing treats on flake floor",
+  "alt_text": "Golden retriever sniffing small treats on a gray flake coated floor, full flake floor coating",
+  "tags": [
+   "dog",
+   "golden retriever",
+   "pet friendly",
+   "full flake",
+   "gray chips",
+   "close up",
+   "gameday photoshoot",
+   "coated floor"
+  ],
+  "filename": "golden-retriever-on-flake-floor"
+ },
+ "id": "7561660315b3",
+ "provider": "kimi",
+ "model": "moonshotai/kimi-k3",
+ "mode": "run",
+ "blind": false,
+ "at": "2026-09-17T12:39:52"
+}

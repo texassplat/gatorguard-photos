@@ -1,0 +1,47 @@
+{
+ "finish": "stop",
+ "usage": {
+  "input_tokens": 5319,
+  "output_tokens": 361,
+  "cost": 0.0122136
+ },
+ "served_by": "Modal",
+ "label": {
+  "content": "floor_photo",
+  "area": "garage",
+  "setting": "residential",
+  "system": "full_flake",
+  "color": "Lunar",
+  "color_confidence": "low",
+  "color_runner_up": "Zircon",
+  "color_description": "light to medium gray chips with white and black chips, fine to medium size",
+  "shot_type": "finished",
+  "people": "none",
+  "faces_identifiable": false,
+  "privacy": [],
+  "branding_visible": false,
+  "quality": "3",
+  "issues": [],
+  "website_ready": false,
+  "title": "Garage with light gray full flake floor",
+  "alt_text": "Garage interior with a light gray full flake floor and coated stem wall, orange extension cord on floor",
+  "tags": [
+   "garage",
+   "full flake",
+   "gray chips",
+   "white chips",
+   "black chips",
+   "stem wall",
+   "finished floor",
+   "central vacuum",
+   "extension cord"
+  ],
+  "filename": "garage-light-gray-full-flake-floor"
+ },
+ "id": "817506f66530",
+ "provider": "kimi",
+ "model": "moonshotai/kimi-k3",
+ "mode": "run",
+ "blind": false,
+ "at": "2026-09-17T12:45:10"
+}

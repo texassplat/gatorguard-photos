@@ -1,0 +1,46 @@
+{
+ "finish": "stop",
+ "usage": {
+  "input_tokens": 5059,
+  "output_tokens": 238,
+  "cost": 0.018747
+ },
+ "served_by": "Parasail",
+ "label": {
+  "content": "people_or_team",
+  "area": "other_exterior",
+  "setting": "unknown",
+  "system": "not_applicable",
+  "color": "not_applicable",
+  "color_confidence": "none",
+  "color_runner_up": "not_applicable",
+  "color_description": "",
+  "shot_type": "team_or_portrait",
+  "people": "prominent",
+  "faces_identifiable": true,
+  "privacy": [],
+  "branding_visible": true,
+  "quality": "4",
+  "issues": [],
+  "website_ready": false,
+  "title": "GatorGuard crew selfie at outdoor mural event",
+  "alt_text": "Three GatorGuard crew members in branded shirts taking a selfie in front of an outdoor mural",
+  "tags": [
+   "crew",
+   "team",
+   "selfie",
+   "recruiting",
+   "branded shirts",
+   "mural",
+   "outdoor event",
+   "employees"
+  ],
+  "filename": "gatorguard-crew-selfie-outdoor-mural"
+ },
+ "id": "0fad16a489b5",
+ "provider": "kimi",
+ "model": "moonshotai/kimi-k3",
+ "mode": "run",
+ "blind": false,
+ "at": "2026-09-17T12:36:02"
+}

@@ -1,0 +1,47 @@
+{
+ "finish": "stop",
+ "usage": {
+  "input_tokens": 5204,
+  "output_tokens": 322,
+  "cost": 0.020442
+ },
+ "served_by": "Parasail",
+ "label": {
+  "content": "floor_photo",
+  "area": "patio_or_porch",
+  "setting": "residential",
+  "system": "full_flake",
+  "color": "Granite",
+  "color_confidence": "medium",
+  "color_runner_up": "Silver Butte",
+  "color_description": "light gray and white chips with black speckles, small to medium size",
+  "shot_type": "finished",
+  "people": "none",
+  "faces_identifiable": false,
+  "privacy": [],
+  "branding_visible": false,
+  "quality": "4",
+  "issues": [],
+  "website_ready": true,
+  "title": "Covered front porch with gray full flake floor",
+  "alt_text": "Covered brick front porch with a light gray full flake coated floor, white columns and black shutters",
+  "tags": [
+   "porch",
+   "exterior",
+   "full flake",
+   "gray chips",
+   "brick house",
+   "white columns",
+   "black shutters",
+   "covered porch",
+   "finished floor"
+  ],
+  "filename": "covered-porch-gray-full-flake"
+ },
+ "id": "fff52671b48e",
+ "provider": "kimi",
+ "model": "moonshotai/kimi-k3",
+ "mode": "run",
+ "blind": false,
+ "at": "2026-09-17T12:36:19"
+}

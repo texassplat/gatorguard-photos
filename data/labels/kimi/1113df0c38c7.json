@@ -1,0 +1,52 @@
+{
+ "finish": "stop",
+ "usage": {
+  "input_tokens": 5213,
+  "output_tokens": 399,
+  "cost": 0.021624
+ },
+ "served_by": "Parasail",
+ "label": {
+  "content": "floor_photo",
+  "area": "garage",
+  "setting": "residential",
+  "system": "full_flake",
+  "color": "unknown",
+  "color_confidence": "low",
+  "color_runner_up": "Pacific Coast",
+  "color_description": "small blue-gray, black and white chips on a light gray base",
+  "shot_type": "finished",
+  "people": "none",
+  "faces_identifiable": false,
+  "privacy": [
+   "vehicle_interior"
+  ],
+  "branding_visible": false,
+  "quality": "4",
+  "issues": [
+   "dark"
+  ],
+  "website_ready": true,
+  "title": "Finished garage with bar, cabinets and blue gray flake floor",
+  "alt_text": "Garage with blue gray full flake floor, bar with stools, black cabinets and a parked SUV, full flake garage floor coating",
+  "tags": [
+   "garage",
+   "full flake",
+   "blue gray chips",
+   "bar",
+   "stools",
+   "cabinets",
+   "range rover",
+   "finished floor",
+   "refrigerator",
+   "pendant lights"
+  ],
+  "filename": "garage-bar-blue-gray-flake-floor"
+ },
+ "id": "1113df0c38c7",
+ "provider": "kimi",
+ "model": "moonshotai/kimi-k3",
+ "mode": "run",
+ "blind": false,
+ "at": "2026-09-17T12:42:19"
+}

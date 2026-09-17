@@ -1,0 +1,48 @@
+{
+ "finish": "stop",
+ "usage": {
+  "input_tokens": 5326,
+  "output_tokens": 186,
+  "cost": 0.0096096
+ },
+ "served_by": "Together",
+ "label": {
+  "content": "floor_photo",
+  "area": "patio_or_porch",
+  "setting": "residential",
+  "system": "bare_concrete",
+  "color": "not_applicable",
+  "color_confidence": "none",
+  "color_runner_up": "not_applicable",
+  "color_description": "",
+  "shot_type": "before",
+  "people": "none",
+  "faces_identifiable": false,
+  "privacy": [],
+  "branding_visible": false,
+  "quality": "3",
+  "issues": [
+   "wet_or_dirty"
+  ],
+  "website_ready": false,
+  "title": "Cracked worn concrete porch before coating",
+  "alt_text": "Cracked concrete porch with flaking old gray coating beside a white garage door, before floor coating",
+  "tags": [
+   "porch",
+   "before",
+   "cracked concrete",
+   "worn coating",
+   "peeling paint",
+   "exterior",
+   "bare concrete",
+   "gray"
+  ],
+  "filename": "cracked-porch-concrete-before-coating"
+ },
+ "id": "1ae3ffd759c5",
+ "provider": "kimi",
+ "model": "moonshotai/kimi-k3",
+ "mode": "run",
+ "blind": false,
+ "at": "2026-09-17T12:37:06"
+}

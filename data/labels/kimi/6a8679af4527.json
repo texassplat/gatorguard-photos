@@ -1,0 +1,46 @@
+{
+ "finish": "stop",
+ "usage": {
+  "input_tokens": 5323,
+  "output_tokens": 322,
+  "cost": 0.020799
+ },
+ "served_by": "Parasail",
+ "label": {
+  "content": "floor_photo",
+  "area": "commercial_or_industrial",
+  "setting": "commercial",
+  "system": "full_flake",
+  "color": "Ocotillo",
+  "color_confidence": "low",
+  "color_runner_up": "Santana",
+  "color_description": "tan, gray, brown and black chips, small to medium size",
+  "shot_type": "finished",
+  "people": "background",
+  "faces_identifiable": false,
+  "privacy": [],
+  "branding_visible": false,
+  "quality": "4",
+  "issues": [],
+  "website_ready": true,
+  "title": "Commercial floor with tan full flake coating",
+  "alt_text": "Commercial space with tan full flake floor, rolling cart of paper products and person standing nearby",
+  "tags": [
+   "commercial floor",
+   "full flake",
+   "tan chips",
+   "gray chips",
+   "retail floor",
+   "paper goods cart",
+   "finished floor",
+   "epoxy flake"
+  ],
+  "filename": "commercial-tan-full-flake-floor"
+ },
+ "id": "6a8679af4527",
+ "provider": "kimi",
+ "model": "moonshotai/kimi-k3",
+ "mode": "run",
+ "blind": false,
+ "at": "2026-09-17T12:34:43"
+}

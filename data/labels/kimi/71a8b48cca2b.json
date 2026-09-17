@@ -1,0 +1,47 @@
+{
+ "finish": "stop",
+ "usage": {
+  "input_tokens": 5328,
+  "output_tokens": 244,
+  "cost": 0.019644
+ },
+ "served_by": "Parasail",
+ "label": {
+  "content": "floor_photo",
+  "area": "not_visible",
+  "setting": "unknown",
+  "system": "full_flake",
+  "color": "Windermere",
+  "color_confidence": "medium",
+  "color_runner_up": "Stone Ridge",
+  "color_description": "gray, white and black chips with tan and brown accents, small to medium size",
+  "shot_type": "close_up",
+  "people": "none",
+  "faces_identifiable": false,
+  "privacy": [],
+  "branding_visible": false,
+  "quality": "4",
+  "issues": [],
+  "website_ready": true,
+  "title": "Close up of gray and tan full flake floor",
+  "alt_text": "Close up of a full flake epoxy floor with gray, white, black and tan chips, full flake floor coating detail",
+  "tags": [
+   "full flake",
+   "close up",
+   "gray chips",
+   "tan chips",
+   "black chips",
+   "speckled floor",
+   "glossy finish",
+   "floor texture",
+   "epoxy flake"
+  ],
+  "filename": "gray-tan-full-flake-floor-close-up"
+ },
+ "id": "71a8b48cca2b",
+ "provider": "kimi",
+ "model": "moonshotai/kimi-k3",
+ "mode": "run",
+ "blind": false,
+ "at": "2026-09-17T12:32:36"
+}

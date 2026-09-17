@@ -1,0 +1,47 @@
+{
+ "finish": "stop",
+ "usage": {
+  "input_tokens": 5206,
+  "output_tokens": 245,
+  "cost": 0.0101346
+ },
+ "served_by": "Together",
+ "label": {
+  "content": "other",
+  "area": "interior_room",
+  "setting": "unknown",
+  "system": "full_flake",
+  "color": "unknown",
+  "color_confidence": "low",
+  "color_runner_up": "unknown",
+  "color_description": "fine gray and tan speckled chips, small size",
+  "shot_type": "other",
+  "people": "none",
+  "faces_identifiable": false,
+  "privacy": [],
+  "branding_visible": false,
+  "quality": "4",
+  "issues": [],
+  "website_ready": false,
+  "title": "Golden retriever on speckled flake floor",
+  "alt_text": "Golden retriever standing on a gray speckled full flake floor with a green toy, indoor photoshoot",
+  "tags": [
+   "dog",
+   "golden retriever",
+   "photoshoot",
+   "gameday",
+   "full flake",
+   "gray chips",
+   "interior",
+   "pet",
+   "green toy"
+  ],
+  "filename": "golden-retriever-flake-floor-photoshoot"
+ },
+ "id": "f228c837b69e",
+ "provider": "kimi",
+ "model": "moonshotai/kimi-k3",
+ "mode": "run",
+ "blind": false,
+ "at": "2026-09-17T12:40:21"
+}

@@ -1,0 +1,46 @@
+{
+ "finish": "stop",
+ "usage": {
+  "input_tokens": 5326,
+  "output_tokens": 230,
+  "cost": 0.0102696
+ },
+ "served_by": "Together",
+ "label": {
+  "content": "floor_photo",
+  "area": "patio_or_porch",
+  "setting": "residential",
+  "system": "full_flake",
+  "color": "Granite",
+  "color_confidence": "medium",
+  "color_runner_up": "Silver Butte",
+  "color_description": "gray, white and black chips, small to medium size",
+  "shot_type": "finished",
+  "people": "prominent",
+  "faces_identifiable": false,
+  "privacy": [],
+  "branding_visible": false,
+  "quality": "4",
+  "issues": [],
+  "website_ready": false,
+  "title": "Thumbs up over gray flake porch floor",
+  "alt_text": "Hand giving thumbs up over a gray full flake coated front porch with steps",
+  "tags": [
+   "porch",
+   "exterior",
+   "full flake",
+   "gray chips",
+   "thumbs up",
+   "front steps",
+   "residential",
+   "finished floor"
+  ],
+  "filename": "thumbs-up-gray-flake-porch"
+ },
+ "id": "8803ecfdb370",
+ "provider": "kimi",
+ "model": "moonshotai/kimi-k3",
+ "mode": "run",
+ "blind": false,
+ "at": "2026-09-17T12:37:07"
+}

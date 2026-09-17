@@ -1,0 +1,48 @@
+{
+ "finish": "stop",
+ "usage": {
+  "input_tokens": 5251,
+  "output_tokens": 166,
+  "cost": 0.006708945
+ },
+ "served_by": "Morph",
+ "label": {
+  "content": "floor_photo",
+  "area": "patio_or_porch",
+  "setting": "residential",
+  "system": "stamped_concrete",
+  "color": "not_applicable",
+  "color_confidence": "none",
+  "color_runner_up": "not_applicable",
+  "color_description": "",
+  "shot_type": "finished",
+  "people": "none",
+  "faces_identifiable": false,
+  "privacy": [],
+  "branding_visible": false,
+  "quality": "4",
+  "issues": [],
+  "website_ready": false,
+  "title": "Stamped concrete patio with brick border",
+  "alt_text": "Stamped concrete patio with curved brick border beside a brick house and lawn, coated and sealed stamped concrete patio",
+  "tags": [
+   "patio",
+   "stamped concrete",
+   "brick border",
+   "residential",
+   "backyard",
+   "curved walkway",
+   "sealed concrete",
+   "lawn",
+   "wood deck",
+   "exterior"
+  ],
+  "filename": "stamped-concrete-patio-brick-border"
+ },
+ "id": "9a6cb0742fa5",
+ "provider": "kimi",
+ "model": "moonshotai/kimi-k3",
+ "mode": "run",
+ "blind": false,
+ "at": "2026-09-17T12:55:19"
+}

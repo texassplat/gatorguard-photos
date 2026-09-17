@@ -1,0 +1,46 @@
+{
+ "finish": "stop",
+ "usage": {
+  "input_tokens": 5028,
+  "output_tokens": 207,
+  "cost": 0.0090306
+ },
+ "served_by": "Together",
+ "label": {
+  "content": "floor_photo",
+  "area": "garage",
+  "setting": "residential",
+  "system": "full_flake",
+  "color": "Granite",
+  "color_confidence": "medium",
+  "color_runner_up": "Infinity",
+  "color_description": "small gray, black and white chips over a gray base",
+  "shot_type": "finished",
+  "people": "none",
+  "faces_identifiable": false,
+  "privacy": [],
+  "branding_visible": false,
+  "quality": "4",
+  "issues": [],
+  "website_ready": true,
+  "title": "Two-car garage with gray full flake floor",
+  "alt_text": "Empty two-car garage with gray full flake garage floor coating, white walls and exposed wood ceiling",
+  "tags": [
+   "garage",
+   "full flake",
+   "gray floor",
+   "two car garage",
+   "garage doors",
+   "exposed ceiling",
+   "finished floor",
+   "gray chips"
+  ],
+  "filename": "two-car-garage-gray-full-flake-floor"
+ },
+ "id": "a573240f37aa",
+ "provider": "kimi",
+ "model": "moonshotai/kimi-k3",
+ "mode": "run",
+ "blind": false,
+ "at": "2026-09-17T12:40:42"
+}

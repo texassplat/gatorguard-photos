@@ -1,0 +1,48 @@
+{
+ "finish": "stop",
+ "usage": {
+  "input_tokens": 5328,
+  "output_tokens": 218,
+  "cost": 0.0100956
+ },
+ "served_by": "Together",
+ "label": {
+  "content": "floor_photo",
+  "area": "basement",
+  "setting": "residential",
+  "system": "metallic",
+  "color": "Copper",
+  "color_confidence": "high",
+  "color_runner_up": "Cappuccino",
+  "color_description": "warm copper brown metallic with marbled swirls, high gloss",
+  "shot_type": "in_progress",
+  "people": "none",
+  "faces_identifiable": false,
+  "privacy": [],
+  "branding_visible": false,
+  "quality": "4",
+  "issues": [],
+  "website_ready": false,
+  "title": "Basement with fresh copper metallic epoxy floor",
+  "alt_text": "Freshly coated copper metallic epoxy floor in a basement with visible furnace room, Liquid Art metallic floor",
+  "tags": [
+   "basement",
+   "metallic epoxy",
+   "copper",
+   "liquid art",
+   "marbled",
+   "glossy",
+   "wet edge",
+   "furnace room",
+   "in progress",
+   "residential"
+  ],
+  "filename": "basement-copper-metallic-epoxy-floor"
+ },
+ "id": "6508d62eac14",
+ "provider": "kimi",
+ "model": "moonshotai/kimi-k3",
+ "mode": "run",
+ "blind": false,
+ "at": "2026-09-17T12:51:22"
+}

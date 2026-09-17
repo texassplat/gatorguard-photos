@@ -1,0 +1,46 @@
+{
+ "finish": "stop",
+ "usage": {
+  "input_tokens": 5275,
+  "output_tokens": 168,
+  "cost": 0.006774945
+ },
+ "served_by": "Morph",
+ "label": {
+  "content": "floor_photo",
+  "area": "interior_room",
+  "setting": "residential",
+  "system": "full_flake",
+  "color": "Silver Butte",
+  "color_confidence": "medium",
+  "color_runner_up": "Quartzite",
+  "color_description": "gray, white and black chips, small size",
+  "shot_type": "finished",
+  "people": "none",
+  "faces_identifiable": false,
+  "privacy": [],
+  "branding_visible": false,
+  "quality": "4",
+  "issues": [],
+  "website_ready": true,
+  "title": "Gray full flake floor meeting wood plank tile",
+  "alt_text": "Gray full flake garage-style floor ending at wood look plank tile near a white wall base in an interior room",
+  "tags": [
+   "full flake",
+   "gray chips",
+   "interior",
+   "floor transition",
+   "wood look tile",
+   "white baseboard",
+   "finished floor",
+   "black and white chips"
+  ],
+  "filename": "gray-full-flake-floor-tile-transition"
+ },
+ "id": "1e1ca6ad18d5",
+ "provider": "kimi",
+ "model": "moonshotai/kimi-k3",
+ "mode": "run",
+ "blind": false,
+ "at": "2026-09-17T12:47:43"
+}

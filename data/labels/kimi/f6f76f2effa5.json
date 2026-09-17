@@ -1,0 +1,49 @@
+{
+ "finish": "stop",
+ "usage": {
+  "input_tokens": 5321,
+  "output_tokens": 227,
+  "cost": 0.0102096
+ },
+ "served_by": "Together",
+ "label": {
+  "content": "floor_photo",
+  "area": "patio_or_porch",
+  "setting": "residential",
+  "system": "poly_enhance",
+  "color": "not_applicable",
+  "color_confidence": "none",
+  "color_runner_up": "not_applicable",
+  "color_description": "gray stamped stone pattern with glossy wet-look sealer, no chips",
+  "shot_type": "finished",
+  "people": "none",
+  "faces_identifiable": false,
+  "privacy": [],
+  "branding_visible": false,
+  "quality": "3",
+  "issues": [
+   "dark"
+  ],
+  "website_ready": false,
+  "title": "Glossy sealed stamped stone patio surface",
+  "alt_text": "Stamped concrete in a random stone pattern with a glossy wet-look Poly Enhance sealer on an outdoor patio",
+  "tags": [
+   "stamped concrete",
+   "stone pattern",
+   "wet look sealer",
+   "poly enhance",
+   "patio",
+   "glossy",
+   "gray",
+   "outdoor",
+   "decorative concrete"
+  ],
+  "filename": "sealed-stamped-stone-patio"
+ },
+ "id": "f6f76f2effa5",
+ "provider": "kimi",
+ "model": "moonshotai/kimi-k3",
+ "mode": "run",
+ "blind": false,
+ "at": "2026-09-17T12:55:16"
+}

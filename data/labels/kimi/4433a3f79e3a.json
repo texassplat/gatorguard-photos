@@ -1,0 +1,46 @@
+{
+ "finish": "stop",
+ "usage": {
+  "input_tokens": 5175,
+  "output_tokens": 198,
+  "cost": 0.0093366
+ },
+ "served_by": "Together",
+ "label": {
+  "content": "floor_photo",
+  "area": "commercial_or_industrial",
+  "setting": "unknown",
+  "system": "metallic",
+  "color": "Charcoal",
+  "color_confidence": "medium",
+  "color_runner_up": "Gray",
+  "color_description": "dark gray and black marbled metallic swirls with lighter silver highlights",
+  "shot_type": "finished",
+  "people": "none",
+  "faces_identifiable": false,
+  "privacy": [],
+  "branding_visible": false,
+  "quality": "4",
+  "issues": [],
+  "website_ready": true,
+  "title": "Dark gray metallic epoxy floor with wood steps",
+  "alt_text": "Dark gray and black marbled metallic epoxy floor beside wood-topped steps, metallic floor coating",
+  "tags": [
+   "metallic epoxy",
+   "dark gray",
+   "black swirls",
+   "marbled floor",
+   "wood steps",
+   "metal wall",
+   "reflective floor",
+   "finished floor"
+  ],
+  "filename": "dark-gray-metallic-floor-wood-steps"
+ },
+ "id": "4433a3f79e3a",
+ "provider": "kimi",
+ "model": "moonshotai/kimi-k3",
+ "mode": "run",
+ "blind": false,
+ "at": "2026-09-17T12:50:09"
+}

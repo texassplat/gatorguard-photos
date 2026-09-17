@@ -1,0 +1,49 @@
+{
+ "finish": "stop",
+ "usage": {
+  "input_tokens": 5314,
+  "output_tokens": 192,
+  "cost": 0.0096636
+ },
+ "served_by": "Together",
+ "label": {
+  "content": "people_or_team",
+  "area": "patio_or_porch",
+  "setting": "residential",
+  "system": "unknown",
+  "color": "not_applicable",
+  "color_confidence": "none",
+  "color_runner_up": "not_applicable",
+  "color_description": "",
+  "shot_type": "in_progress",
+  "people": "prominent",
+  "faces_identifiable": true,
+  "privacy": [],
+  "branding_visible": true,
+  "quality": "3",
+  "issues": [
+   "wet_or_dirty"
+  ],
+  "website_ready": false,
+  "title": "Installer spreading yellow coating on back patio",
+  "alt_text": "GatorGuard installer spreading yellow coating over a residential back patio next to a wood deck",
+  "tags": [
+   "installer",
+   "crew working",
+   "patio",
+   "coating application",
+   "squeegee",
+   "yellow coating",
+   "residential",
+   "in progress",
+   "deck"
+  ],
+  "filename": "installer-spreading-coating-back-patio"
+ },
+ "id": "3a4ef7bc286c",
+ "provider": "kimi",
+ "model": "moonshotai/kimi-k3",
+ "mode": "run",
+ "blind": false,
+ "at": "2026-09-17T12:47:30"
+}

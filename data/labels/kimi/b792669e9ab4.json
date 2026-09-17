@@ -1,0 +1,47 @@
+{
+ "finish": "stop",
+ "usage": {
+  "input_tokens": 5331,
+  "output_tokens": 313,
+  "cost": 0.020688
+ },
+ "served_by": "Parasail",
+ "label": {
+  "content": "floor_photo",
+  "area": "steps_or_stairs",
+  "setting": "residential",
+  "system": "full_flake",
+  "color": "Santana",
+  "color_confidence": "medium",
+  "color_runner_up": "Windermere",
+  "color_description": "tan, brown and black chips, small to medium size",
+  "shot_type": "finished",
+  "people": "none",
+  "faces_identifiable": false,
+  "privacy": [],
+  "branding_visible": false,
+  "quality": "4",
+  "issues": [],
+  "website_ready": true,
+  "title": "Front porch steps with tan full flake coating",
+  "alt_text": "Concrete front steps and porch coated in tan, brown and black full flake floor coating with black metal railings",
+  "tags": [
+   "front steps",
+   "porch",
+   "full flake",
+   "tan chips",
+   "brown chips",
+   "exterior",
+   "railings",
+   "residential",
+   "finished"
+  ],
+  "filename": "porch-steps-tan-full-flake-coating"
+ },
+ "id": "b792669e9ab4",
+ "provider": "kimi",
+ "model": "moonshotai/kimi-k3",
+ "mode": "run",
+ "blind": false,
+ "at": "2026-09-17T12:36:24"
+}

@@ -1,0 +1,47 @@
+{
+ "finish": "stop",
+ "usage": {
+  "input_tokens": 5206,
+  "output_tokens": 180,
+  "cost": 0.018318
+ },
+ "served_by": "Parasail",
+ "label": {
+  "content": "floor_photo",
+  "area": "interior_room",
+  "setting": "residential",
+  "system": "full_flake",
+  "color": "unknown",
+  "color_confidence": "low",
+  "color_runner_up": "unknown",
+  "color_description": "tan, brown and black chips, small to medium size",
+  "shot_type": "finished",
+  "people": "none",
+  "faces_identifiable": false,
+  "privacy": [],
+  "branding_visible": false,
+  "quality": "3",
+  "issues": [
+   "dark"
+  ],
+  "website_ready": false,
+  "title": "Interior room with tan full flake floor",
+  "alt_text": "Finished full flake floor with tan, brown and black chips in a wood paneled interior room",
+  "tags": [
+   "full flake",
+   "interior room",
+   "wood panel walls",
+   "tan chips",
+   "brown chips",
+   "finished floor",
+   "residential"
+  ],
+  "filename": "interior-room-tan-full-flake-floor"
+ },
+ "id": "e9d030c09fa1",
+ "provider": "kimi",
+ "model": "moonshotai/kimi-k3",
+ "mode": "run",
+ "blind": false,
+ "at": "2026-09-17T12:47:56"
+}

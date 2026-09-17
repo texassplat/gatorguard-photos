@@ -1,0 +1,48 @@
+{
+ "finish": "stop",
+ "usage": {
+  "input_tokens": 4958,
+  "output_tokens": 241,
+  "cost": 0.0093306
+ },
+ "served_by": "Together",
+ "label": {
+  "content": "floor_photo",
+  "area": "basement",
+  "setting": "residential",
+  "system": "full_flake",
+  "color": "unknown",
+  "color_confidence": "low",
+  "color_runner_up": "Silver Butte",
+  "color_description": "light gray base with gray, white, tan and black chips, small to medium size",
+  "shot_type": "finished",
+  "people": "none",
+  "faces_identifiable": false,
+  "privacy": [],
+  "branding_visible": false,
+  "quality": "4",
+  "issues": [
+   "cluttered"
+  ],
+  "website_ready": false,
+  "title": "Basement with light gray full flake floor",
+  "alt_text": "Newly coated basement floor with light gray full flake finish, plastic sheeting and support poles visible, full flake basement floor coating",
+  "tags": [
+   "basement",
+   "full flake",
+   "gray floor",
+   "support poles",
+   "plastic sheeting",
+   "finished floor",
+   "residential",
+   "gray white tan chips"
+  ],
+  "filename": "basement-light-gray-full-flake-floor"
+ },
+ "id": "660bdef3c4a3",
+ "provider": "kimi",
+ "model": "moonshotai/kimi-k3",
+ "mode": "run",
+ "blind": false,
+ "at": "2026-09-17T12:31:38"
+}

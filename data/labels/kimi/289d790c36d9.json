@@ -1,0 +1,47 @@
+{
+ "finish": "stop",
+ "usage": {
+  "input_tokens": 5211,
+  "output_tokens": 232,
+  "cost": 0.019113
+ },
+ "served_by": "Parasail",
+ "label": {
+  "content": "floor_photo",
+  "area": "garage",
+  "setting": "residential",
+  "system": "full_flake",
+  "color": "unknown",
+  "color_confidence": "low",
+  "color_runner_up": "Stone Ridge",
+  "color_description": "small gray, black, white and tan chips, dense broadcast",
+  "shot_type": "close_up",
+  "people": "none",
+  "faces_identifiable": false,
+  "privacy": [],
+  "branding_visible": false,
+  "quality": "4",
+  "issues": [],
+  "website_ready": true,
+  "title": "Golden retriever puppy on full flake floor",
+  "alt_text": "Golden retriever puppy sniffing a speckled full flake garage floor coating",
+  "tags": [
+   "dog",
+   "puppy",
+   "full flake",
+   "garage floor",
+   "gray flakes",
+   "close up",
+   "pet friendly",
+   "gameday photoshoot",
+   "speckled floor"
+  ],
+  "filename": "golden-retriever-puppy-flake-floor"
+ },
+ "id": "289d790c36d9",
+ "provider": "kimi",
+ "model": "moonshotai/kimi-k3",
+ "mode": "run",
+ "blind": false,
+ "at": "2026-09-17T12:40:00"
+}

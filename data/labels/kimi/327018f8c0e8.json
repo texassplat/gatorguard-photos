@@ -1,0 +1,48 @@
+{
+ "finish": "stop",
+ "usage": {
+  "input_tokens": 5057,
+  "output_tokens": 197,
+  "cost": 0.018126
+ },
+ "served_by": "Parasail",
+ "label": {
+  "content": "people_or_team",
+  "area": "garage",
+  "setting": "residential",
+  "system": "bare_concrete",
+  "color": "not_applicable",
+  "color_confidence": "none",
+  "color_runner_up": "not_applicable",
+  "color_description": "",
+  "shot_type": "crew_working",
+  "people": "prominent",
+  "faces_identifiable": true,
+  "privacy": [],
+  "branding_visible": false,
+  "quality": "3",
+  "issues": [],
+  "website_ready": false,
+  "title": "Crew members joking around during garage floor prep",
+  "alt_text": "Three installers carrying a coworker across a bare concrete garage floor during prep, with a grinder and vacuum nearby",
+  "tags": [
+   "installers",
+   "crew",
+   "garage",
+   "floor prep",
+   "grinder",
+   "vacuum",
+   "bare concrete",
+   "brick walls",
+   "cabinets",
+   "having fun"
+  ],
+  "filename": "crew-carrying-coworker-garage-prep"
+ },
+ "id": "327018f8c0e8",
+ "provider": "kimi",
+ "model": "moonshotai/kimi-k3",
+ "mode": "run",
+ "blind": false,
+ "at": "2026-09-17T12:46:54"
+}

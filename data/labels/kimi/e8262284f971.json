@@ -1,0 +1,48 @@
+{
+ "finish": "stop",
+ "usage": {
+  "input_tokens": 5328,
+  "output_tokens": 327,
+  "cost": 0.01506762
+ },
+ "served_by": "Phala",
+ "label": {
+  "alt_text": "Empty room with brown metallic epoxy floor with marbled swirls, metallic floor coating",
+  "area": "interior_room",
+  "branding_visible": false,
+  "color": "Cappuccino",
+  "color_confidence": "medium",
+  "color_description": "brown metallic with lighter tan swirls, marbled reflective look",
+  "color_runner_up": "Copper",
+  "content": "floor_photo",
+  "faces_identifiable": false,
+  "filename": "brown-metallic-floor-empty-room",
+  "issues": [],
+  "people": "none",
+  "privacy": [],
+  "quality": "4",
+  "setting": "residential",
+  "shot_type": "finished",
+  "system": "metallic",
+  "tags": [
+   "metallic floor",
+   "brown",
+   "marbled",
+   "swirl",
+   "basement",
+   "interior room",
+   "glossy",
+   "liquid art",
+   "empty room",
+   "reflective"
+  ],
+  "title": "Brown metallic floor in unfinished interior room",
+  "website_ready": true
+ },
+ "id": "e8262284f971",
+ "provider": "kimi",
+ "model": "moonshotai/kimi-k3",
+ "mode": "run",
+ "blind": false,
+ "at": "2026-09-17T12:51:30"
+}

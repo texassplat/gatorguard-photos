@@ -1,0 +1,47 @@
+{
+ "finish": "stop",
+ "usage": {
+  "input_tokens": 4849,
+  "output_tokens": 167,
+  "cost": 0.005965695
+ },
+ "served_by": "Morph",
+ "label": {
+  "content": "floor_photo",
+  "area": "garage",
+  "setting": "residential",
+  "system": "solid_color_chip",
+  "color": "unknown",
+  "color_confidence": "low",
+  "color_runner_up": "Gray",
+  "color_description": "solid light gray coating with a fine speckled texture, chips not clearly visible",
+  "shot_type": "finished",
+  "people": "none",
+  "faces_identifiable": false,
+  "privacy": [],
+  "branding_visible": false,
+  "quality": "3",
+  "issues": [
+   "cluttered"
+  ],
+  "website_ready": false,
+  "title": "Garage with light gray solid color chip floor",
+  "alt_text": "Garage with a light gray solid color chip floor, tools and shelves on the back wall",
+  "tags": [
+   "garage",
+   "solid color chip",
+   "gray floor",
+   "speckled gray",
+   "workshop",
+   "tool wall",
+   "finished floor"
+  ],
+  "filename": "garage-light-gray-solid-chip-floor"
+ },
+ "id": "626de9a1600e",
+ "provider": "kimi",
+ "model": "moonshotai/kimi-k3",
+ "mode": "run",
+ "blind": false,
+ "at": "2026-09-17T12:57:19"
+}

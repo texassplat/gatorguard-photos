@@ -1,0 +1,48 @@
+{
+ "finish": "stop",
+ "usage": {
+  "input_tokens": 5315,
+  "output_tokens": 182,
+  "cost": 0.0095166
+ },
+ "served_by": "Together",
+ "label": {
+  "content": "marketing_graphic",
+  "area": "not_visible",
+  "setting": "unknown",
+  "system": "not_applicable",
+  "color": "not_applicable",
+  "color_confidence": "none",
+  "color_runner_up": "not_applicable",
+  "color_description": "",
+  "shot_type": "graphic",
+  "people": "none",
+  "faces_identifiable": false,
+  "privacy": [],
+  "branding_visible": true,
+  "quality": "3",
+  "issues": [
+   "text_overlay"
+  ],
+  "website_ready": false,
+  "title": "Thank you review request graphic St Louis",
+  "alt_text": "GatorGuard St Louis thank you graphic asking customers to leave a review, over a dark flake floor photo",
+  "tags": [
+   "thank you graphic",
+   "review request",
+   "birdeye asset",
+   "st louis",
+   "gatorguard logo",
+   "gator mascot",
+   "text overlay",
+   "marketing"
+  ],
+  "filename": "thank-you-review-graphic-st-louis"
+ },
+ "id": "bf31fe94523a",
+ "provider": "kimi",
+ "model": "moonshotai/kimi-k3",
+ "mode": "run",
+ "blind": false,
+ "at": "2026-09-17T12:31:51"
+}

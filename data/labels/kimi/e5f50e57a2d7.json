@@ -1,0 +1,48 @@
+{
+ "finish": "stop",
+ "usage": {
+  "input_tokens": 5325,
+  "output_tokens": 211,
+  "cost": 0.01914
+ },
+ "served_by": "Parasail",
+ "label": {
+  "content": "floor_photo",
+  "area": "garage",
+  "setting": "residential",
+  "system": "full_flake",
+  "color": "Santana",
+  "color_confidence": "medium",
+  "color_runner_up": "Ocotillo",
+  "color_description": "tan, brown, black and white chips, small to medium size",
+  "shot_type": "finished",
+  "people": "none",
+  "faces_identifiable": false,
+  "privacy": [],
+  "branding_visible": false,
+  "quality": "4",
+  "issues": [],
+  "website_ready": true,
+  "title": "Low angle view of tan full flake garage floor",
+  "alt_text": "Low angle view of a full flake garage floor with tan, brown and black chips, workbench and tools on the wall behind",
+  "tags": [
+   "garage",
+   "full flake",
+   "tan chips",
+   "brown chips",
+   "workbench",
+   "tool wall",
+   "ladder",
+   "finished floor",
+   "low angle",
+   "garage storage"
+  ],
+  "filename": "garage-tan-full-flake-floor-low-angle"
+ },
+ "id": "e5f50e57a2d7",
+ "provider": "kimi",
+ "model": "moonshotai/kimi-k3",
+ "mode": "run",
+ "blind": false,
+ "at": "2026-09-17T12:44:05"
+}

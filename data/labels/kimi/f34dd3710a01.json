@@ -1,0 +1,50 @@
+{
+ "finish": "stop",
+ "usage": {
+  "input_tokens": 5249,
+  "output_tokens": 164,
+  "cost": 0.006684195
+ },
+ "served_by": "Morph",
+ "label": {
+  "content": "people_or_team",
+  "area": "not_visible",
+  "setting": "unknown",
+  "system": "not_applicable",
+  "color": "not_applicable",
+  "color_confidence": "none",
+  "color_runner_up": "not_applicable",
+  "color_description": "",
+  "shot_type": "team_or_portrait",
+  "people": "prominent",
+  "faces_identifiable": true,
+  "privacy": [
+   "customer_face"
+  ],
+  "branding_visible": true,
+  "quality": "4",
+  "issues": [
+   "cluttered"
+  ],
+  "website_ready": false,
+  "title": "Two installers inside GatorGuard work trailer",
+  "alt_text": "Two GatorGuard Concrete Coatings installers in branded shirts standing inside a work trailer with buckets and equipment",
+  "tags": [
+   "installers",
+   "crew",
+   "team photo",
+   "work trailer",
+   "gatorguard shirts",
+   "buckets",
+   "equipment",
+   "branded apparel"
+  ],
+  "filename": "two-installers-inside-work-trailer"
+ },
+ "id": "f34dd3710a01",
+ "provider": "kimi",
+ "model": "moonshotai/kimi-k3",
+ "mode": "run",
+ "blind": false,
+ "at": "2026-09-17T12:47:06"
+}

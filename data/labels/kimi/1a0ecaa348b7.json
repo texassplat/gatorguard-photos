@@ -1,0 +1,46 @@
+{
+ "finish": "stop",
+ "usage": {
+  "input_tokens": 5342,
+  "output_tokens": 264,
+  "cost": 0.019986
+ },
+ "served_by": "Parasail",
+ "label": {
+  "content": "floor_photo",
+  "area": "commercial_or_industrial",
+  "setting": "commercial",
+  "system": "full_flake",
+  "color": "unknown",
+  "color_confidence": "low",
+  "color_runner_up": "Stone Rowe",
+  "color_description": "small gray, white and light tan chips, speckled gray overall",
+  "shot_type": "finished",
+  "people": "none",
+  "faces_identifiable": false,
+  "privacy": [],
+  "branding_visible": false,
+  "quality": "4",
+  "issues": [],
+  "website_ready": true,
+  "title": "Commercial warehouse with gray full flake floor",
+  "alt_text": "Large commercial warehouse with glossy gray full flake floor, roll-up doors and mezzanine stairs",
+  "tags": [
+   "commercial",
+   "warehouse",
+   "full flake",
+   "gray floor",
+   "roll-up doors",
+   "glossy",
+   "industrial",
+   "finished floor"
+  ],
+  "filename": "commercial-warehouse-gray-full-flake-floor"
+ },
+ "id": "1a0ecaa348b7",
+ "provider": "kimi",
+ "model": "moonshotai/kimi-k3",
+ "mode": "run",
+ "blind": false,
+ "at": "2026-09-17T12:33:24"
+}

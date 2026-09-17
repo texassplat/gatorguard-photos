@@ -1,0 +1,45 @@
+{
+ "finish": "stop",
+ "usage": {
+  "input_tokens": 5337,
+  "output_tokens": 316,
+  "cost": 0.020751
+ },
+ "served_by": "Parasail",
+ "label": {
+  "content": "floor_photo",
+  "area": "commercial_or_industrial",
+  "setting": "commercial",
+  "system": "solid_color",
+  "color": "unknown",
+  "color_confidence": "none",
+  "color_runner_up": "unknown",
+  "color_description": "flat medium gray coating with no visible chips",
+  "shot_type": "finished",
+  "people": "none",
+  "faces_identifiable": false,
+  "privacy": [],
+  "branding_visible": false,
+  "quality": "3",
+  "issues": [],
+  "website_ready": false,
+  "title": "Gray solid color commercial floor coating",
+  "alt_text": "Smooth gray coated concrete floor in a commercial room with white walls, solid color floor coating",
+  "tags": [
+   "solid color",
+   "gray floor",
+   "commercial",
+   "interior floor",
+   "glossy finish",
+   "concrete coating",
+   "finished floor"
+  ],
+  "filename": "gray-solid-color-commercial-floor"
+ },
+ "id": "eb5d1643f383",
+ "provider": "kimi",
+ "model": "moonshotai/kimi-k3",
+ "mode": "run",
+ "blind": false,
+ "at": "2026-09-17T12:33:37"
+}

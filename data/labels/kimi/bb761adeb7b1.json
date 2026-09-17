@@ -1,0 +1,47 @@
+{
+ "finish": "stop",
+ "usage": {
+  "input_tokens": 5323,
+  "output_tokens": 293,
+  "cost": 0.01438665
+ },
+ "served_by": "InferenceNet",
+ "label": {
+  "website_ready": true,
+  "title": "Patio with light gray full flake floor and outdoor kitchen",
+  "tags": [
+   "patio",
+   "outdoor kitchen",
+   "grill island",
+   "full flake",
+   "light gray chips",
+   "exterior",
+   "columns",
+   "stone veneer",
+   "finished floor"
+  ],
+  "system": "full_flake",
+  "shot_type": "finished",
+  "setting": "residential",
+  "quality": "4",
+  "privacy": [],
+  "people": "none",
+  "issues": [],
+  "filename": "patio-light-gray-flake-outdoor-kitchen",
+  "faces_identifiable": false,
+  "content": "floor_photo",
+  "color_runner_up": "Infinity",
+  "color_description": "light gray and white chips with dark specks, fine to medium size",
+  "color_confidence": "low",
+  "color": "unknown",
+  "branding_visible": false,
+  "area": "patio_or_porch",
+  "alt_text": "Patio with light gray full flake coating, covered porch columns and stone outdoor kitchen, full flake patio floor coating"
+ },
+ "id": "bb761adeb7b1",
+ "provider": "kimi",
+ "model": "moonshotai/kimi-k3",
+ "mode": "run",
+ "blind": false,
+ "at": "2026-09-17T12:37:53"
+}

@@ -1,0 +1,47 @@
+{
+ "finish": "stop",
+ "usage": {
+  "input_tokens": 5337,
+  "output_tokens": 231,
+  "cost": 0.009972
+ },
+ "served_by": "Together",
+ "label": {
+  "content": "floor_photo",
+  "area": "basement",
+  "setting": "residential",
+  "system": "full_flake",
+  "color": "Granite",
+  "color_confidence": "medium",
+  "color_runner_up": "Silver Butte",
+  "color_description": "gray, white and black chips, medium size, glossy clear coat",
+  "shot_type": "finished",
+  "people": "none",
+  "faces_identifiable": false,
+  "privacy": [],
+  "branding_visible": false,
+  "quality": "4",
+  "issues": [],
+  "website_ready": true,
+  "title": "Basement with gray full flake floor",
+  "alt_text": "Finished basement with glossy gray, white and black full flake floor coating, painted brick walls and exposed joists",
+  "tags": [
+   "basement",
+   "full flake",
+   "gray chips",
+   "white chips",
+   "black chips",
+   "glossy floor",
+   "painted brick",
+   "exposed ceiling",
+   "finished floor"
+  ],
+  "filename": "basement-gray-full-flake-floor"
+ },
+ "id": "f21a4f3b932c",
+ "provider": "kimi",
+ "model": "moonshotai/kimi-k3",
+ "mode": "pilot",
+ "blind": true,
+ "at": "2026-09-17T12:25:58"
+}

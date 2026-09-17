@@ -1,0 +1,47 @@
+{
+ "finish": "stop",
+ "usage": {
+  "input_tokens": 5329,
+  "output_tokens": 261,
+  "cost": 0.0107436
+ },
+ "served_by": "Together",
+ "label": {
+  "content": "floor_photo",
+  "area": "not_visible",
+  "setting": "unknown",
+  "system": "full_flake",
+  "color": "Chestnut with Rust Red",
+  "color_confidence": "medium",
+  "color_runner_up": "Sedona",
+  "color_description": "tan, brown, black and rust red chips, medium size",
+  "shot_type": "close_up",
+  "people": "none",
+  "faces_identifiable": false,
+  "privacy": [],
+  "branding_visible": false,
+  "quality": "4",
+  "issues": [],
+  "website_ready": true,
+  "title": "Full flake floor edge meets broom concrete",
+  "alt_text": "Close up of a full flake floor coating edge with tan, brown and red chips meeting broom finished concrete",
+  "tags": [
+   "close up",
+   "full flake",
+   "crisp line",
+   "coating edge",
+   "tan chips",
+   "red chips",
+   "brown chips",
+   "broom concrete",
+   "expansion joint"
+  ],
+  "filename": "flake-floor-edge-broom-concrete"
+ },
+ "id": "f93373d0280f",
+ "provider": "kimi",
+ "model": "moonshotai/kimi-k3",
+ "mode": "run",
+ "blind": false,
+ "at": "2026-09-17T12:35:26"
+}

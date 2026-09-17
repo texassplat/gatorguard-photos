@@ -1,0 +1,47 @@
+{
+ "finish": "stop",
+ "usage": {
+  "input_tokens": 5353,
+  "output_tokens": 202,
+  "cost": 0.019089
+ },
+ "served_by": "Parasail",
+ "label": {
+  "content": "floor_photo",
+  "area": "garage",
+  "setting": "residential",
+  "system": "metallic",
+  "color": "Sapphire",
+  "color_confidence": "high",
+  "color_runner_up": "Denim",
+  "color_description": "vivid blue metallic epoxy with swirling marbled waves and fine sparkle",
+  "shot_type": "finished",
+  "people": "none",
+  "faces_identifiable": false,
+  "privacy": [],
+  "branding_visible": false,
+  "quality": "4",
+  "issues": [],
+  "website_ready": true,
+  "title": "Garage with blue metallic epoxy floor",
+  "alt_text": "Glossy blue metallic epoxy garage floor with swirled finish, cabinets and pegboard walls behind; metallic garage floor coating",
+  "tags": [
+   "metallic epoxy",
+   "blue floor",
+   "sapphire",
+   "garage",
+   "glossy",
+   "swirled",
+   "cabinets",
+   "pegboard",
+   "finished floor"
+  ],
+  "filename": "blue-metallic-epoxy-garage-floor"
+ },
+ "id": "51dbf84a98ff",
+ "provider": "kimi",
+ "model": "moonshotai/kimi-k3",
+ "mode": "run",
+ "blind": false,
+ "at": "2026-09-17T12:49:59"
+}

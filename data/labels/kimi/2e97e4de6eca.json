@@ -1,0 +1,49 @@
+{
+ "finish": "stop",
+ "usage": {
+  "input_tokens": 5211,
+  "output_tokens": 293,
+  "cost": 0.0190266
+ },
+ "served_by": "DeepInfra",
+ "label": {
+  "content": "people_or_team",
+  "area": "commercial_or_industrial",
+  "setting": "commercial",
+  "system": "full_flake",
+  "color": "Chestnut",
+  "color_confidence": "low",
+  "color_runner_up": "Santana",
+  "color_description": "tan and brown chips with black accents, small to medium size",
+  "shot_type": "team_or_portrait",
+  "people": "prominent",
+  "faces_identifiable": true,
+  "privacy": [
+   "customer_face"
+  ],
+  "branding_visible": true,
+  "quality": "4",
+  "issues": [],
+  "website_ready": false,
+  "title": "Crew member posing on tan flake floor",
+  "alt_text": "Man in green GatorGuard shirt sitting on a stool in an empty room with a tan full flake floor",
+  "tags": [
+   "gameday photoshoot",
+   "crew member",
+   "posed photo",
+   "tan chips",
+   "brown chips",
+   "full flake",
+   "empty room",
+   "white walls",
+   "gatorguard shirt"
+  ],
+  "filename": "crew-member-posing-tan-flake-floor"
+ },
+ "id": "2e97e4de6eca",
+ "provider": "kimi",
+ "model": "moonshotai/kimi-k3",
+ "mode": "run",
+ "blind": false,
+ "at": "2026-09-17T12:38:34"
+}

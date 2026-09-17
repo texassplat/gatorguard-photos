@@ -1,0 +1,47 @@
+{
+ "finish": "stop",
+ "usage": {
+  "input_tokens": 5314,
+  "output_tokens": 200,
+  "cost": 0.0097836
+ },
+ "served_by": "Together",
+ "label": {
+  "content": "people_or_team",
+  "area": "driveway_or_walkway",
+  "setting": "residential",
+  "system": "not_applicable",
+  "color": "not_applicable",
+  "color_confidence": "none",
+  "color_runner_up": "not_applicable",
+  "color_description": "",
+  "shot_type": "crew_working",
+  "people": "prominent",
+  "faces_identifiable": true,
+  "privacy": [],
+  "branding_visible": true,
+  "quality": "4",
+  "issues": [],
+  "website_ready": false,
+  "title": "Installer with grinder and vacuum outside garage",
+  "alt_text": "GatorGuard installer standing with a concrete grinder and green vacuum outside a residential garage during floor prep",
+  "tags": [
+   "installer",
+   "crew",
+   "grinder",
+   "vacuum",
+   "dust extractor",
+   "garage",
+   "prep work",
+   "driveway",
+   "gatorguard shirt"
+  ],
+  "filename": "installer-with-grinder-outside-garage"
+ },
+ "id": "3f9816283e0e",
+ "provider": "kimi",
+ "model": "moonshotai/kimi-k3",
+ "mode": "run",
+ "blind": false,
+ "at": "2026-09-17T12:47:21"
+}

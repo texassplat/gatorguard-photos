@@ -1,0 +1,47 @@
+{
+ "finish": "stop",
+ "usage": {
+  "input_tokens": 5328,
+  "output_tokens": 233,
+  "cost": 0.0103206
+ },
+ "served_by": "Together",
+ "label": {
+  "content": "floor_photo",
+  "area": "garage",
+  "setting": "residential",
+  "system": "full_flake",
+  "color": "Windermere",
+  "color_confidence": "medium",
+  "color_runner_up": "Chestnut",
+  "color_description": "tan, brown, black and white chips, medium size",
+  "shot_type": "close_up",
+  "people": "none",
+  "faces_identifiable": false,
+  "privacy": [],
+  "branding_visible": false,
+  "quality": "4",
+  "issues": [],
+  "website_ready": true,
+  "title": "Close up of full flake garage floor edge lip",
+  "alt_text": "Close up of a coated garage floor edge lip with tan, brown and black flake chips, full flake garage floor coating",
+  "tags": [
+   "close up",
+   "edge lip",
+   "full flake",
+   "garage floor",
+   "tan chips",
+   "brown chips",
+   "black chips",
+   "glossy clear coat",
+   "stem wall"
+  ],
+  "filename": "full-flake-garage-floor-edge-lip-close-up"
+ },
+ "id": "79d25d5593a7",
+ "provider": "kimi",
+ "model": "moonshotai/kimi-k3",
+ "mode": "run",
+ "blind": false,
+ "at": "2026-09-17T12:49:24"
+}

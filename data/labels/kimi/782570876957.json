@@ -1,0 +1,46 @@
+{
+ "finish": "stop",
+ "usage": {
+  "input_tokens": 5335,
+  "output_tokens": 264,
+  "cost": 0.0076962
+ },
+ "served_by": "Together",
+ "label": {
+  "content": "floor_photo",
+  "area": "garage",
+  "setting": "residential",
+  "system": "full_flake",
+  "color": "Ocotillo",
+  "color_confidence": "medium",
+  "color_runner_up": "Santana",
+  "color_description": "light tan base with small black, brown and white chips",
+  "shot_type": "finished",
+  "people": "none",
+  "faces_identifiable": false,
+  "privacy": [],
+  "branding_visible": false,
+  "quality": "4",
+  "issues": [],
+  "website_ready": true,
+  "title": "Garage with light tan full flake floor",
+  "alt_text": "Finished garage floor with light tan full flake coating, water softener and entry door visible, full flake garage floor coating",
+  "tags": [
+   "garage",
+   "full flake",
+   "tan chips",
+   "finished floor",
+   "water softener",
+   "white walls",
+   "residential",
+   "speckled floor"
+  ],
+  "filename": "garage-light-tan-full-flake-floor"
+ },
+ "id": "782570876957",
+ "provider": "kimi",
+ "model": "moonshotai/kimi-k3",
+ "mode": "pilot",
+ "blind": true,
+ "at": "2026-09-17T12:25:52"
+}

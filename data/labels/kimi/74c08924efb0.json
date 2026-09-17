@@ -1,0 +1,46 @@
+{
+ "finish": "stop",
+ "usage": {
+  "input_tokens": 5323,
+  "output_tokens": 228,
+  "cost": 0.00947601
+ },
+ "served_by": "DigitalOcean",
+ "label": {
+  "alt_text": "Light gray flake floor coating in a commercial space with metal stud walls",
+  "area": "commercial_or_industrial",
+  "branding_visible": false,
+  "color": "unknown",
+  "color_confidence": "low",
+  "color_description": "light gray base with sparse small white and gray chips",
+  "color_runner_up": "Avalon",
+  "content": "floor_photo",
+  "faces_identifiable": false,
+  "filename": "commercial-gray-flake-floor-metal-studs",
+  "issues": [],
+  "people": "none",
+  "privacy": [],
+  "quality": "3",
+  "setting": "commercial",
+  "shot_type": "finished",
+  "system": "full_flake",
+  "tags": [
+   "commercial floor",
+   "full flake",
+   "light gray",
+   "gray chips",
+   "metal studs",
+   "glossy",
+   "renovation",
+   "finished floor"
+  ],
+  "title": "Light gray flake floor in commercial space",
+  "website_ready": false
+ },
+ "id": "74c08924efb0",
+ "provider": "kimi",
+ "model": "moonshotai/kimi-k3",
+ "mode": "run",
+ "blind": false,
+ "at": "2026-09-17T12:33:50"
+}

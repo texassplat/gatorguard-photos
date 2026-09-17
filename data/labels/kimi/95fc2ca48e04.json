@@ -1,0 +1,46 @@
+{
+ "finish": "stop",
+ "usage": {
+  "input_tokens": 5320,
+  "output_tokens": 260,
+  "cost": 0.00827436
+ },
+ "served_by": "InferenceNet",
+ "label": {
+  "website_ready": true,
+  "title": "Garage with tan full flake floor",
+  "tags": [
+   "garage",
+   "full flake",
+   "tan flakes",
+   "brown flakes",
+   "tool wall",
+   "slatwall",
+   "finished floor",
+   "residential"
+  ],
+  "system": "full_flake",
+  "shot_type": "finished",
+  "setting": "residential",
+  "quality": "4",
+  "privacy": [],
+  "people": "none",
+  "issues": [],
+  "filename": "garage-tan-full-flake-floor-tool-wall",
+  "faces_identifiable": false,
+  "content": "floor_photo",
+  "color_runner_up": "Ocotillo",
+  "color_description": "tan, brown and black chips, medium size",
+  "color_confidence": "medium",
+  "color": "Chestnut",
+  "branding_visible": false,
+  "area": "garage",
+  "alt_text": "Finished garage with tan, brown and black full flake floor and a wall of hanging garden tools. full flake garage floor coating"
+ },
+ "id": "95fc2ca48e04",
+ "provider": "kimi",
+ "model": "moonshotai/kimi-k3",
+ "mode": "run",
+ "blind": false,
+ "at": "2026-09-17T12:43:27"
+}

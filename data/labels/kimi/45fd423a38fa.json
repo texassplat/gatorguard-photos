@@ -1,0 +1,47 @@
+{
+ "finish": "stop",
+ "usage": {
+  "input_tokens": 5021,
+  "output_tokens": 238,
+  "cost": 0.0094746
+ },
+ "served_by": "Together",
+ "label": {
+  "content": "floor_photo",
+  "area": "commercial_or_industrial",
+  "setting": "commercial",
+  "system": "full_flake",
+  "color": "Aurora",
+  "color_confidence": "low",
+  "color_runner_up": "Avalon",
+  "color_description": "light gray and white chips, small to medium size, overall pale gray look",
+  "shot_type": "finished",
+  "people": "none",
+  "faces_identifiable": false,
+  "privacy": [],
+  "branding_visible": false,
+  "quality": "4",
+  "issues": [],
+  "website_ready": true,
+  "title": "Commercial hallway with light gray full flake floor",
+  "alt_text": "Long commercial hallway with cell doors and a light gray full flake floor coating",
+  "tags": [
+   "commercial",
+   "hallway",
+   "full flake",
+   "gray chips",
+   "institutional",
+   "lockers",
+   "doors",
+   "finished floor",
+   "corridor"
+  ],
+  "filename": "commercial-hallway-gray-full-flake-floor"
+ },
+ "id": "45fd423a38fa",
+ "provider": "kimi",
+ "model": "moonshotai/kimi-k3",
+ "mode": "run",
+ "blind": false,
+ "at": "2026-09-17T12:33:52"
+}

@@ -1,0 +1,49 @@
+{
+ "finish": "stop",
+ "usage": {
+  "input_tokens": 5328,
+  "output_tokens": 235,
+  "cost": 0.0103506
+ },
+ "served_by": "Together",
+ "label": {
+  "content": "floor_photo",
+  "area": "interior_room",
+  "setting": "residential",
+  "system": "full_flake",
+  "color": "Ocotillo",
+  "color_confidence": "medium",
+  "color_runner_up": "Chestnut",
+  "color_description": "tan base with brown, black and cream chips, medium size",
+  "shot_type": "finished",
+  "people": "none",
+  "faces_identifiable": false,
+  "privacy": [],
+  "branding_visible": false,
+  "quality": "3",
+  "issues": [
+   "cluttered"
+  ],
+  "website_ready": false,
+  "title": "Bathroom with tan full flake floor",
+  "alt_text": "Small bathroom with a tan full flake floor coating around a white tub and exposed plumbing pipes",
+  "tags": [
+   "full flake",
+   "bathroom",
+   "interior",
+   "tan chips",
+   "brown chips",
+   "bathtub",
+   "plumbing pipes",
+   "small room",
+   "finished floor"
+  ],
+  "filename": "bathroom-tan-full-flake-floor"
+ },
+ "id": "c4d280e9705b",
+ "provider": "kimi",
+ "model": "moonshotai/kimi-k3",
+ "mode": "run",
+ "blind": false,
+ "at": "2026-09-17T12:48:36"
+}

@@ -1,0 +1,47 @@
+{
+ "finish": "stop",
+ "usage": {
+  "input_tokens": 5314,
+  "output_tokens": 265,
+  "cost": 0.0107586
+ },
+ "served_by": "Together",
+ "label": {
+  "content": "people_or_team",
+  "area": "driveway_or_walkway",
+  "setting": "residential",
+  "system": "unknown",
+  "color": "not_applicable",
+  "color_confidence": "none",
+  "color_runner_up": "not_applicable",
+  "color_description": "",
+  "shot_type": "crew_working",
+  "people": "prominent",
+  "faces_identifiable": false,
+  "privacy": [],
+  "branding_visible": true,
+  "quality": "4",
+  "issues": [],
+  "website_ready": false,
+  "title": "Installer prepping exterior concrete slab by truck",
+  "alt_text": "GatorGuard installer kneeling while prepping an exterior concrete slab, with grinder and branded box truck at a house",
+  "tags": [
+   "installer",
+   "crew working",
+   "surface prep",
+   "grinder",
+   "box truck",
+   "gator logo",
+   "exterior concrete",
+   "residential",
+   "in progress"
+  ],
+  "filename": "installer-prepping-exterior-slab-by-truck"
+ },
+ "id": "7f4ea2da4fc9",
+ "provider": "kimi",
+ "model": "moonshotai/kimi-k3",
+ "mode": "run",
+ "blind": false,
+ "at": "2026-09-17T12:47:21"
+}

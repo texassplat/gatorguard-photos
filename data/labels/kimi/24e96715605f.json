@@ -1,0 +1,46 @@
+{
+ "finish": "stop",
+ "usage": {
+  "input_tokens": 5320,
+  "output_tokens": 272,
+  "cost": 0.02004
+ },
+ "served_by": "Parasail",
+ "label": {
+  "content": "floor_photo",
+  "area": "basement",
+  "setting": "residential",
+  "system": "solid_color",
+  "color": "unknown",
+  "color_confidence": "none",
+  "color_runner_up": "not_applicable",
+  "color_description": "glossy solid white coating, no chips",
+  "shot_type": "finished",
+  "people": "none",
+  "faces_identifiable": false,
+  "privacy": [],
+  "branding_visible": false,
+  "quality": "4",
+  "issues": [],
+  "website_ready": true,
+  "title": "Basement with glossy white solid color floor",
+  "alt_text": "Empty basement with glossy white solid color floor, painted block walls, black ceiling and support poles",
+  "tags": [
+   "basement",
+   "solid color",
+   "white floor",
+   "glossy",
+   "painted brick walls",
+   "black ceiling",
+   "support poles",
+   "finished"
+  ],
+  "filename": "basement-glossy-white-solid-color-floor"
+ },
+ "id": "24e96715605f",
+ "provider": "kimi",
+ "model": "moonshotai/kimi-k3",
+ "mode": "run",
+ "blind": false,
+ "at": "2026-09-17T12:54:44"
+}

@@ -1,0 +1,46 @@
+{
+ "finish": "stop",
+ "usage": {
+  "input_tokens": 5342,
+  "output_tokens": 229,
+  "cost": 0.0103026
+ },
+ "served_by": "Together",
+ "label": {
+  "content": "floor_photo",
+  "area": "not_visible",
+  "setting": "unknown",
+  "system": "full_flake",
+  "color": "Willow",
+  "color_confidence": "low",
+  "color_runner_up": "Chestnut",
+  "color_description": "tan and light brown chips, small to medium size, mostly one warm tone",
+  "shot_type": "close_up",
+  "people": "none",
+  "faces_identifiable": false,
+  "privacy": [],
+  "branding_visible": false,
+  "quality": "3",
+  "issues": [],
+  "website_ready": false,
+  "title": "Close up of tan full flake floor",
+  "alt_text": "Close up of a glossy tan full flake coated concrete floor with light reflecting off the clear topcoat",
+  "tags": [
+   "close up",
+   "full flake",
+   "tan chips",
+   "brown chips",
+   "glossy",
+   "clear coat",
+   "flake floor",
+   "coated concrete"
+  ],
+  "filename": "close-up-tan-full-flake-floor"
+ },
+ "id": "f3a18c24ad0d",
+ "provider": "kimi",
+ "model": "moonshotai/kimi-k3",
+ "mode": "run",
+ "blind": false,
+ "at": "2026-09-17T12:32:20"
+}

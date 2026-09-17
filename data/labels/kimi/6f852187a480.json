@@ -1,0 +1,46 @@
+{
+ "finish": "stop",
+ "usage": {
+  "input_tokens": 5326,
+  "output_tokens": 340,
+  "cost": 0.021078
+ },
+ "served_by": "Parasail",
+ "label": {
+  "content": "floor_photo",
+  "area": "garage",
+  "setting": "residential",
+  "system": "full_flake",
+  "color": "Black Canyon",
+  "color_confidence": "low",
+  "color_runner_up": "Gun Metal",
+  "color_description": "very dark gray base with fine light gray and white chips, low light makes it look near black",
+  "shot_type": "finished",
+  "people": "none",
+  "faces_identifiable": false,
+  "privacy": [],
+  "branding_visible": true,
+  "quality": "4",
+  "issues": [],
+  "website_ready": true,
+  "title": "Dark flake garage floor with company trailer outside",
+  "alt_text": "Low angle view of a dark full flake garage floor with a GatorGuard trailer and white house in the driveway",
+  "tags": [
+   "garage",
+   "full flake",
+   "dark gray chips",
+   "black floor",
+   "glossy",
+   "company trailer",
+   "residential",
+   "finished floor"
+  ],
+  "filename": "dark-flake-garage-floor-with-trailer"
+ },
+ "id": "6f852187a480",
+ "provider": "kimi",
+ "model": "moonshotai/kimi-k3",
+ "mode": "run",
+ "blind": false,
+ "at": "2026-09-17T12:43:16"
+}

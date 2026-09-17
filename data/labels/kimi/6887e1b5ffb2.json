@@ -1,0 +1,47 @@
+{
+ "finish": "stop",
+ "usage": {
+  "input_tokens": 5324,
+  "output_tokens": 265,
+  "cost": 0.019947
+ },
+ "served_by": "Parasail",
+ "label": {
+  "content": "floor_photo",
+  "area": "garage",
+  "setting": "residential",
+  "system": "full_flake",
+  "color": "Granite",
+  "color_confidence": "medium",
+  "color_runner_up": "Aurora",
+  "color_description": "gray base with white, black and light gray chips, small to medium size",
+  "shot_type": "finished",
+  "people": "none",
+  "faces_identifiable": false,
+  "privacy": [],
+  "branding_visible": false,
+  "quality": "4",
+  "issues": [],
+  "website_ready": true,
+  "title": "Garage with gray full flake floor",
+  "alt_text": "Garage with gray full flake epoxy floor, unfinished drywall, lumber stack and refrigerator, full flake garage floor coating",
+  "tags": [
+   "garage",
+   "full flake",
+   "gray floor",
+   "gray chips",
+   "garage door opener",
+   "drywall",
+   "lumber",
+   "refrigerator",
+   "finished floor"
+  ],
+  "filename": "garage-gray-full-flake-floor"
+ },
+ "id": "6887e1b5ffb2",
+ "provider": "kimi",
+ "model": "moonshotai/kimi-k3",
+ "mode": "run",
+ "blind": false,
+ "at": "2026-09-17T12:42:18"
+}

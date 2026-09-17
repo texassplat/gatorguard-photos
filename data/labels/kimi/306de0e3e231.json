@@ -1,0 +1,46 @@
+{
+ "finish": "stop",
+ "usage": {
+  "input_tokens": 5318,
+  "output_tokens": 260,
+  "cost": 0.0106956
+ },
+ "served_by": "Together",
+ "label": {
+  "content": "floor_photo",
+  "area": "garage",
+  "setting": "residential",
+  "system": "full_flake",
+  "color": "unknown",
+  "color_confidence": "low",
+  "color_runner_up": "Santana",
+  "color_description": "tan and brown chips with some black, small to medium size",
+  "shot_type": "close_up",
+  "people": "none",
+  "faces_identifiable": false,
+  "privacy": [],
+  "branding_visible": false,
+  "quality": "3",
+  "issues": [],
+  "website_ready": false,
+  "title": "Close up of tan flake garage floor joint",
+  "alt_text": "Close up of a glossy tan and brown full flake garage floor with a control joint",
+  "tags": [
+   "garage",
+   "full flake",
+   "close up",
+   "tan chips",
+   "brown chips",
+   "control joint",
+   "glossy",
+   "finished floor"
+  ],
+  "filename": "tan-flake-garage-floor-joint-close-up"
+ },
+ "id": "306de0e3e231",
+ "provider": "kimi",
+ "model": "moonshotai/kimi-k3",
+ "mode": "run",
+ "blind": false,
+ "at": "2026-09-17T12:42:39"
+}

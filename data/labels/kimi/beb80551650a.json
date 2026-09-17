@@ -1,0 +1,50 @@
+{
+ "finish": "stop",
+ "usage": {
+  "input_tokens": 5291,
+  "output_tokens": 318,
+  "cost": 0.0179052
+ },
+ "served_by": "Fireworks",
+ "label": {
+  "content": "floor_photo",
+  "area": "patio_or_porch",
+  "setting": "residential",
+  "system": "full_flake",
+  "color": "Lunar",
+  "color_confidence": "medium",
+  "color_runner_up": "Stone Rowe",
+  "color_description": "light gray with fine white, gray and black chips, small size",
+  "shot_type": "finished",
+  "people": "none",
+  "faces_identifiable": false,
+  "privacy": [],
+  "branding_visible": false,
+  "quality": "4",
+  "issues": [
+   "overexposed"
+  ],
+  "website_ready": true,
+  "title": "Covered porch with gray flake floor and swings",
+  "alt_text": "Covered brick porch with two hanging swings and a rug over a light gray full flake floor coating",
+  "tags": [
+   "porch",
+   "patio",
+   "gray flake floor",
+   "porch swing",
+   "outdoor rug",
+   "brick wall",
+   "wicker furniture",
+   "finished floor",
+   "full flake",
+   "residential exterior"
+  ],
+  "filename": "gray-flake-porch-with-swings"
+ },
+ "id": "beb80551650a",
+ "provider": "kimi",
+ "model": "moonshotai/kimi-k3",
+ "mode": "run",
+ "blind": false,
+ "at": "2026-09-17T12:37:54"
+}

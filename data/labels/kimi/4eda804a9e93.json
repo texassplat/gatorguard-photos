@@ -1,0 +1,47 @@
+{
+ "finish": "stop",
+ "usage": {
+  "input_tokens": 5348,
+  "output_tokens": 190,
+  "cost": 0.0097356
+ },
+ "served_by": "Together",
+ "label": {
+  "content": "floor_photo",
+  "area": "basement",
+  "setting": "residential",
+  "system": "full_flake",
+  "color": "unknown",
+  "color_confidence": "low",
+  "color_runner_up": "Granite",
+  "color_description": "small gray, white and black chips on a gray base",
+  "shot_type": "finished",
+  "people": "none",
+  "faces_identifiable": false,
+  "privacy": [],
+  "branding_visible": false,
+  "quality": "4",
+  "issues": [],
+  "website_ready": true,
+  "title": "Basement with gray full flake floor",
+  "alt_text": "Finished basement with gray full flake floor coating, fireplace, floor drain and cabinets",
+  "tags": [
+   "basement",
+   "full flake",
+   "gray floor",
+   "fireplace",
+   "floor drain",
+   "white cabinets",
+   "finished",
+   "gray white black chips",
+   "residential"
+  ],
+  "filename": "basement-gray-full-flake-floor"
+ },
+ "id": "4eda804a9e93",
+ "provider": "kimi",
+ "model": "moonshotai/kimi-k3",
+ "mode": "run",
+ "blind": false,
+ "at": "2026-09-17T12:30:45"
+}

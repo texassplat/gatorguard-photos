@@ -1,0 +1,46 @@
+{
+ "finish": "stop",
+ "usage": {
+  "input_tokens": 5324,
+  "output_tokens": 235,
+  "cost": 0.019497
+ },
+ "served_by": "Fireworks",
+ "label": {
+  "content": "floor_photo",
+  "area": "driveway_or_walkway",
+  "setting": "residential",
+  "system": "poly_enhance",
+  "color": "not_applicable",
+  "color_confidence": "none",
+  "color_runner_up": "not_applicable",
+  "color_description": "",
+  "shot_type": "close_up",
+  "people": "none",
+  "faces_identifiable": false,
+  "privacy": [],
+  "branding_visible": false,
+  "quality": "4",
+  "issues": [],
+  "website_ready": true,
+  "title": "Sealed stamped flagstone walkway along brick wall",
+  "alt_text": "Wet-look sealer on gray stamped flagstone walkway with brick border beside a brick wall, poly enhance concrete sealer",
+  "tags": [
+   "stamped concrete",
+   "walkway",
+   "brick wall",
+   "flagstone pattern",
+   "wet look sealer",
+   "exterior",
+   "close up",
+   "gray stone"
+  ],
+  "filename": "stamped-flagstone-walkway-brick-wall"
+ },
+ "id": "552c1db364a5",
+ "provider": "kimi",
+ "model": "moonshotai/kimi-k3",
+ "mode": "run",
+ "blind": false,
+ "at": "2026-09-17T12:55:37"
+}

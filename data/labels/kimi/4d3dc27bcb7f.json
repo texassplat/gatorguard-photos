@@ -1,0 +1,48 @@
+{
+ "finish": "stop",
+ "usage": {
+  "input_tokens": 5324,
+  "output_tokens": 220,
+  "cost": 0.019272
+ },
+ "served_by": "Parasail",
+ "label": {
+  "content": "floor_photo",
+  "area": "garage",
+  "setting": "residential",
+  "system": "full_flake",
+  "color": "Avalon",
+  "color_confidence": "medium",
+  "color_runner_up": "Aurora",
+  "color_description": "light gray base with small gray, white and black chips",
+  "shot_type": "finished",
+  "people": "none",
+  "faces_identifiable": false,
+  "privacy": [],
+  "branding_visible": false,
+  "quality": "4",
+  "issues": [
+   "cluttered"
+  ],
+  "website_ready": true,
+  "title": "Garage with light gray full flake floor and white cabinets",
+  "alt_text": "Garage with a light gray full flake floor and white storage cabinets along the wall",
+  "tags": [
+   "garage",
+   "full flake",
+   "light gray",
+   "white cabinets",
+   "finished floor",
+   "gray chips",
+   "storage cabinets",
+   "residential"
+  ],
+  "filename": "garage-light-gray-flake-white-cabinets"
+ },
+ "id": "4d3dc27bcb7f",
+ "provider": "kimi",
+ "model": "moonshotai/kimi-k3",
+ "mode": "run",
+ "blind": false,
+ "at": "2026-09-17T12:43:10"
+}

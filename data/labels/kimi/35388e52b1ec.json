@@ -1,0 +1,47 @@
+{
+ "finish": "stop",
+ "usage": {
+  "input_tokens": 5324,
+  "output_tokens": 250,
+  "cost": 0.019722
+ },
+ "served_by": "Parasail",
+ "label": {
+  "content": "floor_photo",
+  "area": "garage",
+  "setting": "residential",
+  "system": "full_flake",
+  "color": "Sedona",
+  "color_confidence": "low",
+  "color_runner_up": "Chestnut",
+  "color_description": "brown, tan and black chips with some white, medium size",
+  "shot_type": "finished",
+  "people": "none",
+  "faces_identifiable": false,
+  "privacy": [],
+  "branding_visible": false,
+  "quality": "4",
+  "issues": [],
+  "website_ready": true,
+  "title": "Garage with glossy brown full flake floor",
+  "alt_text": "Glossy brown full flake garage floor with white SUV at the open garage door, full flake garage floor coating",
+  "tags": [
+   "garage",
+   "full flake",
+   "brown chips",
+   "tan chips",
+   "glossy",
+   "finished floor",
+   "suv",
+   "residential",
+   "flake floor"
+  ],
+  "filename": "garage-brown-full-flake-floor"
+ },
+ "id": "35388e52b1ec",
+ "provider": "kimi",
+ "model": "moonshotai/kimi-k3",
+ "mode": "run",
+ "blind": false,
+ "at": "2026-09-17T12:45:34"
+}

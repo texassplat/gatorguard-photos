@@ -1,0 +1,49 @@
+{
+ "finish": "stop",
+ "usage": {
+  "input_tokens": 5317,
+  "output_tokens": 269,
+  "cost": 0.00999166
+ },
+ "served_by": "DigitalOcean",
+ "label": {
+  "alt_text": "Close-up of a cream full flake floor with tan, brown and white chips, kitchenette in background",
+  "area": "interior_room",
+  "branding_visible": false,
+  "color": "unknown",
+  "color_confidence": "low",
+  "color_description": "tan, brown and white chips on a cream base, small chips",
+  "color_runner_up": "Ocotillo",
+  "content": "floor_photo",
+  "faces_identifiable": false,
+  "filename": "cream-full-flake-floor-close-up",
+  "issues": [
+   "blurry",
+   "tilted"
+  ],
+  "people": "none",
+  "privacy": [],
+  "quality": "2",
+  "setting": "unknown",
+  "shot_type": "close_up",
+  "system": "full_flake",
+  "tags": [
+   "full flake",
+   "close up",
+   "cream base",
+   "tan chips",
+   "brown chips",
+   "white chips",
+   "small chips",
+   "old style"
+  ],
+  "title": "Close-up of cream full flake floor",
+  "website_ready": false
+ },
+ "id": "0b2aacd1a9b4",
+ "provider": "kimi",
+ "model": "moonshotai/kimi-k3",
+ "mode": "run",
+ "blind": false,
+ "at": "2026-09-17T12:55:08"
+}

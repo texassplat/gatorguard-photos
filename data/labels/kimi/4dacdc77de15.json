@@ -1,0 +1,49 @@
+{
+ "finish": "stop",
+ "usage": {
+  "input_tokens": 5044,
+  "output_tokens": 218,
+  "cost": 0.0092436
+ },
+ "served_by": "Together",
+ "label": {
+  "content": "floor_photo",
+  "area": "not_visible",
+  "setting": "unknown",
+  "system": "metallic",
+  "color": "Cappuccino",
+  "color_confidence": "medium",
+  "color_runner_up": "Copper",
+  "color_description": "marbled metallic in warm brown and tan swirls, wet glossy look",
+  "shot_type": "in_progress",
+  "people": "background",
+  "faces_identifiable": false,
+  "privacy": [],
+  "branding_visible": false,
+  "quality": "3",
+  "issues": [
+   "wet_or_dirty"
+  ],
+  "website_ready": false,
+  "title": "Rolling brown metallic epoxy coating",
+  "alt_text": "Worker rolling wet brown metallic epoxy with tan marbled swirls during a metallic floor coating install",
+  "tags": [
+   "metallic epoxy",
+   "liquid art",
+   "in progress",
+   "roller",
+   "brown metallic",
+   "marbled",
+   "wet coating",
+   "swirl pattern",
+   "crew working"
+  ],
+  "filename": "rolling-brown-metallic-epoxy-floor"
+ },
+ "id": "4dacdc77de15",
+ "provider": "kimi",
+ "model": "moonshotai/kimi-k3",
+ "mode": "run",
+ "blind": false,
+ "at": "2026-09-17T12:58:26"
+}

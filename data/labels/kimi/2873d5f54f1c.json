@@ -1,0 +1,45 @@
+{
+ "finish": "stop",
+ "usage": {
+  "input_tokens": 5356,
+  "output_tokens": 309,
+  "cost": 0.01060911
+ },
+ "served_by": "DigitalOcean",
+ "label": {
+  "alt_text": "Basement with a smooth glossy light gray solid color floor coating and block walls, shown as solid color basement floor.",
+  "area": "basement",
+  "branding_visible": false,
+  "color": "Gray",
+  "color_confidence": "medium",
+  "color_description": "smooth plain light gray surface, no visible chips",
+  "color_runner_up": "unknown",
+  "content": "floor_photo",
+  "faces_identifiable": false,
+  "filename": "gray-solid-color-basement-floor",
+  "issues": [],
+  "people": "none",
+  "privacy": [],
+  "quality": "4",
+  "setting": "residential",
+  "shot_type": "finished",
+  "system": "solid_color",
+  "tags": [
+   "basement",
+   "solid color floor",
+   "light gray coating",
+   "glossy finish",
+   "block walls",
+   "open truss ceiling",
+   "empty room"
+  ],
+  "title": "Basement with smooth gray coated floor",
+  "website_ready": true
+ },
+ "id": "2873d5f54f1c",
+ "provider": "kimi",
+ "model": "moonshotai/kimi-k3",
+ "mode": "run",
+ "blind": false,
+ "at": "2026-09-17T12:30:51"
+}

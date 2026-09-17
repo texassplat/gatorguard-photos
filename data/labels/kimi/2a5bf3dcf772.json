@@ -1,0 +1,47 @@
+{
+ "finish": "stop",
+ "usage": {
+  "input_tokens": 5324,
+  "output_tokens": 298,
+  "cost": 0.020442
+ },
+ "served_by": "Parasail",
+ "label": {
+  "content": "floor_photo",
+  "area": "garage",
+  "setting": "residential",
+  "system": "full_flake",
+  "color": "Granite",
+  "color_confidence": "medium",
+  "color_runner_up": "Lunar",
+  "color_description": "light gray base with small black, white and gray chips",
+  "shot_type": "finished",
+  "people": "none",
+  "faces_identifiable": false,
+  "privacy": [],
+  "branding_visible": false,
+  "quality": "4",
+  "issues": [],
+  "website_ready": true,
+  "title": "Two-car garage with gray full flake floor",
+  "alt_text": "Finished gray full flake garage floor with glossy clear coat, white paneled walls and garage door",
+  "tags": [
+   "garage",
+   "full flake",
+   "gray chips",
+   "black chips",
+   "glossy",
+   "finished floor",
+   "garage door",
+   "white walls",
+   "two car garage"
+  ],
+  "filename": "gray-full-flake-garage-floor"
+ },
+ "id": "2a5bf3dcf772",
+ "provider": "kimi",
+ "model": "moonshotai/kimi-k3",
+ "mode": "run",
+ "blind": false,
+ "at": "2026-09-17T12:44:44"
+}

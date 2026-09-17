@@ -1,0 +1,46 @@
+{
+ "finish": "stop",
+ "usage": {
+  "input_tokens": 5322,
+  "output_tokens": 199,
+  "cost": 0.00909791
+ },
+ "served_by": "DigitalOcean",
+ "label": {
+  "alt_text": "Glossy full flake floor in a commercial building entry near a stairway and glass double doors.",
+  "area": "commercial_or_industrial",
+  "branding_visible": false,
+  "color": "unknown",
+  "color_confidence": "low",
+  "color_description": "light gray, tan and white chips, small to medium size",
+  "color_runner_up": "Zircon",
+  "content": "floor_photo",
+  "faces_identifiable": false,
+  "filename": "commercial-entry-full-flake-floor",
+  "issues": [],
+  "people": "none",
+  "privacy": [],
+  "quality": "3",
+  "setting": "commercial",
+  "shot_type": "finished",
+  "system": "full_flake",
+  "tags": [
+   "commercial",
+   "entryway",
+   "full flake",
+   "gray chips",
+   "tan chips",
+   "glossy finish",
+   "stairs",
+   "glass doors"
+  ],
+  "title": "Commercial entryway with light gray full flake floor",
+  "website_ready": false
+ },
+ "id": "51e19abe06a1",
+ "provider": "kimi",
+ "model": "moonshotai/kimi-k3",
+ "mode": "run",
+ "blind": false,
+ "at": "2026-09-17T12:34:21"
+}

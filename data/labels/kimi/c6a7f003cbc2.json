@@ -1,0 +1,47 @@
+{
+ "finish": "stop",
+ "usage": {
+  "input_tokens": 5256,
+  "output_tokens": 248,
+  "cost": 0.00757932
+ },
+ "served_by": "Morph",
+ "label": {
+  "content": "floor_photo",
+  "area": "pool_deck",
+  "setting": "residential",
+  "system": "full_flake",
+  "color": "unknown",
+  "color_confidence": "low",
+  "color_runner_up": "unknown",
+  "color_description": "tan, beige and brown chips with small black accents, small size",
+  "shot_type": "finished",
+  "people": "none",
+  "faces_identifiable": false,
+  "privacy": [],
+  "branding_visible": false,
+  "quality": "3",
+  "issues": [],
+  "website_ready": false,
+  "title": "Tan full flake pool deck by inground pool",
+  "alt_text": "Backyard pool deck with tan and brown flake coating, brick border, lounge chairs and pool vacuum",
+  "tags": [
+   "pool deck",
+   "full flake",
+   "tan chips",
+   "brown chips",
+   "brick border",
+   "inground pool",
+   "backyard",
+   "lounge chairs",
+   "finished"
+  ],
+  "filename": "tan-full-flake-pool-deck-with-pool"
+ },
+ "id": "c6a7f003cbc2",
+ "provider": "kimi",
+ "model": "moonshotai/kimi-k3",
+ "mode": "run",
+ "blind": false,
+ "at": "2026-09-17T12:56:40"
+}

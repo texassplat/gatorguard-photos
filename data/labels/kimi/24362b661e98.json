@@ -1,0 +1,43 @@
+{
+ "finish": "stop",
+ "usage": {
+  "input_tokens": 5348,
+  "output_tokens": 330,
+  "cost": 0.01086066
+ },
+ "served_by": "DigitalOcean",
+ "label": {
+  "alt_text": "Close-up of a glossy solid tan coated concrete floor in a garage or interior room.",
+  "area": "not_visible",
+  "branding_visible": false,
+  "color": "unknown",
+  "color_confidence": "none",
+  "color_description": "uniform tan glossy surface with no visible chips",
+  "color_runner_up": "unknown",
+  "content": "floor_photo",
+  "faces_identifiable": false,
+  "filename": "solid-tan-floor-close-up",
+  "issues": [],
+  "people": "none",
+  "privacy": [],
+  "quality": "3",
+  "setting": "unknown",
+  "shot_type": "close_up",
+  "system": "solid_color",
+  "tags": [
+   "solid color",
+   "tan floor",
+   "close up",
+   "glossy coating",
+   "garage floor"
+  ],
+  "title": "Close-up of solid tan coated floor",
+  "website_ready": false
+ },
+ "id": "24362b661e98",
+ "provider": "kimi",
+ "model": "moonshotai/kimi-k3",
+ "mode": "run",
+ "blind": false,
+ "at": "2026-09-17T12:32:02"
+}

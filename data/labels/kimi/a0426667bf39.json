@@ -1,0 +1,47 @@
+{
+ "finish": "stop",
+ "usage": {
+  "input_tokens": 5256,
+  "output_tokens": 164,
+  "cost": 0.00669732
+ },
+ "served_by": "Morph",
+ "label": {
+  "content": "floor_photo",
+  "area": "basement",
+  "setting": "residential",
+  "system": "solid_color_chip",
+  "color": "unknown",
+  "color_confidence": "none",
+  "color_runner_up": "not_applicable",
+  "color_description": "uniform tan beige chips, fine size",
+  "shot_type": "finished",
+  "people": "none",
+  "faces_identifiable": false,
+  "privacy": [],
+  "branding_visible": false,
+  "quality": "4",
+  "issues": [],
+  "website_ready": true,
+  "title": "Basement with tan solid color chip floor",
+  "alt_text": "Basement family room with brick fireplace and tan solid color chip floor coating by a sliding glass door",
+  "tags": [
+   "basement",
+   "solid color chip",
+   "tan floor",
+   "beige chips",
+   "brick fireplace",
+   "sliding glass door",
+   "finished floor",
+   "residential",
+   "family room"
+  ],
+  "filename": "basement-tan-solid-color-chip-floor"
+ },
+ "id": "a0426667bf39",
+ "provider": "kimi",
+ "model": "moonshotai/kimi-k3",
+ "mode": "run",
+ "blind": false,
+ "at": "2026-09-17T12:56:52"
+}

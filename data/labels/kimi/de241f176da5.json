@@ -1,0 +1,49 @@
+{
+ "finish": "stop",
+ "usage": {
+  "input_tokens": 5248,
+  "output_tokens": 166,
+  "cost": 0.00670332
+ },
+ "served_by": "Morph",
+ "label": {
+  "content": "floor_photo",
+  "area": "garage",
+  "setting": "residential",
+  "system": "full_flake",
+  "color": "unknown",
+  "color_confidence": "low",
+  "color_runner_up": "unknown",
+  "color_description": "gray, black, white and brown chips, small size",
+  "shot_type": "in_progress",
+  "people": "prominent",
+  "faces_identifiable": false,
+  "privacy": [],
+  "branding_visible": false,
+  "quality": "3",
+  "issues": [
+   "cluttered"
+  ],
+  "website_ready": false,
+  "title": "Worker scraping flake coating on garage floor",
+  "alt_text": "Worker using a floor scraper on a speckled gray flake garage floor coating in progress",
+  "tags": [
+   "garage",
+   "full flake",
+   "in progress",
+   "scraping",
+   "gray chips",
+   "black chips",
+   "brown chips",
+   "crew",
+   "winter"
+  ],
+  "filename": "scraping-gray-flake-garage-floor"
+ },
+ "id": "de241f176da5",
+ "provider": "kimi",
+ "model": "moonshotai/kimi-k3",
+ "mode": "run",
+ "blind": false,
+ "at": "2026-09-17T12:55:17"
+}

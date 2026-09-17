@@ -1,0 +1,45 @@
+{
+ "finish": "stop",
+ "usage": {
+  "input_tokens": 5340,
+  "output_tokens": 247,
+  "cost": 0.0105666
+ },
+ "served_by": "Together",
+ "label": {
+  "content": "floor_photo",
+  "area": "garage",
+  "setting": "residential",
+  "system": "full_flake",
+  "color": "Granite",
+  "color_confidence": "medium",
+  "color_runner_up": "Stone Rowe",
+  "color_description": "gray, white and black chips, small to medium size, glossy clear coat",
+  "shot_type": "finished",
+  "people": "none",
+  "faces_identifiable": false,
+  "privacy": [],
+  "branding_visible": false,
+  "quality": "4",
+  "issues": [],
+  "website_ready": true,
+  "title": "Garage with gray full flake floor",
+  "alt_text": "Glossy gray full flake garage floor with saw-cut control joints, garage floor coating",
+  "tags": [
+   "garage",
+   "full flake",
+   "gray chips",
+   "glossy",
+   "control joints",
+   "finished floor",
+   "garage floor coating"
+  ],
+  "filename": "garage-gray-full-flake-floor"
+ },
+ "id": "a1daee114502",
+ "provider": "kimi",
+ "model": "moonshotai/kimi-k3",
+ "mode": "run",
+ "blind": false,
+ "at": "2026-09-17T12:41:08"
+}

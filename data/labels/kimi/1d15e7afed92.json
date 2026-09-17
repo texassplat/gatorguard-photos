@@ -1,0 +1,46 @@
+{
+ "finish": "stop",
+ "usage": {
+  "input_tokens": 5349,
+  "output_tokens": 207,
+  "cost": 0.019152
+ },
+ "served_by": "Parasail",
+ "label": {
+  "content": "floor_photo",
+  "area": "not_visible",
+  "setting": "unknown",
+  "system": "full_flake",
+  "color": "Chestnut",
+  "color_confidence": "medium",
+  "color_runner_up": "Santana",
+  "color_description": "tan and brown chips with black accents, medium size, glossy clear coat",
+  "shot_type": "close_up",
+  "people": "none",
+  "faces_identifiable": false,
+  "privacy": [],
+  "branding_visible": false,
+  "quality": "4",
+  "issues": [],
+  "website_ready": false,
+  "title": "Close-up of glossy tan full flake floor",
+  "alt_text": "Close-up of a glossy full flake coated concrete floor with tan, brown and black chips",
+  "tags": [
+   "close up",
+   "full flake",
+   "tan chips",
+   "brown chips",
+   "black chips",
+   "glossy",
+   "clear coat",
+   "garage floor coating"
+  ],
+  "filename": "close-up-tan-full-flake-floor"
+ },
+ "id": "1d15e7afed92",
+ "provider": "kimi",
+ "model": "moonshotai/kimi-k3",
+ "mode": "run",
+ "blind": false,
+ "at": "2026-09-17T12:32:06"
+}

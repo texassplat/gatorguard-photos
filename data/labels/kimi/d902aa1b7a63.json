@@ -1,0 +1,47 @@
+{
+ "finish": "stop",
+ "usage": {
+  "input_tokens": 5339,
+  "output_tokens": 251,
+  "cost": 0.0106236
+ },
+ "served_by": "Together",
+ "label": {
+  "content": "floor_photo",
+  "area": "garage",
+  "setting": "residential",
+  "system": "full_flake",
+  "color": "Sedona",
+  "color_confidence": "medium",
+  "color_runner_up": "Chestnut",
+  "color_description": "small brown, tan and black chips over a brown base, dense speckled look",
+  "shot_type": "finished",
+  "people": "none",
+  "faces_identifiable": false,
+  "privacy": [],
+  "branding_visible": false,
+  "quality": "4",
+  "issues": [],
+  "website_ready": true,
+  "title": "Garage with brown full flake floor",
+  "alt_text": "Finished garage floor with brown full flake coating, saw cut joints and stem wall, full flake garage floor coating",
+  "tags": [
+   "garage",
+   "full flake",
+   "brown chips",
+   "tan chips",
+   "finished floor",
+   "stem wall",
+   "saw cut joints",
+   "glossy",
+   "residential"
+  ],
+  "filename": "garage-brown-full-flake-floor"
+ },
+ "id": "d902aa1b7a63",
+ "provider": "kimi",
+ "model": "moonshotai/kimi-k3",
+ "mode": "run",
+ "blind": false,
+ "at": "2026-09-17T12:41:48"
+}

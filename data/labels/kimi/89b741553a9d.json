@@ -1,0 +1,47 @@
+{
+ "finish": "stop",
+ "usage": {
+  "input_tokens": 5328,
+  "output_tokens": 232,
+  "cost": 0.0103056
+ },
+ "served_by": "Together",
+ "label": {
+  "content": "floor_photo",
+  "area": "garage",
+  "setting": "residential",
+  "system": "full_flake",
+  "color": "Ocotillo",
+  "color_confidence": "medium",
+  "color_runner_up": "Stone Rowe",
+  "color_description": "tan, brown, black and white chips, medium size",
+  "shot_type": "close_up",
+  "people": "none",
+  "faces_identifiable": false,
+  "privacy": [],
+  "branding_visible": false,
+  "quality": "4",
+  "issues": [],
+  "website_ready": true,
+  "title": "Close up of garage floor edge lip with tan flake",
+  "alt_text": "Low angle close up of a full flake garage floor edge and lip with tan, brown and black chips",
+  "tags": [
+   "edge lip",
+   "close up",
+   "full flake",
+   "garage floor",
+   "tan chips",
+   "brown chips",
+   "black chips",
+   "stem wall",
+   "coated edge"
+  ],
+  "filename": "garage-floor-edge-lip-tan-flake"
+ },
+ "id": "89b741553a9d",
+ "provider": "kimi",
+ "model": "moonshotai/kimi-k3",
+ "mode": "run",
+ "blind": false,
+ "at": "2026-09-17T12:49:25"
+}

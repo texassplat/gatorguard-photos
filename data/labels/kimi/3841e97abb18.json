@@ -1,0 +1,47 @@
+{
+ "finish": "stop",
+ "usage": {
+  "input_tokens": 5017,
+  "output_tokens": 233,
+  "cost": 0.0093876
+ },
+ "served_by": "Together",
+ "label": {
+  "content": "floor_photo",
+  "area": "interior_room",
+  "setting": "residential",
+  "system": "full_flake",
+  "color": "Ocotillo",
+  "color_confidence": "medium",
+  "color_runner_up": "Shalestone",
+  "color_description": "tan base with black, brown and cream chips, small to medium size",
+  "shot_type": "close_up",
+  "people": "none",
+  "faces_identifiable": false,
+  "privacy": [],
+  "branding_visible": false,
+  "quality": "4",
+  "issues": [],
+  "website_ready": true,
+  "title": "Low angle view of tan full flake floor",
+  "alt_text": "Low angle view of a glossy tan full flake floor with black and brown chips in a room with French doors",
+  "tags": [
+   "full flake",
+   "tan floor",
+   "black chips",
+   "brown chips",
+   "glossy finish",
+   "low angle",
+   "interior room",
+   "french doors",
+   "finished floor"
+  ],
+  "filename": "tan-full-flake-floor-low-angle"
+ },
+ "id": "3841e97abb18",
+ "provider": "kimi",
+ "model": "moonshotai/kimi-k3",
+ "mode": "run",
+ "blind": false,
+ "at": "2026-09-17T12:32:19"
+}

@@ -1,0 +1,47 @@
+{
+ "finish": "stop",
+ "usage": {
+  "input_tokens": 5328,
+  "output_tokens": 236,
+  "cost": 0.0103656
+ },
+ "served_by": "Together",
+ "label": {
+  "content": "floor_photo",
+  "area": "garage",
+  "setting": "residential",
+  "system": "full_flake",
+  "color": "Granite",
+  "color_confidence": "medium",
+  "color_runner_up": "Silver Butte",
+  "color_description": "light gray base with white, gray and black chips, small to medium size",
+  "shot_type": "close_up",
+  "people": "none",
+  "faces_identifiable": false,
+  "privacy": [],
+  "branding_visible": false,
+  "quality": "4",
+  "issues": [],
+  "website_ready": false,
+  "title": "Gray full flake garage steps and stem wall",
+  "alt_text": "Close up of garage entry steps and stem wall coated in gray full flake with white and black chips",
+  "tags": [
+   "garage",
+   "steps",
+   "stem wall",
+   "full flake",
+   "gray chips",
+   "white railings",
+   "entry door",
+   "close up",
+   "finished floor"
+  ],
+  "filename": "gray-full-flake-garage-steps-stem-wall"
+ },
+ "id": "74a92dddad6c",
+ "provider": "kimi",
+ "model": "moonshotai/kimi-k3",
+ "mode": "run",
+ "blind": false,
+ "at": "2026-09-17T12:57:45"
+}

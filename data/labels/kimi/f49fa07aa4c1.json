@@ -1,0 +1,49 @@
+{
+ "finish": "stop",
+ "usage": {
+  "input_tokens": 5327,
+  "output_tokens": 244,
+  "cost": 0.0104826
+ },
+ "served_by": "Together",
+ "label": {
+  "content": "floor_photo",
+  "area": "basement",
+  "setting": "residential",
+  "system": "metallic",
+  "color": "Charcoal",
+  "color_confidence": "medium",
+  "color_runner_up": "Gray",
+  "color_description": "dark gray and brown metallic swirls, marbled reflective finish",
+  "shot_type": "finished",
+  "people": "none",
+  "faces_identifiable": false,
+  "privacy": [],
+  "branding_visible": false,
+  "quality": "3",
+  "issues": [
+   "dark"
+  ],
+  "website_ready": false,
+  "title": "Basement with dark gray metallic epoxy floor",
+  "alt_text": "Basement with dark gray marbled metallic epoxy floor, yellow walls and hanging pendant lights",
+  "tags": [
+   "basement",
+   "metallic epoxy",
+   "liquid art",
+   "dark gray",
+   "marbled floor",
+   "swirled",
+   "pendant lights",
+   "reflective floor",
+   "finished"
+  ],
+  "filename": "basement-dark-gray-metallic-floor"
+ },
+ "id": "f49fa07aa4c1",
+ "provider": "kimi",
+ "model": "moonshotai/kimi-k3",
+ "mode": "run",
+ "blind": false,
+ "at": "2026-09-17T12:51:01"
+}

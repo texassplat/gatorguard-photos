@@ -1,0 +1,48 @@
+{
+ "finish": "stop",
+ "usage": {
+  "input_tokens": 5331,
+  "output_tokens": 267,
+  "cost": 0.019998
+ },
+ "served_by": "Parasail",
+ "label": {
+  "content": "floor_photo",
+  "area": "patio_or_porch",
+  "setting": "residential",
+  "system": "full_flake",
+  "color": "Granite",
+  "color_confidence": "low",
+  "color_runner_up": "Infinity",
+  "color_description": "light gray base with gray, white and black chips, small to medium size",
+  "shot_type": "finished",
+  "people": "none",
+  "faces_identifiable": false,
+  "privacy": [],
+  "branding_visible": false,
+  "quality": "4",
+  "issues": [],
+  "website_ready": true,
+  "title": "Back patio with gray full flake floor",
+  "alt_text": "Brick home back patio coated in light gray full flake with saw-cut joints, full flake patio floor coating",
+  "tags": [
+   "patio",
+   "back patio",
+   "full flake",
+   "gray flakes",
+   "brick house",
+   "saw cut joints",
+   "exterior",
+   "residential",
+   "sunny",
+   "finished floor"
+  ],
+  "filename": "gray-full-flake-back-patio"
+ },
+ "id": "4c433bba6c81",
+ "provider": "kimi",
+ "model": "moonshotai/kimi-k3",
+ "mode": "run",
+ "blind": false,
+ "at": "2026-09-17T12:37:10"
+}

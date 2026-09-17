@@ -1,0 +1,46 @@
+{
+ "finish": "stop",
+ "usage": {
+  "input_tokens": 5064,
+  "output_tokens": 196,
+  "cost": 0.0089736
+ },
+ "served_by": "Together",
+ "label": {
+  "content": "floor_photo",
+  "area": "steps_or_stairs",
+  "setting": "residential",
+  "system": "poly_enhance",
+  "color": "not_applicable",
+  "color_confidence": "none",
+  "color_runner_up": "not_applicable",
+  "color_description": "tan and brown stamped concrete with a glossy wet-look sealer",
+  "shot_type": "finished",
+  "people": "none",
+  "faces_identifiable": false,
+  "privacy": [],
+  "branding_visible": false,
+  "quality": "4",
+  "issues": [],
+  "website_ready": true,
+  "title": "Glossy sealed stamped concrete steps and landing",
+  "alt_text": "Tan stamped concrete steps and landing with glossy wet-look Poly Enhance sealer",
+  "tags": [
+   "stamped concrete",
+   "steps",
+   "wet look sealer",
+   "glossy",
+   "tan concrete",
+   "poly enhance",
+   "outdoor steps",
+   "sealed concrete"
+  ],
+  "filename": "glossy-stamped-concrete-steps"
+ },
+ "id": "7619f7d26de6",
+ "provider": "kimi",
+ "model": "moonshotai/kimi-k3",
+ "mode": "run",
+ "blind": false,
+ "at": "2026-09-17T12:55:34"
+}

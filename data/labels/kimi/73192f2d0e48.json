@@ -1,0 +1,47 @@
+{
+ "finish": "stop",
+ "usage": {
+  "input_tokens": 5319,
+  "output_tokens": 316,
+  "cost": 0.020697
+ },
+ "served_by": "Parasail",
+ "label": {
+  "content": "people_or_team",
+  "area": "patio_or_porch",
+  "setting": "residential",
+  "system": "unknown",
+  "color": "not_applicable",
+  "color_confidence": "none",
+  "color_runner_up": "not_applicable",
+  "color_description": "",
+  "shot_type": "crew_working",
+  "people": "prominent",
+  "faces_identifiable": true,
+  "privacy": [],
+  "branding_visible": false,
+  "quality": "4",
+  "issues": [],
+  "website_ready": false,
+  "title": "Installer pouring base coat on back patio",
+  "alt_text": "Installer pouring tan base coating on a concrete patio beside a house with white siding, during floor coating install",
+  "tags": [
+   "installer",
+   "pouring coating",
+   "base coat",
+   "patio",
+   "in progress",
+   "residential",
+   "concrete prep",
+   "crew",
+   "exterior"
+  ],
+  "filename": "installer-pouring-base-coat-patio"
+ },
+ "id": "73192f2d0e48",
+ "provider": "kimi",
+ "model": "moonshotai/kimi-k3",
+ "mode": "run",
+ "blind": false,
+ "at": "2026-09-17T12:47:23"
+}

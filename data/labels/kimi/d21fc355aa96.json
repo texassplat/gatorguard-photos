@@ -1,0 +1,48 @@
+{
+ "finish": "stop",
+ "usage": {
+  "input_tokens": 5316,
+  "output_tokens": 190,
+  "cost": 0.0096396
+ },
+ "served_by": "Together",
+ "label": {
+  "content": "marketing_graphic",
+  "area": "garage",
+  "setting": "unknown",
+  "system": "full_flake",
+  "color": "unknown",
+  "color_confidence": "low",
+  "color_runner_up": "unknown",
+  "color_description": "dark gray and black chips, small size, mostly covered by text",
+  "shot_type": "graphic",
+  "people": "none",
+  "faces_identifiable": false,
+  "privacy": [],
+  "branding_visible": true,
+  "quality": "3",
+  "issues": [
+   "text_overlay"
+  ],
+  "website_ready": false,
+  "title": "Detroit thank you review request graphic",
+  "alt_text": "GatorGuard Detroit thank you graphic asking customers to leave a review over a dark flake floor background",
+  "tags": [
+   "thank you graphic",
+   "review request",
+   "detroit",
+   "birdeye asset",
+   "gator logo",
+   "text overlay",
+   "dark flake floor",
+   "marketing"
+  ],
+  "filename": "detroit-thank-you-review-graphic"
+ },
+ "id": "d21fc355aa96",
+ "provider": "kimi",
+ "model": "moonshotai/kimi-k3",
+ "mode": "run",
+ "blind": false,
+ "at": "2026-09-17T12:31:51"
+}

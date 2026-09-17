@@ -1,0 +1,46 @@
+{
+ "finish": "stop",
+ "usage": {
+  "input_tokens": 5016,
+  "output_tokens": 270,
+  "cost": 0.0099396
+ },
+ "served_by": "Together",
+ "label": {
+  "content": "floor_photo",
+  "area": "basement",
+  "setting": "residential",
+  "system": "solid_color",
+  "color": "unknown",
+  "color_confidence": "low",
+  "color_runner_up": "Gray",
+  "color_description": "flat light gray coating, no chips",
+  "shot_type": "finished",
+  "people": "none",
+  "faces_identifiable": false,
+  "privacy": [],
+  "branding_visible": false,
+  "quality": "4",
+  "issues": [],
+  "website_ready": true,
+  "title": "Basement with glossy gray solid color floor",
+  "alt_text": "Glossy light gray coated basement floor around a furnace and ductwork, solid color concrete floor coating",
+  "tags": [
+   "basement",
+   "gray floor",
+   "solid color",
+   "glossy",
+   "furnace",
+   "finished floor",
+   "coated concrete",
+   "utility room"
+  ],
+  "filename": "basement-gray-solid-color-floor"
+ },
+ "id": "83219b4cea60",
+ "provider": "kimi",
+ "model": "moonshotai/kimi-k3",
+ "mode": "run",
+ "blind": false,
+ "at": "2026-09-17T12:54:42"
+}

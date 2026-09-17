@@ -1,0 +1,50 @@
+{
+ "finish": "stop",
+ "usage": {
+  "input_tokens": 5314,
+  "output_tokens": 699,
+  "cost": 0.0172686
+ },
+ "served_by": "Together",
+ "label": {
+  "content": "floor_photo",
+  "area": "patio_or_porch",
+  "setting": "residential",
+  "system": "bare_concrete",
+  "color": "not_applicable",
+  "color_confidence": "none",
+  "color_runner_up": "not_applicable",
+  "color_description": "",
+  "shot_type": "crew_working",
+  "people": "prominent",
+  "faces_identifiable": false,
+  "privacy": [],
+  "branding_visible": false,
+  "quality": "3",
+  "issues": [
+   "wet_or_dirty"
+  ],
+  "website_ready": false,
+  "title": "Installer prepping concrete patio beside house",
+  "alt_text": "Installer using a long handled scraper to prep a concrete patio next to a light gray house, coating work in progress",
+  "tags": [
+   "installer",
+   "crew working",
+   "concrete prep",
+   "grinding",
+   "patio",
+   "residential",
+   "in progress",
+   "yellow tape",
+   "house siding",
+   "bare concrete"
+  ],
+  "filename": "installer-prepping-concrete-patio"
+ },
+ "id": "3539289438a3",
+ "provider": "kimi",
+ "model": "moonshotai/kimi-k3",
+ "mode": "run",
+ "blind": false,
+ "at": "2026-09-17T12:47:16"
+}

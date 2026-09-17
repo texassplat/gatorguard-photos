@@ -1,0 +1,47 @@
+{
+ "finish": "stop",
+ "usage": {
+  "input_tokens": 5448,
+  "output_tokens": 222,
+  "cost": 0.0186903
+ },
+ "served_by": "DeepInfra",
+ "label": {
+  "content": "floor_photo",
+  "area": "garage",
+  "setting": "residential",
+  "system": "full_flake",
+  "color": "Granite",
+  "color_confidence": "medium",
+  "color_runner_up": "Stone Rowe",
+  "color_description": "gray base with white, gray and black chips, small to medium size",
+  "shot_type": "close_up",
+  "people": "none",
+  "faces_identifiable": false,
+  "privacy": [],
+  "branding_visible": false,
+  "quality": "4",
+  "issues": [],
+  "website_ready": true,
+  "title": "Flake coated step and stem wall in gray",
+  "alt_text": "Close up of a coated garage step and stem wall in gray full flake floor coating",
+  "tags": [
+   "stem wall",
+   "step",
+   "full flake",
+   "gray chips",
+   "black and white chips",
+   "garage floor",
+   "close up",
+   "coated step",
+   "edge detail"
+  ],
+  "filename": "gray-flake-step-stem-wall-closeup"
+ },
+ "id": "dc6aa273cb0b",
+ "provider": "kimi",
+ "model": "moonshotai/kimi-k3",
+ "mode": "run",
+ "blind": false,
+ "at": "2026-09-17T12:57:59"
+}

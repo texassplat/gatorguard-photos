@@ -1,0 +1,46 @@
+{
+ "finish": "stop",
+ "usage": {
+  "input_tokens": 5354,
+  "output_tokens": 206,
+  "cost": 0.019152
+ },
+ "served_by": "Fireworks",
+ "label": {
+  "content": "floor_photo",
+  "area": "garage",
+  "setting": "residential",
+  "system": "full_flake",
+  "color": "Chestnut",
+  "color_confidence": "low",
+  "color_runner_up": "Santana",
+  "color_description": "tan, brown and black chips, fine to medium size",
+  "shot_type": "close_up",
+  "people": "none",
+  "faces_identifiable": false,
+  "privacy": [],
+  "branding_visible": false,
+  "quality": "3",
+  "issues": [],
+  "website_ready": false,
+  "title": "Clean edge where flake floor meets stem wall",
+  "alt_text": "Close up of a tan full flake garage floor edge with a crisp line along the bare concrete stem wall",
+  "tags": [
+   "close up",
+   "full flake",
+   "crisp lines",
+   "edge detail",
+   "stem wall",
+   "tan chips",
+   "garage floor",
+   "clean edge"
+  ],
+  "filename": "flake-floor-stem-wall-edge-closeup"
+ },
+ "id": "c907fe748e5e",
+ "provider": "kimi",
+ "model": "moonshotai/kimi-k3",
+ "mode": "run",
+ "blind": false,
+ "at": "2026-09-17T12:35:16"
+}

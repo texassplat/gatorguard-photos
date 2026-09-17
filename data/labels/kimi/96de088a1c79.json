@@ -1,0 +1,46 @@
+{
+ "finish": "stop",
+ "usage": {
+  "input_tokens": 4787,
+  "output_tokens": 170,
+  "cost": 0.010760625
+ },
+ "served_by": "Morph",
+ "label": {
+  "content": "floor_photo",
+  "area": "garage",
+  "setting": "residential",
+  "system": "full_flake",
+  "color": "Sedona",
+  "color_confidence": "medium",
+  "color_runner_up": "Chestnut",
+  "color_description": "tan and brown chips with black and gray specks, small to medium size",
+  "shot_type": "close_up",
+  "people": "none",
+  "faces_identifiable": false,
+  "privacy": [],
+  "branding_visible": false,
+  "quality": "4",
+  "issues": [],
+  "website_ready": true,
+  "title": "Close-up of flake garage floor meeting driveway",
+  "alt_text": "Close-up of a tan and brown full flake garage floor with a crisp edge meeting the driveway.",
+  "tags": [
+   "garage floor",
+   "full flake",
+   "close up",
+   "crisp line",
+   "floor edge",
+   "tan chips",
+   "brown chips",
+   "driveway edge"
+  ],
+  "filename": "flake-garage-floor-edge-close-up"
+ },
+ "id": "96de088a1c79",
+ "provider": "kimi",
+ "model": "moonshotai/kimi-k3",
+ "mode": "run",
+ "blind": false,
+ "at": "2026-09-17T12:35:20"
+}

@@ -1,0 +1,49 @@
+{
+ "finish": "stop",
+ "usage": {
+  "input_tokens": 5332,
+  "output_tokens": 235,
+  "cost": 0.01663985
+ },
+ "served_by": "DigitalOcean",
+ "label": {
+  "alt_text": "Sunroom with a glossy copper-swirl metallic epoxy floor and large windows overlooking the lawn.",
+  "area": "interior_room",
+  "branding_visible": false,
+  "color": "Copper",
+  "color_confidence": "medium",
+  "color_description": "brown and copper metallic swirls, glossy reflective finish, no chips",
+  "color_runner_up": "Cappuccino",
+  "content": "floor_photo",
+  "faces_identifiable": true,
+  "filename": "sunroom-copper-metallic-floor",
+  "issues": [],
+  "people": "background",
+  "privacy": [
+   "customer_face"
+  ],
+  "quality": "4",
+  "setting": "residential",
+  "shot_type": "finished",
+  "system": "metallic",
+  "tags": [
+   "metallic epoxy",
+   "copper floor",
+   "sunroom",
+   "swirl pattern",
+   "glossy floor",
+   "reflective",
+   "windows",
+   "liquid art",
+   "interior floor"
+  ],
+  "title": "Sunroom with copper metallic epoxy floor",
+  "website_ready": false
+ },
+ "id": "9fd278e1eda0",
+ "provider": "kimi",
+ "model": "moonshotai/kimi-k3",
+ "mode": "run",
+ "blind": false,
+ "at": "2026-09-17T12:51:34"
+}

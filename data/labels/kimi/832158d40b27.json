@@ -1,0 +1,46 @@
+{
+ "finish": "stop",
+ "usage": {
+  "input_tokens": 5256,
+  "output_tokens": 157,
+  "cost": 0.00662382
+ },
+ "served_by": "Morph",
+ "label": {
+  "content": "floor_photo",
+  "area": "interior_room",
+  "setting": "residential",
+  "system": "solid_color_chip",
+  "color": "unknown",
+  "color_confidence": "low",
+  "color_runner_up": "unknown",
+  "color_description": "fine tan and cream chips in a beige base, small size",
+  "shot_type": "finished",
+  "people": "none",
+  "faces_identifiable": false,
+  "privacy": [],
+  "branding_visible": false,
+  "quality": "4",
+  "issues": [],
+  "website_ready": true,
+  "title": "Living room with beige solid color chip floor",
+  "alt_text": "Living room with beige solid color chip floor and stairs with dark carpet",
+  "tags": [
+   "solid color chip",
+   "interior floor",
+   "living room",
+   "beige floor",
+   "tan chips",
+   "fine flake",
+   "stairs",
+   "finished floor"
+  ],
+  "filename": "living-room-beige-solid-color-chip-floor"
+ },
+ "id": "832158d40b27",
+ "provider": "kimi",
+ "model": "moonshotai/kimi-k3",
+ "mode": "run",
+ "blind": false,
+ "at": "2026-09-17T12:56:49"
+}

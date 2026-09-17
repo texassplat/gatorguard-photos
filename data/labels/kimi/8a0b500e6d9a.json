@@ -1,0 +1,46 @@
+{
+ "finish": "stop",
+ "usage": {
+  "input_tokens": 5331,
+  "output_tokens": 249,
+  "cost": 0.019728
+ },
+ "served_by": "Fireworks",
+ "label": {
+  "content": "floor_photo",
+  "area": "patio_or_porch",
+  "setting": "residential",
+  "system": "full_flake",
+  "color": "Willow",
+  "color_confidence": "low",
+  "color_runner_up": "Ocotillo",
+  "color_description": "mostly tan chips with subtle brown and cream, fine to medium size",
+  "shot_type": "finished",
+  "people": "none",
+  "faces_identifiable": false,
+  "privacy": [],
+  "branding_visible": false,
+  "quality": "4",
+  "issues": [],
+  "website_ready": true,
+  "title": "Covered porch with tan full flake floor",
+  "alt_text": "Covered residential porch with a glossy tan full flake floor coating and plastic sheeting on the railings",
+  "tags": [
+   "porch",
+   "covered patio",
+   "full flake",
+   "tan chips",
+   "exterior floor",
+   "glossy finish",
+   "residential",
+   "brown siding"
+  ],
+  "filename": "covered-porch-tan-full-flake-floor"
+ },
+ "id": "8a0b500e6d9a",
+ "provider": "kimi",
+ "model": "moonshotai/kimi-k3",
+ "mode": "run",
+ "blind": false,
+ "at": "2026-09-17T12:37:02"
+}

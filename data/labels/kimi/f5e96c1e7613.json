@@ -1,0 +1,44 @@
+{
+ "finish": "stop",
+ "usage": {
+  "input_tokens": 4602,
+  "output_tokens": 159,
+  "cost": 0.0070326
+ },
+ "served_by": "Together",
+ "label": {
+  "content": "logo_or_text_graphic",
+  "area": "not_visible",
+  "setting": "unknown",
+  "system": "not_applicable",
+  "color": "not_applicable",
+  "color_confidence": "none",
+  "color_runner_up": "not_applicable",
+  "color_description": "",
+  "shot_type": "graphic",
+  "people": "none",
+  "faces_identifiable": false,
+  "privacy": [],
+  "branding_visible": false,
+  "quality": "4",
+  "issues": [],
+  "website_ready": false,
+  "title": "Detroit script text graphic on white",
+  "alt_text": "Black script lettering spelling Detroit on a white background, email logo graphic",
+  "tags": [
+   "detroit",
+   "script text",
+   "email logo",
+   "birdeye asset",
+   "black and white",
+   "graphic"
+  ],
+  "filename": "detroit-script-email-logo"
+ },
+ "id": "f5e96c1e7613",
+ "provider": "kimi",
+ "model": "moonshotai/kimi-k3",
+ "mode": "run",
+ "blind": false,
+ "at": "2026-09-17T12:31:41"
+}

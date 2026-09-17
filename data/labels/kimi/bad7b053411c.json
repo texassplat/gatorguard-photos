@@ -1,0 +1,47 @@
+{
+ "finish": "stop",
+ "usage": {
+  "input_tokens": 5312,
+  "output_tokens": 260,
+  "cost": 0.0106776
+ },
+ "served_by": "Together",
+ "label": {
+  "content": "floor_photo",
+  "area": "garage",
+  "setting": "residential",
+  "system": "full_flake",
+  "color": "unknown",
+  "color_confidence": "low",
+  "color_runner_up": "unknown",
+  "color_description": "bright red base with sparse small white, black and tan chips",
+  "shot_type": "finished",
+  "people": "none",
+  "faces_identifiable": false,
+  "privacy": [],
+  "branding_visible": true,
+  "quality": "4",
+  "issues": [],
+  "website_ready": true,
+  "title": "Garage with red flake floor and GatorGuard truck",
+  "alt_text": "Glossy red flake garage floor with tools on the wall and a GatorGuard truck outside, full flake garage floor coating",
+  "tags": [
+   "garage",
+   "red floor",
+   "full flake",
+   "glossy",
+   "white black tan chips",
+   "gatorguard truck",
+   "wall tools",
+   "finished",
+   "old style"
+  ],
+  "filename": "red-flake-garage-floor-gatorguard-truck"
+ },
+ "id": "bad7b053411c",
+ "provider": "kimi",
+ "model": "moonshotai/kimi-k3",
+ "mode": "run",
+ "blind": false,
+ "at": "2026-09-17T12:53:54"
+}

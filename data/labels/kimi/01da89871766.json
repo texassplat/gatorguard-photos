@@ -1,0 +1,48 @@
+{
+ "finish": "stop",
+ "usage": {
+  "input_tokens": 5321,
+  "output_tokens": 233,
+  "cost": 0.0102996
+ },
+ "served_by": "Together",
+ "label": {
+  "content": "floor_photo",
+  "area": "basement",
+  "setting": "residential",
+  "system": "solid_color_chip",
+  "color": "unknown",
+  "color_confidence": "low",
+  "color_runner_up": "Willow",
+  "color_description": "small tan and beige chips, fairly uniform single tone",
+  "shot_type": "finished",
+  "people": "none",
+  "faces_identifiable": false,
+  "privacy": [],
+  "branding_visible": false,
+  "quality": "3",
+  "issues": [
+   "cluttered"
+  ],
+  "website_ready": false,
+  "title": "Utility room with tan solid color chip floor",
+  "alt_text": "Small utility room with water heater and a tan solid color chip coated concrete floor",
+  "tags": [
+   "solid color chip",
+   "tan chips",
+   "utility room",
+   "water heater",
+   "basement",
+   "coated floor",
+   "finished",
+   "residential"
+  ],
+  "filename": "utility-room-tan-solid-color-chip-floor"
+ },
+ "id": "01da89871766",
+ "provider": "kimi",
+ "model": "moonshotai/kimi-k3",
+ "mode": "run",
+ "blind": false,
+ "at": "2026-09-17T12:57:14"
+}

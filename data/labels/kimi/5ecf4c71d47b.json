@@ -1,0 +1,46 @@
+{
+ "finish": "stop",
+ "usage": {
+  "input_tokens": 5263,
+  "output_tokens": 175,
+  "cost": 0.006825945
+ },
+ "served_by": "Morph",
+ "label": {
+  "content": "floor_photo",
+  "area": "garage",
+  "setting": "residential",
+  "system": "full_flake",
+  "color": "Santana",
+  "color_confidence": "low",
+  "color_runner_up": "Ocotillo",
+  "color_description": "tan, brown, black and off-white chips, small to medium size",
+  "shot_type": "close_up",
+  "people": "none",
+  "faces_identifiable": false,
+  "privacy": [],
+  "branding_visible": false,
+  "quality": "4",
+  "issues": [],
+  "website_ready": true,
+  "title": "Close up of flake floor at garage door edge",
+  "alt_text": "Close up of a speckled full flake garage floor meeting a concrete edge lip at the garage door opening",
+  "tags": [
+   "close up",
+   "full flake",
+   "garage floor",
+   "edge lip",
+   "garage door threshold",
+   "tan chips",
+   "brown chips",
+   "coated concrete"
+  ],
+  "filename": "flake-floor-garage-door-edge-close-up"
+ },
+ "id": "5ecf4c71d47b",
+ "provider": "kimi",
+ "model": "moonshotai/kimi-k3",
+ "mode": "run",
+ "blind": false,
+ "at": "2026-09-17T12:48:54"
+}

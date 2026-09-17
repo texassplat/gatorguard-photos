@@ -1,0 +1,50 @@
+{
+ "finish": "stop",
+ "usage": {
+  "input_tokens": 5327,
+  "output_tokens": 201,
+  "cost": 0.0098376
+ },
+ "served_by": "Together",
+ "label": {
+  "content": "floor_photo",
+  "area": "basement",
+  "setting": "residential",
+  "system": "metallic",
+  "color": "Charcoal",
+  "color_confidence": "medium",
+  "color_runner_up": "Gray",
+  "color_description": "dark gray to black metallic with subtle marbled swirls, glossy",
+  "shot_type": "finished",
+  "people": "none",
+  "faces_identifiable": false,
+  "privacy": [],
+  "branding_visible": false,
+  "quality": "3",
+  "issues": [
+   "dark",
+   "cluttered"
+  ],
+  "website_ready": false,
+  "title": "Basement with dark charcoal metallic epoxy floor",
+  "alt_text": "Dark charcoal metallic epoxy basement floor with pendant lights and exposed ceiling, metallic basement floor coating",
+  "tags": [
+   "basement",
+   "metallic epoxy",
+   "charcoal",
+   "dark gray",
+   "marbled",
+   "glossy",
+   "pendant lights",
+   "exposed ceiling",
+   "stairs"
+  ],
+  "filename": "basement-charcoal-metallic-epoxy-floor"
+ },
+ "id": "2a9509a8dd0b",
+ "provider": "kimi",
+ "model": "moonshotai/kimi-k3",
+ "mode": "run",
+ "blind": false,
+ "at": "2026-09-17T12:51:02"
+}

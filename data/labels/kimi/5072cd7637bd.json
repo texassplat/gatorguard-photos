@@ -1,0 +1,47 @@
+{
+ "finish": "stop",
+ "usage": {
+  "input_tokens": 5348,
+  "output_tokens": 232,
+  "cost": 0.019524
+ },
+ "served_by": "Fireworks",
+ "label": {
+  "content": "floor_photo",
+  "area": "driveway_or_walkway",
+  "setting": "residential",
+  "system": "full_flake",
+  "color": "unknown",
+  "color_confidence": "low",
+  "color_runner_up": "Granite",
+  "color_description": "gray, white and black chips, fine to medium size",
+  "shot_type": "finished",
+  "people": "none",
+  "faces_identifiable": false,
+  "privacy": [],
+  "branding_visible": false,
+  "quality": "3",
+  "issues": [],
+  "website_ready": false,
+  "title": "Gray full flake front sidewalk to street",
+  "alt_text": "Gray full flake coated concrete sidewalk through a front lawn to the street, flanked by rock beds and planters",
+  "tags": [
+   "sidewalk",
+   "walkway",
+   "front yard",
+   "gray chips",
+   "full flake",
+   "exterior",
+   "curb appeal",
+   "mailbox",
+   "lawn"
+  ],
+  "filename": "gray-full-flake-front-sidewalk"
+ },
+ "id": "5072cd7637bd",
+ "provider": "kimi",
+ "model": "moonshotai/kimi-k3",
+ "mode": "run",
+ "blind": false,
+ "at": "2026-09-17T12:36:10"
+}

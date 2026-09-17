@@ -1,0 +1,47 @@
+{
+ "finish": "stop",
+ "usage": {
+  "input_tokens": 5334,
+  "output_tokens": 340,
+  "cost": 0.0119436
+ },
+ "served_by": "Together",
+ "label": {
+  "content": "floor_photo",
+  "area": "interior_room",
+  "setting": "commercial",
+  "system": "full_flake",
+  "color": "Chestnut",
+  "color_confidence": "medium",
+  "color_runner_up": "Santana",
+  "color_description": "tan base with brown, black and white chips, small to medium size",
+  "shot_type": "finished",
+  "people": "none",
+  "faces_identifiable": false,
+  "privacy": [],
+  "branding_visible": false,
+  "quality": "4",
+  "issues": [],
+  "website_ready": true,
+  "title": "Commercial interior with tan full flake floor",
+  "alt_text": "Interior room with a glossy tan full flake floor, brown walls, framed photos and carpeted stairs. Full flake floor coating.",
+  "tags": [
+   "full flake",
+   "tan chips",
+   "brown chips",
+   "commercial floor",
+   "interior",
+   "glossy",
+   "stairs",
+   "framed photos",
+   "finished floor"
+  ],
+  "filename": "commercial-interior-tan-full-flake-floor"
+ },
+ "id": "df1946b58845",
+ "provider": "kimi",
+ "model": "moonshotai/kimi-k3",
+ "mode": "run",
+ "blind": false,
+ "at": "2026-09-17T12:33:23"
+}

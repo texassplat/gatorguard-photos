@@ -1,0 +1,46 @@
+{
+ "finish": "stop",
+ "usage": {
+  "input_tokens": 4850,
+  "output_tokens": 226,
+  "cost": 0.01241352
+ },
+ "served_by": "Phala",
+ "label": {
+  "alt_text": "Copper-toned metallic epoxy floor in a finished basement with built-in shelves",
+  "area": "basement",
+  "branding_visible": false,
+  "color": "Copper",
+  "color_confidence": "medium",
+  "color_description": "warm copper-orange metallic with subtle lighter marbling, glossy reflective finish",
+  "color_runner_up": "Cappuccino",
+  "content": "floor_photo",
+  "faces_identifiable": false,
+  "filename": "copper-metallic-basement-floor",
+  "issues": [],
+  "people": "none",
+  "privacy": [],
+  "quality": "4",
+  "setting": "residential",
+  "shot_type": "finished",
+  "system": "metallic",
+  "tags": [
+   "metallic epoxy",
+   "basement floor",
+   "copper metallic",
+   "glossy floor",
+   "reflective floor",
+   "built in shelves",
+   "liquid art",
+   "interior"
+  ],
+  "title": "Basement with copper metallic epoxy floor",
+  "website_ready": true
+ },
+ "id": "03bbdc75ac0a",
+ "provider": "kimi",
+ "model": "moonshotai/kimi-k3",
+ "mode": "run",
+ "blind": false,
+ "at": "2026-09-17T12:51:10"
+}

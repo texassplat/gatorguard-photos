@@ -1,0 +1,47 @@
+{
+ "finish": "stop",
+ "usage": {
+  "input_tokens": 5330,
+  "output_tokens": 289,
+  "cost": 0.0111666
+ },
+ "served_by": "Together",
+ "label": {
+  "content": "floor_photo",
+  "area": "garage",
+  "setting": "residential",
+  "system": "full_flake",
+  "color": "Black Canyon",
+  "color_confidence": "low",
+  "color_runner_up": "Zircon",
+  "color_description": "gray, white and black chips with scattered tan and gold accents, small to medium size",
+  "shot_type": "close_up",
+  "people": "none",
+  "faces_identifiable": false,
+  "privacy": [],
+  "branding_visible": false,
+  "quality": "4",
+  "issues": [],
+  "website_ready": true,
+  "title": "Close up of flake floor edge lip",
+  "alt_text": "Low angle close up of a gray, white and black full flake garage floor at the edge lip",
+  "tags": [
+   "close up",
+   "edge lip",
+   "full flake",
+   "garage floor",
+   "gray chips",
+   "black chips",
+   "white chips",
+   "tan accents",
+   "low angle"
+  ],
+  "filename": "flake-floor-edge-lip-close-up"
+ },
+ "id": "550d8a8aed60",
+ "provider": "kimi",
+ "model": "moonshotai/kimi-k3",
+ "mode": "run",
+ "blind": false,
+ "at": "2026-09-17T12:49:01"
+}

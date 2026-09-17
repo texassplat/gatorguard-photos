@@ -1,0 +1,46 @@
+{
+ "finish": "stop",
+ "usage": {
+  "input_tokens": 4962,
+  "output_tokens": 192,
+  "cost": 0.0151395
+ },
+ "served_by": "DigitalOcean",
+ "label": {
+  "alt_text": "Gray marbled metallic epoxy floor in a basement room with a support post, metallic floor coating",
+  "area": "basement",
+  "branding_visible": false,
+  "color": "Gray",
+  "color_confidence": "medium",
+  "color_description": "swirled gray and silver metallic, marbled reflective finish, no chips",
+  "color_runner_up": "Quartzite",
+  "content": "floor_photo",
+  "faces_identifiable": false,
+  "filename": "gray-metallic-basement-floor",
+  "issues": [],
+  "people": "none",
+  "privacy": [],
+  "quality": "4",
+  "setting": "residential",
+  "shot_type": "finished",
+  "system": "metallic",
+  "tags": [
+   "metallic epoxy",
+   "gray metallic",
+   "basement floor",
+   "swirled",
+   "marbled",
+   "reflective",
+   "support post",
+   "liquid art"
+  ],
+  "title": "Gray metallic epoxy floor in basement",
+  "website_ready": true
+ },
+ "id": "79ae279c6ae3",
+ "provider": "kimi",
+ "model": "moonshotai/kimi-k3",
+ "mode": "run",
+ "blind": false,
+ "at": "2026-09-17T12:53:58"
+}

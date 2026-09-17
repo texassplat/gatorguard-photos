@@ -1,0 +1,47 @@
+{
+ "finish": "stop",
+ "usage": {
+  "input_tokens": 5663,
+  "output_tokens": 283,
+  "cost": 0.021234
+ },
+ "served_by": "Fireworks",
+ "label": {
+  "content": "before_after_composite",
+  "area": "patio_or_porch",
+  "setting": "residential",
+  "system": "full_flake",
+  "color": "Granite",
+  "color_confidence": "low",
+  "color_runner_up": "Lunar",
+  "color_description": "light gray base with small white, gray and black chips",
+  "shot_type": "before_after",
+  "people": "none",
+  "faces_identifiable": false,
+  "privacy": [],
+  "branding_visible": false,
+  "quality": "4",
+  "issues": [],
+  "website_ready": true,
+  "title": "Porch before and after gray flake coating",
+  "alt_text": "Split image: cracked porch concrete with grinding equipment before, and finished light gray full flake porch floor after",
+  "tags": [
+   "porch",
+   "before and after",
+   "full flake",
+   "gray chips",
+   "cracked concrete",
+   "grinding",
+   "exterior",
+   "columns",
+   "farmhouse"
+  ],
+  "filename": "porch-before-after-gray-flake"
+ },
+ "id": "5fff949f989a",
+ "provider": "kimi",
+ "model": "moonshotai/kimi-k3",
+ "mode": "run",
+ "blind": false,
+ "at": "2026-09-17T12:37:16"
+}

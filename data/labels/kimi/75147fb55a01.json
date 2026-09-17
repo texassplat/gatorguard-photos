@@ -1,0 +1,48 @@
+{
+ "finish": "stop",
+ "usage": {
+  "input_tokens": 5335,
+  "output_tokens": 262,
+  "cost": 0.0107766
+ },
+ "served_by": "Together",
+ "label": {
+  "content": "floor_photo",
+  "area": "garage",
+  "setting": "residential",
+  "system": "full_flake",
+  "color": "Stone Ridge",
+  "color_confidence": "medium",
+  "color_runner_up": "Granite",
+  "color_description": "gray, white and black chips with scattered rust orange accents, small to medium size",
+  "shot_type": "finished",
+  "people": "none",
+  "faces_identifiable": false,
+  "privacy": [],
+  "branding_visible": false,
+  "quality": "4",
+  "issues": [],
+  "website_ready": true,
+  "title": "Garage with Stone Ridge full flake floor",
+  "alt_text": "Finished garage floor with gray, white, black and rust full flake coating, Stone Ridge full flake garage floor",
+  "tags": [
+   "garage",
+   "full flake",
+   "stone ridge",
+   "gray chips",
+   "rust orange chips",
+   "white walls",
+   "finished floor",
+   "epoxy flake floor",
+   "low angle",
+   "empty garage"
+  ],
+  "filename": "garage-stone-ridge-full-flake-floor"
+ },
+ "id": "75147fb55a01",
+ "provider": "kimi",
+ "model": "moonshotai/kimi-k3",
+ "mode": "run",
+ "blind": false,
+ "at": "2026-09-17T12:46:23"
+}

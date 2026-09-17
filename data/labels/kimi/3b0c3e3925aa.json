@@ -1,0 +1,46 @@
+{
+ "finish": "stop",
+ "usage": {
+  "input_tokens": 5317,
+  "output_tokens": 222,
+  "cost": 0.019281
+ },
+ "served_by": "Fireworks",
+ "label": {
+  "content": "floor_photo",
+  "area": "garage",
+  "setting": "residential",
+  "system": "full_flake",
+  "color": "unknown",
+  "color_confidence": "low",
+  "color_runner_up": "Silver Butte",
+  "color_description": "fine gray and white chips on the surrounding floor",
+  "shot_type": "in_progress",
+  "people": "prominent",
+  "faces_identifiable": false,
+  "privacy": [],
+  "branding_visible": false,
+  "quality": "3",
+  "issues": [],
+  "website_ready": false,
+  "title": "Crew member laying custom horse logo floor",
+  "alt_text": "Worker kneeling while installing a large custom horse and lettering logo on a gray flake garage floor",
+  "tags": [
+   "custom logo",
+   "logo floor",
+   "garage",
+   "in progress",
+   "crew working",
+   "gray flake",
+   "horse design",
+   "stencil"
+  ],
+  "filename": "custom-horse-logo-install-garage"
+ },
+ "id": "3b0c3e3925aa",
+ "provider": "kimi",
+ "model": "moonshotai/kimi-k3",
+ "mode": "run",
+ "blind": false,
+ "at": "2026-09-17T12:52:38"
+}

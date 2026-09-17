@@ -1,0 +1,47 @@
+{
+ "finish": "stop",
+ "usage": {
+  "input_tokens": 5348,
+  "output_tokens": 213,
+  "cost": 0.019239
+ },
+ "served_by": "Parasail",
+ "label": {
+  "content": "floor_photo",
+  "area": "basement",
+  "setting": "residential",
+  "system": "full_flake",
+  "color": "Gold Mine",
+  "color_confidence": "medium",
+  "color_runner_up": "Lunar",
+  "color_description": "light gray base with white, gray and black chips, medium size",
+  "shot_type": "finished",
+  "people": "none",
+  "faces_identifiable": false,
+  "privacy": [],
+  "branding_visible": false,
+  "quality": "4",
+  "issues": [],
+  "website_ready": true,
+  "title": "Finished basement with Gold Mine full flake floor",
+  "alt_text": "Finished basement with white block walls, furnace and a light gray full flake floor coating in Gold Mine",
+  "tags": [
+   "basement",
+   "full flake",
+   "gold mine",
+   "gray chips",
+   "white chips",
+   "furnace",
+   "painted block walls",
+   "exposed ceiling",
+   "finished floor"
+  ],
+  "filename": "basement-gold-mine-full-flake-floor"
+ },
+ "id": "efbcdeec9c08",
+ "provider": "kimi",
+ "model": "moonshotai/kimi-k3",
+ "mode": "run",
+ "blind": false,
+ "at": "2026-09-17T12:30:51"
+}

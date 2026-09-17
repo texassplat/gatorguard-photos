@@ -1,0 +1,48 @@
+{
+ "finish": "stop",
+ "usage": {
+  "input_tokens": 4919,
+  "output_tokens": 281,
+  "cost": 0.0098136
+ },
+ "served_by": "Together",
+ "label": {
+  "content": "floor_photo",
+  "area": "patio_or_porch",
+  "setting": "residential",
+  "system": "full_flake",
+  "color": "Sedona",
+  "color_confidence": "medium",
+  "color_runner_up": "Chestnut",
+  "color_description": "tan, brown, black and gray chips, medium size",
+  "shot_type": "in_progress",
+  "people": "none",
+  "faces_identifiable": false,
+  "privacy": [],
+  "branding_visible": true,
+  "quality": "4",
+  "issues": [],
+  "website_ready": false,
+  "title": "Freshly coated front porch with caution tape",
+  "alt_text": "Front porch of a brick home with a new brown and tan full flake floor coating, caution tape and ladder still in place",
+  "tags": [
+   "front porch",
+   "exterior",
+   "full flake",
+   "tan brown chips",
+   "caution tape",
+   "brick house",
+   "white columns",
+   "ladder",
+   "in progress",
+   "residential"
+  ],
+  "filename": "front-porch-full-flake-caution-tape"
+ },
+ "id": "b058d8f20ff8",
+ "provider": "kimi",
+ "model": "moonshotai/kimi-k3",
+ "mode": "run",
+ "blind": false,
+ "at": "2026-09-17T12:37:18"
+}

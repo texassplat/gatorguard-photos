@@ -1,0 +1,46 @@
+{
+ "finish": "stop",
+ "usage": {
+  "input_tokens": 5320,
+  "output_tokens": 249,
+  "cost": 0.0105366
+ },
+ "served_by": "Together",
+ "label": {
+  "content": "floor_photo",
+  "area": "garage",
+  "setting": "residential",
+  "system": "full_flake",
+  "color": "Granite",
+  "color_confidence": "low",
+  "color_runner_up": "Stone Rowe",
+  "color_description": "gray, white and black chips, small to medium size",
+  "shot_type": "in_progress",
+  "people": "background",
+  "faces_identifiable": false,
+  "privacy": [],
+  "branding_visible": false,
+  "quality": "3",
+  "issues": [],
+  "website_ready": false,
+  "title": "Crew member clear coating gray flake garage floor",
+  "alt_text": "Worker rolling clear coat over a gray full flake garage floor with white and black chips",
+  "tags": [
+   "garage",
+   "full flake",
+   "gray chips",
+   "clear coat",
+   "roller",
+   "in progress",
+   "concrete floor",
+   "expansion joints"
+  ],
+  "filename": "gray-flake-garage-floor-clear-coating"
+ },
+ "id": "a9fb12fbe97d",
+ "provider": "kimi",
+ "model": "moonshotai/kimi-k3",
+ "mode": "run",
+ "blind": false,
+ "at": "2026-09-17T12:44:13"
+}

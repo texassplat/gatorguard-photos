@@ -1,0 +1,47 @@
+{
+ "finish": "stop",
+ "usage": {
+  "input_tokens": 5311,
+  "output_tokens": 224,
+  "cost": 0.01363122
+ },
+ "served_by": "Phala",
+ "label": {
+  "alt_text": "Garage with light gray full flake floor and black Chatham Hills logo, gray walls and windows",
+  "area": "garage",
+  "branding_visible": true,
+  "color": "unknown",
+  "color_confidence": "low",
+  "color_description": "light gray and white chips with black specks, small to medium size",
+  "color_runner_up": "Aurora",
+  "content": "floor_photo",
+  "faces_identifiable": false,
+  "filename": "garage-full-flake-chatham-hills-logo",
+  "issues": [],
+  "people": "none",
+  "privacy": [],
+  "quality": "4",
+  "setting": "residential",
+  "shot_type": "finished",
+  "system": "full_flake",
+  "tags": [
+   "garage",
+   "full flake",
+   "custom logo",
+   "gray floor",
+   "light gray chips",
+   "finished floor",
+   "garage door opener",
+   "windows",
+   "logo floor"
+  ],
+  "title": "Garage with light gray flake floor and Chatham Hills logo",
+  "website_ready": true
+ },
+ "id": "c0700ec545fa",
+ "provider": "kimi",
+ "model": "moonshotai/kimi-k3",
+ "mode": "run",
+ "blind": false,
+ "at": "2026-09-17T12:52:49"
+}

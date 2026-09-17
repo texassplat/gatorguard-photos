@@ -1,0 +1,46 @@
+{
+ "finish": "stop",
+ "usage": {
+  "input_tokens": 5337,
+  "output_tokens": 208,
+  "cost": 0.0099726
+ },
+ "served_by": "Together",
+ "label": {
+  "content": "vehicle_or_equipment",
+  "area": "driveway_or_walkway",
+  "setting": "residential",
+  "system": "not_applicable",
+  "color": "not_applicable",
+  "color_confidence": "none",
+  "color_runner_up": "not_applicable",
+  "color_description": "",
+  "shot_type": "truck_or_equipment",
+  "people": "none",
+  "faces_identifiable": false,
+  "privacy": [],
+  "branding_visible": true,
+  "quality": "4",
+  "issues": [],
+  "website_ready": true,
+  "title": "GatorGuard box truck parked in suburban driveway",
+  "alt_text": "GatorGuard Floor Coatings box truck with gator logo parked on a residential driveway in a suburban neighborhood",
+  "tags": [
+   "gatoguard truck",
+   "box truck",
+   "vehicle wrap",
+   "branding",
+   "driveway",
+   "suburban neighborhood",
+   "company vehicle",
+   "gator logo"
+  ],
+  "filename": "gatoguard-box-truck-suburban-driveway"
+ },
+ "id": "803c41bbd46e",
+ "provider": "kimi",
+ "model": "moonshotai/kimi-k3",
+ "mode": "run",
+ "blind": false,
+ "at": "2026-09-17T12:38:05"
+}

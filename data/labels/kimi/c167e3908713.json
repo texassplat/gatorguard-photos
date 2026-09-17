@@ -1,0 +1,46 @@
+{
+ "finish": "stop",
+ "usage": {
+  "input_tokens": 5324,
+  "output_tokens": 281,
+  "cost": 0.020187
+ },
+ "served_by": "Parasail",
+ "label": {
+  "content": "floor_photo",
+  "area": "garage",
+  "setting": "residential",
+  "system": "full_flake",
+  "color": "Granite",
+  "color_confidence": "medium",
+  "color_runner_up": "Silver Butte",
+  "color_description": "gray base with small white, black and gray chips, fine to medium size",
+  "shot_type": "finished",
+  "people": "none",
+  "faces_identifiable": false,
+  "privacy": [],
+  "branding_visible": false,
+  "quality": "4",
+  "issues": [],
+  "website_ready": true,
+  "title": "Garage entry with gray full flake floor and coated steps",
+  "alt_text": "Gray full flake garage floor coating covering the entry landing, steps and stem wall beside a driveway",
+  "tags": [
+   "garage",
+   "full flake",
+   "gray chips",
+   "garage steps",
+   "stem wall",
+   "finished floor",
+   "garage entry",
+   "driveway edge"
+  ],
+  "filename": "gray-full-flake-garage-entry-steps"
+ },
+ "id": "c167e3908713",
+ "provider": "kimi",
+ "model": "moonshotai/kimi-k3",
+ "mode": "run",
+ "blind": false,
+ "at": "2026-09-17T12:45:11"
+}

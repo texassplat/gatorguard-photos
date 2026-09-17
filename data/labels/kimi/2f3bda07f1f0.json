@@ -1,0 +1,47 @@
+{
+ "finish": "stop",
+ "usage": {
+  "input_tokens": 5261,
+  "output_tokens": 244,
+  "cost": 0.037056
+ },
+ "served_by": "Morph",
+ "label": {
+  "content": "floor_photo",
+  "area": "patio_or_porch",
+  "setting": "residential",
+  "system": "full_flake",
+  "color": "Granite",
+  "color_confidence": "medium",
+  "color_runner_up": "Silver Butte",
+  "color_description": "gray, white and black chips, small to medium size",
+  "shot_type": "finished",
+  "people": "none",
+  "faces_identifiable": false,
+  "privacy": [],
+  "branding_visible": false,
+  "quality": "4",
+  "issues": [],
+  "website_ready": true,
+  "title": "Gray full flake front porch floor",
+  "alt_text": "Low angle view of a gray full flake coated front porch with stone veneer and caution tape on the railing",
+  "tags": [
+   "full flake",
+   "porch",
+   "exterior",
+   "gray chips",
+   "white chips",
+   "black chips",
+   "stone veneer",
+   "sunny",
+   "low angle"
+  ],
+  "filename": "gray-full-flake-front-porch"
+ },
+ "id": "2f3bda07f1f0",
+ "provider": "kimi",
+ "model": "moonshotai/kimi-k3",
+ "mode": "run",
+ "blind": false,
+ "at": "2026-09-17T12:37:43"
+}

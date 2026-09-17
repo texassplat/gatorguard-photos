@@ -1,0 +1,48 @@
+{
+ "finish": "stop",
+ "usage": {
+  "input_tokens": 5321,
+  "output_tokens": 235,
+  "cost": 0.0103296
+ },
+ "served_by": "Together",
+ "label": {
+  "content": "floor_photo",
+  "area": "steps_or_stairs",
+  "setting": "commercial",
+  "system": "solid_color_chip",
+  "color": "unknown",
+  "color_confidence": "low",
+  "color_runner_up": "unknown",
+  "color_description": "light gray chips, essentially one color, small to medium size",
+  "shot_type": "in_progress",
+  "people": "none",
+  "faces_identifiable": false,
+  "privacy": [],
+  "branding_visible": false,
+  "quality": "4",
+  "issues": [],
+  "website_ready": false,
+  "title": "Freshly coated entry steps taped off at commercial building",
+  "alt_text": "Light gray coated concrete steps with railings taped off with caution tape outside a commercial building entrance",
+  "tags": [
+   "steps",
+   "stairs",
+   "commercial",
+   "solid color chip",
+   "gray chips",
+   "caution tape",
+   "entry",
+   "awning",
+   "railings",
+   "exterior"
+  ],
+  "filename": "coated-commercial-entry-steps-taped-off"
+ },
+ "id": "943701e69033",
+ "provider": "kimi",
+ "model": "moonshotai/kimi-k3",
+ "mode": "run",
+ "blind": false,
+ "at": "2026-09-17T12:57:20"
+}

@@ -1,0 +1,48 @@
+{
+ "finish": "stop",
+ "usage": {
+  "input_tokens": 4488,
+  "output_tokens": 280,
+  "cost": 0.01216512
+ },
+ "served_by": "Phala",
+ "label": {
+  "alt_text": "Basement with caramel brown swirled metallic epoxy floor, gray walls and exposed lower wall framing; metallic basement floor coating",
+  "area": "basement",
+  "branding_visible": false,
+  "color": "Cappuccino",
+  "color_confidence": "medium",
+  "color_description": "caramel brown and copper metallic swirls, glossy marbled finish",
+  "color_runner_up": "Copper",
+  "content": "floor_photo",
+  "faces_identifiable": false,
+  "filename": "basement-caramel-metallic-epoxy-floor",
+  "issues": [],
+  "people": "none",
+  "privacy": [],
+  "quality": "4",
+  "setting": "residential",
+  "shot_type": "finished",
+  "system": "metallic",
+  "tags": [
+   "metallic epoxy",
+   "liquid art",
+   "basement floor",
+   "caramel brown",
+   "copper swirls",
+   "marbled",
+   "glossy",
+   "gray walls",
+   "exposed framing",
+   "finished floor"
+  ],
+  "title": "Basement with caramel brown metallic epoxy floor",
+  "website_ready": true
+ },
+ "id": "85caa8c799ee",
+ "provider": "kimi",
+ "model": "moonshotai/kimi-k3",
+ "mode": "run",
+ "blind": false,
+ "at": "2026-09-17T12:50:10"
+}

@@ -1,0 +1,47 @@
+{
+ "finish": "stop",
+ "usage": {
+  "input_tokens": 5244,
+  "output_tokens": 210,
+  "cost": 0.018882
+ },
+ "served_by": "Chutes",
+ "label": {
+  "content": "other",
+  "area": "not_visible",
+  "setting": "unknown",
+  "system": "full_flake",
+  "color": "Granite",
+  "color_confidence": "medium",
+  "color_runner_up": "Silver Butte",
+  "color_description": "gray, white and black chips, small to medium size",
+  "shot_type": "close_up",
+  "people": "none",
+  "faces_identifiable": false,
+  "privacy": [],
+  "branding_visible": false,
+  "quality": "4",
+  "issues": [],
+  "website_ready": false,
+  "title": "Nacho chips and cheese on gray flake floor",
+  "alt_text": "Tortilla chips with cheese sauce on a gray full flake floor coating",
+  "tags": [
+   "gameday",
+   "nachos",
+   "chips and cheese",
+   "food on floor",
+   "gray chips",
+   "full flake",
+   "close up",
+   "photoshoot",
+   "easy clean"
+  ],
+  "filename": "nachos-cheese-gray-flake-floor"
+ },
+ "id": "09b4a84e1384",
+ "provider": "kimi",
+ "model": "moonshotai/kimi-k3",
+ "mode": "run",
+ "blind": false,
+ "at": "2026-09-17T12:39:26"
+}

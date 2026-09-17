@@ -1,0 +1,46 @@
+{
+ "finish": "stop",
+ "usage": {
+  "input_tokens": 5329,
+  "output_tokens": 276,
+  "cost": 0.020127
+ },
+ "served_by": "Fireworks",
+ "label": {
+  "content": "floor_photo",
+  "area": "patio_or_porch",
+  "setting": "residential",
+  "system": "full_flake",
+  "color": "Willow",
+  "color_confidence": "low",
+  "color_runner_up": "Ocotillo",
+  "color_description": "tan and light brown chips, small size, fairly uniform",
+  "shot_type": "finished",
+  "people": "none",
+  "faces_identifiable": false,
+  "privacy": [],
+  "branding_visible": false,
+  "quality": "4",
+  "issues": [],
+  "website_ready": true,
+  "title": "Porch with tan full flake floor and wicker rocker",
+  "alt_text": "White wicker rocking chair on a tan full flake coated porch floor, full flake patio floor coating",
+  "tags": [
+   "porch",
+   "full flake",
+   "tan chips",
+   "wicker furniture",
+   "rocking chair",
+   "exterior",
+   "finished floor",
+   "patio"
+  ],
+  "filename": "porch-tan-full-flake-wicker-rocker"
+ },
+ "id": "89bb1998a96d",
+ "provider": "kimi",
+ "model": "moonshotai/kimi-k3",
+ "mode": "run",
+ "blind": false,
+ "at": "2026-09-17T12:37:36"
+}

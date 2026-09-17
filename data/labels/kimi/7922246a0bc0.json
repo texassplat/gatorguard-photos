@@ -1,0 +1,46 @@
+{
+ "finish": "stop",
+ "usage": {
+  "input_tokens": 5060,
+  "output_tokens": 230,
+  "cost": 0.0094716
+ },
+ "served_by": "Together",
+ "label": {
+  "content": "floor_photo",
+  "area": "garage",
+  "setting": "residential",
+  "system": "solid_color_chip",
+  "color": "unknown",
+  "color_confidence": "low",
+  "color_runner_up": "unknown",
+  "color_description": "light gray base with very fine light gray and white speckle",
+  "shot_type": "finished",
+  "people": "none",
+  "faces_identifiable": false,
+  "privacy": [],
+  "branding_visible": false,
+  "quality": "4",
+  "issues": [],
+  "website_ready": true,
+  "title": "Garage with light gray coated floor",
+  "alt_text": "Finished garage floor with light gray fine speckle coating, yellow walls and gray stem wall, garage floor coating",
+  "tags": [
+   "garage",
+   "light gray floor",
+   "fine speckle",
+   "finished floor",
+   "stem wall",
+   "yellow walls",
+   "coated concrete",
+   "glossy finish"
+  ],
+  "filename": "garage-light-gray-coated-floor"
+ },
+ "id": "7922246a0bc0",
+ "provider": "kimi",
+ "model": "moonshotai/kimi-k3",
+ "mode": "run",
+ "blind": false,
+ "at": "2026-09-17T12:44:45"
+}

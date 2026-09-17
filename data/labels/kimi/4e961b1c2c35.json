@@ -1,0 +1,47 @@
+{
+ "finish": "stop",
+ "usage": {
+  "input_tokens": 5328,
+  "output_tokens": 234,
+  "cost": 0.0103356
+ },
+ "served_by": "Together",
+ "label": {
+  "content": "floor_photo",
+  "area": "basement",
+  "setting": "residential",
+  "system": "full_flake",
+  "color": "Granite",
+  "color_confidence": "medium",
+  "color_runner_up": "Stone Rowe",
+  "color_description": "light gray base with white, gray and black chips, small to medium size",
+  "shot_type": "finished",
+  "people": "none",
+  "faces_identifiable": false,
+  "privacy": [],
+  "branding_visible": false,
+  "quality": "4",
+  "issues": [],
+  "website_ready": true,
+  "title": "Unfinished basement with gray full flake floor",
+  "alt_text": "Open basement with support poles, water heater and a glossy gray full flake floor coating",
+  "tags": [
+   "basement",
+   "full flake",
+   "gray chips",
+   "unfinished basement",
+   "support poles",
+   "water heater",
+   "exposed joists",
+   "glossy floor",
+   "white black gray chips"
+  ],
+  "filename": "basement-gray-full-flake-floor"
+ },
+ "id": "4e961b1c2c35",
+ "provider": "kimi",
+ "model": "moonshotai/kimi-k3",
+ "mode": "run",
+ "blind": false,
+ "at": "2026-09-17T12:31:17"
+}

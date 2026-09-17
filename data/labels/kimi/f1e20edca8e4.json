@@ -1,0 +1,48 @@
+{
+ "finish": "stop",
+ "usage": {
+  "input_tokens": 5222,
+  "output_tokens": 198,
+  "cost": 0.0094776
+ },
+ "served_by": "Together",
+ "label": {
+  "content": "floor_photo",
+  "area": "garage",
+  "setting": "residential",
+  "system": "full_flake",
+  "color": "Stone Rowe",
+  "color_confidence": "high",
+  "color_runner_up": "Granite",
+  "color_description": "gray, white and black chips, medium size",
+  "shot_type": "finished",
+  "people": "none",
+  "faces_identifiable": false,
+  "privacy": [],
+  "branding_visible": false,
+  "quality": "5",
+  "issues": [],
+  "website_ready": true,
+  "title": "Empty garage with gray full flake floor",
+  "alt_text": "Clean empty garage with gray full flake floor coating, stem wall coating and wall grid storage",
+  "tags": [
+   "garage",
+   "full flake",
+   "gray chips",
+   "white chips",
+   "black chips",
+   "stem wall",
+   "wall grid",
+   "empty garage",
+   "finished floor",
+   "flake floor coating"
+  ],
+  "filename": "garage-gray-full-flake-floor"
+ },
+ "id": "f1e20edca8e4",
+ "provider": "kimi",
+ "model": "moonshotai/kimi-k3",
+ "mode": "run",
+ "blind": false,
+ "at": "2026-09-17T12:46:21"
+}

@@ -1,0 +1,48 @@
+{
+ "finish": "stop",
+ "usage": {
+  "input_tokens": 5328,
+  "output_tokens": 218,
+  "cost": 0.0100956
+ },
+ "served_by": "Together",
+ "label": {
+  "content": "floor_photo",
+  "area": "interior_room",
+  "setting": "residential",
+  "system": "full_flake",
+  "color": "Ocotillo",
+  "color_confidence": "medium",
+  "color_runner_up": "Santana",
+  "color_description": "light tan and cream chips with black specks, small to medium size",
+  "shot_type": "finished",
+  "people": "none",
+  "faces_identifiable": false,
+  "privacy": [],
+  "branding_visible": false,
+  "quality": "3",
+  "issues": [
+   "dark"
+  ],
+  "website_ready": false,
+  "title": "Interior room with tan full flake floor",
+  "alt_text": "Finished interior room with light tan full flake floor coating and wood baseboards",
+  "tags": [
+   "full flake",
+   "interior room",
+   "tan chips",
+   "cream chips",
+   "black specks",
+   "finished floor",
+   "baseboards",
+   "residential"
+  ],
+  "filename": "interior-room-tan-full-flake-floor"
+ },
+ "id": "6beb51deacaa",
+ "provider": "kimi",
+ "model": "moonshotai/kimi-k3",
+ "mode": "run",
+ "blind": false,
+ "at": "2026-09-17T12:47:55"
+}

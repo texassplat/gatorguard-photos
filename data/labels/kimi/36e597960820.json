@@ -1,0 +1,48 @@
+{
+ "finish": "stop",
+ "usage": {
+  "input_tokens": 5256,
+  "output_tokens": 165,
+  "cost": 0.00670782
+ },
+ "served_by": "Morph",
+ "label": {
+  "content": "floor_photo",
+  "area": "patio_or_porch",
+  "setting": "residential",
+  "system": "poly_enhance",
+  "color": "not_applicable",
+  "color_confidence": "none",
+  "color_runner_up": "not_applicable",
+  "color_description": "",
+  "shot_type": "finished",
+  "people": "none",
+  "faces_identifiable": false,
+  "privacy": [],
+  "branding_visible": false,
+  "quality": "4",
+  "issues": [],
+  "website_ready": true,
+  "title": "Sealed patio with chair and potted flowers",
+  "alt_text": "Wet-look sealed concrete patio with patio chair and potted flowers, poly enhance sealer",
+  "tags": [
+   "patio",
+   "poly enhance",
+   "wet look",
+   "sealed concrete",
+   "exposed aggregate",
+   "patio furniture",
+   "flowers",
+   "residential",
+   "outdoor",
+   "finished floor"
+  ],
+  "filename": "sealed-patio-with-chair-and-flowers"
+ },
+ "id": "36e597960820",
+ "provider": "kimi",
+ "model": "moonshotai/kimi-k3",
+ "mode": "run",
+ "blind": false,
+ "at": "2026-09-17T12:56:08"
+}

@@ -1,0 +1,47 @@
+{
+ "finish": "stop",
+ "usage": {
+  "input_tokens": 5335,
+  "output_tokens": 231,
+  "cost": 0.01947
+ },
+ "served_by": "Parasail",
+ "label": {
+  "content": "floor_photo",
+  "area": "garage",
+  "setting": "residential",
+  "system": "full_flake",
+  "color": "Chestnut",
+  "color_confidence": "medium",
+  "color_runner_up": "Sedona",
+  "color_description": "tan, brown, black and white chips, medium size",
+  "shot_type": "close_up",
+  "people": "none",
+  "faces_identifiable": false,
+  "privacy": [],
+  "branding_visible": false,
+  "quality": "4",
+  "issues": [],
+  "website_ready": true,
+  "title": "Close-up of garage floor edge with full flake coating",
+  "alt_text": "Low-angle close-up of a full flake garage floor edge with tan and brown chips, open garage with canoe overhead",
+  "tags": [
+   "garage",
+   "full flake",
+   "close up",
+   "floor edge",
+   "lip",
+   "tan brown chips",
+   "canoe",
+   "driveway transition",
+   "finished"
+  ],
+  "filename": "garage-flake-floor-edge-close-up"
+ },
+ "id": "f061682c0fff",
+ "provider": "kimi",
+ "model": "moonshotai/kimi-k3",
+ "mode": "run",
+ "blind": false,
+ "at": "2026-09-17T12:48:53"
+}

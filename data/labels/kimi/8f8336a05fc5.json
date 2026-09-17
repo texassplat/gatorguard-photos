@@ -1,0 +1,46 @@
+{
+ "finish": "stop",
+ "usage": {
+  "input_tokens": 5328,
+  "output_tokens": 245,
+  "cost": 0.0105006
+ },
+ "served_by": "Together",
+ "label": {
+  "content": "floor_photo",
+  "area": "basement",
+  "setting": "residential",
+  "system": "solid_color",
+  "color": "unknown",
+  "color_confidence": "none",
+  "color_runner_up": "not_applicable",
+  "color_description": "glossy solid tan coating, no chips visible",
+  "shot_type": "finished",
+  "people": "none",
+  "faces_identifiable": false,
+  "privacy": [],
+  "branding_visible": false,
+  "quality": "4",
+  "issues": [],
+  "website_ready": true,
+  "title": "Basement with glossy tan coated floor",
+  "alt_text": "Empty basement room with a glossy tan coated concrete floor and an egress window",
+  "tags": [
+   "basement",
+   "solid color floor",
+   "tan floor",
+   "glossy finish",
+   "egress window",
+   "empty room",
+   "finished floor",
+   "concrete coating"
+  ],
+  "filename": "basement-glossy-tan-coated-floor"
+ },
+ "id": "8f8336a05fc5",
+ "provider": "kimi",
+ "model": "moonshotai/kimi-k3",
+ "mode": "run",
+ "blind": false,
+ "at": "2026-09-17T12:31:15"
+}

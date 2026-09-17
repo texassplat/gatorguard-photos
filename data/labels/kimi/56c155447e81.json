@@ -1,0 +1,47 @@
+{
+ "finish": "stop",
+ "usage": {
+  "input_tokens": 5206,
+  "output_tokens": 300,
+  "cost": 0.00847296
+ },
+ "served_by": "InferenceNet",
+ "label": {
+  "website_ready": false,
+  "title": "Nachos and cheese dip on gray flake floor",
+  "tags": [
+   "gameday photoshoot",
+   "nachos",
+   "cheese dip",
+   "gray flake floor",
+   "full flake",
+   "food on floor",
+   "gray white black chips",
+   "stain test",
+   "easy cleanup"
+  ],
+  "system": "full_flake",
+  "shot_type": "close_up",
+  "setting": "unknown",
+  "quality": "4",
+  "privacy": [],
+  "people": "none",
+  "issues": [],
+  "filename": "nachos-cheese-dip-gray-flake-floor",
+  "faces_identifiable": false,
+  "content": "floor_photo",
+  "color_runner_up": "Infinity",
+  "color_description": "gray base with black, white and gray chips, medium size",
+  "color_confidence": "medium",
+  "color": "Granite",
+  "branding_visible": false,
+  "area": "not_visible",
+  "alt_text": "Tortilla chips and spilled cheese dip on a gray full flake garage floor coating"
+ },
+ "id": "56c155447e81",
+ "provider": "kimi",
+ "model": "moonshotai/kimi-k3",
+ "mode": "run",
+ "blind": false,
+ "at": "2026-09-17T12:39:15"
+}

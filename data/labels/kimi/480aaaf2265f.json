@@ -1,0 +1,48 @@
+{
+ "finish": "stop",
+ "usage": {
+  "input_tokens": 5352,
+  "output_tokens": 276,
+  "cost": 0.030294
+ },
+ "served_by": "Fireworks",
+ "label": {
+  "content": "floor_photo",
+  "area": "steps_or_stairs",
+  "setting": "unknown",
+  "system": "full_flake",
+  "color": "Granite",
+  "color_confidence": "low",
+  "color_runner_up": "Stone Rowe",
+  "color_description": "gray, white and black chips, medium size",
+  "shot_type": "close_up",
+  "people": "none",
+  "faces_identifiable": false,
+  "privacy": [],
+  "branding_visible": false,
+  "quality": "3",
+  "issues": [
+   "tilted"
+  ],
+  "website_ready": false,
+  "title": "Close up of flake coating on step edge",
+  "alt_text": "Close up of a gray, white and black full flake coating wrapping over a step edge, full flake floor coating",
+  "tags": [
+   "close up",
+   "edge lip",
+   "step edge",
+   "full flake",
+   "gray chips",
+   "black and white chips",
+   "stem wall",
+   "detail"
+  ],
+  "filename": "flake-coating-step-edge-close-up"
+ },
+ "id": "480aaaf2265f",
+ "provider": "kimi",
+ "model": "moonshotai/kimi-k3",
+ "mode": "run",
+ "blind": false,
+ "at": "2026-09-17T12:48:39"
+}

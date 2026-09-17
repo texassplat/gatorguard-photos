@@ -1,0 +1,48 @@
+{
+ "finish": "stop",
+ "usage": {
+  "input_tokens": 5261,
+  "output_tokens": 172,
+  "cost": 0.006790695
+ },
+ "served_by": "Morph",
+ "label": {
+  "content": "floor_photo",
+  "area": "patio_or_porch",
+  "setting": "residential",
+  "system": "full_flake",
+  "color": "unknown",
+  "color_confidence": "low",
+  "color_runner_up": "unknown",
+  "color_description": "tan, brown, black, white and gray chips, small to medium size",
+  "shot_type": "finished",
+  "people": "none",
+  "faces_identifiable": false,
+  "privacy": [],
+  "branding_visible": false,
+  "quality": "4",
+  "issues": [],
+  "website_ready": true,
+  "title": "Covered brick porch with full flake floor",
+  "alt_text": "Covered brick porch with glossy tan, brown, black and gray full flake concrete coating",
+  "tags": [
+   "porch",
+   "exterior",
+   "full flake",
+   "tan chips",
+   "brown chips",
+   "black chips",
+   "gray chips",
+   "brick walls",
+   "covered porch",
+   "glossy floor"
+  ],
+  "filename": "brick-porch-full-flake-floor"
+ },
+ "id": "980d525663e0",
+ "provider": "kimi",
+ "model": "moonshotai/kimi-k3",
+ "mode": "run",
+ "blind": false,
+ "at": "2026-09-17T12:37:45"
+}

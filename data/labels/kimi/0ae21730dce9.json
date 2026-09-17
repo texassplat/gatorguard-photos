@@ -1,0 +1,46 @@
+{
+ "finish": "stop",
+ "usage": {
+  "input_tokens": 5314,
+  "output_tokens": 302,
+  "cost": 0.01469232
+ },
+ "served_by": "Phala",
+ "label": {
+  "alt_text": "Gray full flake garage floor with large Porsche crest logo inlay and a gray Porsche parked inside",
+  "area": "garage",
+  "branding_visible": true,
+  "color": "Granite",
+  "color_confidence": "low",
+  "color_description": "gray base with black, white and light gray chips, fine to medium size",
+  "color_runner_up": "Black Canyon",
+  "content": "floor_photo",
+  "faces_identifiable": false,
+  "filename": "garage-full-flake-porsche-logo-floor",
+  "issues": [],
+  "people": "none",
+  "privacy": [],
+  "quality": "4",
+  "setting": "residential",
+  "shot_type": "finished",
+  "system": "full_flake",
+  "tags": [
+   "garage",
+   "full flake",
+   "custom logo",
+   "porsche",
+   "gray flakes",
+   "luxury car",
+   "finished floor",
+   "garage floor coating"
+  ],
+  "title": "Garage full flake floor with Porsche crest logo",
+  "website_ready": true
+ },
+ "id": "0ae21730dce9",
+ "provider": "kimi",
+ "model": "moonshotai/kimi-k3",
+ "mode": "run",
+ "blind": false,
+ "at": "2026-09-17T12:52:46"
+}

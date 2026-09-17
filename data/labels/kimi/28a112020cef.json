@@ -1,0 +1,46 @@
+{
+ "finish": "stop",
+ "usage": {
+  "input_tokens": 5254,
+  "output_tokens": 228,
+  "cost": 0.00736557
+ },
+ "served_by": "Morph",
+ "label": {
+  "content": "floor_photo",
+  "area": "garage",
+  "setting": "residential",
+  "system": "full_flake",
+  "color": "unknown",
+  "color_confidence": "low",
+  "color_runner_up": "unknown",
+  "color_description": "very small dense chips, light gray and beige mix",
+  "shot_type": "finished",
+  "people": "none",
+  "faces_identifiable": false,
+  "privacy": [],
+  "branding_visible": false,
+  "quality": "3",
+  "issues": [],
+  "website_ready": false,
+  "title": "Garage floor with light gray flake coating",
+  "alt_text": "Garage interior with glossy light gray flake floor and expansion joints",
+  "tags": [
+   "garage",
+   "flake floor",
+   "gray chips",
+   "beige chips",
+   "glossy",
+   "expansion joints",
+   "finished",
+   "empty garage"
+  ],
+  "filename": "garage-light-gray-flake-floor"
+ },
+ "id": "28a112020cef",
+ "provider": "kimi",
+ "model": "moonshotai/kimi-k3",
+ "mode": "run",
+ "blind": false,
+ "at": "2026-09-17T12:42:40"
+}

@@ -1,0 +1,47 @@
+{
+ "finish": "stop",
+ "usage": {
+  "input_tokens": 5331,
+  "output_tokens": 290,
+  "cost": 0.020343
+ },
+ "served_by": "Parasail",
+ "label": {
+  "content": "floor_photo",
+  "area": "patio_or_porch",
+  "setting": "residential",
+  "system": "full_flake",
+  "color": "Black Canyon",
+  "color_confidence": "low",
+  "color_runner_up": "Chestnut",
+  "color_description": "dark brown and black chips with small light flecks, fine to medium size",
+  "shot_type": "finished",
+  "people": "none",
+  "faces_identifiable": false,
+  "privacy": [],
+  "branding_visible": false,
+  "quality": "3",
+  "issues": [],
+  "website_ready": false,
+  "title": "Front porch with dark full flake coating",
+  "alt_text": "Front porch floor and brick kneewall coated in dark brown and black full flake, caution tape nearby, exterior full flake floor coating",
+  "tags": [
+   "front porch",
+   "exterior",
+   "full flake",
+   "dark flakes",
+   "brown and black chips",
+   "brick wall",
+   "caution tape",
+   "residential",
+   "entryway"
+  ],
+  "filename": "front-porch-dark-full-flake-coating"
+ },
+ "id": "1d070b5c9c20",
+ "provider": "kimi",
+ "model": "moonshotai/kimi-k3",
+ "mode": "run",
+ "blind": false,
+ "at": "2026-09-17T12:37:27"
+}

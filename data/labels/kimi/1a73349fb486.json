@@ -1,0 +1,48 @@
+{
+ "finish": "stop",
+ "usage": {
+  "input_tokens": 5337,
+  "output_tokens": 268,
+  "cost": 0.010527
+ },
+ "served_by": "Together",
+ "label": {
+  "content": "floor_photo",
+  "area": "basement",
+  "setting": "residential",
+  "system": "full_flake",
+  "color": "Stone Ridge",
+  "color_confidence": "medium",
+  "color_runner_up": "Stone Crest",
+  "color_description": "gray, white and black chips with scattered rust and orange accents, small to medium size",
+  "shot_type": "finished",
+  "people": "none",
+  "faces_identifiable": false,
+  "privacy": [],
+  "branding_visible": false,
+  "quality": "4",
+  "issues": [],
+  "website_ready": true,
+  "title": "Basement with gray full flake floor and bar",
+  "alt_text": "Finished basement with gray, white and black full flake floor, wood bar cabinets and wall decor; full flake basement floor coating",
+  "tags": [
+   "basement",
+   "full flake",
+   "gray chips",
+   "black chips",
+   "white chips",
+   "rust accents",
+   "bar area",
+   "finished floor",
+   "glossy",
+   "residential"
+  ],
+  "filename": "basement-gray-full-flake-floor-bar"
+ },
+ "id": "1a73349fb486",
+ "provider": "kimi",
+ "model": "moonshotai/kimi-k3",
+ "mode": "pilot",
+ "blind": true,
+ "at": "2026-09-17T12:25:52"
+}

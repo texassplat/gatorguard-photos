@@ -1,0 +1,47 @@
+{
+ "finish": "stop",
+ "usage": {
+  "input_tokens": 4911,
+  "output_tokens": 253,
+  "cost": 0.01294272
+ },
+ "served_by": "Phala",
+ "label": {
+  "alt_text": "Garage with glossy gray full flake floor, two open overhead doors and a trailer outside; full flake garage floor coating",
+  "area": "garage",
+  "branding_visible": false,
+  "color": "Granite",
+  "color_confidence": "medium",
+  "color_description": "gray base with black, white and gray chips, small to medium size",
+  "color_runner_up": "Stone Rowe",
+  "content": "floor_photo",
+  "faces_identifiable": false,
+  "filename": "garage-gray-full-flake-open-doors",
+  "issues": [],
+  "people": "none",
+  "privacy": [],
+  "quality": "4",
+  "setting": "residential",
+  "shot_type": "finished",
+  "system": "full_flake",
+  "tags": [
+   "garage",
+   "full flake",
+   "gray chips",
+   "black and white chips",
+   "glossy floor",
+   "overhead doors",
+   "windows",
+   "finished floor",
+   "residential garage"
+  ],
+  "title": "Garage with gray full flake floor and open doors",
+  "website_ready": true
+ },
+ "id": "6a85637d74ef",
+ "provider": "kimi",
+ "model": "moonshotai/kimi-k3",
+ "mode": "run",
+ "blind": false,
+ "at": "2026-09-17T12:42:06"
+}

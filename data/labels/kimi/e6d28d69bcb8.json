@@ -1,0 +1,47 @@
+{
+ "finish": "stop",
+ "usage": {
+  "input_tokens": 4946,
+  "output_tokens": 190,
+  "cost": 0.0085296
+ },
+ "served_by": "Together",
+ "label": {
+  "content": "vehicle_or_equipment",
+  "area": "driveway_or_walkway",
+  "setting": "residential",
+  "system": "not_applicable",
+  "color": "not_applicable",
+  "color_confidence": "none",
+  "color_runner_up": "not_applicable",
+  "color_description": "",
+  "shot_type": "truck_or_equipment",
+  "people": "none",
+  "faces_identifiable": false,
+  "privacy": [],
+  "branding_visible": true,
+  "quality": "4",
+  "issues": [],
+  "website_ready": true,
+  "title": "GatorGuard box truck parked at residential job site",
+  "alt_text": "GatorGuard box truck with full wrap parked on a residential street beside a brick home and paver walkway",
+  "tags": [
+   "gatorguard truck",
+   "box truck",
+   "vehicle wrap",
+   "branding",
+   "residential",
+   "paver walkway",
+   "lawn",
+   "brick house",
+   "job site"
+  ],
+  "filename": "gatorguard-box-truck-residential-job-site"
+ },
+ "id": "e6d28d69bcb8",
+ "provider": "kimi",
+ "model": "moonshotai/kimi-k3",
+ "mode": "run",
+ "blind": false,
+ "at": "2026-09-17T12:38:14"
+}

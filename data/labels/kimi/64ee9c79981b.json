@@ -1,0 +1,48 @@
+{
+ "finish": "stop",
+ "usage": {
+  "input_tokens": 4500,
+  "output_tokens": 210,
+  "cost": 0.0074916
+ },
+ "served_by": "Together",
+ "label": {
+  "content": "floor_photo",
+  "area": "commercial_or_industrial",
+  "setting": "unknown",
+  "system": "metallic",
+  "color": "Cappuccino",
+  "color_confidence": "medium",
+  "color_runner_up": "Copper",
+  "color_description": "tan and gold metallic swirl, glossy, no chips",
+  "shot_type": "finished",
+  "people": "none",
+  "faces_identifiable": false,
+  "privacy": [],
+  "branding_visible": false,
+  "quality": "3",
+  "issues": [
+   "low_resolution"
+  ],
+  "website_ready": false,
+  "title": "Tan metallic epoxy floor at service counter",
+  "alt_text": "Glossy tan and gold metallic epoxy floor in front of a white counter, Liquid Art metallic floor coating",
+  "tags": [
+   "metallic epoxy",
+   "liquid art",
+   "tan metallic",
+   "gold swirl",
+   "glossy floor",
+   "counter",
+   "interior floor",
+   "finished floor"
+  ],
+  "filename": "tan-metallic-epoxy-floor-counter"
+ },
+ "id": "64ee9c79981b",
+ "provider": "kimi",
+ "model": "moonshotai/kimi-k3",
+ "mode": "run",
+ "blind": false,
+ "at": "2026-09-17T12:50:39"
+}

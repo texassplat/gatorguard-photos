@@ -1,0 +1,47 @@
+{
+ "finish": "stop",
+ "usage": {
+  "input_tokens": 5346,
+  "output_tokens": 242,
+  "cost": 0.0105096
+ },
+ "served_by": "Together",
+ "label": {
+  "content": "floor_photo",
+  "area": "basement",
+  "setting": "residential",
+  "system": "metallic",
+  "color": "Copper",
+  "color_confidence": "high",
+  "color_runner_up": "Cappuccino",
+  "color_description": "swirled copper orange metallic, glossy and reflective",
+  "shot_type": "finished",
+  "people": "none",
+  "faces_identifiable": false,
+  "privacy": [],
+  "branding_visible": false,
+  "quality": "4",
+  "issues": [],
+  "website_ready": true,
+  "title": "Basement with copper metallic epoxy floor",
+  "alt_text": "Glossy copper metallic epoxy floor in a basement with gray walls and a treadmill visible through a doorway",
+  "tags": [
+   "basement",
+   "metallic epoxy",
+   "copper",
+   "liquid art",
+   "glossy floor",
+   "swirled",
+   "gray walls",
+   "treadmill",
+   "reflective floor"
+  ],
+  "filename": "basement-copper-metallic-epoxy-floor"
+ },
+ "id": "c960cde11ac9",
+ "provider": "kimi",
+ "model": "moonshotai/kimi-k3",
+ "mode": "run",
+ "blind": false,
+ "at": "2026-09-17T12:50:40"
+}

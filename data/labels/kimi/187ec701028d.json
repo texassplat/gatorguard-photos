@@ -1,0 +1,47 @@
+{
+ "finish": "stop",
+ "usage": {
+  "input_tokens": 5206,
+  "output_tokens": 225,
+  "cost": 0.0098346
+ },
+ "served_by": "Together",
+ "label": {
+  "content": "floor_photo",
+  "area": "not_visible",
+  "setting": "unknown",
+  "system": "full_flake",
+  "color": "unknown",
+  "color_confidence": "low",
+  "color_runner_up": "Granite",
+  "color_description": "gray base with white, black and tan chips, small to medium size",
+  "shot_type": "close_up",
+  "people": "prominent",
+  "faces_identifiable": false,
+  "privacy": [],
+  "branding_visible": false,
+  "quality": "3",
+  "issues": [],
+  "website_ready": false,
+  "title": "Hand wiping spilled chips and queso off flake floor",
+  "alt_text": "Hand wiping spilled tortilla chips and cheese sauce off a gray full flake coated floor",
+  "tags": [
+   "full flake",
+   "spill cleanup",
+   "tortilla chips",
+   "queso",
+   "hand wiping",
+   "gameday",
+   "gray chips",
+   "stain resistance demo",
+   "close up"
+  ],
+  "filename": "wiping-chips-queso-spill-flake-floor"
+ },
+ "id": "187ec701028d",
+ "provider": "kimi",
+ "model": "moonshotai/kimi-k3",
+ "mode": "run",
+ "blind": false,
+ "at": "2026-09-17T12:39:35"
+}

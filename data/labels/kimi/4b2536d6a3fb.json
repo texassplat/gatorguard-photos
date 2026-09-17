@@ -1,0 +1,48 @@
+{
+ "finish": "stop",
+ "usage": {
+  "input_tokens": 5256,
+  "output_tokens": 176,
+  "cost": 0.00682332
+ },
+ "served_by": "Morph",
+ "label": {
+  "content": "floor_photo",
+  "area": "driveway_or_walkway",
+  "setting": "residential",
+  "system": "poly_enhance",
+  "color": "not_applicable",
+  "color_confidence": "none",
+  "color_runner_up": "not_applicable",
+  "color_description": "clear wet-look sealer over gray aggregate concrete, no chips",
+  "shot_type": "finished",
+  "people": "none",
+  "faces_identifiable": false,
+  "privacy": [],
+  "branding_visible": false,
+  "quality": "4",
+  "issues": [],
+  "website_ready": true,
+  "title": "Driveway with clear wet-look sealed concrete",
+  "alt_text": "Residential driveway with clear wet-look Poly Enhance sealer over exposed aggregate concrete",
+  "tags": [
+   "driveway",
+   "poly enhance",
+   "clear sealer",
+   "wet look",
+   "exposed aggregate",
+   "residential",
+   "concrete driveway",
+   "finished",
+   "suburban home",
+   "gray concrete"
+  ],
+  "filename": "driveway-clear-wet-look-sealer"
+ },
+ "id": "4b2536d6a3fb",
+ "provider": "kimi",
+ "model": "moonshotai/kimi-k3",
+ "mode": "run",
+ "blind": false,
+ "at": "2026-09-17T12:56:25"
+}

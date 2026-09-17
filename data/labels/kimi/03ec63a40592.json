@@ -1,0 +1,48 @@
+{
+ "finish": "stop",
+ "usage": {
+  "input_tokens": 5327,
+  "output_tokens": 266,
+  "cost": 0.01424142
+ },
+ "served_by": "Phala",
+ "label": {
+  "alt_text": "Hallway with marbled gray metallic epoxy floor, torch flame reflection and doorway to blue room, metallic floor coating",
+  "area": "interior_room",
+  "branding_visible": false,
+  "color": "Gray",
+  "color_confidence": "medium",
+  "color_description": "swirled gray and silver metallic epoxy, marbled look",
+  "color_runner_up": "Charcoal",
+  "content": "floor_photo",
+  "faces_identifiable": false,
+  "filename": "gray-metallic-epoxy-hallway-floor",
+  "issues": [],
+  "people": "none",
+  "privacy": [],
+  "quality": "4",
+  "setting": "residential",
+  "shot_type": "in_progress",
+  "system": "metallic",
+  "tags": [
+   "metallic epoxy",
+   "gray metallic",
+   "hallway floor",
+   "liquid art",
+   "marbled floor",
+   "swirled",
+   "glossy",
+   "interior floor",
+   "torch",
+   "blue accent room"
+  ],
+  "title": "Gray metallic epoxy hallway with blue accent room",
+  "website_ready": true
+ },
+ "id": "03ec63a40592",
+ "provider": "kimi",
+ "model": "moonshotai/kimi-k3",
+ "mode": "run",
+ "blind": false,
+ "at": "2026-09-17T12:52:04"
+}

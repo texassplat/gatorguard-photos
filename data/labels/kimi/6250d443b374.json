@@ -1,0 +1,47 @@
+{
+ "finish": "stop",
+ "usage": {
+  "input_tokens": 5313,
+  "output_tokens": 239,
+  "cost": 0.0103656
+ },
+ "served_by": "Together",
+ "label": {
+  "content": "floor_photo",
+  "area": "not_visible",
+  "setting": "unknown",
+  "system": "full_flake",
+  "color": "unknown",
+  "color_confidence": "low",
+  "color_runner_up": "unknown",
+  "color_description": "glossy red base with sparse small white, tan and black chips",
+  "shot_type": "close_up",
+  "people": "none",
+  "faces_identifiable": false,
+  "privacy": [],
+  "branding_visible": false,
+  "quality": "3",
+  "issues": [
+   "overexposed"
+  ],
+  "website_ready": false,
+  "title": "Close up of red flake coated floor",
+  "alt_text": "Close up of a glossy red concrete coating with small light colored flakes",
+  "tags": [
+   "full flake",
+   "red floor",
+   "close up",
+   "glossy",
+   "flake coating",
+   "old style",
+   "light chips"
+  ],
+  "filename": "red-flake-floor-close-up"
+ },
+ "id": "6250d443b374",
+ "provider": "kimi",
+ "model": "moonshotai/kimi-k3",
+ "mode": "run",
+ "blind": false,
+ "at": "2026-09-17T12:54:03"
+}

@@ -1,0 +1,46 @@
+{
+ "finish": "stop",
+ "usage": {
+  "input_tokens": 5314,
+  "output_tokens": 184,
+  "cost": 0.01309932
+ },
+ "served_by": "Phala",
+ "label": {
+  "alt_text": "Worker heating and scraping a large tan custom floor logo stencil on a flake coated garage floor",
+  "area": "garage",
+  "branding_visible": true,
+  "color": "unknown",
+  "color_confidence": "none",
+  "color_description": "",
+  "color_runner_up": "unknown",
+  "content": "floor_photo",
+  "faces_identifiable": false,
+  "filename": "custom-floor-logo-stencil-install",
+  "issues": [],
+  "people": "prominent",
+  "privacy": [],
+  "quality": "3",
+  "setting": "residential",
+  "shot_type": "in_progress",
+  "system": "unknown",
+  "tags": [
+   "custom logo",
+   "logo floor",
+   "stencil",
+   "heat gun",
+   "in progress",
+   "flake floor",
+   "garage",
+   "crew working"
+  ],
+  "title": "Crew installing custom logo stencil on coated floor",
+  "website_ready": false
+ },
+ "id": "0c379be23cdf",
+ "provider": "kimi",
+ "model": "moonshotai/kimi-k3",
+ "mode": "run",
+ "blind": false,
+ "at": "2026-09-17T12:52:36"
+}

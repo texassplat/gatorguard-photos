@@ -1,0 +1,49 @@
+{
+ "finish": "stop",
+ "usage": {
+  "input_tokens": 5012,
+  "output_tokens": 300,
+  "cost": 0.0185592
+ },
+ "served_by": "DeepInfra",
+ "label": {
+  "content": "marketing_graphic",
+  "area": "commercial_or_industrial",
+  "setting": "commercial",
+  "system": "full_flake",
+  "color": "unknown",
+  "color_confidence": "low",
+  "color_runner_up": "Granite",
+  "color_description": "gray base with scattered black and white chips, light coverage",
+  "shot_type": "finished",
+  "people": "none",
+  "faces_identifiable": false,
+  "privacy": [],
+  "branding_visible": false,
+  "quality": "4",
+  "issues": [
+   "text_overlay"
+  ],
+  "website_ready": false,
+  "title": "Commercial warehouse with gray flake floor",
+  "alt_text": "Large empty commercial warehouse with glossy gray flake floor and COMMERCIAL text overlay, commercial floor coating",
+  "tags": [
+   "commercial",
+   "warehouse",
+   "gray floor",
+   "flake floor",
+   "text overlay",
+   "glossy",
+   "large space",
+   "industrial",
+   "marketing graphic"
+  ],
+  "filename": "commercial-warehouse-gray-flake-floor"
+ },
+ "id": "e6be502d69e9",
+ "provider": "kimi",
+ "model": "moonshotai/kimi-k3",
+ "mode": "run",
+ "blind": false,
+ "at": "2026-09-17T12:59:01"
+}

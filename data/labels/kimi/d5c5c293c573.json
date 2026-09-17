@@ -1,0 +1,47 @@
+{
+ "finish": "stop",
+ "usage": {
+  "input_tokens": 5345,
+  "output_tokens": 271,
+  "cost": 0.0201
+ },
+ "served_by": "Parasail",
+ "label": {
+  "content": "floor_photo",
+  "area": "basement",
+  "setting": "residential",
+  "system": "full_flake",
+  "color": "Granite",
+  "color_confidence": "high",
+  "color_runner_up": "unknown",
+  "color_description": "gray base with black, white and gray chips, small to medium size",
+  "shot_type": "finished",
+  "people": "none",
+  "faces_identifiable": false,
+  "privacy": [],
+  "branding_visible": false,
+  "quality": "4",
+  "issues": [],
+  "website_ready": true,
+  "title": "Basement with gray Granite full flake floor",
+  "alt_text": "Finished basement with gray full flake floor coating, glossy clear coat and exposed ceiling joists",
+  "tags": [
+   "basement",
+   "full flake",
+   "granite",
+   "gray floor",
+   "glossy",
+   "exposed ceiling",
+   "finished floor",
+   "storage shelves",
+   "black gray white chips"
+  ],
+  "filename": "basement-granite-full-flake-floor"
+ },
+ "id": "d5c5c293c573",
+ "provider": "kimi",
+ "model": "moonshotai/kimi-k3",
+ "mode": "run",
+ "blind": false,
+ "at": "2026-09-17T12:31:07"
+}

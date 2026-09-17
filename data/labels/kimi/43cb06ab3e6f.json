@@ -1,0 +1,47 @@
+{
+ "finish": "stop",
+ "usage": {
+  "input_tokens": 4982,
+  "output_tokens": 246,
+  "cost": 0.0094776
+ },
+ "served_by": "Together",
+ "label": {
+  "content": "floor_photo",
+  "area": "garage",
+  "setting": "residential",
+  "system": "full_flake",
+  "color": "Santana",
+  "color_confidence": "medium",
+  "color_runner_up": "Chestnut",
+  "color_description": "tan, brown and black chips, small to medium size, glossy clear coat",
+  "shot_type": "finished",
+  "people": "none",
+  "faces_identifiable": false,
+  "privacy": [],
+  "branding_visible": false,
+  "quality": "4",
+  "issues": [],
+  "website_ready": true,
+  "title": "Glossy tan full flake garage floor",
+  "alt_text": "Low angle view of a glossy tan full flake garage floor with wood paneled walls and windows",
+  "tags": [
+   "garage",
+   "full flake",
+   "glossy",
+   "tan chips",
+   "brown chips",
+   "wood panel walls",
+   "windows",
+   "finished floor",
+   "low angle"
+  ],
+  "filename": "glossy-tan-full-flake-garage-floor"
+ },
+ "id": "43cb06ab3e6f",
+ "provider": "kimi",
+ "model": "moonshotai/kimi-k3",
+ "mode": "run",
+ "blind": false,
+ "at": "2026-09-17T12:43:20"
+}

@@ -1,0 +1,46 @@
+{
+ "finish": "stop",
+ "usage": {
+  "input_tokens": 5327,
+  "output_tokens": 288,
+  "cost": 0.0111426
+ },
+ "served_by": "Together",
+ "label": {
+  "content": "floor_photo",
+  "area": "driveway_or_walkway",
+  "setting": "residential",
+  "system": "bare_concrete",
+  "color": "not_applicable",
+  "color_confidence": "none",
+  "color_runner_up": "not_applicable",
+  "color_description": "",
+  "shot_type": "finished",
+  "people": "none",
+  "faces_identifiable": false,
+  "privacy": [],
+  "branding_visible": false,
+  "quality": "4",
+  "issues": [],
+  "website_ready": true,
+  "title": "Concrete walkway along brick and stone house",
+  "alt_text": "Light gray concrete walkway beside a brick and stone house with gravel beds and a front porch fountain",
+  "tags": [
+   "walkway",
+   "exterior",
+   "concrete sidewalk",
+   "brick house",
+   "stone veneer",
+   "gravel landscaping",
+   "front entry",
+   "broom finish concrete"
+  ],
+  "filename": "concrete-walkway-brick-stone-house"
+ },
+ "id": "bf2404ec2b09",
+ "provider": "kimi",
+ "model": "moonshotai/kimi-k3",
+ "mode": "run",
+ "blind": false,
+ "at": "2026-09-17T12:37:20"
+}

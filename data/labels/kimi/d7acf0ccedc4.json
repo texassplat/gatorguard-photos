@@ -1,0 +1,48 @@
+{
+ "finish": "stop",
+ "usage": {
+  "input_tokens": 5345,
+  "output_tokens": 191,
+  "cost": 0.00905296
+ },
+ "served_by": "DigitalOcean",
+ "label": {
+  "alt_text": "Basement with gray white and black full flake floor, full flake basement floor coating",
+  "area": "basement",
+  "branding_visible": false,
+  "color": "Granite",
+  "color_confidence": "high",
+  "color_description": "gray, white and black chips, medium size",
+  "color_runner_up": "Stone Rowe",
+  "content": "floor_photo",
+  "faces_identifiable": false,
+  "filename": "basement-granite-full-flake-floor",
+  "issues": [],
+  "people": "none",
+  "privacy": [],
+  "quality": "4",
+  "setting": "residential",
+  "shot_type": "finished",
+  "system": "full_flake",
+  "tags": [
+   "basement",
+   "full flake",
+   "granite",
+   "gray chips",
+   "white brick wall",
+   "exposed studs",
+   "utility room",
+   "glossy floor",
+   "low angle",
+   "finished floor"
+  ],
+  "title": "Basement with Granite full flake floor",
+  "website_ready": true
+ },
+ "id": "d7acf0ccedc4",
+ "provider": "kimi",
+ "model": "moonshotai/kimi-k3",
+ "mode": "run",
+ "blind": false,
+ "at": "2026-09-17T12:31:04"
+}

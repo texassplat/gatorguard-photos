@@ -1,0 +1,47 @@
+{
+ "finish": "stop",
+ "usage": {
+  "input_tokens": 5322,
+  "output_tokens": 231,
+  "cost": 0.019431
+ },
+ "served_by": "Parasail",
+ "label": {
+  "content": "floor_photo",
+  "area": "commercial_or_industrial",
+  "setting": "commercial",
+  "system": "full_flake",
+  "color": "Santana",
+  "color_confidence": "low",
+  "color_runner_up": "Chestnut",
+  "color_description": "tan and brown fine chips on a brown base, glossy finish",
+  "shot_type": "finished",
+  "people": "none",
+  "faces_identifiable": false,
+  "privacy": [],
+  "branding_visible": false,
+  "quality": "4",
+  "issues": [],
+  "website_ready": true,
+  "title": "Commercial lobby with tan full flake floor",
+  "alt_text": "Glossy tan full flake floor in a commercial entry with a stairway and mirrored wall",
+  "tags": [
+   "commercial floor",
+   "full flake",
+   "tan floor",
+   "brown chips",
+   "glossy finish",
+   "lobby",
+   "stairs",
+   "finished floor",
+   "interior"
+  ],
+  "filename": "commercial-lobby-tan-full-flake-floor"
+ },
+ "id": "5d913cc1ac28",
+ "provider": "kimi",
+ "model": "moonshotai/kimi-k3",
+ "mode": "run",
+ "blind": false,
+ "at": "2026-09-17T12:35:05"
+}

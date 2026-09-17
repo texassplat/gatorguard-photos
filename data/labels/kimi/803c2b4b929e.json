@@ -1,0 +1,46 @@
+{
+ "finish": "stop",
+ "usage": {
+  "input_tokens": 5320,
+  "output_tokens": 223,
+  "cost": 0.0101466
+ },
+ "served_by": "Together",
+ "label": {
+  "content": "floor_photo",
+  "area": "garage",
+  "setting": "residential",
+  "system": "full_flake",
+  "color": "Granite",
+  "color_confidence": "medium",
+  "color_runner_up": "Infinity",
+  "color_description": "light gray, white and black chips, small to medium size",
+  "shot_type": "finished",
+  "people": "none",
+  "faces_identifiable": false,
+  "privacy": [],
+  "branding_visible": false,
+  "quality": "4",
+  "issues": [],
+  "website_ready": true,
+  "title": "Garage with gray full flake floor and bikes",
+  "alt_text": "Garage with gray full flake garage floor coating, bikes hanging on dark wall and wood shelving",
+  "tags": [
+   "garage",
+   "full flake",
+   "gray floor",
+   "bikes",
+   "shelving",
+   "finished floor",
+   "black wall",
+   "storage"
+  ],
+  "filename": "garage-gray-full-flake-floor-bikes"
+ },
+ "id": "803c2b4b929e",
+ "provider": "kimi",
+ "model": "moonshotai/kimi-k3",
+ "mode": "run",
+ "blind": false,
+ "at": "2026-09-17T12:44:34"
+}

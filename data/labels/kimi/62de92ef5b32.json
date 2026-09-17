@@ -1,0 +1,48 @@
+{
+ "finish": "stop",
+ "usage": {
+  "input_tokens": 5343,
+  "output_tokens": 227,
+  "cost": 0.0102756
+ },
+ "served_by": "Together",
+ "label": {
+  "content": "floor_photo",
+  "area": "basement",
+  "setting": "residential",
+  "system": "full_flake",
+  "color": "Gold Mine",
+  "color_confidence": "medium",
+  "color_runner_up": "Stone Ridge",
+  "color_description": "white, gray and black chips with light tan accents, small to medium size",
+  "shot_type": "finished",
+  "people": "none",
+  "faces_identifiable": false,
+  "privacy": [],
+  "branding_visible": false,
+  "quality": "4",
+  "issues": [],
+  "website_ready": true,
+  "title": "Basement with gray white full flake floor",
+  "alt_text": "Finished basement with a gray, white and black full flake floor, support poles, furnace and open stair framing; full flake basement floor coating",
+  "tags": [
+   "basement",
+   "full flake",
+   "gray chips",
+   "white chips",
+   "black chips",
+   "support poles",
+   "furnace",
+   "unfinished ceiling",
+   "glossy floor",
+   "finished"
+  ],
+  "filename": "basement-gray-white-full-flake-floor"
+ },
+ "id": "62de92ef5b32",
+ "provider": "kimi",
+ "model": "moonshotai/kimi-k3",
+ "mode": "run",
+ "blind": false,
+ "at": "2026-09-17T12:30:56"
+}

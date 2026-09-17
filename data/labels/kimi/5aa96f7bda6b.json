@@ -1,0 +1,50 @@
+{
+ "finish": "stop",
+ "usage": {
+  "input_tokens": 5341,
+  "output_tokens": 191,
+  "cost": 0.01326672
+ },
+ "served_by": "Phala",
+ "label": {
+  "alt_text": "Dark gray metallic epoxy floor with marbled swirls in a basement under construction, metallic floor coating",
+  "area": "basement",
+  "branding_visible": false,
+  "color": "Charcoal",
+  "color_confidence": "medium",
+  "color_description": "dark gray and charcoal marbled metallic swirls, glossy reflective finish",
+  "color_runner_up": "Gray",
+  "content": "floor_photo",
+  "faces_identifiable": false,
+  "filename": "basement-dark-gray-metallic-epoxy-floor",
+  "issues": [
+   "dark"
+  ],
+  "people": "none",
+  "privacy": [],
+  "quality": "4",
+  "setting": "residential",
+  "shot_type": "finished",
+  "system": "metallic",
+  "tags": [
+   "metallic epoxy",
+   "dark gray",
+   "marbled floor",
+   "basement",
+   "reflective",
+   "under construction",
+   "swirl pattern",
+   "glossy",
+   "liquid art",
+   "concrete floor"
+  ],
+  "title": "Dark gray metallic epoxy floor in unfinished basement",
+  "website_ready": true
+ },
+ "id": "5aa96f7bda6b",
+ "provider": "kimi",
+ "model": "moonshotai/kimi-k3",
+ "mode": "run",
+ "blind": false,
+ "at": "2026-09-17T12:50:15"
+}

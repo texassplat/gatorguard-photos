@@ -1,0 +1,46 @@
+{
+ "finish": "stop",
+ "usage": {
+  "input_tokens": 5330,
+  "output_tokens": 233,
+  "cost": 0.01660885
+ },
+ "served_by": "DigitalOcean",
+ "label": {
+  "alt_text": "Close up of black, gray and white full flake concrete floor coating texture",
+  "area": "not_visible",
+  "branding_visible": false,
+  "color": "Gun Metal",
+  "color_confidence": "medium",
+  "color_description": "black, gray and white chips, medium size",
+  "color_runner_up": "Zircon",
+  "content": "floor_photo",
+  "faces_identifiable": false,
+  "filename": "black-gray-white-flake-texture-close-up",
+  "issues": [],
+  "people": "none",
+  "privacy": [],
+  "quality": "4",
+  "setting": "unknown",
+  "shot_type": "close_up",
+  "system": "full_flake",
+  "tags": [
+   "full flake",
+   "close up",
+   "texture",
+   "black chips",
+   "gray chips",
+   "white chips",
+   "floor coating",
+   "gun metal"
+  ],
+  "title": "Close up of black and gray flake floor",
+  "website_ready": true
+ },
+ "id": "6c848d3ff2a4",
+ "provider": "kimi",
+ "model": "moonshotai/kimi-k3",
+ "mode": "run",
+ "blind": false,
+ "at": "2026-09-17T12:33:16"
+}

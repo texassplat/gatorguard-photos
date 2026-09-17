@@ -1,0 +1,47 @@
+{
+ "finish": "stop",
+ "usage": {
+  "input_tokens": 5319,
+  "output_tokens": 244,
+  "cost": 0.0104586
+ },
+ "served_by": "Together",
+ "label": {
+  "content": "floor_photo",
+  "area": "garage",
+  "setting": "residential",
+  "system": "full_flake",
+  "color": "Black Canyon",
+  "color_confidence": "low",
+  "color_runner_up": "Quarry",
+  "color_description": "very dark brown to black base with small white and light gray chips",
+  "shot_type": "finished",
+  "people": "none",
+  "faces_identifiable": false,
+  "privacy": [],
+  "branding_visible": false,
+  "quality": "4",
+  "issues": [],
+  "website_ready": true,
+  "title": "Wood paneled garage with dark flake floor",
+  "alt_text": "Garage with natural wood plank walls and a dark brown full flake garage floor coating with white chips",
+  "tags": [
+   "garage",
+   "full flake",
+   "dark brown",
+   "white chips",
+   "wood walls",
+   "paneling",
+   "glossy",
+   "finished floor",
+   "interior"
+  ],
+  "filename": "wood-paneled-garage-dark-flake-floor"
+ },
+ "id": "f07e79cda60d",
+ "provider": "kimi",
+ "model": "moonshotai/kimi-k3",
+ "mode": "run",
+ "blind": false,
+ "at": "2026-09-17T12:46:01"
+}

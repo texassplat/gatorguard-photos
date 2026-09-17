@@ -1,0 +1,47 @@
+{
+ "finish": "stop",
+ "usage": {
+  "input_tokens": 4842,
+  "output_tokens": 274,
+  "cost": 0.0094776
+ },
+ "served_by": "Together",
+ "label": {
+  "content": "floor_photo",
+  "area": "garage",
+  "setting": "residential",
+  "system": "full_flake",
+  "color": "Black Canyon",
+  "color_confidence": "low",
+  "color_runner_up": "Chestnut",
+  "color_description": "dark brown and black chips with tan and cream flecks, small to medium size, glossy clear coat",
+  "shot_type": "finished",
+  "people": "none",
+  "faces_identifiable": false,
+  "privacy": [],
+  "branding_visible": false,
+  "quality": "4",
+  "issues": [],
+  "website_ready": true,
+  "title": "Glossy dark brown flake garage floor",
+  "alt_text": "Low angle view of a glossy dark brown and black full flake garage floor coating with cinder block walls",
+  "tags": [
+   "garage",
+   "full flake",
+   "glossy",
+   "dark brown chips",
+   "black chips",
+   "tan chips",
+   "cinder block walls",
+   "low angle",
+   "finished floor"
+  ],
+  "filename": "glossy-dark-brown-flake-garage-floor"
+ },
+ "id": "ac174bfc92c4",
+ "provider": "kimi",
+ "model": "moonshotai/kimi-k3",
+ "mode": "run",
+ "blind": false,
+ "at": "2026-09-17T12:42:33"
+}

@@ -1,0 +1,46 @@
+{
+ "finish": "stop",
+ "usage": {
+  "input_tokens": 5065,
+  "output_tokens": 182,
+  "cost": 0.0087666
+ },
+ "served_by": "Together",
+ "label": {
+  "content": "floor_photo",
+  "area": "basement",
+  "setting": "residential",
+  "system": "solid_color",
+  "color": "unknown",
+  "color_confidence": "none",
+  "color_runner_up": "not_applicable",
+  "color_description": "plain white coating, no chips",
+  "shot_type": "in_progress",
+  "people": "prominent",
+  "faces_identifiable": false,
+  "privacy": [],
+  "branding_visible": false,
+  "quality": "3",
+  "issues": [],
+  "website_ready": false,
+  "title": "Crew rolling white coating in basement",
+  "alt_text": "Worker rolls white solid color coating onto a basement floor with support pole and painted block walls",
+  "tags": [
+   "basement",
+   "white floor",
+   "solid color",
+   "in progress",
+   "rolling coating",
+   "support pole",
+   "block walls",
+   "crew working"
+  ],
+  "filename": "crew-rolling-white-basement-floor"
+ },
+ "id": "4345132c9bcf",
+ "provider": "kimi",
+ "model": "moonshotai/kimi-k3",
+ "mode": "run",
+ "blind": false,
+ "at": "2026-09-17T12:58:11"
+}

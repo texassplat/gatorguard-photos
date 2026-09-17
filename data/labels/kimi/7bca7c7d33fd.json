@@ -1,0 +1,46 @@
+{
+ "finish": "stop",
+ "usage": {
+  "input_tokens": 5332,
+  "output_tokens": 295,
+  "cost": 0.020421
+ },
+ "served_by": "Fireworks",
+ "label": {
+  "content": "floor_photo",
+  "area": "commercial_or_industrial",
+  "setting": "commercial",
+  "system": "solid_color",
+  "color": "unknown",
+  "color_confidence": "low",
+  "color_runner_up": "Gray",
+  "color_description": "light gray solid coating, no chips, high gloss finish",
+  "shot_type": "finished",
+  "people": "none",
+  "faces_identifiable": false,
+  "privacy": [],
+  "branding_visible": false,
+  "quality": "4",
+  "issues": [],
+  "website_ready": true,
+  "title": "Glossy gray solid color floor in commercial hallway",
+  "alt_text": "Glossy light gray solid color floor coating in a commercial hallway with block walls and wood doors",
+  "tags": [
+   "commercial",
+   "hallway",
+   "solid color",
+   "gray floor",
+   "glossy",
+   "no chips",
+   "finished floor",
+   "concrete coating"
+  ],
+  "filename": "commercial-hallway-glossy-gray-floor"
+ },
+ "id": "7bca7c7d33fd",
+ "provider": "kimi",
+ "model": "moonshotai/kimi-k3",
+ "mode": "run",
+ "blind": false,
+ "at": "2026-09-17T12:35:11"
+}

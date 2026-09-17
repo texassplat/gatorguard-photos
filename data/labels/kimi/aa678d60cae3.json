@@ -1,0 +1,47 @@
+{
+ "finish": "stop",
+ "usage": {
+  "input_tokens": 5321,
+  "output_tokens": 245,
+  "cost": 0.0104796
+ },
+ "served_by": "Together",
+ "label": {
+  "content": "floor_photo",
+  "area": "patio_or_porch",
+  "setting": "residential",
+  "system": "poly_enhance",
+  "color": "not_applicable",
+  "color_confidence": "none",
+  "color_runner_up": "not_applicable",
+  "color_description": "gray and tan stamped stone pattern with glossy wet-look sealer",
+  "shot_type": "finished",
+  "people": "background",
+  "faces_identifiable": false,
+  "privacy": [],
+  "branding_visible": false,
+  "quality": "4",
+  "issues": [],
+  "website_ready": true,
+  "title": "Stamped stone patio with wet-look sealer",
+  "alt_text": "Glossy sealed stamped concrete patio in a stone pattern beside a brick ranch home, poly enhance sealer",
+  "tags": [
+   "patio",
+   "stamped concrete",
+   "wet look sealer",
+   "stone pattern",
+   "brick house",
+   "residential",
+   "outdoor",
+   "glossy",
+   "backyard"
+  ],
+  "filename": "stamped-stone-patio-wet-look-sealer"
+ },
+ "id": "aa678d60cae3",
+ "provider": "kimi",
+ "model": "moonshotai/kimi-k3",
+ "mode": "run",
+ "blind": false,
+ "at": "2026-09-17T12:55:12"
+}

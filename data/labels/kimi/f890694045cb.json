@@ -1,0 +1,49 @@
+{
+ "finish": "stop",
+ "usage": {
+  "input_tokens": 5319,
+  "output_tokens": 200,
+  "cost": 0.018957
+ },
+ "served_by": "Parasail",
+ "label": {
+  "content": "floor_photo",
+  "area": "patio_or_porch",
+  "setting": "residential",
+  "system": "unknown",
+  "color": "unknown",
+  "color_confidence": "none",
+  "color_runner_up": "unknown",
+  "color_description": "tan yellow base coat being spread over worn concrete",
+  "shot_type": "in_progress",
+  "people": "prominent",
+  "faces_identifiable": true,
+  "privacy": [
+   "customer_face"
+  ],
+  "branding_visible": true,
+  "quality": "3",
+  "issues": [],
+  "website_ready": false,
+  "title": "Installer spreading base coat on exterior concrete",
+  "alt_text": "GatorGuard installer spreading tan base coat over worn exterior concrete slab during coating installation",
+  "tags": [
+   "installer",
+   "crew working",
+   "in progress",
+   "base coat",
+   "squeegee",
+   "exterior concrete",
+   "patio",
+   "bucket",
+   "residential"
+  ],
+  "filename": "installer-spreading-base-coat-exterior-concrete"
+ },
+ "id": "f890694045cb",
+ "provider": "kimi",
+ "model": "moonshotai/kimi-k3",
+ "mode": "run",
+ "blind": false,
+ "at": "2026-09-17T12:47:18"
+}

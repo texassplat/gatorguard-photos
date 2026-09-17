@@ -1,0 +1,48 @@
+{
+ "finish": "stop",
+ "usage": {
+  "input_tokens": 5214,
+  "output_tokens": 216,
+  "cost": 0.0097236
+ },
+ "served_by": "Together",
+ "label": {
+  "content": "floor_photo",
+  "area": "patio_or_porch",
+  "setting": "residential",
+  "system": "full_flake",
+  "color": "unknown",
+  "color_confidence": "low",
+  "color_runner_up": "Avalon",
+  "color_description": "light gray and beige fine chips, small size",
+  "shot_type": "finished",
+  "people": "none",
+  "faces_identifiable": false,
+  "privacy": [],
+  "branding_visible": false,
+  "quality": "4",
+  "issues": [],
+  "website_ready": true,
+  "title": "Covered porch with light gray flake floor",
+  "alt_text": "Covered porch with light gray full flake floor coating, red patio chair, rugs and potted plants",
+  "tags": [
+   "patio",
+   "porch",
+   "exterior",
+   "full flake",
+   "light gray chips",
+   "beige chips",
+   "patio furniture",
+   "outdoor rug",
+   "potted plants",
+   "french doors"
+  ],
+  "filename": "covered-porch-light-gray-flake-floor"
+ },
+ "id": "91dc719f9c32",
+ "provider": "kimi",
+ "model": "moonshotai/kimi-k3",
+ "mode": "run",
+ "blind": false,
+ "at": "2026-09-17T12:37:45"
+}

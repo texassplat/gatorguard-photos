@@ -1,0 +1,46 @@
+{
+ "finish": "stop",
+ "usage": {
+  "input_tokens": 5333,
+  "output_tokens": 255,
+  "cost": 0.019824
+ },
+ "served_by": "Parasail",
+ "label": {
+  "content": "floor_photo",
+  "area": "interior_room",
+  "setting": "residential",
+  "system": "full_flake",
+  "color": "Gun Metal",
+  "color_confidence": "medium",
+  "color_runner_up": "Infinity",
+  "color_description": "dark gray base with black, gray and white chips, medium size",
+  "shot_type": "finished",
+  "people": "none",
+  "faces_identifiable": false,
+  "privacy": [],
+  "branding_visible": false,
+  "quality": "4",
+  "issues": [],
+  "website_ready": true,
+  "title": "Interior room with dark gray full flake floor",
+  "alt_text": "Interior room with a glossy dark gray full flake floor coating, window and open door to yard",
+  "tags": [
+   "full flake",
+   "interior floor",
+   "dark gray flakes",
+   "black gray white chips",
+   "glossy finish",
+   "window",
+   "residential",
+   "finished floor"
+  ],
+  "filename": "interior-room-dark-gray-full-flake-floor"
+ },
+ "id": "cd9e61324b01",
+ "provider": "kimi",
+ "model": "moonshotai/kimi-k3",
+ "mode": "run",
+ "blind": false,
+ "at": "2026-09-17T12:47:51"
+}

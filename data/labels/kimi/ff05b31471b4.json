@@ -1,0 +1,48 @@
+{
+ "finish": "stop",
+ "usage": {
+  "input_tokens": 4922,
+  "output_tokens": 213,
+  "cost": 0.0088026
+ },
+ "served_by": "Together",
+ "label": {
+  "content": "floor_photo",
+  "area": "basement",
+  "setting": "residential",
+  "system": "full_flake",
+  "color": "Ocotillo",
+  "color_confidence": "low",
+  "color_runner_up": "Santana",
+  "color_description": "small tan, beige and brown chips on a tan base, glossy clear coat",
+  "shot_type": "finished",
+  "people": "none",
+  "faces_identifiable": false,
+  "privacy": [],
+  "branding_visible": false,
+  "quality": "3",
+  "issues": [
+   "text_overlay"
+  ],
+  "website_ready": false,
+  "title": "Basement with tan full flake floor and drain",
+  "alt_text": "Basement with glossy tan full flake floor coating, floor drain and wood baseboards",
+  "tags": [
+   "basement",
+   "full flake",
+   "tan chips",
+   "beige floor",
+   "floor drain",
+   "glossy",
+   "wood baseboards",
+   "finished"
+  ],
+  "filename": "basement-tan-full-flake-floor-drain"
+ },
+ "id": "ff05b31471b4",
+ "provider": "kimi",
+ "model": "moonshotai/kimi-k3",
+ "mode": "run",
+ "blind": false,
+ "at": "2026-09-17T12:31:25"
+}

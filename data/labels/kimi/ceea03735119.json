@@ -1,0 +1,49 @@
+{
+ "finish": "stop",
+ "usage": {
+  "input_tokens": 5102,
+  "output_tokens": 334,
+  "cost": 0.020316
+ },
+ "served_by": "Parasail",
+ "label": {
+  "content": "floor_photo",
+  "area": "commercial_or_industrial",
+  "setting": "commercial",
+  "system": "metallic",
+  "color": "unknown",
+  "color_confidence": "low",
+  "color_runner_up": "Gray",
+  "color_description": "gray and silver metallic with bright blue marbled veins, glossy finish",
+  "shot_type": "finished",
+  "people": "none",
+  "faces_identifiable": false,
+  "privacy": [],
+  "branding_visible": false,
+  "quality": "3",
+  "issues": [
+   "blurry"
+  ],
+  "website_ready": false,
+  "title": "Gray and blue metallic floor in large commercial space",
+  "alt_text": "Glossy metallic epoxy floor with gray base and bright blue marbled veins in a large commercial space",
+  "tags": [
+   "metallic epoxy",
+   "liquid art",
+   "blue metallic",
+   "gray metallic",
+   "commercial floor",
+   "drone footage",
+   "glossy floor",
+   "marbled floor",
+   "video"
+  ],
+  "filename": "gray-blue-metallic-commercial-floor-video"
+ },
+ "id": "ceea03735119",
+ "provider": "kimi",
+ "model": "moonshotai/kimi-k3",
+ "mode": "run",
+ "blind": false,
+ "at": "2026-09-17T12:46:35"
+}

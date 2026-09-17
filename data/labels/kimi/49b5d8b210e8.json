@@ -1,0 +1,48 @@
+{
+ "finish": "stop",
+ "usage": {
+  "input_tokens": 5256,
+  "output_tokens": 195,
+  "cost": 0.00702282
+ },
+ "served_by": "Morph",
+ "label": {
+  "content": "floor_photo",
+  "area": "driveway_or_walkway",
+  "setting": "residential",
+  "system": "poly_enhance",
+  "color": "not_applicable",
+  "color_confidence": "none",
+  "color_runner_up": "not_applicable",
+  "color_description": "multi color clay pavers in red, tan, gray and charcoal with a glossy wet-look sealer, no chips",
+  "shot_type": "finished",
+  "people": "none",
+  "faces_identifiable": false,
+  "privacy": [],
+  "branding_visible": false,
+  "quality": "5",
+  "issues": [],
+  "website_ready": true,
+  "title": "Sealed brick paver walkway with wet-look finish",
+  "alt_text": "Brick paver garden walkway with glossy wet-look poly enhance sealer beside red azaleas",
+  "tags": [
+   "walkway",
+   "brick pavers",
+   "pavers",
+   "wet look",
+   "sealed pavers",
+   "garden path",
+   "azaleas",
+   "poly enhance",
+   "outdoor",
+   "glossy"
+  ],
+  "filename": "sealed-brick-paver-garden-walkway"
+ },
+ "id": "49b5d8b210e8",
+ "provider": "kimi",
+ "model": "moonshotai/kimi-k3",
+ "mode": "run",
+ "blind": false,
+ "at": "2026-09-17T12:55:37"
+}

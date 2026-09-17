@@ -1,0 +1,48 @@
+{
+ "finish": "stop",
+ "usage": {
+  "input_tokens": 5326,
+  "output_tokens": 259,
+  "cost": 0.0107046
+ },
+ "served_by": "Together",
+ "label": {
+  "content": "floor_photo",
+  "area": "patio_or_porch",
+  "setting": "residential",
+  "system": "full_flake",
+  "color": "Ocotillo",
+  "color_confidence": "low",
+  "color_runner_up": "Chestnut",
+  "color_description": "tan base with fine brown and black chips, small size",
+  "shot_type": "finished",
+  "people": "none",
+  "faces_identifiable": false,
+  "privacy": [],
+  "branding_visible": false,
+  "quality": "4",
+  "issues": [],
+  "website_ready": true,
+  "title": "Porch with tan full flake floor and sunburst saw cuts",
+  "alt_text": "Glossy tan full flake porch floor with sunburst saw cut pattern against a brick wall, full flake patio coating",
+  "tags": [
+   "porch",
+   "exterior",
+   "full flake",
+   "tan chips",
+   "brown chips",
+   "saw cut pattern",
+   "sunburst joints",
+   "brick wall",
+   "glossy",
+   "finished"
+  ],
+  "filename": "tan-full-flake-porch-sunburst-cuts"
+ },
+ "id": "07822aa3b51c",
+ "provider": "kimi",
+ "model": "moonshotai/kimi-k3",
+ "mode": "run",
+ "blind": false,
+ "at": "2026-09-17T12:36:28"
+}

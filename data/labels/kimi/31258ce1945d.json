@@ -1,0 +1,46 @@
+{
+ "finish": "stop",
+ "usage": {
+  "input_tokens": 5343,
+  "output_tokens": 193,
+  "cost": 0.0097656
+ },
+ "served_by": "Together",
+ "label": {
+  "content": "floor_photo",
+  "area": "not_visible",
+  "setting": "unknown",
+  "system": "full_flake",
+  "color": "Chestnut",
+  "color_confidence": "medium",
+  "color_runner_up": "Sedona",
+  "color_description": "tan, brown and black chips, small to medium size, glossy clear coat",
+  "shot_type": "close_up",
+  "people": "none",
+  "faces_identifiable": false,
+  "privacy": [],
+  "branding_visible": false,
+  "quality": "4",
+  "issues": [],
+  "website_ready": true,
+  "title": "Close up of tan full flake floor",
+  "alt_text": "Close up of a glossy full flake floor with tan, brown and black chips",
+  "tags": [
+   "close up",
+   "full flake",
+   "tan chips",
+   "brown chips",
+   "black chips",
+   "glossy",
+   "clear coat",
+   "flake texture"
+  ],
+  "filename": "close-up-tan-full-flake-floor"
+ },
+ "id": "31258ce1945d",
+ "provider": "kimi",
+ "model": "moonshotai/kimi-k3",
+ "mode": "run",
+ "blind": false,
+ "at": "2026-09-17T12:32:07"
+}

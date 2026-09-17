@@ -1,0 +1,47 @@
+{
+ "finish": "stop",
+ "usage": {
+  "input_tokens": 5102,
+  "output_tokens": 231,
+  "cost": 0.018771
+ },
+ "served_by": "Parasail",
+ "label": {
+  "content": "floor_photo",
+  "area": "commercial_or_industrial",
+  "setting": "commercial",
+  "system": "metallic",
+  "color": "unknown",
+  "color_confidence": "none",
+  "color_runner_up": "unknown",
+  "color_description": "swirled blue, gray and silver metallic epoxy, marbled and reflective",
+  "shot_type": "finished",
+  "people": "none",
+  "faces_identifiable": false,
+  "privacy": [],
+  "branding_visible": false,
+  "quality": "4",
+  "issues": [],
+  "website_ready": true,
+  "title": "Metallic epoxy floor in wood walled venue",
+  "alt_text": "Reflective blue, gray and silver swirled metallic epoxy floor in a large hall with wood plank walls",
+  "tags": [
+   "metallic epoxy",
+   "blue metallic floor",
+   "gray metallic",
+   "wood plank walls",
+   "event venue",
+   "reflective floor",
+   "swirl pattern",
+   "commercial floor",
+   "drone video"
+  ],
+  "filename": "metallic-epoxy-floor-wood-wall-venue"
+ },
+ "id": "19beaae8840e",
+ "provider": "kimi",
+ "model": "moonshotai/kimi-k3",
+ "mode": "run",
+ "blind": false,
+ "at": "2026-09-17T12:46:39"
+}

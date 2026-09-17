@@ -1,0 +1,47 @@
+{
+ "finish": "stop",
+ "usage": {
+  "input_tokens": 5342,
+  "output_tokens": 198,
+  "cost": 0.0098376
+ },
+ "served_by": "Together",
+ "label": {
+  "content": "floor_photo",
+  "area": "pool_deck",
+  "setting": "residential",
+  "system": "poly_enhance",
+  "color": "not_applicable",
+  "color_confidence": "none",
+  "color_runner_up": "not_applicable",
+  "color_description": "brown speckled concrete with wet-look clear sealer",
+  "shot_type": "finished",
+  "people": "none",
+  "faces_identifiable": false,
+  "privacy": [],
+  "branding_visible": false,
+  "quality": "4",
+  "issues": [],
+  "website_ready": true,
+  "title": "Sealed brown pool deck beside screened porch",
+  "alt_text": "Brown sealed concrete pool deck with wet-look finish beside a screened porch and landscaped yard",
+  "tags": [
+   "pool deck",
+   "poly enhance",
+   "wet look sealer",
+   "brown concrete",
+   "swimming pool",
+   "screened porch",
+   "backyard",
+   "speckled concrete",
+   "finished"
+  ],
+  "filename": "sealed-brown-pool-deck-screened-porch"
+ },
+ "id": "faed6370658f",
+ "provider": "kimi",
+ "model": "moonshotai/kimi-k3",
+ "mode": "run",
+ "blind": false,
+ "at": "2026-09-17T12:55:03"
+}

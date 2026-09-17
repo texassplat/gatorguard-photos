@@ -1,0 +1,47 @@
+{
+ "finish": "stop",
+ "usage": {
+  "input_tokens": 5329,
+  "output_tokens": 199,
+  "cost": 0.018972
+ },
+ "served_by": "Parasail",
+ "label": {
+  "content": "floor_photo",
+  "area": "basement",
+  "setting": "residential",
+  "system": "grind_and_seal",
+  "color": "not_applicable",
+  "color_confidence": "none",
+  "color_runner_up": "not_applicable",
+  "color_description": "ground bare concrete, tan with small dark and light aggregate specks, glossy clear sealer",
+  "shot_type": "finished",
+  "people": "none",
+  "faces_identifiable": false,
+  "privacy": [],
+  "branding_visible": false,
+  "quality": "4",
+  "issues": [],
+  "website_ready": true,
+  "title": "Basement grind and seal floor by staircase",
+  "alt_text": "Glossy grind and seal concrete basement floor with control joints beside a carpeted staircase",
+  "tags": [
+   "grind and seal",
+   "basement floor",
+   "clear sealer",
+   "glossy",
+   "tan concrete",
+   "control joints",
+   "staircase",
+   "interior",
+   "finished floor"
+  ],
+  "filename": "basement-grind-and-seal-floor-stairs"
+ },
+ "id": "c81daee302cc",
+ "provider": "kimi",
+ "model": "moonshotai/kimi-k3",
+ "mode": "run",
+ "blind": false,
+ "at": "2026-09-17T12:46:39"
+}

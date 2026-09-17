@@ -1,0 +1,46 @@
+{
+ "finish": "stop",
+ "usage": {
+  "input_tokens": 5340,
+  "output_tokens": 285,
+  "cost": 0.020295
+ },
+ "served_by": "Parasail",
+ "label": {
+  "content": "floor_photo",
+  "area": "not_visible",
+  "setting": "unknown",
+  "system": "full_flake",
+  "color": "Granite",
+  "color_confidence": "medium",
+  "color_runner_up": "Stone Rowe",
+  "color_description": "gray, white and black chips, small size, overall light gray look",
+  "shot_type": "close_up",
+  "people": "none",
+  "faces_identifiable": false,
+  "privacy": [],
+  "branding_visible": false,
+  "quality": "4",
+  "issues": [],
+  "website_ready": true,
+  "title": "Close up of gray flake floor saw cut joints",
+  "alt_text": "Close up of a gray full flake garage floor with intersecting saw cut tool joints",
+  "tags": [
+   "close up",
+   "cut lines",
+   "tool joints",
+   "saw cuts",
+   "gray flakes",
+   "full flake",
+   "floor detail",
+   "expansion joints"
+  ],
+  "filename": "gray-flake-floor-cut-joints-close-up"
+ },
+ "id": "c65086a3a137",
+ "provider": "kimi",
+ "model": "moonshotai/kimi-k3",
+ "mode": "run",
+ "blind": false,
+ "at": "2026-09-17T12:35:35"
+}

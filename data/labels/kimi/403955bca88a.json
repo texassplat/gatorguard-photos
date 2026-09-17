@@ -1,0 +1,47 @@
+{
+ "finish": "stop",
+ "usage": {
+  "input_tokens": 5245,
+  "output_tokens": 327,
+  "cost": 0.02064
+ },
+ "served_by": "Parasail",
+ "label": {
+  "content": "floor_photo",
+  "area": "commercial_or_industrial",
+  "setting": "commercial",
+  "system": "solid_color",
+  "color": "unknown",
+  "color_confidence": "none",
+  "color_runner_up": "not_applicable",
+  "color_description": "solid glossy white to very light gray floor, no chips visible",
+  "shot_type": "finished",
+  "people": "none",
+  "faces_identifiable": false,
+  "privacy": [],
+  "branding_visible": false,
+  "quality": "5",
+  "issues": [],
+  "website_ready": true,
+  "title": "Commercial hallway with glossy white epoxy floor",
+  "alt_text": "Long commercial hallway with a glossy white solid color epoxy floor reflecting ceiling lights and doors",
+  "tags": [
+   "commercial floor",
+   "hallway",
+   "white epoxy floor",
+   "solid color",
+   "glossy floor",
+   "high gloss",
+   "office corridor",
+   "reflective floor",
+   "interior"
+  ],
+  "filename": "commercial-hallway-glossy-white-epoxy-floor"
+ },
+ "id": "403955bca88a",
+ "provider": "kimi",
+ "model": "moonshotai/kimi-k3",
+ "mode": "run",
+ "blind": false,
+ "at": "2026-09-17T12:35:10"
+}

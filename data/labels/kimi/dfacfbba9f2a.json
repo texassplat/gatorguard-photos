@@ -1,0 +1,47 @@
+{
+ "finish": "stop",
+ "usage": {
+  "input_tokens": 5319,
+  "output_tokens": 281,
+  "cost": 0.020172
+ },
+ "served_by": "Parasail",
+ "label": {
+  "content": "people_or_team",
+  "area": "patio_or_porch",
+  "setting": "residential",
+  "system": "unknown",
+  "color": "unknown",
+  "color_confidence": "none",
+  "color_runner_up": "unknown",
+  "color_description": "",
+  "shot_type": "in_progress",
+  "people": "prominent",
+  "faces_identifiable": false,
+  "privacy": [],
+  "branding_visible": false,
+  "quality": "4",
+  "issues": [],
+  "website_ready": false,
+  "title": "Installer squeegeeing coating on outdoor concrete patio",
+  "alt_text": "Installer spreading yellow-tinted coating with a squeegee on an outdoor concrete patio beside a deck",
+  "tags": [
+   "installer",
+   "in progress",
+   "squeegee",
+   "patio",
+   "outdoor concrete",
+   "coating application",
+   "crew",
+   "spiked sandals",
+   "deck"
+  ],
+  "filename": "installer-squeegeeing-coating-outdoor-concrete-patio"
+ },
+ "id": "dfacfbba9f2a",
+ "provider": "kimi",
+ "model": "moonshotai/kimi-k3",
+ "mode": "run",
+ "blind": false,
+ "at": "2026-09-17T12:47:41"
+}

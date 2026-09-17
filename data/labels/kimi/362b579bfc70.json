@@ -1,0 +1,49 @@
+{
+ "finish": "stop",
+ "usage": {
+  "input_tokens": 5319,
+  "output_tokens": 686,
+  "cost": 0.026247
+ },
+ "served_by": "Parasail",
+ "label": {
+  "content": "people_or_team",
+  "area": "not_visible",
+  "setting": "unknown",
+  "system": "not_applicable",
+  "color": "not_applicable",
+  "color_confidence": "none",
+  "color_runner_up": "not_applicable",
+  "color_description": "",
+  "shot_type": "crew_working",
+  "people": "prominent",
+  "faces_identifiable": true,
+  "privacy": [],
+  "branding_visible": false,
+  "quality": "3",
+  "issues": [
+   "cluttered"
+  ],
+  "website_ready": false,
+  "title": "Installer with sprayer inside work trailer",
+  "alt_text": "Installer holding a pump sprayer inside a work trailer with buckets, tools and coating supplies.",
+  "tags": [
+   "installer",
+   "crew",
+   "work trailer",
+   "sprayer",
+   "buckets",
+   "tools",
+   "equipment",
+   "supplies",
+   "prep"
+  ],
+  "filename": "installer-sprayer-inside-work-trailer"
+ },
+ "id": "362b579bfc70",
+ "provider": "kimi",
+ "model": "moonshotai/kimi-k3",
+ "mode": "run",
+ "blind": false,
+ "at": "2026-09-17T12:47:18"
+}

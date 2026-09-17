@@ -1,0 +1,49 @@
+{
+ "finish": "stop",
+ "usage": {
+  "input_tokens": 4942,
+  "output_tokens": 168,
+  "cost": 0.00615057
+ },
+ "served_by": "Morph",
+ "label": {
+  "content": "marketing_graphic",
+  "area": "basement",
+  "setting": "residential",
+  "system": "full_flake",
+  "color": "unknown",
+  "color_confidence": "low",
+  "color_runner_up": "unknown",
+  "color_description": "small gray, white and dark chips under glossy clear coat",
+  "shot_type": "graphic",
+  "people": "none",
+  "faces_identifiable": false,
+  "privacy": [],
+  "branding_visible": false,
+  "quality": "3",
+  "issues": [
+   "text_overlay",
+   "cluttered"
+  ],
+  "website_ready": false,
+  "title": "Basement man cave floor with text overlay",
+  "alt_text": "Finished basement bar with sports memorabilia and gray flake floor, red text overlay reading Basements and Man Caves",
+  "tags": [
+   "basement",
+   "man cave",
+   "bar",
+   "sports memorabilia",
+   "full flake",
+   "gray floor",
+   "text overlay",
+   "marketing graphic"
+  ],
+  "filename": "basement-man-cave-text-overlay"
+ },
+ "id": "a329ef31f966",
+ "provider": "kimi",
+ "model": "moonshotai/kimi-k3",
+ "mode": "run",
+ "blind": false,
+ "at": "2026-09-17T12:59:07"
+}

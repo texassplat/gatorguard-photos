@@ -1,0 +1,50 @@
+{
+ "finish": "stop",
+ "usage": {
+  "input_tokens": 5317,
+  "output_tokens": 303,
+  "cost": 0.00873891
+ },
+ "served_by": "InferenceNet",
+ "label": {
+  "website_ready": false,
+  "title": "Garage with tan brown and black flake floor",
+  "tags": [
+   "garage",
+   "full flake",
+   "tan chips",
+   "brown chips",
+   "black chips",
+   "white chips",
+   "finished floor",
+   "garage door open",
+   "dartboard",
+   "wall decor"
+  ],
+  "system": "full_flake",
+  "shot_type": "finished",
+  "setting": "residential",
+  "quality": "4",
+  "privacy": [
+   "customer_face"
+  ],
+  "people": "background",
+  "issues": [],
+  "filename": "garage-tan-brown-black-flake-floor",
+  "faces_identifiable": true,
+  "content": "floor_photo",
+  "color_runner_up": "Sedona",
+  "color_description": "tan, brown, black and white chips, medium to large size",
+  "color_confidence": "medium",
+  "color": "Windermere",
+  "branding_visible": false,
+  "area": "garage",
+  "alt_text": "Finished garage floor with tan, brown, black and white full flake coating, garage door open, full flake garage floor coating"
+ },
+ "id": "d4bd7a4f0c3c",
+ "provider": "kimi",
+ "model": "moonshotai/kimi-k3",
+ "mode": "run",
+ "blind": false,
+ "at": "2026-09-17T12:46:28"
+}

@@ -1,0 +1,46 @@
+{
+ "finish": "stop",
+ "usage": {
+  "input_tokens": 5016,
+  "output_tokens": 268,
+  "cost": 0.019068
+ },
+ "served_by": "Parasail",
+ "label": {
+  "content": "floor_photo",
+  "area": "garage",
+  "setting": "residential",
+  "system": "full_flake",
+  "color": "Granite",
+  "color_confidence": "medium",
+  "color_runner_up": "Stone Rowe",
+  "color_description": "gray, white and black chips, small to medium size",
+  "shot_type": "finished",
+  "people": "none",
+  "faces_identifiable": false,
+  "privacy": [],
+  "branding_visible": false,
+  "quality": "4",
+  "issues": [],
+  "website_ready": true,
+  "title": "Garage with gray flake floor and car lifts",
+  "alt_text": "Spacious garage with gray full flake floor coating, two red vehicle lifts and wood door",
+  "tags": [
+   "garage",
+   "full flake",
+   "gray floor",
+   "car lift",
+   "finished floor",
+   "garage floor coating",
+   "white walls",
+   "workshop"
+  ],
+  "filename": "garage-gray-flake-floor-car-lifts"
+ },
+ "id": "20718ee8c429",
+ "provider": "kimi",
+ "model": "moonshotai/kimi-k3",
+ "mode": "run",
+ "blind": false,
+ "at": "2026-09-17T12:43:10"
+}

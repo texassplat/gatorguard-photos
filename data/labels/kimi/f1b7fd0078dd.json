@@ -1,0 +1,46 @@
+{
+ "finish": "stop",
+ "usage": {
+  "input_tokens": 5323,
+  "output_tokens": 337,
+  "cost": 0.01088756
+ },
+ "served_by": "DigitalOcean",
+ "label": {
+  "alt_text": "Glossy light gray coated concrete floor with fine speckle in a framed commercial space, full flake floor coating",
+  "area": "commercial_or_industrial",
+  "branding_visible": false,
+  "color": "unknown",
+  "color_confidence": "low",
+  "color_description": "light gray base with very fine light and dark speckle",
+  "color_runner_up": "Lunar",
+  "content": "floor_photo",
+  "faces_identifiable": false,
+  "filename": "glossy-light-gray-commercial-floor",
+  "issues": [],
+  "people": "none",
+  "privacy": [],
+  "quality": "3",
+  "setting": "commercial",
+  "shot_type": "finished",
+  "system": "full_flake",
+  "tags": [
+   "commercial floor",
+   "light gray",
+   "glossy floor",
+   "fine speckle",
+   "full flake",
+   "metal studs",
+   "framing",
+   "concrete coating"
+  ],
+  "title": "Glossy light gray flake floor in commercial space",
+  "website_ready": false
+ },
+ "id": "f1b7fd0078dd",
+ "provider": "kimi",
+ "model": "moonshotai/kimi-k3",
+ "mode": "run",
+ "blind": false,
+ "at": "2026-09-17T12:34:07"
+}

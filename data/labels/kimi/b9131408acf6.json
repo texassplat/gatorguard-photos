@@ -1,0 +1,47 @@
+{
+ "finish": "stop",
+ "usage": {
+  "input_tokens": 5326,
+  "output_tokens": 243,
+  "cost": 0.0104646
+ },
+ "served_by": "Together",
+ "label": {
+  "content": "floor_photo",
+  "area": "patio_or_porch",
+  "setting": "residential",
+  "system": "full_flake",
+  "color": "Ocotillo",
+  "color_confidence": "low",
+  "color_runner_up": "Chestnut",
+  "color_description": "tan base with brown, black and white chips, small to medium size",
+  "shot_type": "finished",
+  "people": "none",
+  "faces_identifiable": false,
+  "privacy": [],
+  "branding_visible": false,
+  "quality": "3",
+  "issues": [],
+  "website_ready": false,
+  "title": "Front porch with tan full flake floor",
+  "alt_text": "Front porch and step coated in tan, brown and black full flake in front of a storm door, full flake porch floor coating",
+  "tags": [
+   "porch",
+   "front entry",
+   "full flake",
+   "tan chips",
+   "brown chips",
+   "exterior",
+   "storm door",
+   "step",
+   "finished floor"
+  ],
+  "filename": "front-porch-tan-full-flake"
+ },
+ "id": "b9131408acf6",
+ "provider": "kimi",
+ "model": "moonshotai/kimi-k3",
+ "mode": "run",
+ "blind": false,
+ "at": "2026-09-17T12:36:14"
+}

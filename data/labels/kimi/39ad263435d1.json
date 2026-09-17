@@ -1,0 +1,46 @@
+{
+ "finish": "stop",
+ "usage": {
+  "input_tokens": 5248,
+  "output_tokens": 165,
+  "cost": 0.00669282
+ },
+ "served_by": "Morph",
+ "label": {
+  "content": "floor_photo",
+  "area": "garage",
+  "setting": "residential",
+  "system": "solid_color",
+  "color": "unknown",
+  "color_confidence": "none",
+  "color_runner_up": "not_applicable",
+  "color_description": "glossy solid bright red coating, no chips visible",
+  "shot_type": "in_progress",
+  "people": "prominent",
+  "faces_identifiable": false,
+  "privacy": [],
+  "branding_visible": false,
+  "quality": "3",
+  "issues": [],
+  "website_ready": false,
+  "title": "Worker rolling red solid color garage coating",
+  "alt_text": "Worker back-rolling a glossy red solid color coating on a garage floor with saw-cut control joints",
+  "tags": [
+   "solid color",
+   "red floor",
+   "garage floor",
+   "in progress",
+   "roller application",
+   "control joints",
+   "epoxy coating",
+   "crew working"
+  ],
+  "filename": "worker-rolling-red-solid-color-garage-floor"
+ },
+ "id": "39ad263435d1",
+ "provider": "kimi",
+ "model": "moonshotai/kimi-k3",
+ "mode": "run",
+ "blind": false,
+ "at": "2026-09-17T12:54:20"
+}

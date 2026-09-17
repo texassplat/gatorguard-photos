@@ -1,0 +1,46 @@
+{
+ "finish": "stop",
+ "usage": {
+  "input_tokens": 5336,
+  "output_tokens": 240,
+  "cost": 0.0104496
+ },
+ "served_by": "Together",
+ "label": {
+  "content": "floor_photo",
+  "area": "garage",
+  "setting": "residential",
+  "system": "full_flake",
+  "color": "Granite",
+  "color_confidence": "medium",
+  "color_runner_up": "Callisto",
+  "color_description": "light gray, white and black chips, small to medium size",
+  "shot_type": "finished",
+  "people": "none",
+  "faces_identifiable": false,
+  "privacy": [],
+  "branding_visible": false,
+  "quality": "4",
+  "issues": [],
+  "website_ready": true,
+  "title": "Garage with light gray full flake floor",
+  "alt_text": "Finished garage with light gray full flake floor coating, workbench and gray cabinets along the back wall",
+  "tags": [
+   "garage",
+   "full flake",
+   "gray floor",
+   "finished floor",
+   "workbench",
+   "cabinets",
+   "gray chips",
+   "speckled floor"
+  ],
+  "filename": "garage-light-gray-full-flake-floor"
+ },
+ "id": "ece2163d9463",
+ "provider": "kimi",
+ "model": "moonshotai/kimi-k3",
+ "mode": "run",
+ "blind": false,
+ "at": "2026-09-17T12:41:01"
+}

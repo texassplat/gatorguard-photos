@@ -1,0 +1,49 @@
+{
+ "finish": "stop",
+ "usage": {
+  "input_tokens": 5255,
+  "output_tokens": 327,
+  "cost": 0.02067
+ },
+ "served_by": "Parasail",
+ "label": {
+  "content": "floor_photo",
+  "area": "patio_or_porch",
+  "setting": "residential",
+  "system": "full_flake",
+  "color": "Avalon",
+  "color_confidence": "low",
+  "color_runner_up": "Callisto",
+  "color_description": "light gray and beige fine chips, washed out by bright sunlight",
+  "shot_type": "finished",
+  "people": "none",
+  "faces_identifiable": false,
+  "privacy": [],
+  "branding_visible": false,
+  "quality": "4",
+  "issues": [
+   "overexposed"
+  ],
+  "website_ready": true,
+  "title": "Covered patio with light full flake floor",
+  "alt_text": "Covered patio with white columns, chaise lounge and potted flowers on a light full flake patio floor coating",
+  "tags": [
+   "patio",
+   "covered porch",
+   "full flake",
+   "light gray chips",
+   "columns",
+   "chaise lounge",
+   "potted plants",
+   "exterior",
+   "finished floor"
+  ],
+  "filename": "covered-patio-light-flake-floor"
+ },
+ "id": "a15ea9bff63d",
+ "provider": "kimi",
+ "model": "moonshotai/kimi-k3",
+ "mode": "run",
+ "blind": false,
+ "at": "2026-09-17T12:37:57"
+}

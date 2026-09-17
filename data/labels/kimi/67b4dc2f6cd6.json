@@ -1,0 +1,46 @@
+{
+ "finish": "stop",
+ "usage": {
+  "input_tokens": 5311,
+  "output_tokens": 238,
+  "cost": 0.00801456
+ },
+ "served_by": "InferenceNet",
+ "label": {
+  "website_ready": true,
+  "title": "Maroon letter logo in gray full flake floor",
+  "tags": [
+   "custom logo",
+   "logo floor",
+   "full flake",
+   "gray flake",
+   "maroon logo",
+   "letter h",
+   "close up",
+   "glossy finish"
+  ],
+  "system": "full_flake",
+  "shot_type": "close_up",
+  "setting": "commercial",
+  "quality": "4",
+  "privacy": [],
+  "people": "none",
+  "issues": [],
+  "filename": "maroon-letter-logo-gray-flake-floor",
+  "faces_identifiable": false,
+  "content": "floor_photo",
+  "color_runner_up": "Quartzite",
+  "color_description": "gray, black and white chips, medium size",
+  "color_confidence": "medium",
+  "color": "Granite",
+  "branding_visible": false,
+  "area": "not_visible",
+  "alt_text": "Maroon block letter logo inlaid in a gray full flake epoxy floor with black and white chips, glossy finish"
+ },
+ "id": "67b4dc2f6cd6",
+ "provider": "kimi",
+ "model": "moonshotai/kimi-k3",
+ "mode": "run",
+ "blind": false,
+ "at": "2026-09-17T12:52:52"
+}

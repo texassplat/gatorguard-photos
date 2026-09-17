@@ -1,0 +1,46 @@
+{
+ "finish": "stop",
+ "usage": {
+  "input_tokens": 5320,
+  "output_tokens": 235,
+  "cost": 0.0103266
+ },
+ "served_by": "Together",
+ "label": {
+  "content": "floor_photo",
+  "area": "garage",
+  "setting": "residential",
+  "system": "solid_color_chip",
+  "color": "unknown",
+  "color_confidence": "low",
+  "color_runner_up": "unknown",
+  "color_description": "solid red floor with fine red and darker speckle chips, small size",
+  "shot_type": "finished",
+  "people": "none",
+  "faces_identifiable": false,
+  "privacy": [],
+  "branding_visible": false,
+  "quality": "4",
+  "issues": [],
+  "website_ready": true,
+  "title": "Garage with glossy red coated floor",
+  "alt_text": "Glossy red coated garage floor with red tool cabinet, file cabinet and black entry mats, chip garage floor coating",
+  "tags": [
+   "garage",
+   "red floor",
+   "chip floor",
+   "glossy",
+   "tool cabinet",
+   "file cabinet",
+   "entry mats",
+   "finished floor"
+  ],
+  "filename": "garage-glossy-red-chip-floor"
+ },
+ "id": "2d3177f5fcf9",
+ "provider": "kimi",
+ "model": "moonshotai/kimi-k3",
+ "mode": "run",
+ "blind": false,
+ "at": "2026-09-17T12:43:17"
+}

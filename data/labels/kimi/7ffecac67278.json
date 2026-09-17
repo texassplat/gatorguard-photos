@@ -1,0 +1,47 @@
+{
+ "finish": "stop",
+ "usage": {
+  "input_tokens": 5333,
+  "output_tokens": 220,
+  "cost": 0.019299
+ },
+ "served_by": "Parasail",
+ "label": {
+  "content": "floor_photo",
+  "area": "garage",
+  "setting": "residential",
+  "system": "full_flake",
+  "color": "Santana",
+  "color_confidence": "medium",
+  "color_runner_up": "Ocotillo",
+  "color_description": "tan, brown and black chips, medium size, warm overall tone",
+  "shot_type": "close_up",
+  "people": "none",
+  "faces_identifiable": false,
+  "privacy": [],
+  "branding_visible": false,
+  "quality": "4",
+  "issues": [],
+  "website_ready": true,
+  "title": "Full flake coated garage floor edge lip",
+  "alt_text": "Close up of a coated garage floor edge with tan, brown and black full flake chips",
+  "tags": [
+   "garage",
+   "full flake",
+   "edge lip",
+   "close up",
+   "tan chips",
+   "brown chips",
+   "black chips",
+   "stem wall",
+   "finished floor"
+  ],
+  "filename": "full-flake-garage-floor-edge-lip"
+ },
+ "id": "7ffecac67278",
+ "provider": "kimi",
+ "model": "moonshotai/kimi-k3",
+ "mode": "run",
+ "blind": false,
+ "at": "2026-09-17T12:49:02"
+}

@@ -1,0 +1,47 @@
+{
+ "finish": "stop",
+ "usage": {
+  "input_tokens": 5331,
+  "output_tokens": 216,
+  "cost": 0.019233
+ },
+ "served_by": "Parasail",
+ "label": {
+  "content": "floor_photo",
+  "area": "patio_or_porch",
+  "setting": "residential",
+  "system": "full_flake",
+  "color": "Granite",
+  "color_confidence": "low",
+  "color_runner_up": "unknown",
+  "color_description": "small gray, white and black chips over a gray base",
+  "shot_type": "close_up",
+  "people": "none",
+  "faces_identifiable": false,
+  "privacy": [],
+  "branding_visible": false,
+  "quality": "4",
+  "issues": [],
+  "website_ready": true,
+  "title": "Gray full flake coating on residential porch",
+  "alt_text": "Close-up of a glossy gray, white and black full flake coating on a concrete porch beside a brick wall and house siding",
+  "tags": [
+   "porch",
+   "exterior",
+   "full flake",
+   "gray chips",
+   "close up",
+   "glossy",
+   "residential",
+   "brick wall",
+   "concrete coating"
+  ],
+  "filename": "gray-full-flake-porch-close-up"
+ },
+ "id": "aa6cc8e0d00c",
+ "provider": "kimi",
+ "model": "moonshotai/kimi-k3",
+ "mode": "run",
+ "blind": false,
+ "at": "2026-09-17T12:36:11"
+}

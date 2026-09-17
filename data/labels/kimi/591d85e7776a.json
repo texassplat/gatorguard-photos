@@ -1,0 +1,47 @@
+{
+ "finish": "stop",
+ "usage": {
+  "input_tokens": 5328,
+  "output_tokens": 229,
+  "cost": 0.00950171
+ },
+ "served_by": "DigitalOcean",
+ "label": {
+  "alt_text": "Low angle close up of a tan, brown and black full flake coated garage floor indoors",
+  "area": "garage",
+  "branding_visible": false,
+  "color": "Chestnut",
+  "color_confidence": "medium",
+  "color_description": "tan, brown, black and white chips, small to medium size",
+  "color_runner_up": "Sedona",
+  "content": "floor_photo",
+  "faces_identifiable": false,
+  "filename": "low-angle-tan-flake-floor-close-up",
+  "issues": [],
+  "people": "none",
+  "privacy": [],
+  "quality": "3",
+  "setting": "residential",
+  "shot_type": "close_up",
+  "system": "full_flake",
+  "tags": [
+   "full flake",
+   "garage floor",
+   "close up",
+   "tan brown black chips",
+   "glossy clear coat",
+   "interior",
+   "window",
+   "low angle",
+   "coated concrete"
+  ],
+  "title": "Low angle close up of tan flake floor",
+  "website_ready": false
+ },
+ "id": "591d85e7776a",
+ "provider": "kimi",
+ "model": "moonshotai/kimi-k3",
+ "mode": "run",
+ "blind": false,
+ "at": "2026-09-17T12:32:31"
+}

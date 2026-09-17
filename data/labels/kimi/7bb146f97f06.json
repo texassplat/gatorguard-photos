@@ -1,0 +1,47 @@
+{
+ "finish": "stop",
+ "usage": {
+  "input_tokens": 5214,
+  "output_tokens": 259,
+  "cost": 0.01384182
+ },
+ "served_by": "Phala",
+ "label": {
+  "alt_text": "Basement living room with white and gray marbled metallic epoxy floor, sofa, chair and carpeted stairs",
+  "area": "basement",
+  "branding_visible": false,
+  "color": "Gray",
+  "color_confidence": "medium",
+  "color_description": "white and light gray marbled metallic swirls, no chips",
+  "color_runner_up": "unknown",
+  "content": "floor_photo",
+  "faces_identifiable": false,
+  "filename": "basement-living-room-gray-metallic-floor",
+  "issues": [],
+  "people": "none",
+  "privacy": [],
+  "quality": "5",
+  "setting": "residential",
+  "shot_type": "finished",
+  "system": "metallic",
+  "tags": [
+   "basement",
+   "metallic epoxy",
+   "marbled floor",
+   "gray",
+   "white",
+   "living room",
+   "stairs",
+   "carpet stairs",
+   "finished floor"
+  ],
+  "title": "Basement living room with gray white metallic floor",
+  "website_ready": true
+ },
+ "id": "7bb146f97f06",
+ "provider": "kimi",
+ "model": "moonshotai/kimi-k3",
+ "mode": "run",
+ "blind": false,
+ "at": "2026-09-17T12:49:53"
+}

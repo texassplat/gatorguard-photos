@@ -1,0 +1,46 @@
+{
+ "finish": "stop",
+ "usage": {
+  "input_tokens": 5334,
+  "output_tokens": 202,
+  "cost": 0.019032
+ },
+ "served_by": "Parasail",
+ "label": {
+  "content": "floor_photo",
+  "area": "interior_room",
+  "setting": "residential",
+  "system": "full_flake",
+  "color": "Granite",
+  "color_confidence": "medium",
+  "color_runner_up": "Stone Rowe",
+  "color_description": "gray, white and black chips, small size",
+  "shot_type": "finished",
+  "people": "none",
+  "faces_identifiable": false,
+  "privacy": [],
+  "branding_visible": false,
+  "quality": "4",
+  "issues": [],
+  "website_ready": true,
+  "title": "Bathroom with gray full flake floor",
+  "alt_text": "Bathroom with gray, white and black full flake floor coating around a toilet and white vanity",
+  "tags": [
+   "bathroom",
+   "full flake",
+   "gray chips",
+   "white cabinets",
+   "toilet",
+   "floor drain",
+   "interior floor",
+   "finished floor"
+  ],
+  "filename": "bathroom-gray-full-flake-floor"
+ },
+ "id": "8d62be176873",
+ "provider": "kimi",
+ "model": "moonshotai/kimi-k3",
+ "mode": "run",
+ "blind": false,
+ "at": "2026-09-17T12:48:25"
+}

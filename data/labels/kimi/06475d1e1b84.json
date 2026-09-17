@@ -1,0 +1,49 @@
+{
+ "finish": "stop",
+ "usage": {
+  "input_tokens": 5322,
+  "output_tokens": 321,
+  "cost": 0.020781
+ },
+ "served_by": "Parasail",
+ "label": {
+  "content": "floor_photo",
+  "area": "commercial_or_industrial",
+  "setting": "commercial",
+  "system": "full_flake",
+  "color": "unknown",
+  "color_confidence": "medium",
+  "color_runner_up": "Santana",
+  "color_description": "tan, brown and black chips, small to medium size, on a light base",
+  "shot_type": "finished",
+  "people": "none",
+  "faces_identifiable": false,
+  "privacy": [
+   "license_plate"
+  ],
+  "branding_visible": false,
+  "quality": "4",
+  "issues": [],
+  "website_ready": true,
+  "title": "Commercial lobby bar with tan flake floor",
+  "alt_text": "Commercial lobby with a wood front bar, green accent wall and tan full flake floor coating",
+  "tags": [
+   "commercial",
+   "lobby",
+   "bar counter",
+   "full flake",
+   "tan chips",
+   "brown chips",
+   "green wall",
+   "finished floor",
+   "office"
+  ],
+  "filename": "commercial-lobby-bar-tan-flake-floor"
+ },
+ "id": "06475d1e1b84",
+ "provider": "kimi",
+ "model": "moonshotai/kimi-k3",
+ "mode": "run",
+ "blind": false,
+ "at": "2026-09-17T12:33:49"
+}

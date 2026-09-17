@@ -1,0 +1,46 @@
+{
+ "finish": "stop",
+ "usage": {
+  "input_tokens": 5321,
+  "output_tokens": 245,
+  "cost": 0.0104796
+ },
+ "served_by": "Together",
+ "label": {
+  "content": "floor_photo",
+  "area": "interior_room",
+  "setting": "residential",
+  "system": "solid_color_chip",
+  "color": "Callisto",
+  "color_confidence": "low",
+  "color_runner_up": "Avalon",
+  "color_description": "light gray base with mostly light gray and white chips, small to medium size",
+  "shot_type": "finished",
+  "people": "none",
+  "faces_identifiable": false,
+  "privacy": [],
+  "branding_visible": false,
+  "quality": "4",
+  "issues": [],
+  "website_ready": true,
+  "title": "Blue hallway with light gray solid color chip floor",
+  "alt_text": "Narrow hallway with blue walls and a light gray solid color chip floor coating around a floor drain",
+  "tags": [
+   "solid color chip",
+   "hallway",
+   "light gray floor",
+   "gray chips",
+   "floor drain",
+   "blue walls",
+   "interior floor",
+   "finished floor"
+  ],
+  "filename": "blue-hallway-light-gray-chip-floor"
+ },
+ "id": "1b930b7752b4",
+ "provider": "kimi",
+ "model": "moonshotai/kimi-k3",
+ "mode": "run",
+ "blind": false,
+ "at": "2026-09-17T12:56:57"
+}

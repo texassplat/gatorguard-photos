@@ -1,0 +1,47 @@
+{
+ "finish": "stop",
+ "usage": {
+  "input_tokens": 5345,
+  "output_tokens": 228,
+  "cost": 0.0102966
+ },
+ "served_by": "Together",
+ "label": {
+  "content": "floor_photo",
+  "area": "patio_or_porch",
+  "setting": "residential",
+  "system": "poly_enhance",
+  "color": "not_applicable",
+  "color_confidence": "none",
+  "color_runner_up": "not_applicable",
+  "color_description": "",
+  "shot_type": "finished",
+  "people": "none",
+  "faces_identifiable": false,
+  "privacy": [],
+  "branding_visible": false,
+  "quality": "4",
+  "issues": [],
+  "website_ready": true,
+  "title": "Stamped concrete patio with wet look sealer",
+  "alt_text": "Stamped concrete patio with a glossy wet look sealer beside a brick house, lawn and hot tub",
+  "tags": [
+   "patio",
+   "stamped concrete",
+   "wet look sealer",
+   "poly enhance",
+   "backyard",
+   "hot tub",
+   "brick house",
+   "glossy",
+   "finished"
+  ],
+  "filename": "stamped-concrete-patio-wet-look-sealer"
+ },
+ "id": "b32d11e60a5d",
+ "provider": "kimi",
+ "model": "moonshotai/kimi-k3",
+ "mode": "run",
+ "blind": false,
+ "at": "2026-09-17T12:55:08"
+}

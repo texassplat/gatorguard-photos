@@ -1,0 +1,47 @@
+{
+ "finish": "stop",
+ "usage": {
+  "input_tokens": 5249,
+  "output_tokens": 283,
+  "cost": 0.01426032
+ },
+ "served_by": "Phala",
+ "label": {
+  "alt_text": "Yellow vintage car parked on a dark gray swirled metallic epoxy garage floor with reflective marbled finish.",
+  "area": "garage",
+  "branding_visible": false,
+  "color": "Charcoal",
+  "color_confidence": "medium",
+  "color_description": "dark gray to silver metallic swirl, marbled and reflective, no chips",
+  "color_runner_up": "Gray",
+  "content": "floor_photo",
+  "faces_identifiable": false,
+  "filename": "yellow-vintage-car-metallic-garage-floor",
+  "issues": [],
+  "people": "none",
+  "privacy": [],
+  "quality": "5",
+  "setting": "residential",
+  "shot_type": "finished",
+  "system": "metallic",
+  "tags": [
+   "metallic epoxy",
+   "dark gray metallic",
+   "swirled floor",
+   "reflective floor",
+   "garage",
+   "vintage car",
+   "yellow car",
+   "marbled finish",
+   "corrugated metal wall"
+  ],
+  "title": "Yellow vintage car on dark metallic garage floor",
+  "website_ready": true
+ },
+ "id": "1869b7d9e721",
+ "provider": "kimi",
+ "model": "moonshotai/kimi-k3",
+ "mode": "run",
+ "blind": false,
+ "at": "2026-09-17T12:50:04"
+}

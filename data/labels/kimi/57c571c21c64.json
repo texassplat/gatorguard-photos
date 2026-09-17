@@ -1,0 +1,48 @@
+{
+ "finish": "stop",
+ "usage": {
+  "input_tokens": 5206,
+  "output_tokens": 291,
+  "cost": 0.0108246
+ },
+ "served_by": "Together",
+ "label": {
+  "content": "floor_photo",
+  "area": "not_visible",
+  "setting": "unknown",
+  "system": "full_flake",
+  "color": "Santana",
+  "color_confidence": "low",
+  "color_runner_up": "Ocotillo",
+  "color_description": "tan, brown and black chips, small to medium size",
+  "shot_type": "close_up",
+  "people": "prominent",
+  "faces_identifiable": false,
+  "privacy": [],
+  "branding_visible": false,
+  "quality": "4",
+  "issues": [],
+  "website_ready": false,
+  "title": "Foot on towel next to chips and cheese on flake floor",
+  "alt_text": "Bare foot on a towel beside spilled tortilla chips and melted cheese on a tan full flake garage floor coating",
+  "tags": [
+   "full flake",
+   "gameday photoshoot",
+   "tortilla chips",
+   "melted cheese",
+   "spill cleanup",
+   "bare foot",
+   "towel",
+   "tan brown black chips",
+   "close up",
+   "easy clean"
+  ],
+  "filename": "gameday-chips-cheese-spill-flake-floor"
+ },
+ "id": "57c571c21c64",
+ "provider": "kimi",
+ "model": "moonshotai/kimi-k3",
+ "mode": "run",
+ "blind": false,
+ "at": "2026-09-17T12:39:37"
+}

@@ -1,0 +1,48 @@
+{
+ "finish": "stop",
+ "usage": {
+  "input_tokens": 4855,
+  "output_tokens": 232,
+  "cost": 0.018045
+ },
+ "served_by": "Parasail",
+ "label": {
+  "content": "floor_photo",
+  "area": "basement",
+  "setting": "residential",
+  "system": "metallic",
+  "color": "Copper",
+  "color_confidence": "high",
+  "color_runner_up": "Cappuccino",
+  "color_description": "swirled copper-brown metallic with a glossy reflective finish",
+  "shot_type": "finished",
+  "people": "none",
+  "faces_identifiable": false,
+  "privacy": [],
+  "branding_visible": false,
+  "quality": "4",
+  "issues": [],
+  "website_ready": true,
+  "title": "Copper metallic floor in basement under renovation",
+  "alt_text": "Glossy copper metallic epoxy floor in a basement with exposed insulation and cabinets, metallic floor coating",
+  "tags": [
+   "metallic",
+   "copper",
+   "basement",
+   "glossy floor",
+   "reflective",
+   "swirled",
+   "liquid art",
+   "renovation",
+   "insulation",
+   "cabinets"
+  ],
+  "filename": "copper-metallic-basement-floor"
+ },
+ "id": "26689332dfa3",
+ "provider": "kimi",
+ "model": "moonshotai/kimi-k3",
+ "mode": "run",
+ "blind": false,
+ "at": "2026-09-17T12:51:07"
+}

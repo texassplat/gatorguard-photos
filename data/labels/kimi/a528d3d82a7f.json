@@ -1,0 +1,48 @@
+{
+ "finish": "stop",
+ "usage": {
+  "input_tokens": 5352,
+  "output_tokens": 308,
+  "cost": 0.020676
+ },
+ "served_by": "Parasail",
+ "label": {
+  "content": "floor_photo",
+  "area": "garage",
+  "setting": "unknown",
+  "system": "full_flake",
+  "color": "Stone Crest",
+  "color_confidence": "medium",
+  "color_runner_up": "Stone Ridge",
+  "color_description": "gray, white, black and rust red chips, small to medium size",
+  "shot_type": "close_up",
+  "people": "none",
+  "faces_identifiable": false,
+  "privacy": [],
+  "branding_visible": false,
+  "quality": "4",
+  "issues": [],
+  "website_ready": true,
+  "title": "Close up of flake coated edge and curb",
+  "alt_text": "Close up of a full flake epoxy floor edge and concrete curb with gray, black and rust red chips",
+  "tags": [
+   "close up",
+   "full flake",
+   "edge",
+   "curb",
+   "lip",
+   "gray chips",
+   "red chips",
+   "black chips",
+   "garage floor",
+   "coating detail"
+  ],
+  "filename": "flake-floor-edge-lip-close-up"
+ },
+ "id": "a528d3d82a7f",
+ "provider": "kimi",
+ "model": "moonshotai/kimi-k3",
+ "mode": "run",
+ "blind": false,
+ "at": "2026-09-17T12:48:45"
+}

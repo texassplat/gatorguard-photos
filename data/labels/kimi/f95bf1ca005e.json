@@ -1,0 +1,49 @@
+{
+ "finish": "stop",
+ "usage": {
+  "input_tokens": 5656,
+  "output_tokens": 364,
+  "cost": 0.0132696
+ },
+ "served_by": "Together",
+ "label": {
+  "content": "marketing_graphic",
+  "area": "not_visible",
+  "setting": "unknown",
+  "system": "full_flake",
+  "color": "unknown",
+  "color_confidence": "low",
+  "color_runner_up": "Lunar",
+  "color_description": "light gray and off-white small chips, fine speckled mix",
+  "shot_type": "finished",
+  "people": "none",
+  "faces_identifiable": false,
+  "privacy": [],
+  "branding_visible": false,
+  "quality": "4",
+  "issues": [
+   "text_overlay"
+  ],
+  "website_ready": false,
+  "title": "Golden retriever on flake floor with pet friendly text",
+  "alt_text": "Golden retriever sitting on a speckled flake coated floor with Pet Friendly Floors text overlay",
+  "tags": [
+   "dog",
+   "golden retriever",
+   "pet friendly",
+   "text overlay",
+   "full flake",
+   "light gray chips",
+   "staged photo",
+   "gameday photoshoot",
+   "marketing"
+  ],
+  "filename": "golden-retriever-pet-friendly-floors-graphic"
+ },
+ "id": "f95bf1ca005e",
+ "provider": "kimi",
+ "model": "moonshotai/kimi-k3",
+ "mode": "run",
+ "blind": false,
+ "at": "2026-09-17T12:38:22"
+}

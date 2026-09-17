@@ -1,0 +1,46 @@
+{
+ "finish": "stop",
+ "usage": {
+  "input_tokens": 5336,
+  "output_tokens": 226,
+  "cost": 0.00793566
+ },
+ "served_by": "InferenceNet",
+ "label": {
+  "website_ready": true,
+  "title": "Finished gray full flake garage floor",
+  "tags": [
+   "garage",
+   "full flake",
+   "gray chips",
+   "fine flake",
+   "glossy",
+   "finished floor",
+   "crew member",
+   "masked worker"
+  ],
+  "system": "full_flake",
+  "shot_type": "finished",
+  "setting": "residential",
+  "quality": "4",
+  "privacy": [],
+  "people": "prominent",
+  "issues": [],
+  "filename": "gray-full-flake-garage-finished",
+  "faces_identifiable": true,
+  "content": "floor_photo",
+  "color_runner_up": "Zircon",
+  "color_description": "gray, black and white chips, small to medium size",
+  "color_confidence": "medium",
+  "color": "Granite",
+  "branding_visible": false,
+  "area": "garage",
+  "alt_text": "Crew member standing on a finished gray full flake garage floor with glossy clear coat"
+ },
+ "id": "f98e2606b07e",
+ "provider": "kimi",
+ "model": "moonshotai/kimi-k3",
+ "mode": "run",
+ "blind": false,
+ "at": "2026-09-17T12:41:28"
+}

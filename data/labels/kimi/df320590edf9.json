@@ -1,0 +1,47 @@
+{
+ "finish": "stop",
+ "usage": {
+  "input_tokens": 5206,
+  "output_tokens": 204,
+  "cost": 0.01194114
+ },
+ "served_by": "Alibaba",
+ "label": {
+  "content": "floor_photo",
+  "area": "garage",
+  "setting": "residential",
+  "system": "full_flake",
+  "color": "Quartzite",
+  "color_confidence": "medium",
+  "color_runner_up": "Silverado",
+  "color_description": "gray, black and white chips, small to medium size, mottled gray overall",
+  "shot_type": "finished",
+  "people": "none",
+  "faces_identifiable": false,
+  "privacy": [],
+  "branding_visible": false,
+  "quality": "3",
+  "issues": [
+   "cluttered"
+  ],
+  "website_ready": false,
+  "title": "Empty garage with gray full flake floor",
+  "alt_text": "Empty garage with white walls, side door and gray full flake garage floor coating",
+  "tags": [
+   "garage",
+   "full flake",
+   "gray chips",
+   "empty room",
+   "interior door",
+   "finished floor",
+   "speckled floor"
+  ],
+  "filename": "garage-gray-full-flake-floor"
+ },
+ "id": "df320590edf9",
+ "provider": "kimi",
+ "model": "moonshotai/kimi-k3",
+ "mode": "run",
+ "blind": false,
+ "at": "2026-09-17T12:38:51"
+}

@@ -1,0 +1,48 @@
+{
+ "finish": "stop",
+ "usage": {
+  "input_tokens": 5326,
+  "output_tokens": 278,
+  "cost": 0.020148
+ },
+ "served_by": "Parasail",
+ "label": {
+  "content": "floor_photo",
+  "area": "garage",
+  "setting": "residential",
+  "system": "full_flake",
+  "color": "Pacific Coast",
+  "color_confidence": "low",
+  "color_runner_up": "Stone Ridge",
+  "color_description": "dark gray base with gray, white and blue-gray chips, small to medium size",
+  "shot_type": "finished",
+  "people": "background",
+  "faces_identifiable": false,
+  "privacy": [],
+  "branding_visible": false,
+  "quality": "3",
+  "issues": [
+   "cluttered"
+  ],
+  "website_ready": false,
+  "title": "Garage with dark gray flake floor and wall decor",
+  "alt_text": "Finished garage with dark gray full flake floor coating, corrugated wainscoting and memorabilia on walls",
+  "tags": [
+   "garage",
+   "full flake",
+   "dark gray floor",
+   "blue gray chips",
+   "corrugated metal wainscot",
+   "wall decor",
+   "sunlight shadow",
+   "finished floor"
+  ],
+  "filename": "garage-dark-gray-flake-floor"
+ },
+ "id": "b08a36fade6f",
+ "provider": "kimi",
+ "model": "moonshotai/kimi-k3",
+ "mode": "run",
+ "blind": false,
+ "at": "2026-09-17T12:44:00"
+}

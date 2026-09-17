@@ -1,0 +1,47 @@
+{
+ "finish": "stop",
+ "usage": {
+  "input_tokens": 4855,
+  "output_tokens": 252,
+  "cost": 0.018345
+ },
+ "served_by": "Fireworks",
+ "label": {
+  "content": "floor_photo",
+  "area": "garage",
+  "setting": "residential",
+  "system": "full_flake",
+  "color": "Chestnut",
+  "color_confidence": "medium",
+  "color_runner_up": "Santana",
+  "color_description": "tan, brown, black and cream chips, small to medium size",
+  "shot_type": "close_up",
+  "people": "none",
+  "faces_identifiable": false,
+  "privacy": [],
+  "branding_visible": false,
+  "quality": "4",
+  "issues": [],
+  "website_ready": false,
+  "title": "Close up of flake floor edge at garage entry",
+  "alt_text": "Close up of a tan and brown full flake garage floor edge meeting a gray strip at the garage opening",
+  "tags": [
+   "close up",
+   "full flake",
+   "garage floor",
+   "tan chips",
+   "brown chips",
+   "black chips",
+   "floor edge",
+   "garage entry",
+   "crisp lines"
+  ],
+  "filename": "flake-floor-edge-garage-entry-close-up"
+ },
+ "id": "5eb851e04b46",
+ "provider": "kimi",
+ "model": "moonshotai/kimi-k3",
+ "mode": "run",
+ "blind": false,
+ "at": "2026-09-17T12:35:18"
+}

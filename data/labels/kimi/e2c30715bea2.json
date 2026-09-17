@@ -1,0 +1,47 @@
+{
+ "finish": "stop",
+ "usage": {
+  "input_tokens": 5328,
+  "output_tokens": 241,
+  "cost": 0.019599
+ },
+ "served_by": "Parasail",
+ "label": {
+  "content": "floor_photo",
+  "area": "garage",
+  "setting": "residential",
+  "system": "full_flake",
+  "color": "Santana",
+  "color_confidence": "low",
+  "color_runner_up": "Willow",
+  "color_description": "tan and light brown chips with small dark brown and black chips, medium size",
+  "shot_type": "finished",
+  "people": "none",
+  "faces_identifiable": false,
+  "privacy": [],
+  "branding_visible": false,
+  "quality": "4",
+  "issues": [],
+  "website_ready": true,
+  "title": "Garage workshop with tan full flake floor",
+  "alt_text": "Garage workshop with workbench, gun safe and tan and brown full flake garage floor coating",
+  "tags": [
+   "garage",
+   "full flake",
+   "tan chips",
+   "brown chips",
+   "workbench",
+   "workshop",
+   "gun safe",
+   "finished floor",
+   "speckled floor"
+  ],
+  "filename": "garage-workshop-tan-full-flake-floor"
+ },
+ "id": "e2c30715bea2",
+ "provider": "kimi",
+ "model": "moonshotai/kimi-k3",
+ "mode": "run",
+ "blind": false,
+ "at": "2026-09-17T12:46:10"
+}

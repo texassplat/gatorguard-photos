@@ -1,0 +1,50 @@
+{
+ "finish": "stop",
+ "usage": {
+  "input_tokens": 5316,
+  "output_tokens": 295,
+  "cost": 0.0112146
+ },
+ "served_by": "Together",
+ "label": {
+  "content": "floor_photo",
+  "area": "patio_or_porch",
+  "setting": "residential",
+  "system": "full_flake",
+  "color": "Granite",
+  "color_confidence": "medium",
+  "color_runner_up": "Zircon",
+  "color_description": "gray, white and black chips, medium size, wet glossy clear coat",
+  "shot_type": "finished",
+  "people": "none",
+  "faces_identifiable": false,
+  "privacy": [],
+  "branding_visible": true,
+  "quality": "4",
+  "issues": [
+   "wet_or_dirty"
+  ],
+  "website_ready": true,
+  "title": "Covered patio with gray full flake floor",
+  "alt_text": "Glossy gray full flake coating on a covered residential patio with GatorGuard truck parked nearby, full flake patio floor coating",
+  "tags": [
+   "patio",
+   "covered porch",
+   "full flake",
+   "gray chips",
+   "glossy",
+   "gatorguard truck",
+   "caution tape",
+   "residential",
+   "exterior",
+   "finished floor"
+  ],
+  "filename": "covered-patio-gray-full-flake-truck"
+ },
+ "id": "2368cf21834d",
+ "provider": "kimi",
+ "model": "moonshotai/kimi-k3",
+ "mode": "run",
+ "blind": false,
+ "at": "2026-09-17T12:38:16"
+}

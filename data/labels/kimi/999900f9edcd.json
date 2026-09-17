@@ -1,0 +1,47 @@
+{
+ "finish": "stop",
+ "usage": {
+  "input_tokens": 5213,
+  "output_tokens": 316,
+  "cost": 0.020379
+ },
+ "served_by": "Parasail",
+ "label": {
+  "content": "floor_photo",
+  "area": "garage",
+  "setting": "residential",
+  "system": "full_flake",
+  "color": "Granite",
+  "color_confidence": "low",
+  "color_runner_up": "Silver Butte",
+  "color_description": "gray base with fine black, white and gray chips, small size",
+  "shot_type": "finished",
+  "people": "none",
+  "faces_identifiable": false,
+  "privacy": [],
+  "branding_visible": false,
+  "quality": "4",
+  "issues": [],
+  "website_ready": true,
+  "title": "Garage with gray flake floor and bar seating",
+  "alt_text": "Garage with gray full flake floor coating, black SUV, bar counter with stools and gray cabinets",
+  "tags": [
+   "garage",
+   "full flake",
+   "gray floor",
+   "bar counter",
+   "bar stools",
+   "cabinets",
+   "suv",
+   "finished floor",
+   "gray black white chips"
+  ],
+  "filename": "garage-gray-flake-floor-bar-stools"
+ },
+ "id": "999900f9edcd",
+ "provider": "kimi",
+ "model": "moonshotai/kimi-k3",
+ "mode": "run",
+ "blind": false,
+ "at": "2026-09-17T12:42:08"
+}

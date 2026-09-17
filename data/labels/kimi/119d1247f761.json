@@ -1,0 +1,47 @@
+{
+ "finish": "stop",
+ "usage": {
+  "input_tokens": 5337,
+  "output_tokens": 225,
+  "cost": 0.019386
+ },
+ "served_by": "Parasail",
+ "label": {
+  "content": "floor_photo",
+  "area": "commercial_or_industrial",
+  "setting": "commercial",
+  "system": "solid_color_chip",
+  "color": "unknown",
+  "color_confidence": "low",
+  "color_runner_up": "unknown",
+  "color_description": "uniform light gray surface, chips not distinguishable at this distance",
+  "shot_type": "finished",
+  "people": "none",
+  "faces_identifiable": false,
+  "privacy": [],
+  "branding_visible": false,
+  "quality": "3",
+  "issues": [
+   "wet_or_dirty"
+  ],
+  "website_ready": false,
+  "title": "Gray commercial floor with floor drain",
+  "alt_text": "Gray solid color chip floor in a commercial room with a floor drain and white baseboards",
+  "tags": [
+   "commercial floor",
+   "gray floor",
+   "solid color chip",
+   "floor drain",
+   "interior",
+   "finished floor",
+   "coated concrete"
+  ],
+  "filename": "gray-commercial-floor-with-drain"
+ },
+ "id": "119d1247f761",
+ "provider": "kimi",
+ "model": "moonshotai/kimi-k3",
+ "mode": "run",
+ "blind": false,
+ "at": "2026-09-17T12:33:31"
+}

@@ -1,0 +1,49 @@
+{
+ "finish": "stop",
+ "usage": {
+  "input_tokens": 5026,
+  "output_tokens": 360,
+  "cost": 0.020478
+ },
+ "served_by": "Parasail",
+ "label": {
+  "content": "floor_photo",
+  "area": "commercial_or_industrial",
+  "setting": "commercial",
+  "system": "full_flake",
+  "color": "Lunar",
+  "color_confidence": "low",
+  "color_runner_up": "Infinity",
+  "color_description": "light gray and white fine chips with sparse dark specks on a light gray base",
+  "shot_type": "finished",
+  "people": "none",
+  "faces_identifiable": false,
+  "privacy": [],
+  "branding_visible": false,
+  "quality": "3",
+  "issues": [
+   "overexposed"
+  ],
+  "website_ready": false,
+  "title": "Commercial room with light gray flake floor",
+  "alt_text": "Commercial interior room with a light gray full flake floor coating, wood door and wall plumbing visible",
+  "tags": [
+   "commercial",
+   "full flake",
+   "light gray",
+   "white chips",
+   "gray chips",
+   "interior room",
+   "glossy floor",
+   "wood door",
+   "finished floor"
+  ],
+  "filename": "commercial-room-light-gray-flake-floor"
+ },
+ "id": "03a578fd6b48",
+ "provider": "kimi",
+ "model": "moonshotai/kimi-k3",
+ "mode": "run",
+ "blind": false,
+ "at": "2026-09-17T12:33:56"
+}

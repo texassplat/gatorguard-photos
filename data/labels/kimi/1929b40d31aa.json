@@ -1,0 +1,48 @@
+{
+ "finish": "stop",
+ "usage": {
+  "input_tokens": 5221,
+  "output_tokens": 201,
+  "cost": 0.018678
+ },
+ "served_by": "Parasail",
+ "label": {
+  "content": "floor_photo",
+  "area": "basement",
+  "setting": "residential",
+  "system": "metallic",
+  "color": "Charcoal",
+  "color_confidence": "medium",
+  "color_runner_up": "Gun Metal",
+  "color_description": "dark charcoal gray metallic with soft black swirls and glossy marbled movement",
+  "shot_type": "finished",
+  "people": "none",
+  "faces_identifiable": false,
+  "privacy": [],
+  "branding_visible": false,
+  "quality": "5",
+  "issues": [],
+  "website_ready": true,
+  "title": "Finished basement lounge with dark metallic epoxy floor",
+  "alt_text": "Finished basement lounge with sofa and dark charcoal metallic epoxy floor, Liquid Art metallic floor coating",
+  "tags": [
+   "basement",
+   "metallic epoxy",
+   "liquid art",
+   "charcoal",
+   "dark gray",
+   "swirled",
+   "glossy",
+   "finished floor",
+   "lounge",
+   "sofa"
+  ],
+  "filename": "basement-lounge-dark-metallic-floor"
+ },
+ "id": "1929b40d31aa",
+ "provider": "kimi",
+ "model": "moonshotai/kimi-k3",
+ "mode": "run",
+ "blind": false,
+ "at": "2026-09-17T12:50:30"
+}

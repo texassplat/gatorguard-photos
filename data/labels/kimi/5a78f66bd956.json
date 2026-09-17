@@ -1,0 +1,48 @@
+{
+ "finish": "stop",
+ "usage": {
+  "input_tokens": 4849,
+  "output_tokens": 174,
+  "cost": 0.006039195
+ },
+ "served_by": "Morph",
+ "label": {
+  "content": "floor_photo",
+  "area": "garage",
+  "setting": "residential",
+  "system": "solid_color_chip",
+  "color": "Quartzite",
+  "color_confidence": "low",
+  "color_runner_up": "Silverado",
+  "color_description": "fine gray and charcoal chips in a gray base, speckled texture, small chip size",
+  "shot_type": "finished",
+  "people": "background",
+  "faces_identifiable": false,
+  "privacy": [],
+  "branding_visible": false,
+  "quality": "3",
+  "issues": [
+   "cluttered"
+  ],
+  "website_ready": false,
+  "title": "Garage with gray solid color chip floor",
+  "alt_text": "Garage with gray solid color chip floor, unfinished stud walls, tools hanging, person near open door",
+  "tags": [
+   "garage",
+   "solid color chip",
+   "gray floor",
+   "speckled",
+   "stud walls",
+   "tools",
+   "finished floor",
+   "gray chips"
+  ],
+  "filename": "garage-gray-solid-color-chip-floor"
+ },
+ "id": "5a78f66bd956",
+ "provider": "kimi",
+ "model": "moonshotai/kimi-k3",
+ "mode": "run",
+ "blind": false,
+ "at": "2026-09-17T12:57:23"
+}

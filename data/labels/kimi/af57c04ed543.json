@@ -1,0 +1,46 @@
+{
+ "finish": "stop",
+ "usage": {
+  "input_tokens": 4919,
+  "output_tokens": 255,
+  "cost": 0.0094236
+ },
+ "served_by": "Together",
+ "label": {
+  "content": "floor_photo",
+  "area": "patio_or_porch",
+  "setting": "residential",
+  "system": "solid_color",
+  "color": "unknown",
+  "color_confidence": "low",
+  "color_runner_up": "not_applicable",
+  "color_description": "flat medium gray coating, no chips visible",
+  "shot_type": "finished",
+  "people": "none",
+  "faces_identifiable": false,
+  "privacy": [],
+  "branding_visible": false,
+  "quality": "4",
+  "issues": [],
+  "website_ready": true,
+  "title": "Front porch with gray coated concrete floor",
+  "alt_text": "Covered front porch with stone veneer walls, columns and a gray coated concrete floor",
+  "tags": [
+   "front porch",
+   "exterior",
+   "gray coating",
+   "solid color",
+   "stone veneer",
+   "columns",
+   "finished floor",
+   "residential"
+  ],
+  "filename": "front-porch-gray-coated-floor"
+ },
+ "id": "af57c04ed543",
+ "provider": "kimi",
+ "model": "moonshotai/kimi-k3",
+ "mode": "run",
+ "blind": false,
+ "at": "2026-09-17T12:36:53"
+}

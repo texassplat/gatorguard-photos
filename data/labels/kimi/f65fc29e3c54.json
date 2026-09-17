@@ -1,0 +1,48 @@
+{
+ "finish": "stop",
+ "usage": {
+  "input_tokens": 5097,
+  "output_tokens": 286,
+  "cost": 0.010077
+ },
+ "served_by": "Together",
+ "label": {
+  "content": "floor_photo",
+  "area": "commercial_or_industrial",
+  "setting": "commercial",
+  "system": "metallic",
+  "color": "Gray",
+  "color_confidence": "low",
+  "color_runner_up": "Denim",
+  "color_description": "dark gray metallic with blue and white swirls, highly reflective",
+  "shot_type": "finished",
+  "people": "none",
+  "faces_identifiable": false,
+  "privacy": [],
+  "branding_visible": false,
+  "quality": "4",
+  "issues": [],
+  "website_ready": true,
+  "title": "Large event hall with gray blue metallic floor",
+  "alt_text": "Spacious wood walled hall with glossy gray and blue metallic epoxy floor, metallic floor coating",
+  "tags": [
+   "metallic epoxy",
+   "gray floor",
+   "blue swirls",
+   "reflective floor",
+   "event hall",
+   "wood walls",
+   "large open space",
+   "liquid art",
+   "commercial floor",
+   "drone footage"
+  ],
+  "filename": "event-hall-gray-blue-metallic-floor"
+ },
+ "id": "f65fc29e3c54",
+ "provider": "kimi",
+ "model": "moonshotai/kimi-k3",
+ "mode": "pilot",
+ "blind": false,
+ "at": "2026-09-17T12:24:40"
+}

@@ -1,0 +1,50 @@
+{
+ "finish": "stop",
+ "usage": {
+  "input_tokens": 5362,
+  "output_tokens": 208,
+  "cost": 0.00931646
+ },
+ "served_by": "DigitalOcean",
+ "label": {
+  "alt_text": "Basement with gray and black full flake floor, stone wall, exposed joists and utilities",
+  "area": "basement",
+  "branding_visible": false,
+  "color": "Granite",
+  "color_confidence": "high",
+  "color_description": "gray, black and white chips, medium mix",
+  "color_runner_up": "unknown",
+  "content": "floor_photo",
+  "faces_identifiable": false,
+  "filename": "basement-granite-full-flake-stone-wall",
+  "issues": [
+   "cluttered"
+  ],
+  "people": "none",
+  "privacy": [],
+  "quality": "3",
+  "setting": "residential",
+  "shot_type": "finished",
+  "system": "full_flake",
+  "tags": [
+   "basement",
+   "full flake",
+   "granite",
+   "gray chips",
+   "stone wall",
+   "exposed ceiling",
+   "utilities",
+   "glossy",
+   "low angle",
+   "finished"
+  ],
+  "title": "Basement with Granite full flake floor",
+  "website_ready": false
+ },
+ "id": "1291bdadac21",
+ "provider": "kimi",
+ "model": "moonshotai/kimi-k3",
+ "mode": "run",
+ "blind": false,
+ "at": "2026-09-17T12:31:05"
+}

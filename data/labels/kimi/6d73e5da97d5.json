@@ -1,0 +1,49 @@
+{
+ "finish": "stop",
+ "usage": {
+  "input_tokens": 4942,
+  "output_tokens": 161,
+  "cost": 0.00607707
+ },
+ "served_by": "Morph",
+ "label": {
+  "content": "marketing_graphic",
+  "area": "garage",
+  "setting": "residential",
+  "system": "full_flake",
+  "color": "unknown",
+  "color_confidence": "low",
+  "color_runner_up": "unknown",
+  "color_description": "tan, brown and gray chips, small to medium size",
+  "shot_type": "finished",
+  "people": "none",
+  "faces_identifiable": false,
+  "privacy": [],
+  "branding_visible": false,
+  "quality": "3",
+  "issues": [
+   "text_overlay",
+   "overexposed"
+  ],
+  "website_ready": false,
+  "title": "New construction garage with flake floor",
+  "alt_text": "Garage with speckled full flake floor and New Construction text overlay",
+  "tags": [
+   "garage",
+   "full flake",
+   "new construction",
+   "text overlay",
+   "unfinished walls",
+   "tan chips",
+   "brown chips",
+   "sunlight"
+  ],
+  "filename": "new-construction-garage-flake-floor"
+ },
+ "id": "6d73e5da97d5",
+ "provider": "kimi",
+ "model": "moonshotai/kimi-k3",
+ "mode": "run",
+ "blind": false,
+ "at": "2026-09-17T12:58:59"
+}

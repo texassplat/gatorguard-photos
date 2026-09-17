@@ -1,0 +1,48 @@
+{
+ "finish": "stop",
+ "usage": {
+  "input_tokens": 5321,
+  "output_tokens": 195,
+  "cost": 0.0097296
+ },
+ "served_by": "Together",
+ "label": {
+  "content": "floor_photo",
+  "area": "basement",
+  "setting": "residential",
+  "system": "solid_color_chip",
+  "color": "unknown",
+  "color_confidence": "low",
+  "color_runner_up": "unknown",
+  "color_description": "light beige and cream chips, small and uniform",
+  "shot_type": "finished",
+  "people": "none",
+  "faces_identifiable": false,
+  "privacy": [],
+  "branding_visible": false,
+  "quality": "3",
+  "issues": [
+   "cluttered"
+  ],
+  "website_ready": false,
+  "title": "Basement utility room with beige solid color chip floor",
+  "alt_text": "Basement utility area with water heater and furnace on a beige solid color chip floor coating",
+  "tags": [
+   "basement",
+   "solid color chip",
+   "beige chips",
+   "utility room",
+   "water heater",
+   "furnace",
+   "finished floor",
+   "floor drain"
+  ],
+  "filename": "basement-utility-beige-solid-color-chip"
+ },
+ "id": "4b1d4592ec13",
+ "provider": "kimi",
+ "model": "moonshotai/kimi-k3",
+ "mode": "run",
+ "blind": false,
+ "at": "2026-09-17T12:57:13"
+}

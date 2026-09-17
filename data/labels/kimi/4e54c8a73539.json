@@ -1,0 +1,46 @@
+{
+ "finish": "stop",
+ "usage": {
+  "input_tokens": 4979,
+  "output_tokens": 230,
+  "cost": 0.006870945
+ },
+ "served_by": "Morph",
+ "label": {
+  "content": "floor_photo",
+  "area": "garage",
+  "setting": "residential",
+  "system": "full_flake",
+  "color": "unknown",
+  "color_confidence": "low",
+  "color_runner_up": "unknown",
+  "color_description": "tan, gray, and black chips, medium size",
+  "shot_type": "in_progress",
+  "people": "prominent",
+  "faces_identifiable": false,
+  "privacy": [],
+  "branding_visible": false,
+  "quality": "3",
+  "issues": [],
+  "website_ready": false,
+  "title": "Clear coating garage flake floor in progress",
+  "alt_text": "Worker clear-coating a tan and gray flake garage floor with a roller, full flake garage floor coating",
+  "tags": [
+   "garage floor",
+   "full flake",
+   "tan chips",
+   "gray chips",
+   "clear coat",
+   "roller application",
+   "in progress",
+   "concrete coating"
+  ],
+  "filename": "clear-coating-tan-flake-garage-floor"
+ },
+ "id": "4e54c8a73539",
+ "provider": "kimi",
+ "model": "moonshotai/kimi-k3",
+ "mode": "run",
+ "blind": false,
+ "at": "2026-09-17T12:58:38"
+}

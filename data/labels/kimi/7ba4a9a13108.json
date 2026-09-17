@@ -1,0 +1,46 @@
+{
+ "finish": "stop",
+ "usage": {
+  "input_tokens": 5206,
+  "output_tokens": 231,
+  "cost": 0.0099246
+ },
+ "served_by": "Together",
+ "label": {
+  "content": "floor_photo",
+  "area": "not_visible",
+  "setting": "unknown",
+  "system": "full_flake",
+  "color": "unknown",
+  "color_confidence": "low",
+  "color_runner_up": "Granite",
+  "color_description": "gray, black and white chips, small to medium size",
+  "shot_type": "close_up",
+  "people": "none",
+  "faces_identifiable": false,
+  "privacy": [],
+  "branding_visible": false,
+  "quality": "4",
+  "issues": [],
+  "website_ready": true,
+  "title": "Golden retriever sniffing gray full flake floor",
+  "alt_text": "Golden retriever eating a treat off a gray full flake epoxy floor coating",
+  "tags": [
+   "dog",
+   "golden retriever",
+   "pet friendly",
+   "full flake",
+   "gray chips",
+   "close up",
+   "gameday photoshoot",
+   "floor coating"
+  ],
+  "filename": "golden-retriever-gray-flake-floor"
+ },
+ "id": "7ba4a9a13108",
+ "provider": "kimi",
+ "model": "moonshotai/kimi-k3",
+ "mode": "run",
+ "blind": false,
+ "at": "2026-09-17T12:39:52"
+}

@@ -1,0 +1,47 @@
+{
+ "finish": "stop",
+ "usage": {
+  "input_tokens": 4853,
+  "output_tokens": 262,
+  "cost": 0.0093306
+ },
+ "served_by": "Together",
+ "label": {
+  "content": "floor_photo",
+  "area": "interior_room",
+  "setting": "residential",
+  "system": "full_flake",
+  "color": "Gun Metal",
+  "color_confidence": "low",
+  "color_runner_up": "Black Canyon",
+  "color_description": "dark charcoal to black base with small white and gray chips",
+  "shot_type": "finished",
+  "people": "none",
+  "faces_identifiable": false,
+  "privacy": [],
+  "branding_visible": false,
+  "quality": "4",
+  "issues": [],
+  "website_ready": true,
+  "title": "Basement room with dark full flake floor and brick fireplace",
+  "alt_text": "Finished basement room with a dark full flake floor coating, painted brick fireplace and glass block window",
+  "tags": [
+   "basement",
+   "full flake",
+   "dark floor",
+   "black chips",
+   "gray chips",
+   "brick fireplace",
+   "glass block window",
+   "finished floor",
+   "interior"
+  ],
+  "filename": "basement-dark-full-flake-brick-fireplace"
+ },
+ "id": "a465252af5e9",
+ "provider": "kimi",
+ "model": "moonshotai/kimi-k3",
+ "mode": "run",
+ "blind": false,
+ "at": "2026-09-17T12:47:45"
+}

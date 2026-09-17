@@ -1,0 +1,48 @@
+{
+ "finish": "stop",
+ "usage": {
+  "input_tokens": 4915,
+  "output_tokens": 259,
+  "cost": 0.01863
+ },
+ "served_by": "Parasail",
+ "label": {
+  "content": "floor_photo",
+  "area": "commercial_or_industrial",
+  "setting": "commercial",
+  "system": "solid_color",
+  "color": "not_applicable",
+  "color_confidence": "none",
+  "color_runner_up": "not_applicable",
+  "color_description": "solid cream to light beige coating, no chips",
+  "shot_type": "finished",
+  "people": "none",
+  "faces_identifiable": false,
+  "privacy": [],
+  "branding_visible": false,
+  "quality": "3",
+  "issues": [
+   "dark"
+  ],
+  "website_ready": false,
+  "title": "Glossy cream solid color floor in paneled commercial room",
+  "alt_text": "Glossy cream solid color coated floor in a wood paneled commercial room with a wood support post",
+  "tags": [
+   "solid color",
+   "cream floor",
+   "commercial",
+   "wood paneling",
+   "support post",
+   "glossy finish",
+   "finished floor",
+   "interior"
+  ],
+  "filename": "cream-solid-color-commercial-floor"
+ },
+ "id": "883f9fb8b0c5",
+ "provider": "kimi",
+ "model": "moonshotai/kimi-k3",
+ "mode": "run",
+ "blind": false,
+ "at": "2026-09-17T12:33:37"
+}

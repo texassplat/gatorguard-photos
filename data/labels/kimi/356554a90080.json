@@ -1,0 +1,46 @@
+{
+ "finish": "stop",
+ "usage": {
+  "input_tokens": 5211,
+  "output_tokens": 373,
+  "cost": 0.0201666
+ },
+ "served_by": "DeepInfra",
+ "label": {
+  "content": "floor_photo",
+  "area": "garage",
+  "setting": "unknown",
+  "system": "full_flake",
+  "color": "Granite",
+  "color_confidence": "low",
+  "color_runner_up": "Stone Rowe",
+  "color_description": "gray, white and black chips, small to medium size",
+  "shot_type": "finished",
+  "people": "background",
+  "faces_identifiable": false,
+  "privacy": [],
+  "branding_visible": false,
+  "quality": "4",
+  "issues": [],
+  "website_ready": true,
+  "title": "Golden retriever on gray flake garage floor",
+  "alt_text": "Golden retriever lying on a green blanket on a gray full flake garage floor coating",
+  "tags": [
+   "garage",
+   "full flake",
+   "dog",
+   "golden retriever",
+   "gray chips",
+   "gameday photoshoot",
+   "finished floor",
+   "green blanket"
+  ],
+  "filename": "golden-retriever-gray-flake-garage-floor"
+ },
+ "id": "356554a90080",
+ "provider": "kimi",
+ "model": "moonshotai/kimi-k3",
+ "mode": "run",
+ "blind": false,
+ "at": "2026-09-17T12:40:28"
+}

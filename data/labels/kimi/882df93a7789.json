@@ -1,0 +1,49 @@
+{
+ "finish": "stop",
+ "usage": {
+  "input_tokens": 5326,
+  "output_tokens": 257,
+  "cost": 0.010329
+ },
+ "served_by": "Together",
+ "label": {
+  "content": "floor_photo",
+  "area": "patio_or_porch",
+  "setting": "residential",
+  "system": "full_flake",
+  "color": "Ocotillo",
+  "color_confidence": "medium",
+  "color_runner_up": "Chestnut",
+  "color_description": "tan and cream base with small brown and black chips",
+  "shot_type": "finished",
+  "people": "none",
+  "faces_identifiable": false,
+  "privacy": [],
+  "branding_visible": false,
+  "quality": "4",
+  "issues": [
+   "wet_or_dirty"
+  ],
+  "website_ready": true,
+  "title": "Backyard patio with tan full flake floor",
+  "alt_text": "Glossy tan full flake patio coating beside a house with white porch columns and lawn, full flake patio floor coating",
+  "tags": [
+   "patio",
+   "exterior",
+   "full flake",
+   "tan chips",
+   "wet look",
+   "glossy",
+   "backyard",
+   "porch columns",
+   "residential"
+  ],
+  "filename": "tan-full-flake-backyard-patio"
+ },
+ "id": "882df93a7789",
+ "provider": "kimi",
+ "model": "moonshotai/kimi-k3",
+ "mode": "pilot",
+ "blind": false,
+ "at": "2026-09-17T12:24:54"
+}

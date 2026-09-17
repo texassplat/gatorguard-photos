@@ -1,0 +1,47 @@
+{
+ "finish": "stop",
+ "usage": {
+  "input_tokens": 4495,
+  "output_tokens": 266,
+  "cost": 0.017475
+ },
+ "served_by": "Parasail",
+ "label": {
+  "content": "floor_photo",
+  "area": "basement",
+  "setting": "residential",
+  "system": "metallic",
+  "color": "Copper",
+  "color_confidence": "high",
+  "color_runner_up": "Cappuccino",
+  "color_description": "warm orange-copper metallic with subtle marbling, high gloss",
+  "shot_type": "finished",
+  "people": "none",
+  "faces_identifiable": false,
+  "privacy": [],
+  "branding_visible": false,
+  "quality": "4",
+  "issues": [],
+  "website_ready": true,
+  "title": "Basement with copper metallic epoxy floor",
+  "alt_text": "Basement with glossy copper metallic epoxy floor, gray walls, shelving and cabinets. Metallic epoxy basement floor coating.",
+  "tags": [
+   "metallic epoxy",
+   "copper floor",
+   "basement",
+   "glossy",
+   "liquid art",
+   "shelving",
+   "cabinets",
+   "marbled floor",
+   "orange metallic"
+  ],
+  "filename": "basement-copper-metallic-epoxy-floor"
+ },
+ "id": "acd9a23ddbe9",
+ "provider": "kimi",
+ "model": "moonshotai/kimi-k3",
+ "mode": "run",
+ "blind": false,
+ "at": "2026-09-17T12:49:38"
+}

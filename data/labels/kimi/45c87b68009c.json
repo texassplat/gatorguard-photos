@@ -1,0 +1,46 @@
+{
+ "finish": "stop",
+ "usage": {
+  "input_tokens": 5324,
+  "output_tokens": 388,
+  "cost": 0.021792
+ },
+ "served_by": "Parasail",
+ "label": {
+  "content": "floor_photo",
+  "area": "garage",
+  "setting": "residential",
+  "system": "full_flake",
+  "color": "Infinity",
+  "color_confidence": "low",
+  "color_runner_up": "Granite",
+  "color_description": "light gray base with small black, white and scattered tan chips",
+  "shot_type": "finished",
+  "people": "none",
+  "faces_identifiable": false,
+  "privacy": [],
+  "branding_visible": false,
+  "quality": "4",
+  "issues": [],
+  "website_ready": true,
+  "title": "Garage with light gray full flake floor",
+  "alt_text": "Garage floor with light gray full flake coating, small black and tan chips, white paneled doors and stem wall",
+  "tags": [
+   "garage",
+   "full flake",
+   "light gray",
+   "black chips",
+   "tan chips",
+   "white paneled doors",
+   "stem wall",
+   "finished floor"
+  ],
+  "filename": "garage-light-gray-full-flake-floor"
+ },
+ "id": "45c87b68009c",
+ "provider": "kimi",
+ "model": "moonshotai/kimi-k3",
+ "mode": "run",
+ "blind": false,
+ "at": "2026-09-17T12:45:09"
+}

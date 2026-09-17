@@ -1,0 +1,46 @@
+{
+ "finish": "stop",
+ "usage": {
+  "input_tokens": 5341,
+  "output_tokens": 297,
+  "cost": 0.020478
+ },
+ "served_by": "Parasail",
+ "label": {
+  "content": "floor_photo",
+  "area": "garage",
+  "setting": "residential",
+  "system": "full_flake",
+  "color": "Ocotillo",
+  "color_confidence": "high",
+  "color_runner_up": "Santana",
+  "color_description": "tan, brown and black chips with some white, small to medium size",
+  "shot_type": "finished",
+  "people": "none",
+  "faces_identifiable": false,
+  "privacy": [],
+  "branding_visible": false,
+  "quality": "4",
+  "issues": [],
+  "website_ready": true,
+  "title": "Garage with Ocotillo full flake floor",
+  "alt_text": "Empty residential garage with a glossy Ocotillo full flake garage floor coating, door open to the street",
+  "tags": [
+   "garage",
+   "full flake",
+   "ocotillo",
+   "tan chips",
+   "glossy floor",
+   "finished floor",
+   "residential",
+   "open garage door"
+  ],
+  "filename": "garage-ocotillo-full-flake-floor"
+ },
+ "id": "72576feb4a82",
+ "provider": "kimi",
+ "model": "moonshotai/kimi-k3",
+ "mode": "run",
+ "blind": false,
+ "at": "2026-09-17T12:46:11"
+}

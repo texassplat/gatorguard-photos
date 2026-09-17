@@ -1,0 +1,48 @@
+{
+ "finish": "stop",
+ "usage": {
+  "input_tokens": 5325,
+  "output_tokens": 292,
+  "cost": 0.020355
+ },
+ "served_by": "Parasail",
+ "label": {
+  "content": "floor_photo",
+  "area": "garage",
+  "setting": "residential",
+  "system": "full_flake",
+  "color": "Granite",
+  "color_confidence": "medium",
+  "color_runner_up": "Aurora",
+  "color_description": "gray, white and black chips, small size",
+  "shot_type": "in_progress",
+  "people": "none",
+  "faces_identifiable": false,
+  "privacy": [],
+  "branding_visible": false,
+  "quality": "4",
+  "issues": [],
+  "website_ready": true,
+  "title": "Fresh gray flake floor in two-car garage",
+  "alt_text": "Garage floor freshly coated with gray, white and black flakes, tape along walls, full flake garage floor coating",
+  "tags": [
+   "garage",
+   "full flake",
+   "gray chips",
+   "white chips",
+   "black chips",
+   "freshly coated",
+   "in progress",
+   "sunlight",
+   "garage floor coating",
+   "diamond wall decals"
+  ],
+  "filename": "garage-gray-flake-floor-fresh-coat"
+ },
+ "id": "d9c4bee6205f",
+ "provider": "kimi",
+ "model": "moonshotai/kimi-k3",
+ "mode": "run",
+ "blind": false,
+ "at": "2026-09-17T12:44:08"
+}

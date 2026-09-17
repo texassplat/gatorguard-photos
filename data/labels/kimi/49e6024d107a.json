@@ -1,0 +1,47 @@
+{
+ "finish": "stop",
+ "usage": {
+  "input_tokens": 5211,
+  "output_tokens": 193,
+  "cost": 0.018528
+ },
+ "served_by": "Parasail",
+ "label": {
+  "content": "floor_photo",
+  "area": "not_visible",
+  "setting": "unknown",
+  "system": "full_flake",
+  "color": "unknown",
+  "color_confidence": "low",
+  "color_runner_up": "Granite",
+  "color_description": "gray, tan and black chips, small to medium size",
+  "shot_type": "close_up",
+  "people": "none",
+  "faces_identifiable": false,
+  "privacy": [],
+  "branding_visible": false,
+  "quality": "4",
+  "issues": [],
+  "website_ready": true,
+  "title": "Golden retriever on gray full flake floor",
+  "alt_text": "Golden retriever sniffing treats on a gray full flake garage floor coating with black and tan chips",
+  "tags": [
+   "dog",
+   "golden retriever",
+   "full flake",
+   "gray floor",
+   "tan chips",
+   "black chips",
+   "pet friendly",
+   "close up",
+   "gameday photoshoot"
+  ],
+  "filename": "golden-retriever-on-gray-flake-floor"
+ },
+ "id": "49e6024d107a",
+ "provider": "kimi",
+ "model": "moonshotai/kimi-k3",
+ "mode": "run",
+ "blind": false,
+ "at": "2026-09-17T12:39:58"
+}

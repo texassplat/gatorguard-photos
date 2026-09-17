@@ -1,0 +1,47 @@
+{
+ "finish": "stop",
+ "usage": {
+  "input_tokens": 5664,
+  "output_tokens": 211,
+  "cost": 0.0109986
+ },
+ "served_by": "Together",
+ "label": {
+  "content": "floor_photo",
+  "area": "pool_deck",
+  "setting": "residential",
+  "system": "full_flake",
+  "color": "Zircon",
+  "color_confidence": "high",
+  "color_runner_up": "Silver Butte",
+  "color_description": "gray, blue-gray and white chips, medium size",
+  "shot_type": "finished",
+  "people": "none",
+  "faces_identifiable": false,
+  "privacy": [],
+  "branding_visible": false,
+  "quality": "4",
+  "issues": [],
+  "website_ready": true,
+  "title": "Pool deck with gray blue full flake floor",
+  "alt_text": "Pool deck with gray and blue full flake floor coating beside a covered pool and brick house with pergola",
+  "tags": [
+   "pool deck",
+   "full flake",
+   "gray chips",
+   "blue chips",
+   "covered pool",
+   "pergola",
+   "brick house",
+   "patio",
+   "finished floor"
+  ],
+  "filename": "pool-deck-gray-blue-flake-floor"
+ },
+ "id": "a5586812bd8d",
+ "provider": "kimi",
+ "model": "moonshotai/kimi-k3",
+ "mode": "run",
+ "blind": false,
+ "at": "2026-09-17T12:56:30"
+}

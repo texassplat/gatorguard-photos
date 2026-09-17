@@ -1,0 +1,48 @@
+{
+ "finish": "stop",
+ "usage": {
+  "input_tokens": 5331,
+  "output_tokens": 240,
+  "cost": 0.019593
+ },
+ "served_by": "Parasail",
+ "label": {
+  "content": "floor_photo",
+  "area": "patio_or_porch",
+  "setting": "residential",
+  "system": "full_flake",
+  "color": "Chestnut",
+  "color_confidence": "medium",
+  "color_runner_up": "Windermere",
+  "color_description": "tan and brown base with black, rust and white chips, medium size",
+  "shot_type": "finished",
+  "people": "none",
+  "faces_identifiable": false,
+  "privacy": [],
+  "branding_visible": false,
+  "quality": "4",
+  "issues": [],
+  "website_ready": true,
+  "title": "Low angle view of full flake patio floor",
+  "alt_text": "Low angle view of a tan and brown flake coated patio floor edge with grass and sliding door behind, full flake concrete coating",
+  "tags": [
+   "patio",
+   "porch",
+   "full flake",
+   "tan chips",
+   "brown chips",
+   "black chips",
+   "exterior",
+   "finished floor",
+   "low angle",
+   "grass edge"
+  ],
+  "filename": "low-angle-tan-full-flake-patio"
+ },
+ "id": "fc7904224d12",
+ "provider": "kimi",
+ "model": "moonshotai/kimi-k3",
+ "mode": "run",
+ "blind": false,
+ "at": "2026-09-17T12:37:38"
+}

@@ -1,0 +1,48 @@
+{
+ "finish": "stop",
+ "usage": {
+  "input_tokens": 5218,
+  "output_tokens": 354,
+  "cost": 0.020964
+ },
+ "served_by": "Parasail",
+ "label": {
+  "content": "floor_photo",
+  "area": "patio_or_porch",
+  "setting": "residential",
+  "system": "full_flake",
+  "color": "unknown",
+  "color_confidence": "low",
+  "color_runner_up": "Lunar",
+  "color_description": "light gray and white fine chips, mostly covered by rug and furniture",
+  "shot_type": "finished",
+  "people": "none",
+  "faces_identifiable": false,
+  "privacy": [],
+  "branding_visible": false,
+  "quality": "4",
+  "issues": [],
+  "website_ready": false,
+  "title": "Covered porch with light gray flake floor and red patio furniture",
+  "alt_text": "Covered porch with light gray flake floor coating, red cushioned sofa, armchair and patterned ottoman on an outdoor rug",
+  "tags": [
+   "porch",
+   "patio",
+   "light gray",
+   "flake floor",
+   "outdoor furniture",
+   "red cushions",
+   "area rug",
+   "french doors",
+   "finished",
+   "exterior"
+  ],
+  "filename": "covered-porch-light-gray-flake-floor"
+ },
+ "id": "0c686b042e6c",
+ "provider": "kimi",
+ "model": "moonshotai/kimi-k3",
+ "mode": "run",
+ "blind": false,
+ "at": "2026-09-17T12:38:03"
+}

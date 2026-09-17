@@ -1,0 +1,48 @@
+{
+ "finish": "stop",
+ "usage": {
+  "input_tokens": 5219,
+  "output_tokens": 210,
+  "cost": 0.018807
+ },
+ "served_by": "Parasail",
+ "label": {
+  "content": "floor_photo",
+  "area": "interior_room",
+  "setting": "residential",
+  "system": "metallic",
+  "color": "Gun Metal",
+  "color_confidence": "medium",
+  "color_runner_up": "Charcoal",
+  "color_description": "swirled dark gray metallic epoxy with lighter gray marbling, high gloss",
+  "shot_type": "finished",
+  "people": "none",
+  "faces_identifiable": false,
+  "privacy": [],
+  "branding_visible": false,
+  "quality": "4",
+  "issues": [],
+  "website_ready": true,
+  "title": "Hallway with dark gray metallic epoxy floor",
+  "alt_text": "Reflective dark gray metallic epoxy floor in a home hallway with staircase, metallic floor coating",
+  "tags": [
+   "metallic epoxy",
+   "gray floor",
+   "hallway",
+   "staircase",
+   "interior",
+   "reflective",
+   "swirled",
+   "residential",
+   "liquid art",
+   "finished"
+  ],
+  "filename": "gray-metallic-epoxy-hallway-floor"
+ },
+ "id": "db51aae02919",
+ "provider": "kimi",
+ "model": "moonshotai/kimi-k3",
+ "mode": "run",
+ "blind": false,
+ "at": "2026-09-17T12:50:45"
+}

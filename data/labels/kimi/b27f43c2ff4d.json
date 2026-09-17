@@ -1,0 +1,46 @@
+{
+ "finish": "stop",
+ "usage": {
+  "input_tokens": 5350,
+  "output_tokens": 290,
+  "cost": 0.0204
+ },
+ "served_by": "Fireworks",
+ "label": {
+  "content": "floor_photo",
+  "area": "garage",
+  "setting": "residential",
+  "system": "full_flake",
+  "color": "unknown",
+  "color_confidence": "low",
+  "color_runner_up": "Stone Ridge",
+  "color_description": "gray, black and white chips with light tan accents, medium size",
+  "shot_type": "close_up",
+  "people": "none",
+  "faces_identifiable": false,
+  "privacy": [],
+  "branding_visible": false,
+  "quality": "4",
+  "issues": [],
+  "website_ready": false,
+  "title": "Close up of tool joint in flake garage floor",
+  "alt_text": "Low angle close up of a tooled control joint in a gray full flake garage floor coating",
+  "tags": [
+   "cut line",
+   "tool joint",
+   "control joint",
+   "close up",
+   "full flake",
+   "gray chips",
+   "garage floor",
+   "flake floor"
+  ],
+  "filename": "flake-floor-tool-joint-close-up"
+ },
+ "id": "b27f43c2ff4d",
+ "provider": "kimi",
+ "model": "moonshotai/kimi-k3",
+ "mode": "run",
+ "blind": false,
+ "at": "2026-09-17T12:35:36"
+}

@@ -1,0 +1,48 @@
+{
+ "finish": "stop",
+ "usage": {
+  "input_tokens": 5031,
+  "output_tokens": 230,
+  "cost": 0.00875731
+ },
+ "served_by": "DigitalOcean",
+ "label": {
+  "alt_text": "Finished basement with tan full flake floor coating near furnace, water heater and tool bench",
+  "area": "basement",
+  "branding_visible": false,
+  "color": "unknown",
+  "color_confidence": "low",
+  "color_description": "tan, brown and black chips, small to medium size",
+  "color_runner_up": "unknown",
+  "content": "floor_photo",
+  "faces_identifiable": false,
+  "filename": "basement-tan-full-flake-utility-room",
+  "issues": [
+   "cluttered"
+  ],
+  "people": "none",
+  "privacy": [],
+  "quality": "3",
+  "setting": "residential",
+  "shot_type": "finished",
+  "system": "full_flake",
+  "tags": [
+   "basement",
+   "full flake",
+   "tan chips",
+   "furnace",
+   "water heater",
+   "tool wall",
+   "finished floor",
+   "glossy"
+  ],
+  "title": "Basement utility room full flake floor",
+  "website_ready": false
+ },
+ "id": "cb1dfce1f426",
+ "provider": "kimi",
+ "model": "moonshotai/kimi-k3",
+ "mode": "run",
+ "blind": false,
+ "at": "2026-09-17T12:31:07"
+}

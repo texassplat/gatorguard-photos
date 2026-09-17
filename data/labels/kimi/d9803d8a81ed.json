@@ -1,0 +1,47 @@
+{
+ "finish": "stop",
+ "usage": {
+  "input_tokens": 5325,
+  "output_tokens": 288,
+  "cost": 0.01372716598464
+ },
+ "served_by": "Makora",
+ "label": {
+  "content": "floor_photo",
+  "area": "garage",
+  "setting": "residential",
+  "system": "full_flake",
+  "color": "Infinity",
+  "color_confidence": "medium",
+  "color_runner_up": "Zircon",
+  "color_description": "light and medium gray chips with white, black and hints of tan, small to medium size",
+  "shot_type": "finished",
+  "people": "none",
+  "faces_identifiable": false,
+  "privacy": [],
+  "branding_visible": false,
+  "quality": "4",
+  "issues": [],
+  "website_ready": true,
+  "title": "Garage with light gray full flake floor",
+  "alt_text": "Garage interior with a light gray full flake epoxy floor, wood shelving and bikes on wall hooks",
+  "tags": [
+   "garage",
+   "full flake",
+   "gray chips",
+   "white chips",
+   "black chips",
+   "shelving",
+   "bikes",
+   "finished floor",
+   "epoxy floor"
+  ],
+  "filename": "garage-light-gray-full-flake-floor"
+ },
+ "id": "d9803d8a81ed",
+ "provider": "kimi",
+ "model": "moonshotai/kimi-k3",
+ "mode": "run",
+ "blind": false,
+ "at": "2026-09-17T12:44:45"
+}

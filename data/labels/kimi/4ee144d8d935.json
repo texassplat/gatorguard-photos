@@ -1,0 +1,48 @@
+{
+ "finish": "stop",
+ "usage": {
+  "input_tokens": 5283,
+  "output_tokens": 177,
+  "cost": 0.006884445
+ },
+ "served_by": "Morph",
+ "label": {
+  "content": "floor_photo",
+  "area": "basement",
+  "setting": "residential",
+  "system": "metallic",
+  "color": "Copper",
+  "color_confidence": "high",
+  "color_runner_up": "Cappuccino",
+  "color_description": "coppery orange-brown metallic with lighter tan swirls, high gloss",
+  "shot_type": "finished",
+  "people": "none",
+  "faces_identifiable": false,
+  "privacy": [],
+  "branding_visible": false,
+  "quality": "4",
+  "issues": [],
+  "website_ready": true,
+  "title": "Basement with copper metallic epoxy floor",
+  "alt_text": "Glossy copper metallic epoxy floor in a basement with exposed wall studs and insulation, metallic epoxy floor coating",
+  "tags": [
+   "metallic epoxy",
+   "copper metallic",
+   "basement floor",
+   "liquid art",
+   "high gloss",
+   "swirled",
+   "orange brown",
+   "exposed studs",
+   "insulation",
+   "finished"
+  ],
+  "filename": "basement-copper-metallic-epoxy-floor"
+ },
+ "id": "4ee144d8d935",
+ "provider": "kimi",
+ "model": "moonshotai/kimi-k3",
+ "mode": "run",
+ "blind": false,
+ "at": "2026-09-17T12:50:12"
+}

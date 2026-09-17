@@ -1,0 +1,48 @@
+{
+ "finish": "stop",
+ "usage": {
+  "input_tokens": 5319,
+  "output_tokens": 199,
+  "cost": 0.0187692
+ },
+ "served_by": "Modal",
+ "label": {
+  "content": "floor_photo",
+  "area": "commercial_or_industrial",
+  "setting": "commercial",
+  "system": "solid_color",
+  "color": "Gray",
+  "color_confidence": "low",
+  "color_runner_up": "unknown",
+  "color_description": "light gray solid coating, no chips, glossy finish",
+  "shot_type": "finished",
+  "people": "none",
+  "faces_identifiable": false,
+  "privacy": [],
+  "branding_visible": false,
+  "quality": "4",
+  "issues": [
+   "cluttered"
+  ],
+  "website_ready": false,
+  "title": "Sheriff office lobby with light gray solid color floor",
+  "alt_text": "Sheriff office front desk and lobby with glossy light gray solid color concrete floor coating",
+  "tags": [
+   "commercial floor",
+   "sheriff office",
+   "gray floor",
+   "solid color",
+   "glossy",
+   "lobby",
+   "office interior",
+   "white walls"
+  ],
+  "filename": "sheriff-office-light-gray-solid-floor"
+ },
+ "id": "6feb37638173",
+ "provider": "kimi",
+ "model": "moonshotai/kimi-k3",
+ "mode": "run",
+ "blind": false,
+ "at": "2026-09-17T12:34:49"
+}

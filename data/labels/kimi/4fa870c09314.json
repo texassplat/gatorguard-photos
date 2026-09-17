@@ -1,0 +1,47 @@
+{
+ "finish": "stop",
+ "usage": {
+  "input_tokens": 5355,
+  "output_tokens": 336,
+  "cost": 0.021105
+ },
+ "served_by": "Parasail",
+ "label": {
+  "content": "floor_photo",
+  "area": "basement",
+  "setting": "residential",
+  "system": "full_flake",
+  "color": "Gold Mine",
+  "color_confidence": "medium",
+  "color_runner_up": "Shalestone",
+  "color_description": "white, gray and black chips with scattered tan and gold chips, medium size",
+  "shot_type": "finished",
+  "people": "none",
+  "faces_identifiable": false,
+  "privacy": [],
+  "branding_visible": false,
+  "quality": "4",
+  "issues": [],
+  "website_ready": true,
+  "title": "Finished basement with light full flake floor",
+  "alt_text": "Basement with white, gray and black full flake floor, painted brick wall and open ceiling",
+  "tags": [
+   "basement",
+   "full flake",
+   "white gray black chips",
+   "tan chips",
+   "painted brick wall",
+   "open ceiling",
+   "support posts",
+   "glossy finish",
+   "finished floor"
+  ],
+  "filename": "basement-full-flake-white-gray-chips"
+ },
+ "id": "4fa870c09314",
+ "provider": "kimi",
+ "model": "moonshotai/kimi-k3",
+ "mode": "pilot",
+ "blind": true,
+ "at": "2026-09-17T12:24:41"
+}

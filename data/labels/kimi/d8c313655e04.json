@@ -1,0 +1,46 @@
+{
+ "finish": "stop",
+ "usage": {
+  "input_tokens": 5314,
+  "output_tokens": 218,
+  "cost": 0.0100536
+ },
+ "served_by": "Together",
+ "label": {
+  "content": "people_or_team",
+  "area": "patio_or_porch",
+  "setting": "residential",
+  "system": "unknown",
+  "color": "not_applicable",
+  "color_confidence": "none",
+  "color_runner_up": "not_applicable",
+  "color_description": "",
+  "shot_type": "crew_working",
+  "people": "prominent",
+  "faces_identifiable": true,
+  "privacy": [],
+  "branding_visible": true,
+  "quality": "4",
+  "issues": [],
+  "website_ready": false,
+  "title": "Installer spreading base coat on outdoor concrete",
+  "alt_text": "GatorGuard installer squeegeeing a tan base coat over outdoor concrete beside a house, coating in progress",
+  "tags": [
+   "installer",
+   "crew working",
+   "base coat",
+   "squeegee",
+   "outdoor concrete",
+   "in progress",
+   "gatorguard shirt",
+   "residential"
+  ],
+  "filename": "installer-spreading-base-coat-outdoor-concrete"
+ },
+ "id": "d8c313655e04",
+ "provider": "kimi",
+ "model": "moonshotai/kimi-k3",
+ "mode": "run",
+ "blind": false,
+ "at": "2026-09-17T12:47:19"
+}

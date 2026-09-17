@@ -1,0 +1,46 @@
+{
+ "finish": "stop",
+ "usage": {
+  "input_tokens": 5345,
+  "output_tokens": 317,
+  "cost": 0.01068466
+ },
+ "served_by": "DigitalOcean",
+ "label": {
+  "alt_text": "Low angle close up of a glossy dark full flake garage floor with black gray and white chips",
+  "area": "garage",
+  "branding_visible": false,
+  "color": "unknown",
+  "color_confidence": "low",
+  "color_description": "dark mix of black, gray and white chips, small size",
+  "color_runner_up": "Granite",
+  "content": "floor_photo",
+  "faces_identifiable": false,
+  "filename": "close-up-dark-flake-garage-floor",
+  "issues": [],
+  "people": "none",
+  "privacy": [],
+  "quality": "4",
+  "setting": "residential",
+  "shot_type": "close_up",
+  "system": "full_flake",
+  "tags": [
+   "close up",
+   "full flake",
+   "garage floor",
+   "glossy finish",
+   "dark chips",
+   "black gray white chips",
+   "low angle",
+   "finished floor"
+  ],
+  "title": "Close up of dark full flake garage floor",
+  "website_ready": true
+ },
+ "id": "e5a39afafe1c",
+ "provider": "kimi",
+ "model": "moonshotai/kimi-k3",
+ "mode": "run",
+ "blind": false,
+ "at": "2026-09-17T12:32:02"
+}

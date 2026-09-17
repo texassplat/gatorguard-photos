@@ -1,0 +1,49 @@
+{
+ "finish": "stop",
+ "usage": {
+  "input_tokens": 5342,
+  "output_tokens": 336,
+  "cost": 0.021066
+ },
+ "served_by": "Fireworks",
+ "label": {
+  "content": "floor_photo",
+  "area": "patio_or_porch",
+  "setting": "residential",
+  "system": "full_flake",
+  "color": "Ocotillo",
+  "color_confidence": "medium",
+  "color_runner_up": "Chestnut",
+  "color_description": "tan base with black, white and brown chips, small to medium size",
+  "shot_type": "close_up",
+  "people": "none",
+  "faces_identifiable": false,
+  "privacy": [],
+  "branding_visible": true,
+  "quality": "3",
+  "issues": [
+   "blurry"
+  ],
+  "website_ready": false,
+  "title": "Close up of outdoor tan flake coating",
+  "alt_text": "Close up of a tan full flake coated concrete surface outdoors with black and white chips",
+  "tags": [
+   "full flake",
+   "tan chips",
+   "black chips",
+   "white chips",
+   "close up",
+   "outdoor",
+   "patio",
+   "clear coat",
+   "texture"
+  ],
+  "filename": "tan-full-flake-outdoor-close-up"
+ },
+ "id": "d855a4c408dd",
+ "provider": "kimi",
+ "model": "moonshotai/kimi-k3",
+ "mode": "run",
+ "blind": false,
+ "at": "2026-09-17T12:38:11"
+}

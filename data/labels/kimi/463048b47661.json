@@ -1,0 +1,47 @@
+{
+ "finish": "stop",
+ "usage": {
+  "input_tokens": 5206,
+  "output_tokens": 248,
+  "cost": 0.0101796
+ },
+ "served_by": "Together",
+ "label": {
+  "content": "floor_photo",
+  "area": "not_visible",
+  "setting": "unknown",
+  "system": "full_flake",
+  "color": "Granite",
+  "color_confidence": "medium",
+  "color_runner_up": "Stone Rowe",
+  "color_description": "gray, black and white chips, small to medium size, glossy clear coat",
+  "shot_type": "finished",
+  "people": "none",
+  "faces_identifiable": false,
+  "privacy": [],
+  "branding_visible": false,
+  "quality": "4",
+  "issues": [],
+  "website_ready": true,
+  "title": "Golden retriever eating chips on flake floor",
+  "alt_text": "Golden retriever eating tortilla chips off a glossy gray full flake garage floor coating",
+  "tags": [
+   "dog",
+   "golden retriever",
+   "chips",
+   "full flake",
+   "gray chips",
+   "glossy floor",
+   "pet friendly",
+   "gameday photoshoot",
+   "finished floor"
+  ],
+  "filename": "golden-retriever-chips-flake-floor"
+ },
+ "id": "463048b47661",
+ "provider": "kimi",
+ "model": "moonshotai/kimi-k3",
+ "mode": "run",
+ "blind": false,
+ "at": "2026-09-17T12:39:47"
+}

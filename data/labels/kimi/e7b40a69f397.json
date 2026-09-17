@@ -1,0 +1,47 @@
+{
+ "finish": "stop",
+ "usage": {
+  "input_tokens": 4942,
+  "output_tokens": 157,
+  "cost": 0.00603507
+ },
+ "served_by": "Morph",
+ "label": {
+  "content": "marketing_graphic",
+  "area": "commercial_or_industrial",
+  "setting": "commercial",
+  "system": "full_flake",
+  "color": "unknown",
+  "color_confidence": "low",
+  "color_runner_up": "Granite",
+  "color_description": "light gray base with small white, gray and black chips",
+  "shot_type": "graphic",
+  "people": "none",
+  "faces_identifiable": false,
+  "privacy": [],
+  "branding_visible": true,
+  "quality": "3",
+  "issues": [
+   "text_overlay"
+  ],
+  "website_ready": false,
+  "title": "Commercial warehouse floor with text overlay",
+  "alt_text": "Empty commercial warehouse with glossy gray flake floor and large COMMERCIAL text overlay",
+  "tags": [
+   "commercial",
+   "warehouse",
+   "gray flake floor",
+   "glossy floor",
+   "text overlay",
+   "marketing graphic",
+   "empty building"
+  ],
+  "filename": "commercial-warehouse-gray-flake-text-overlay"
+ },
+ "id": "e7b40a69f397",
+ "provider": "kimi",
+ "model": "moonshotai/kimi-k3",
+ "mode": "run",
+ "blind": false,
+ "at": "2026-09-17T12:59:15"
+}

@@ -1,0 +1,46 @@
+{
+ "finish": "stop",
+ "usage": {
+  "input_tokens": 5335,
+  "output_tokens": 286,
+  "cost": 0.0111366
+ },
+ "served_by": "Together",
+ "label": {
+  "content": "floor_photo",
+  "area": "garage",
+  "setting": "unknown",
+  "system": "solid_color",
+  "color": "unknown",
+  "color_confidence": "low",
+  "color_runner_up": "Gray",
+  "color_description": "flat light gray coating, no chips, glossy finish",
+  "shot_type": "finished",
+  "people": "none",
+  "faces_identifiable": false,
+  "privacy": [],
+  "branding_visible": false,
+  "quality": "4",
+  "issues": [],
+  "website_ready": true,
+  "title": "Empty garage with glossy gray solid color floor",
+  "alt_text": "Empty garage with a glossy light gray solid color floor coating and white walls",
+  "tags": [
+   "garage",
+   "solid color",
+   "gray floor",
+   "glossy",
+   "empty garage",
+   "finished floor",
+   "no flakes",
+   "overhead lights"
+  ],
+  "filename": "garage-glossy-gray-solid-color-floor"
+ },
+ "id": "2264ae8b5fee",
+ "provider": "kimi",
+ "model": "moonshotai/kimi-k3",
+ "mode": "run",
+ "blind": false,
+ "at": "2026-09-17T12:41:48"
+}

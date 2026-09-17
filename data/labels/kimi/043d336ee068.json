@@ -1,0 +1,46 @@
+{
+ "finish": "stop",
+ "usage": {
+  "input_tokens": 5323,
+  "output_tokens": 213,
+  "cost": 0.0100056
+ },
+ "served_by": "Together",
+ "label": {
+  "content": "floor_photo",
+  "area": "basement",
+  "setting": "residential",
+  "system": "grind_and_seal",
+  "color": "not_applicable",
+  "color_confidence": "none",
+  "color_runner_up": "not_applicable",
+  "color_description": "ground tan concrete with natural aggregate speckling under clear sealer",
+  "shot_type": "finished",
+  "people": "none",
+  "faces_identifiable": false,
+  "privacy": [],
+  "branding_visible": false,
+  "quality": "4",
+  "issues": [],
+  "website_ready": true,
+  "title": "Basement grind and seal floor by carpeted stairs",
+  "alt_text": "Polished tan grind and seal concrete basement floor with sawcut joints near carpeted stairs and white door",
+  "tags": [
+   "grind and seal",
+   "basement floor",
+   "polished concrete",
+   "tan concrete",
+   "sawcut joints",
+   "carpeted stairs",
+   "clear sealer",
+   "finished floor"
+  ],
+  "filename": "basement-grind-and-seal-carpeted-stairs"
+ },
+ "id": "043d336ee068",
+ "provider": "kimi",
+ "model": "moonshotai/kimi-k3",
+ "mode": "run",
+ "blind": false,
+ "at": "2026-09-17T12:46:38"
+}

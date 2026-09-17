@@ -1,0 +1,46 @@
+{
+ "finish": "stop",
+ "usage": {
+  "input_tokens": 5327,
+  "output_tokens": 192,
+  "cost": 0.0097026
+ },
+ "served_by": "Together",
+ "label": {
+  "content": "floor_photo",
+  "area": "garage",
+  "setting": "residential",
+  "system": "metallic",
+  "color": "Charcoal",
+  "color_confidence": "medium",
+  "color_runner_up": "Quartzite",
+  "color_description": "dark gray metallic with lighter silver marbling and swirls",
+  "shot_type": "finished",
+  "people": "none",
+  "faces_identifiable": false,
+  "privacy": [],
+  "branding_visible": false,
+  "quality": "4",
+  "issues": [],
+  "website_ready": true,
+  "title": "Garage with dark gray metallic epoxy floor",
+  "alt_text": "Garage room with glossy dark gray marbled metallic epoxy floor, motorcycle posters on white walls",
+  "tags": [
+   "metallic epoxy",
+   "liquid art",
+   "dark gray",
+   "silver marbling",
+   "garage",
+   "motorcycle posters",
+   "glossy floor",
+   "finished"
+  ],
+  "filename": "garage-dark-gray-metallic-floor"
+ },
+ "id": "21a16ef1b8f6",
+ "provider": "kimi",
+ "model": "moonshotai/kimi-k3",
+ "mode": "run",
+ "blind": false,
+ "at": "2026-09-17T12:51:45"
+}

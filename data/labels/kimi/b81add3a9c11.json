@@ -1,0 +1,46 @@
+{
+ "finish": "stop",
+ "usage": {
+  "input_tokens": 5336,
+  "output_tokens": 238,
+  "cost": 0.019578
+ },
+ "served_by": "Parasail",
+ "label": {
+  "content": "floor_photo",
+  "area": "not_visible",
+  "setting": "unknown",
+  "system": "full_flake",
+  "color": "Indigo",
+  "color_confidence": "medium",
+  "color_runner_up": "Pacific Coast",
+  "color_description": "gray base with white, black and gray chips and scattered tan and rust accents",
+  "shot_type": "close_up",
+  "people": "none",
+  "faces_identifiable": false,
+  "privacy": [],
+  "branding_visible": false,
+  "quality": "4",
+  "issues": [],
+  "website_ready": true,
+  "title": "Close-up of flake floor edge beside bare concrete",
+  "alt_text": "Close-up of a gray full flake floor coating with a crisp edge against bare concrete",
+  "tags": [
+   "close up",
+   "full flake",
+   "crisp lines",
+   "coating edge",
+   "gray chips",
+   "tan chips",
+   "bare concrete",
+   "detail shot"
+  ],
+  "filename": "flake-floor-edge-beside-bare-concrete"
+ },
+ "id": "b81add3a9c11",
+ "provider": "kimi",
+ "model": "moonshotai/kimi-k3",
+ "mode": "run",
+ "blind": false,
+ "at": "2026-09-17T12:35:22"
+}

@@ -1,0 +1,48 @@
+{
+ "finish": "stop",
+ "usage": {
+  "input_tokens": 5333,
+  "output_tokens": 272,
+  "cost": 0.020079
+ },
+ "served_by": "Parasail",
+ "label": {
+  "content": "floor_photo",
+  "area": "basement",
+  "setting": "residential",
+  "system": "full_flake",
+  "color": "unknown",
+  "color_confidence": "low",
+  "color_runner_up": "Aurora",
+  "color_description": "light gray base with fine gray and black speckled chips",
+  "shot_type": "finished",
+  "people": "none",
+  "faces_identifiable": false,
+  "privacy": [],
+  "branding_visible": false,
+  "quality": "3",
+  "issues": [
+   "dark"
+  ],
+  "website_ready": false,
+  "title": "Basement utility room with gray flake floor",
+  "alt_text": "Basement utility room with furnace and a gray full flake floor coating with fine dark speckles",
+  "tags": [
+   "basement",
+   "utility room",
+   "full flake",
+   "gray floor",
+   "furnace",
+   "fine chips",
+   "finished floor",
+   "speckled"
+  ],
+  "filename": "basement-utility-room-gray-flake-floor"
+ },
+ "id": "8f47f17b95b2",
+ "provider": "kimi",
+ "model": "moonshotai/kimi-k3",
+ "mode": "run",
+ "blind": false,
+ "at": "2026-09-17T12:53:22"
+}

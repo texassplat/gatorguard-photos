@@ -1,0 +1,49 @@
+{
+ "finish": "stop",
+ "usage": {
+  "input_tokens": 5332,
+  "output_tokens": 210,
+  "cost": 0.019146
+ },
+ "served_by": "Parasail",
+ "label": {
+  "content": "floor_photo",
+  "area": "basement",
+  "setting": "residential",
+  "system": "metallic",
+  "color": "Charcoal",
+  "color_confidence": "low",
+  "color_runner_up": "Gray",
+  "color_description": "dark gray and silver swirled metallic epoxy, marbled wet look, no chips",
+  "shot_type": "finished",
+  "people": "none",
+  "faces_identifiable": false,
+  "privacy": [],
+  "branding_visible": false,
+  "quality": "3",
+  "issues": [
+   "dark"
+  ],
+  "website_ready": false,
+  "title": "Dark gray metallic epoxy floor in basement corner",
+  "alt_text": "Dark gray marbled metallic epoxy floor in a basement corner with unfinished walls, metallic epoxy floor coating",
+  "tags": [
+   "metallic epoxy",
+   "liquid art",
+   "dark gray",
+   "swirled",
+   "marbled",
+   "basement",
+   "glossy",
+   "reflective",
+   "unfinished walls"
+  ],
+  "filename": "dark-gray-metallic-basement-floor"
+ },
+ "id": "df489665419f",
+ "provider": "kimi",
+ "model": "moonshotai/kimi-k3",
+ "mode": "run",
+ "blind": false,
+ "at": "2026-09-17T12:51:01"
+}

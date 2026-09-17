@@ -1,0 +1,46 @@
+{
+ "finish": "stop",
+ "usage": {
+  "input_tokens": 5326,
+  "output_tokens": 257,
+  "cost": 0.0106746
+ },
+ "served_by": "Together",
+ "label": {
+  "content": "floor_photo",
+  "area": "other_exterior",
+  "setting": "residential",
+  "system": "full_flake",
+  "color": "Granite",
+  "color_confidence": "low",
+  "color_runner_up": "Silver Butte",
+  "color_description": "small black, white and gray chips on a light gray base",
+  "shot_type": "close_up",
+  "people": "none",
+  "faces_identifiable": false,
+  "privacy": [],
+  "branding_visible": false,
+  "quality": "4",
+  "issues": [],
+  "website_ready": false,
+  "title": "Gray flake coated stem wall beside rock bed",
+  "alt_text": "Close-up of a gray full flake coated concrete edge along a river rock landscaping bed outside a white home",
+  "tags": [
+   "full flake",
+   "stem wall",
+   "exterior",
+   "gray chips",
+   "close up",
+   "landscaping rocks",
+   "edge detail",
+   "residential"
+  ],
+  "filename": "gray-flake-stem-wall-rock-bed"
+ },
+ "id": "180c69e3b256",
+ "provider": "kimi",
+ "model": "moonshotai/kimi-k3",
+ "mode": "run",
+ "blind": false,
+ "at": "2026-09-17T12:37:02"
+}

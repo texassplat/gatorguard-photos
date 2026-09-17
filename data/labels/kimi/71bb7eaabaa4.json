@@ -1,0 +1,46 @@
+{
+ "finish": "stop",
+ "usage": {
+  "input_tokens": 5331,
+  "output_tokens": 209,
+  "cost": 0.019128
+ },
+ "served_by": "Parasail",
+ "label": {
+  "content": "floor_photo",
+  "area": "patio_or_porch",
+  "setting": "residential",
+  "system": "stamped_concrete",
+  "color": "not_applicable",
+  "color_confidence": "none",
+  "color_runner_up": "not_applicable",
+  "color_description": "tan and brown stamped stone pattern with glossy sealer",
+  "shot_type": "finished",
+  "people": "none",
+  "faces_identifiable": false,
+  "privacy": [],
+  "branding_visible": false,
+  "quality": "4",
+  "issues": [],
+  "website_ready": true,
+  "title": "Covered patio with sealed stamped concrete floor",
+  "alt_text": "Covered brick porch with glossy stamped concrete patio floor in a random stone pattern",
+  "tags": [
+   "stamped concrete",
+   "patio",
+   "covered porch",
+   "glossy sealer",
+   "random stone pattern",
+   "exterior",
+   "tan brown",
+   "brick house"
+  ],
+  "filename": "covered-patio-stamped-concrete-floor"
+ },
+ "id": "71bb7eaabaa4",
+ "provider": "kimi",
+ "model": "moonshotai/kimi-k3",
+ "mode": "run",
+ "blind": false,
+ "at": "2026-09-17T12:36:57"
+}

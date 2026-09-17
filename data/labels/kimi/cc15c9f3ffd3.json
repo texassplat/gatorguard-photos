@@ -1,0 +1,49 @@
+{
+ "finish": "stop",
+ "usage": {
+  "input_tokens": 5314,
+  "output_tokens": 193,
+  "cost": 0.0096786
+ },
+ "served_by": "Together",
+ "label": {
+  "content": "floor_photo",
+  "area": "patio_or_porch",
+  "setting": "residential",
+  "system": "unknown",
+  "color": "unknown",
+  "color_confidence": "none",
+  "color_runner_up": "not_applicable",
+  "color_description": "tan liquid coating being poured, no chips visible yet",
+  "shot_type": "in_progress",
+  "people": "prominent",
+  "faces_identifiable": false,
+  "privacy": [],
+  "branding_visible": true,
+  "quality": "3",
+  "issues": [
+   "wet_or_dirty"
+  ],
+  "website_ready": false,
+  "title": "Installer pouring tan base coat on patio",
+  "alt_text": "GatorGuard installer pouring tan coating onto an exterior concrete patio beside a house",
+  "tags": [
+   "installer",
+   "crew working",
+   "patio",
+   "pouring coating",
+   "base coat",
+   "in progress",
+   "exterior concrete",
+   "bucket",
+   "house exterior"
+  ],
+  "filename": "installer-pouring-tan-coating-patio"
+ },
+ "id": "cc15c9f3ffd3",
+ "provider": "kimi",
+ "model": "moonshotai/kimi-k3",
+ "mode": "run",
+ "blind": false,
+ "at": "2026-09-17T12:47:06"
+}

@@ -1,0 +1,49 @@
+{
+ "finish": "stop",
+ "usage": {
+  "input_tokens": 5337,
+  "output_tokens": 256,
+  "cost": 0.0106926
+ },
+ "served_by": "Together",
+ "label": {
+  "content": "floor_photo",
+  "area": "garage",
+  "setting": "residential",
+  "system": "full_flake",
+  "color": "Chestnut",
+  "color_confidence": "medium",
+  "color_runner_up": "Black Canyon",
+  "color_description": "brown, tan and black chips, small to medium size",
+  "shot_type": "finished",
+  "people": "background",
+  "faces_identifiable": false,
+  "privacy": [],
+  "branding_visible": false,
+  "quality": "3",
+  "issues": [
+   "cluttered"
+  ],
+  "website_ready": false,
+  "title": "Garage with brown full flake floor",
+  "alt_text": "Garage interior with a brown full flake floor coating, bike hanging from ceiling and open garage door",
+  "tags": [
+   "garage",
+   "full flake",
+   "brown chips",
+   "tan chips",
+   "black chips",
+   "finished floor",
+   "bike storage",
+   "open garage door",
+   "cornhole boards"
+  ],
+  "filename": "garage-brown-full-flake-floor"
+ },
+ "id": "0398aa18ec2a",
+ "provider": "kimi",
+ "model": "moonshotai/kimi-k3",
+ "mode": "run",
+ "blind": false,
+ "at": "2026-09-17T12:40:42"
+}

@@ -1,0 +1,48 @@
+{
+ "finish": "stop",
+ "usage": {
+  "input_tokens": 5326,
+  "output_tokens": 254,
+  "cost": 0.0106296
+ },
+ "served_by": "Together",
+ "label": {
+  "content": "floor_photo",
+  "area": "patio_or_porch",
+  "setting": "residential",
+  "system": "full_flake",
+  "color": "Stone Ridge",
+  "color_confidence": "medium",
+  "color_runner_up": "Pacific Coast",
+  "color_description": "gray, white and black chips with scattered tan and brown chips, small to medium size",
+  "shot_type": "finished",
+  "people": "none",
+  "faces_identifiable": false,
+  "privacy": [],
+  "branding_visible": false,
+  "quality": "4",
+  "issues": [],
+  "website_ready": true,
+  "title": "Covered porch with gray full flake floor",
+  "alt_text": "Covered porch with gray, white and black full flake floor coating beside brick wall and sliding glass door",
+  "tags": [
+   "porch",
+   "exterior",
+   "full flake",
+   "gray chips",
+   "white chips",
+   "black chips",
+   "tan chips",
+   "brick wall",
+   "sliding glass door",
+   "finished floor"
+  ],
+  "filename": "covered-porch-gray-full-flake-floor"
+ },
+ "id": "2e0a136fbd0b",
+ "provider": "kimi",
+ "model": "moonshotai/kimi-k3",
+ "mode": "run",
+ "blind": false,
+ "at": "2026-09-17T12:37:21"
+}

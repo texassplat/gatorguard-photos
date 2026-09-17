@@ -1,0 +1,48 @@
+{
+ "finish": "stop",
+ "usage": {
+  "input_tokens": 5321,
+  "output_tokens": 323,
+  "cost": 0.0206352
+ },
+ "served_by": "Modal",
+ "label": {
+  "content": "floor_photo",
+  "area": "patio_or_porch",
+  "setting": "residential",
+  "system": "stamped_concrete",
+  "color": "not_applicable",
+  "color_confidence": "none",
+  "color_runner_up": "not_applicable",
+  "color_description": "",
+  "shot_type": "finished",
+  "people": "none",
+  "faces_identifiable": false,
+  "privacy": [],
+  "branding_visible": false,
+  "quality": "5",
+  "issues": [],
+  "website_ready": true,
+  "title": "Stamped concrete patio with wet-look sealer",
+  "alt_text": "Stamped concrete patio with glossy brown and gray sealer beside a brick house, steps, and white pergola.",
+  "tags": [
+   "stamped concrete",
+   "patio",
+   "wet look sealer",
+   "brown",
+   "glossy",
+   "brick house",
+   "steps",
+   "pergola",
+   "backyard",
+   "finished"
+  ],
+  "filename": "stamped-concrete-patio-wet-look-sealer"
+ },
+ "id": "0bff8fa2c9ce",
+ "provider": "kimi",
+ "model": "moonshotai/kimi-k3",
+ "mode": "run",
+ "blind": false,
+ "at": "2026-09-17T12:57:30"
+}

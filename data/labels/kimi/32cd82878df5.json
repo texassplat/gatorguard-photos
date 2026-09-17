@@ -1,0 +1,50 @@
+{
+ "finish": "stop",
+ "usage": {
+  "input_tokens": 5325,
+  "output_tokens": 237,
+  "cost": 0.0103716
+ },
+ "served_by": "Together",
+ "label": {
+  "content": "floor_photo",
+  "area": "patio_or_porch",
+  "setting": "residential",
+  "system": "full_flake",
+  "color": "Granite",
+  "color_confidence": "medium",
+  "color_runner_up": "Stone Rowe",
+  "color_description": "gray base with white, black and light gray chips, small to medium size",
+  "shot_type": "finished",
+  "people": "none",
+  "faces_identifiable": false,
+  "privacy": [],
+  "branding_visible": false,
+  "quality": "3",
+  "issues": [
+   "cluttered"
+  ],
+  "website_ready": false,
+  "title": "Screened porch with gray full flake floor",
+  "alt_text": "Screened porch with gray full flake floor, wicker seating with red cushions and white brick walls",
+  "tags": [
+   "porch",
+   "full flake",
+   "gray chips",
+   "white chips",
+   "black chips",
+   "wicker furniture",
+   "red cushions",
+   "white brick",
+   "finished floor",
+   "exterior"
+  ],
+  "filename": "screened-porch-gray-full-flake-floor"
+ },
+ "id": "32cd82878df5",
+ "provider": "kimi",
+ "model": "moonshotai/kimi-k3",
+ "mode": "run",
+ "blind": false,
+ "at": "2026-09-17T12:37:18"
+}

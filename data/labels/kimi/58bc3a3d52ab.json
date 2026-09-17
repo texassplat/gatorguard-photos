@@ -1,0 +1,47 @@
+{
+ "finish": "stop",
+ "usage": {
+  "input_tokens": 4910,
+  "output_tokens": 207,
+  "cost": 0.0086766
+ },
+ "served_by": "Together",
+ "label": {
+  "content": "floor_photo",
+  "area": "commercial_or_industrial",
+  "setting": "commercial",
+  "system": "solid_color",
+  "color": "unknown",
+  "color_confidence": "none",
+  "color_runner_up": "not_applicable",
+  "color_description": "solid light tan or cream coating, glossy, no chips",
+  "shot_type": "finished",
+  "people": "none",
+  "faces_identifiable": false,
+  "privacy": [],
+  "branding_visible": false,
+  "quality": "3",
+  "issues": [
+   "tilted"
+  ],
+  "website_ready": false,
+  "title": "Commercial room with tan solid color floor",
+  "alt_text": "Glossy light tan solid color floor coating in a commercial room with white walls and door frames",
+  "tags": [
+   "commercial",
+   "solid color",
+   "tan floor",
+   "glossy",
+   "interior",
+   "no chips",
+   "finished floor"
+  ],
+  "filename": "commercial-tan-solid-color-floor"
+ },
+ "id": "58bc3a3d52ab",
+ "provider": "kimi",
+ "model": "moonshotai/kimi-k3",
+ "mode": "run",
+ "blind": false,
+ "at": "2026-09-17T12:33:32"
+}

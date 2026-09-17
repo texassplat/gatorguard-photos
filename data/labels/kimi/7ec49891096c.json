@@ -1,0 +1,48 @@
+{
+ "finish": "stop",
+ "usage": {
+  "input_tokens": 5151,
+  "output_tokens": 169,
+  "cost": 0.006552945
+ },
+ "served_by": "Morph",
+ "label": {
+  "content": "floor_photo",
+  "area": "basement",
+  "setting": "residential",
+  "system": "metallic",
+  "color": "Gray",
+  "color_confidence": "medium",
+  "color_runner_up": "Denim",
+  "color_description": "marbled silver-gray metallic floor with subtle lighter swirls, no chips",
+  "shot_type": "finished",
+  "people": "none",
+  "faces_identifiable": false,
+  "privacy": [],
+  "branding_visible": false,
+  "quality": "5",
+  "issues": [],
+  "website_ready": true,
+  "title": "Basement wet bar with gray metallic floor",
+  "alt_text": "Basement kitchenette with white cabinets, island seating and a marbled gray metallic epoxy floor",
+  "tags": [
+   "metallic",
+   "liquid art",
+   "gray metallic",
+   "basement",
+   "wet bar",
+   "kitchenette",
+   "white cabinets",
+   "island stools",
+   "swirl floor",
+   "finished"
+  ],
+  "filename": "basement-wet-bar-gray-metallic-floor"
+ },
+ "id": "7ec49891096c",
+ "provider": "kimi",
+ "model": "moonshotai/kimi-k3",
+ "mode": "run",
+ "blind": false,
+ "at": "2026-09-17T12:50:35"
+}

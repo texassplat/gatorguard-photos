@@ -1,0 +1,50 @@
+{
+ "finish": "stop",
+ "usage": {
+  "input_tokens": 4979,
+  "output_tokens": 176,
+  "cost": 0.006303945
+ },
+ "served_by": "Morph",
+ "label": {
+  "content": "floor_photo",
+  "area": "interior_room",
+  "setting": "residential",
+  "system": "metallic",
+  "color": "Cappuccino",
+  "color_confidence": "low",
+  "color_runner_up": "Gray",
+  "color_description": "swirled marbled metallic epoxy in brown and gray tones, no chips",
+  "shot_type": "in_progress",
+  "people": "background",
+  "faces_identifiable": false,
+  "privacy": [],
+  "branding_visible": false,
+  "quality": "3",
+  "issues": [
+   "blurry",
+   "wet_or_dirty"
+  ],
+  "website_ready": false,
+  "title": "Rolling brown metallic epoxy over basecoat",
+  "alt_text": "Worker rolling brown swirled metallic epoxy coating across an interior concrete floor near white baseboards",
+  "tags": [
+   "metallic epoxy",
+   "liquid art",
+   "rolling",
+   "in progress",
+   "interior floor",
+   "brown metallic",
+   "swirled",
+   "baseboards",
+   "video"
+  ],
+  "filename": "rolling-brown-metallic-epoxy-floor"
+ },
+ "id": "96a3af737bfc",
+ "provider": "kimi",
+ "model": "moonshotai/kimi-k3",
+ "mode": "run",
+ "blind": false,
+ "at": "2026-09-17T12:58:34"
+}

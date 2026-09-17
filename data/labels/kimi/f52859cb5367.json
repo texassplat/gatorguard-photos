@@ -1,0 +1,48 @@
+{
+ "finish": "stop",
+ "usage": {
+  "input_tokens": 5265,
+  "output_tokens": 210,
+  "cost": 0.01257966598464
+ },
+ "served_by": "Makora",
+ "label": {
+  "content": "floor_photo",
+  "area": "garage",
+  "setting": "residential",
+  "system": "full_flake",
+  "color": "Cobalt",
+  "color_confidence": "medium",
+  "color_runner_up": "unknown",
+  "color_description": "light blue and gray small chips over a pale blue-gray base",
+  "shot_type": "finished",
+  "people": "none",
+  "faces_identifiable": false,
+  "privacy": [],
+  "branding_visible": false,
+  "quality": "4",
+  "issues": [],
+  "website_ready": true,
+  "title": "Cream dog lying on blue flake garage floor",
+  "alt_text": "Cream doodle dog lying on a light blue full flake garage floor with blue door and cabinet",
+  "tags": [
+   "garage",
+   "full flake",
+   "blue chips",
+   "gray chips",
+   "dog",
+   "pet on floor",
+   "finished floor",
+   "blue door",
+   "residential",
+   "cobalt"
+  ],
+  "filename": "dog-on-blue-flake-garage-floor"
+ },
+ "id": "f52859cb5367",
+ "provider": "kimi",
+ "model": "moonshotai/kimi-k3",
+ "mode": "run",
+ "blind": false,
+ "at": "2026-09-17T12:41:39"
+}

@@ -1,0 +1,46 @@
+{
+ "finish": "stop",
+ "usage": {
+  "input_tokens": 5321,
+  "output_tokens": 194,
+  "cost": 0.00903061
+ },
+ "served_by": "DigitalOcean",
+ "label": {
+  "alt_text": "GatorGuard Charlotte thank you graphic over dark full flake floor asking for a review",
+  "area": "not_visible",
+  "branding_visible": true,
+  "color": "not_applicable",
+  "color_confidence": "none",
+  "color_description": "",
+  "color_runner_up": "unknown",
+  "content": "marketing_graphic",
+  "faces_identifiable": false,
+  "filename": "gatorguard-charlotte-thank-you-review-graphic",
+  "issues": [
+   "text_overlay"
+  ],
+  "people": "none",
+  "privacy": [],
+  "quality": "3",
+  "setting": "unknown",
+  "shot_type": "graphic",
+  "system": "not_applicable",
+  "tags": [
+   "thank you",
+   "review request",
+   "biz asset",
+   "branded graphic",
+   "charlotte",
+   "text overlay"
+  ],
+  "title": "GatorGuard Charlotte thank you review graphic",
+  "website_ready": false
+ },
+ "id": "8e30af89f267",
+ "provider": "kimi",
+ "model": "moonshotai/kimi-k3",
+ "mode": "run",
+ "blind": false,
+ "at": "2026-09-17T12:31:51"
+}

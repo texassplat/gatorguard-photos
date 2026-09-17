@@ -1,0 +1,46 @@
+{
+ "finish": "stop",
+ "usage": {
+  "input_tokens": 4989,
+  "output_tokens": 160,
+  "cost": 0.006154695
+ },
+ "served_by": "Morph",
+ "label": {
+  "content": "floor_photo",
+  "area": "commercial_or_industrial",
+  "setting": "commercial",
+  "system": "unknown",
+  "color": "not_applicable",
+  "color_confidence": "none",
+  "color_runner_up": "not_applicable",
+  "color_description": "tan, black and red coating with white accents in a custom logo design",
+  "shot_type": "in_progress",
+  "people": "prominent",
+  "faces_identifiable": true,
+  "privacy": [],
+  "branding_visible": true,
+  "quality": "4",
+  "issues": [],
+  "website_ready": false,
+  "title": "Crew installing custom floor logo",
+  "alt_text": "Worker hand finishing a large custom logo floor design in tan, black and red",
+  "tags": [
+   "custom logo",
+   "logo floor",
+   "crew working",
+   "in progress",
+   "stencil work",
+   "commercial floor",
+   "hand detailing",
+   "tan floor"
+  ],
+  "filename": "crew-installing-custom-logo-floor"
+ },
+ "id": "63daff0688e7",
+ "provider": "kimi",
+ "model": "moonshotai/kimi-k3",
+ "mode": "run",
+ "blind": false,
+ "at": "2026-09-17T12:52:39"
+}

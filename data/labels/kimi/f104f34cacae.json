@@ -1,0 +1,46 @@
+{
+ "finish": "stop",
+ "usage": {
+  "input_tokens": 4732,
+  "output_tokens": 292,
+  "cost": 0.018576
+ },
+ "served_by": "Parasail",
+ "label": {
+  "content": "floor_photo",
+  "area": "garage",
+  "setting": "residential",
+  "system": "full_flake",
+  "color": "Granite",
+  "color_confidence": "medium",
+  "color_runner_up": "Silver Butte",
+  "color_description": "gray, white and black chips, small to medium size",
+  "shot_type": "finished",
+  "people": "none",
+  "faces_identifiable": false,
+  "privacy": [],
+  "branding_visible": false,
+  "quality": "4",
+  "issues": [],
+  "website_ready": true,
+  "title": "Four-car garage with gray full flake floor",
+  "alt_text": "Wide garage with three open overhead doors and a gray full flake floor coating",
+  "tags": [
+   "garage",
+   "full flake",
+   "gray floor",
+   "finished floor",
+   "overhead doors",
+   "white walls",
+   "panorama",
+   "garage floor coating"
+  ],
+  "filename": "four-car-garage-gray-full-flake"
+ },
+ "id": "f104f34cacae",
+ "provider": "kimi",
+ "model": "moonshotai/kimi-k3",
+ "mode": "run",
+ "blind": false,
+ "at": "2026-09-17T12:45:52"
+}

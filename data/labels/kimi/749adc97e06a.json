@@ -1,0 +1,46 @@
+{
+ "finish": "stop",
+ "usage": {
+  "input_tokens": 4991,
+  "output_tokens": 242,
+  "cost": 0.018603
+ },
+ "served_by": "Parasail",
+ "label": {
+  "content": "floor_photo",
+  "area": "garage",
+  "setting": "residential",
+  "system": "solid_color",
+  "color": "not_applicable",
+  "color_confidence": "none",
+  "color_runner_up": "not_applicable",
+  "color_description": "light gray solid coating, no chips",
+  "shot_type": "finished",
+  "people": "none",
+  "faces_identifiable": false,
+  "privacy": [],
+  "branding_visible": false,
+  "quality": "3",
+  "issues": [
+   "tilted"
+  ],
+  "website_ready": false,
+  "title": "Garage with light gray solid color floor",
+  "alt_text": "Glossy light gray solid color garage floor with saw cut joints and daylight at the door",
+  "tags": [
+   "garage",
+   "solid color",
+   "light gray",
+   "glossy floor",
+   "saw cut joints",
+   "finished floor"
+  ],
+  "filename": "garage-light-gray-solid-color-floor"
+ },
+ "id": "749adc97e06a",
+ "provider": "kimi",
+ "model": "moonshotai/kimi-k3",
+ "mode": "run",
+ "blind": false,
+ "at": "2026-09-17T12:45:09"
+}

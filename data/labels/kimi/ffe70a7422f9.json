@@ -1,0 +1,48 @@
+{
+ "finish": "stop",
+ "usage": {
+  "input_tokens": 5321,
+  "output_tokens": 234,
+  "cost": 0.019473
+ },
+ "served_by": "Fireworks",
+ "label": {
+  "content": "floor_photo",
+  "area": "commercial_or_industrial",
+  "setting": "commercial",
+  "system": "full_flake",
+  "color": "Aurora",
+  "color_confidence": "low",
+  "color_runner_up": "Lunar",
+  "color_description": "light gray base with small gray, white and black chips",
+  "shot_type": "finished",
+  "people": "none",
+  "faces_identifiable": false,
+  "privacy": [],
+  "branding_visible": false,
+  "quality": "3",
+  "issues": [
+   "cluttered"
+  ],
+  "website_ready": false,
+  "title": "Commercial restroom with gray full flake floor",
+  "alt_text": "Commercial restroom with gray full flake floor coating around toilet and floor drain",
+  "tags": [
+   "full flake",
+   "commercial",
+   "restroom",
+   "bathroom",
+   "floor drain",
+   "gray chips",
+   "toilet",
+   "cinder block walls"
+  ],
+  "filename": "commercial-restroom-gray-full-flake-floor"
+ },
+ "id": "ffe70a7422f9",
+ "provider": "kimi",
+ "model": "moonshotai/kimi-k3",
+ "mode": "run",
+ "blind": false,
+ "at": "2026-09-17T12:34:51"
+}

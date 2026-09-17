@@ -1,0 +1,47 @@
+{
+ "finish": "stop",
+ "usage": {
+  "input_tokens": 5323,
+  "output_tokens": 237,
+  "cost": 0.0103656
+ },
+ "served_by": "Together",
+ "label": {
+  "content": "floor_photo",
+  "area": "other_exterior",
+  "setting": "residential",
+  "system": "poly_enhance",
+  "color": "not_applicable",
+  "color_confidence": "none",
+  "color_runner_up": "not_applicable",
+  "color_description": "clear wet-look sealer over exposed aggregate concrete, mixed tan, brown, gray and white pebbles",
+  "shot_type": "close_up",
+  "people": "none",
+  "faces_identifiable": false,
+  "privacy": [],
+  "branding_visible": false,
+  "quality": "4",
+  "issues": [],
+  "website_ready": true,
+  "title": "Exposed aggregate with glossy Poly Enhance sealer",
+  "alt_text": "Close-up of exposed aggregate concrete with glossy wet-look Poly Enhance sealer near a brick wall",
+  "tags": [
+   "poly enhance",
+   "exposed aggregate",
+   "wet look sealer",
+   "clear sealer",
+   "close up",
+   "glossy",
+   "brick wall",
+   "exterior concrete",
+   "pebbles"
+  ],
+  "filename": "exposed-aggregate-poly-enhance-close-up"
+ },
+ "id": "4e40798354e0",
+ "provider": "kimi",
+ "model": "moonshotai/kimi-k3",
+ "mode": "run",
+ "blind": false,
+ "at": "2026-09-17T12:55:35"
+}

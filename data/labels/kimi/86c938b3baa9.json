@@ -1,0 +1,48 @@
+{
+ "finish": "stop",
+ "usage": {
+  "input_tokens": 5249,
+  "output_tokens": 152,
+  "cost": 0.006558195
+ },
+ "served_by": "Morph",
+ "label": {
+  "content": "other",
+  "area": "not_visible",
+  "setting": "unknown",
+  "system": "unknown",
+  "color": "not_applicable",
+  "color_confidence": "none",
+  "color_runner_up": "not_applicable",
+  "color_description": "",
+  "shot_type": "in_progress",
+  "people": "prominent",
+  "faces_identifiable": true,
+  "privacy": [
+   "customer_face"
+  ],
+  "branding_visible": false,
+  "quality": "4",
+  "issues": [],
+  "website_ready": false,
+  "title": "Installer heating custom logo floor stencil",
+  "alt_text": "Crew member using a torch on a large tan and black custom logo stencil over a speckled flake floor",
+  "tags": [
+   "custom logo",
+   "stencil work",
+   "torch",
+   "crew working",
+   "flake floor",
+   "logo floor",
+   "in progress",
+   "close up"
+  ],
+  "filename": "installer-heating-custom-logo-stencil"
+ },
+ "id": "86c938b3baa9",
+ "provider": "kimi",
+ "model": "moonshotai/kimi-k3",
+ "mode": "run",
+ "blind": false,
+ "at": "2026-09-17T12:52:46"
+}

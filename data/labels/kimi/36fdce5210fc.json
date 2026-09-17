@@ -1,0 +1,45 @@
+{
+ "finish": "stop",
+ "usage": {
+  "input_tokens": 5327,
+  "output_tokens": 289,
+  "cost": 0.00860661
+ },
+ "served_by": "InferenceNet",
+ "label": {
+  "website_ready": true,
+  "title": "Garage with dark gray metallic epoxy floor",
+  "tags": [
+   "metallic epoxy",
+   "garage floor",
+   "dark gray",
+   "reflective",
+   "swirled finish",
+   "motorcycle banner",
+   "finished floor"
+  ],
+  "system": "metallic",
+  "shot_type": "finished",
+  "setting": "residential",
+  "quality": "4",
+  "privacy": [],
+  "people": "none",
+  "issues": [],
+  "filename": "garage-dark-gray-metallic-epoxy-floor",
+  "faces_identifiable": false,
+  "content": "floor_photo",
+  "color_runner_up": "Gray",
+  "color_description": "dark gray and black swirled metallic epoxy with lighter gray marbling",
+  "color_confidence": "low",
+  "color": "Charcoal",
+  "branding_visible": false,
+  "area": "garage",
+  "alt_text": "Garage with dark gray swirled metallic epoxy floor and motorcycle wall banner, reflective Liquid Art metallic floor coating"
+ },
+ "id": "36fdce5210fc",
+ "provider": "kimi",
+ "model": "moonshotai/kimi-k3",
+ "mode": "run",
+ "blind": false,
+ "at": "2026-09-17T12:51:47"
+}

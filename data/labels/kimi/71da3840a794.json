@@ -1,0 +1,47 @@
+{
+ "finish": "stop",
+ "usage": {
+  "input_tokens": 5319,
+  "output_tokens": 301,
+  "cost": 0.020472
+ },
+ "served_by": "Fireworks",
+ "label": {
+  "content": "floor_photo",
+  "area": "patio_or_porch",
+  "setting": "residential",
+  "system": "full_flake",
+  "color": "Chestnut",
+  "color_confidence": "medium",
+  "color_runner_up": "Sedona",
+  "color_description": "tan, brown and black chips, small to medium size",
+  "shot_type": "finished",
+  "people": "background",
+  "faces_identifiable": false,
+  "privacy": [],
+  "branding_visible": true,
+  "quality": "4",
+  "issues": [],
+  "website_ready": true,
+  "title": "Front porch with tan full flake floor and GatorGuard truck",
+  "alt_text": "Brick front porch with tan full flake floor coating and GatorGuard truck parked at the curb",
+  "tags": [
+   "front porch",
+   "full flake",
+   "tan chips",
+   "brown chips",
+   "brick wall",
+   "gatorguard truck",
+   "residential",
+   "finished floor",
+   "outdoor coating"
+  ],
+  "filename": "tan-flake-porch-gatorguard-truck"
+ },
+ "id": "71da3840a794",
+ "provider": "kimi",
+ "model": "moonshotai/kimi-k3",
+ "mode": "run",
+ "blind": false,
+ "at": "2026-09-17T12:38:19"
+}

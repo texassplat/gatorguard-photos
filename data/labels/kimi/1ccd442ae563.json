@@ -1,0 +1,46 @@
+{
+ "finish": "stop",
+ "usage": {
+  "input_tokens": 5054,
+  "output_tokens": 234,
+  "cost": 0.0095136
+ },
+ "served_by": "Together",
+ "label": {
+  "content": "floor_photo",
+  "area": "commercial_or_industrial",
+  "setting": "unknown",
+  "system": "full_flake",
+  "color": "unknown",
+  "color_confidence": "low",
+  "color_runner_up": "Granite",
+  "color_description": "gray, white and black chips, small to medium size",
+  "shot_type": "in_progress",
+  "people": "prominent",
+  "faces_identifiable": false,
+  "privacy": [],
+  "branding_visible": false,
+  "quality": "3",
+  "issues": [],
+  "website_ready": false,
+  "title": "Crew installing custom logo on flake floor",
+  "alt_text": "Worker heating a large tan and black logo stencil on a gray flake floor, custom logo floor coating in progress",
+  "tags": [
+   "custom logo",
+   "logo floor",
+   "in progress",
+   "crew working",
+   "gray flake",
+   "heat gun",
+   "stencil",
+   "flake floor"
+  ],
+  "filename": "custom-logo-floor-installation"
+ },
+ "id": "1ccd442ae563",
+ "provider": "kimi",
+ "model": "moonshotai/kimi-k3",
+ "mode": "run",
+ "blind": false,
+ "at": "2026-09-17T12:52:39"
+}

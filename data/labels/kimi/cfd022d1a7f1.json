@@ -1,0 +1,47 @@
+{
+ "finish": "stop",
+ "usage": {
+  "input_tokens": 5321,
+  "output_tokens": 204,
+  "cost": 0.0098646
+ },
+ "served_by": "Together",
+ "label": {
+  "content": "floor_photo",
+  "area": "patio_or_porch",
+  "setting": "residential",
+  "system": "stamped_concrete",
+  "color": "not_applicable",
+  "color_confidence": "none",
+  "color_runner_up": "not_applicable",
+  "color_description": "brown stamped concrete with a glossy clear sealer",
+  "shot_type": "finished",
+  "people": "none",
+  "faces_identifiable": false,
+  "privacy": [],
+  "branding_visible": false,
+  "quality": "5",
+  "issues": [],
+  "website_ready": true,
+  "title": "Stamped concrete patio with glossy brown sealer",
+  "alt_text": "Glossy brown stamped concrete patio behind a house with garden beds and hydrangeas, stamped concrete patio sealing",
+  "tags": [
+   "stamped concrete",
+   "patio",
+   "backyard",
+   "glossy sealer",
+   "brown",
+   "landscaping",
+   "hydrangeas",
+   "residential",
+   "finished floor"
+  ],
+  "filename": "stamped-concrete-patio-glossy-brown"
+ },
+ "id": "cfd022d1a7f1",
+ "provider": "kimi",
+ "model": "moonshotai/kimi-k3",
+ "mode": "run",
+ "blind": false,
+ "at": "2026-09-17T12:57:29"
+}

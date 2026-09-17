@@ -1,0 +1,47 @@
+{
+ "finish": "stop",
+ "usage": {
+  "input_tokens": 5316,
+  "output_tokens": 296,
+  "cost": 0.0193686
+ },
+ "served_by": "DeepInfra",
+ "label": {
+  "content": "people_or_team",
+  "area": "garage",
+  "setting": "residential",
+  "system": "unknown",
+  "color": "unknown",
+  "color_confidence": "none",
+  "color_runner_up": "unknown",
+  "color_description": "wet light gray coating being rolled, no chips visible yet",
+  "shot_type": "in_progress",
+  "people": "prominent",
+  "faces_identifiable": true,
+  "privacy": [],
+  "branding_visible": true,
+  "quality": "3",
+  "issues": [],
+  "website_ready": false,
+  "title": "Crew rolling gray base coat in garage",
+  "alt_text": "Two GatorGuard installers in respirators rolling a wet gray coating on a garage floor during installation",
+  "tags": [
+   "installers",
+   "crew",
+   "respirators",
+   "rolling coating",
+   "garage",
+   "in progress",
+   "gray coating",
+   "base coat",
+   "selfie"
+  ],
+  "filename": "crew-rolling-gray-base-coat-garage"
+ },
+ "id": "7bde3d0dc861",
+ "provider": "kimi",
+ "model": "moonshotai/kimi-k3",
+ "mode": "run",
+ "blind": false,
+ "at": "2026-09-17T12:46:46"
+}

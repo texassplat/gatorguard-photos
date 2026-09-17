@@ -1,0 +1,46 @@
+{
+ "finish": "stop",
+ "usage": {
+  "input_tokens": 5321,
+  "output_tokens": 256,
+  "cost": 0.0106446
+ },
+ "served_by": "Together",
+ "label": {
+  "content": "floor_photo",
+  "area": "patio_or_porch",
+  "setting": "residential",
+  "system": "poly_enhance",
+  "color": "not_applicable",
+  "color_confidence": "none",
+  "color_runner_up": "not_applicable",
+  "color_description": "red and brown brick pavers with a glossy wet-look clear sealer",
+  "shot_type": "finished",
+  "people": "none",
+  "faces_identifiable": false,
+  "privacy": [],
+  "branding_visible": false,
+  "quality": "4",
+  "issues": [],
+  "website_ready": true,
+  "title": "Brick paver floor with wet-look sealer",
+  "alt_text": "Red and brown brick paver floor with glossy wet-look Poly Enhance sealer, walls masked with plastic sheeting",
+  "tags": [
+   "poly enhance",
+   "brick pavers",
+   "wet look sealer",
+   "glossy",
+   "patio",
+   "red brick",
+   "clear sealer",
+   "masked walls"
+  ],
+  "filename": "brick-paver-floor-wet-look-sealer"
+ },
+ "id": "377ed910675f",
+ "provider": "kimi",
+ "model": "moonshotai/kimi-k3",
+ "mode": "run",
+ "blind": false,
+ "at": "2026-09-17T12:55:13"
+}

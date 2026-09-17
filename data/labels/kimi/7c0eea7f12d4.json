@@ -1,0 +1,48 @@
+{
+ "finish": "stop",
+ "usage": {
+  "input_tokens": 5343,
+  "output_tokens": 255,
+  "cost": 0.0106956
+ },
+ "served_by": "Together",
+ "label": {
+  "content": "floor_photo",
+  "area": "basement",
+  "setting": "residential",
+  "system": "full_flake",
+  "color": "Gold Mine",
+  "color_confidence": "high",
+  "color_runner_up": "Shalestone",
+  "color_description": "white, gray and black chips with scattered gold flecks, small to medium size",
+  "shot_type": "finished",
+  "people": "none",
+  "faces_identifiable": false,
+  "privacy": [],
+  "branding_visible": false,
+  "quality": "4",
+  "issues": [],
+  "website_ready": true,
+  "title": "Basement with Gold Mine full flake floor",
+  "alt_text": "Finished basement with glossy full flake floor in white, gray and black chips, painted brick walls and support poles",
+  "tags": [
+   "basement",
+   "full flake",
+   "gold mine",
+   "white gray black chips",
+   "gold flecks",
+   "glossy floor",
+   "painted brick walls",
+   "support poles",
+   "finished floor",
+   "black ceiling"
+  ],
+  "filename": "basement-gold-mine-full-flake-floor"
+ },
+ "id": "7c0eea7f12d4",
+ "provider": "kimi",
+ "model": "moonshotai/kimi-k3",
+ "mode": "run",
+ "blind": false,
+ "at": "2026-09-17T12:30:57"
+}

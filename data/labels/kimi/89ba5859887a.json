@@ -1,0 +1,48 @@
+{
+ "finish": "stop",
+ "usage": {
+  "input_tokens": 4956,
+  "output_tokens": 230,
+  "cost": 0.0091596
+ },
+ "served_by": "Together",
+ "label": {
+  "content": "floor_photo",
+  "area": "patio_or_porch",
+  "setting": "residential",
+  "system": "full_flake",
+  "color": "Sedona",
+  "color_confidence": "medium",
+  "color_runner_up": "Chestnut with Rust Red",
+  "color_description": "tan, brown, black and rust red chips, small to medium size",
+  "shot_type": "close_up",
+  "people": "none",
+  "faces_identifiable": false,
+  "privacy": [],
+  "branding_visible": false,
+  "quality": "4",
+  "issues": [],
+  "website_ready": true,
+  "title": "Flake coated patio edge beside green lawn",
+  "alt_text": "Close up of a full flake coated patio edge with tan, brown and red chips next to a green lawn",
+  "tags": [
+   "patio",
+   "full flake",
+   "edge detail",
+   "tan chips",
+   "brown chips",
+   "rust red chips",
+   "lawn",
+   "exterior",
+   "close up",
+   "finished"
+  ],
+  "filename": "flake-patio-edge-beside-lawn"
+ },
+ "id": "89ba5859887a",
+ "provider": "kimi",
+ "model": "moonshotai/kimi-k3",
+ "mode": "run",
+ "blind": false,
+ "at": "2026-09-17T12:37:40"
+}

@@ -1,0 +1,48 @@
+{
+ "finish": "stop",
+ "usage": {
+  "input_tokens": 4915,
+  "output_tokens": 275,
+  "cost": 0.00904426
+ },
+ "served_by": "DigitalOcean",
+ "label": {
+  "alt_text": "Worker pushing a roller across a wet gray chip floor in a large white commercial space with open ceiling panels; commercial floor coating",
+  "area": "commercial_or_industrial",
+  "branding_visible": false,
+  "color": "unknown",
+  "color_confidence": "low",
+  "color_description": "light gray base with sparse small black chips",
+  "color_runner_up": "Gun Metal",
+  "content": "floor_photo",
+  "faces_identifiable": true,
+  "filename": "commercial-floor-coating-in-progress",
+  "issues": [],
+  "people": "prominent",
+  "privacy": [
+   "customer_face"
+  ],
+  "quality": "3",
+  "setting": "commercial",
+  "shot_type": "in_progress",
+  "system": "full_flake",
+  "tags": [
+   "commercial floor",
+   "gray coating",
+   "black chips",
+   "wet floor",
+   "roller",
+   "in progress",
+   "warehouse",
+   "open ceiling"
+  ],
+  "title": "Commercial floor being coated with gray chip system",
+  "website_ready": false
+ },
+ "id": "900bf8e3b939",
+ "provider": "kimi",
+ "model": "moonshotai/kimi-k3",
+ "mode": "run",
+ "blind": false,
+ "at": "2026-09-17T12:34:09"
+}

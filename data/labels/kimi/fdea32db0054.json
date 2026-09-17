@@ -1,0 +1,50 @@
+{
+ "finish": "stop",
+ "usage": {
+  "input_tokens": 5364,
+  "output_tokens": 380,
+  "cost": 0.0207642
+ },
+ "served_by": "Wafer",
+ "label": {
+  "content": "floor_photo",
+  "area": "patio_or_porch",
+  "setting": "residential",
+  "system": "bare_concrete",
+  "color": "not_applicable",
+  "color_confidence": "none",
+  "color_runner_up": "not_applicable",
+  "color_description": "",
+  "shot_type": "in_progress",
+  "people": "none",
+  "faces_identifiable": false,
+  "privacy": [],
+  "branding_visible": false,
+  "quality": "3",
+  "issues": [
+   "cluttered",
+   "wet_or_dirty"
+  ],
+  "website_ready": false,
+  "title": "Cracked concrete porch during prep work",
+  "alt_text": "Cracked bare concrete porch with shop vacuum and extension cords during surface prep for coating",
+  "tags": [
+   "porch",
+   "bare concrete",
+   "cracked concrete",
+   "prep work",
+   "shop vac",
+   "extension cords",
+   "exterior",
+   "in progress",
+   "white columns"
+  ],
+  "filename": "cracked-concrete-porch-prep-work"
+ },
+ "id": "fdea32db0054",
+ "provider": "kimi",
+ "model": "moonshotai/kimi-k3",
+ "mode": "run",
+ "blind": false,
+ "at": "2026-09-17T12:37:13"
+}

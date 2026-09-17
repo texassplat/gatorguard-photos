@@ -1,0 +1,48 @@
+{
+ "finish": "stop",
+ "usage": {
+  "input_tokens": 5228,
+  "output_tokens": 189,
+  "cost": 0.018519
+ },
+ "served_by": "Parasail",
+ "label": {
+  "content": "floor_photo",
+  "area": "garage",
+  "setting": "residential",
+  "system": "full_flake",
+  "color": "Cobalt",
+  "color_confidence": "medium",
+  "color_runner_up": "Pacific Coast",
+  "color_description": "gray and white chips with blue accents, small to medium size",
+  "shot_type": "finished",
+  "people": "none",
+  "faces_identifiable": false,
+  "privacy": [],
+  "branding_visible": false,
+  "quality": "4",
+  "issues": [
+   "overexposed"
+  ],
+  "website_ready": true,
+  "title": "Empty garage with blue gray full flake floor",
+  "alt_text": "Empty residential garage with a gray and blue full flake floor coating and two blue doors",
+  "tags": [
+   "garage",
+   "full flake",
+   "blue chips",
+   "gray floor",
+   "finished floor",
+   "blue doors",
+   "empty garage",
+   "epoxy flake floor"
+  ],
+  "filename": "garage-blue-gray-full-flake-floor"
+ },
+ "id": "254f8602badc",
+ "provider": "kimi",
+ "model": "moonshotai/kimi-k3",
+ "mode": "run",
+ "blind": false,
+ "at": "2026-09-17T12:41:39"
+}

@@ -1,0 +1,49 @@
+{
+ "finish": "stop",
+ "usage": {
+  "input_tokens": 5073,
+  "output_tokens": 195,
+  "cost": 0.0089856
+ },
+ "served_by": "Together",
+ "label": {
+  "content": "marketing_graphic",
+  "area": "not_visible",
+  "setting": "unknown",
+  "system": "not_applicable",
+  "color": "not_applicable",
+  "color_confidence": "none",
+  "color_runner_up": "not_applicable",
+  "color_description": "",
+  "shot_type": "graphic",
+  "people": "none",
+  "faces_identifiable": false,
+  "privacy": [],
+  "branding_visible": false,
+  "quality": "4",
+  "issues": [
+   "text_overlay"
+  ],
+  "website_ready": false,
+  "title": "Diagram comparing 1-day and 2-day coating systems",
+  "alt_text": "Graphic comparing 1-day coating system to 2-day moisture-mitigating coating system over concrete slab with warranty text",
+  "tags": [
+   "1-day coating",
+   "2-day coating",
+   "moisture mitigation",
+   "diagram",
+   "hydrostatic pressure",
+   "warranty",
+   "coating failure",
+   "comparison graphic",
+   "marketing video"
+  ],
+  "filename": "one-day-vs-two-day-coating-diagram"
+ },
+ "id": "5449f8bb0c18",
+ "provider": "kimi",
+ "model": "moonshotai/kimi-k3",
+ "mode": "run",
+ "blind": false,
+ "at": "2026-09-17T12:58:14"
+}

@@ -1,0 +1,47 @@
+{
+ "finish": "stop",
+ "usage": {
+  "input_tokens": 5229,
+  "output_tokens": 191,
+  "cost": 0.0176244
+ },
+ "served_by": "DeepInfra",
+ "label": {
+  "content": "floor_photo",
+  "area": "garage",
+  "setting": "residential",
+  "system": "full_flake",
+  "color": "Cobalt",
+  "color_confidence": "medium",
+  "color_runner_up": "unknown",
+  "color_description": "blue, gray and white chips, medium size",
+  "shot_type": "finished",
+  "people": "none",
+  "faces_identifiable": false,
+  "privacy": [],
+  "branding_visible": false,
+  "quality": "5",
+  "issues": [],
+  "website_ready": true,
+  "title": "Dog resting on blue flake garage floor",
+  "alt_text": "Cream dog with a ball lying on a blue gray full flake garage floor with stem wall and floor drain",
+  "tags": [
+   "garage",
+   "full flake",
+   "blue chips",
+   "gray chips",
+   "dog",
+   "floor drain",
+   "stem wall",
+   "finished floor",
+   "pet friendly"
+  ],
+  "filename": "dog-on-blue-flake-garage-floor"
+ },
+ "id": "efd225377f78",
+ "provider": "kimi",
+ "model": "moonshotai/kimi-k3",
+ "mode": "run",
+ "blind": false,
+ "at": "2026-09-17T12:41:39"
+}

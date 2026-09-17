@@ -1,0 +1,47 @@
+{
+ "finish": "stop",
+ "usage": {
+  "input_tokens": 5321,
+  "output_tokens": 212,
+  "cost": 0.0099846
+ },
+ "served_by": "Together",
+ "label": {
+  "content": "floor_photo",
+  "area": "patio_or_porch",
+  "setting": "residential",
+  "system": "poly_enhance",
+  "color": "not_applicable",
+  "color_confidence": "none",
+  "color_runner_up": "not_applicable",
+  "color_description": "reddish brown brick pavers with a glossy wet-look sealer",
+  "shot_type": "finished",
+  "people": "none",
+  "faces_identifiable": false,
+  "privacy": [],
+  "branding_visible": false,
+  "quality": "4",
+  "issues": [],
+  "website_ready": true,
+  "title": "Brick paver patio with wet-look sealer",
+  "alt_text": "Backyard brick paver patio with glossy wet-look sealer beside a white brick house, poly enhance sealer",
+  "tags": [
+   "patio",
+   "brick pavers",
+   "wet look sealer",
+   "poly enhance",
+   "backyard",
+   "covered patio",
+   "residential",
+   "glossy",
+   "outdoor"
+  ],
+  "filename": "brick-paver-patio-wet-look-sealer"
+ },
+ "id": "650d551eeca1",
+ "provider": "kimi",
+ "model": "moonshotai/kimi-k3",
+ "mode": "run",
+ "blind": false,
+ "at": "2026-09-17T12:55:28"
+}

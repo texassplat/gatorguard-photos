@@ -1,0 +1,45 @@
+{
+ "finish": "stop",
+ "usage": {
+  "input_tokens": 4603,
+  "output_tokens": 159,
+  "cost": 0.0070356
+ },
+ "served_by": "Together",
+ "label": {
+  "content": "logo_or_text_graphic",
+  "area": "not_visible",
+  "setting": "unknown",
+  "system": "not_applicable",
+  "color": "not_applicable",
+  "color_confidence": "none",
+  "color_runner_up": "not_applicable",
+  "color_description": "",
+  "shot_type": "graphic",
+  "people": "none",
+  "faces_identifiable": false,
+  "privacy": [],
+  "branding_visible": true,
+  "quality": "3",
+  "issues": [],
+  "website_ready": false,
+  "title": "Cincinnati script email logo graphic",
+  "alt_text": "Black script text reading Cincinnati on a white background, email logo graphic",
+  "tags": [
+   "logo",
+   "graphic",
+   "cincinnati",
+   "email asset",
+   "birdeye",
+   "script text",
+   "black and white"
+  ],
+  "filename": "cincinnati-script-email-logo"
+ },
+ "id": "d332a43c82f1",
+ "provider": "kimi",
+ "model": "moonshotai/kimi-k3",
+ "mode": "run",
+ "blind": false,
+ "at": "2026-09-17T12:31:41"
+}

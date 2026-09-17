@@ -1,0 +1,47 @@
+{
+ "finish": "stop",
+ "usage": {
+  "input_tokens": 5336,
+  "output_tokens": 202,
+  "cost": 0.019038
+ },
+ "served_by": "Parasail",
+ "label": {
+  "content": "floor_photo",
+  "area": "garage",
+  "setting": "residential",
+  "system": "full_flake",
+  "color": "Granite",
+  "color_confidence": "medium",
+  "color_runner_up": "Silver Butte",
+  "color_description": "gray base with black, white and light gray chips, medium size",
+  "shot_type": "finished",
+  "people": "none",
+  "faces_identifiable": false,
+  "privacy": [],
+  "branding_visible": true,
+  "quality": "4",
+  "issues": [],
+  "website_ready": true,
+  "title": "Garage with gray flake floor and custom logos",
+  "alt_text": "Gray full flake garage floor with black custom logo and lettering, open garage door, stone exterior columns",
+  "tags": [
+   "garage",
+   "full flake",
+   "custom logo",
+   "gray chips",
+   "black chips",
+   "finished floor",
+   "stone columns",
+   "open garage door",
+   "gray walls"
+  ],
+  "filename": "garage-gray-flake-custom-logo"
+ },
+ "id": "11b92fddbb6b",
+ "provider": "kimi",
+ "model": "moonshotai/kimi-k3",
+ "mode": "run",
+ "blind": false,
+ "at": "2026-09-17T12:52:30"
+}

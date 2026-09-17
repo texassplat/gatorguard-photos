@@ -1,0 +1,47 @@
+{
+ "finish": "stop",
+ "usage": {
+  "input_tokens": 5027,
+  "output_tokens": 267,
+  "cost": 0.0099276
+ },
+ "served_by": "Together",
+ "label": {
+  "content": "floor_photo",
+  "area": "patio_or_porch",
+  "setting": "residential",
+  "system": "stamped_concrete",
+  "color": "not_applicable",
+  "color_confidence": "none",
+  "color_runner_up": "not_applicable",
+  "color_description": "brown stained stamped concrete with a wet look sealer",
+  "shot_type": "finished",
+  "people": "none",
+  "faces_identifiable": false,
+  "privacy": [],
+  "branding_visible": false,
+  "quality": "4",
+  "issues": [],
+  "website_ready": true,
+  "title": "Brown stamped concrete patio with curved edge",
+  "alt_text": "Sealed brown stamped concrete patio behind a house with yellow flowers and an outdoor kitchen, stamped concrete patio coating",
+  "tags": [
+   "stamped concrete",
+   "patio",
+   "brown stain",
+   "wet look sealer",
+   "backyard",
+   "outdoor kitchen",
+   "curved edge",
+   "flowers",
+   "finished"
+  ],
+  "filename": "brown-stamped-concrete-patio-curved-edge"
+ },
+ "id": "f6ad2b620678",
+ "provider": "kimi",
+ "model": "moonshotai/kimi-k3",
+ "mode": "run",
+ "blind": false,
+ "at": "2026-09-17T12:57:25"
+}

@@ -1,0 +1,47 @@
+{
+ "finish": "stop",
+ "usage": {
+  "input_tokens": 5328,
+  "output_tokens": 212,
+  "cost": 0.0100056
+ },
+ "served_by": "Together",
+ "label": {
+  "content": "floor_photo",
+  "area": "interior_room",
+  "setting": "residential",
+  "system": "full_flake",
+  "color": "unknown",
+  "color_confidence": "low",
+  "color_runner_up": "Callisto",
+  "color_description": "fine gray, white and black chips, small size",
+  "shot_type": "finished",
+  "people": "none",
+  "faces_identifiable": false,
+  "privacy": [],
+  "branding_visible": false,
+  "quality": "4",
+  "issues": [],
+  "website_ready": true,
+  "title": "Gray full flake floor in unfinished basement",
+  "alt_text": "Glossy gray full flake floor coating in a basement under renovation with exposed joists and support post",
+  "tags": [
+   "basement",
+   "full flake",
+   "gray chips",
+   "glossy floor",
+   "interior",
+   "renovation",
+   "exposed joists",
+   "support post",
+   "finished floor"
+  ],
+  "filename": "gray-full-flake-basement-floor"
+ },
+ "id": "66d269f5e19e",
+ "provider": "kimi",
+ "model": "moonshotai/kimi-k3",
+ "mode": "run",
+ "blind": false,
+ "at": "2026-09-17T12:48:01"
+}

@@ -1,0 +1,48 @@
+{
+ "finish": "stop",
+ "usage": {
+  "input_tokens": 5331,
+  "output_tokens": 242,
+  "cost": 0.019623
+ },
+ "served_by": "Parasail",
+ "label": {
+  "content": "floor_photo",
+  "area": "patio_or_porch",
+  "setting": "residential",
+  "system": "full_flake",
+  "color": "Chestnut",
+  "color_confidence": "medium",
+  "color_runner_up": "Willow",
+  "color_description": "tan and brown chips with cream and black flecks, medium size",
+  "shot_type": "finished",
+  "people": "none",
+  "faces_identifiable": false,
+  "privacy": [],
+  "branding_visible": false,
+  "quality": "4",
+  "issues": [],
+  "website_ready": true,
+  "title": "Screened porch with tan full flake floor",
+  "alt_text": "Screened porch with brick walls and a glossy tan full flake concrete coating with brown and cream chips",
+  "tags": [
+   "porch",
+   "screened porch",
+   "full flake",
+   "tan chips",
+   "brown chips",
+   "glossy floor",
+   "brick wall",
+   "exterior",
+   "residential",
+   "finished floor"
+  ],
+  "filename": "screened-porch-tan-full-flake-floor"
+ },
+ "id": "fa080f328b0e",
+ "provider": "kimi",
+ "model": "moonshotai/kimi-k3",
+ "mode": "run",
+ "blind": false,
+ "at": "2026-09-17T12:36:45"
+}

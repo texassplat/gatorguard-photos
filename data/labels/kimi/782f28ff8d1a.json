@@ -1,0 +1,48 @@
+{
+ "finish": "stop",
+ "usage": {
+  "input_tokens": 5147,
+  "output_tokens": 168,
+  "cost": 0.006534945
+ },
+ "served_by": "Morph",
+ "label": {
+  "content": "floor_photo",
+  "area": "garage",
+  "setting": "unknown",
+  "system": "metallic",
+  "color": "Charcoal",
+  "color_confidence": "high",
+  "color_runner_up": "Gray",
+  "color_description": "dark charcoal gray metallic with lighter silver marbling and swirls",
+  "shot_type": "finished",
+  "people": "none",
+  "faces_identifiable": false,
+  "privacy": [],
+  "branding_visible": false,
+  "quality": "5",
+  "issues": [],
+  "website_ready": true,
+  "title": "Three classic cars on charcoal metallic floor",
+  "alt_text": "Blue Mustang, yellow vintage sedan and red Corvette on a dark gray marbled metallic garage floor",
+  "tags": [
+   "metallic epoxy",
+   "liquid art",
+   "charcoal metallic",
+   "dark gray",
+   "marbled floor",
+   "garage",
+   "classic cars",
+   "corvette",
+   "mustang",
+   "reflective floor"
+  ],
+  "filename": "classic-cars-charcoal-metallic-floor"
+ },
+ "id": "782f28ff8d1a",
+ "provider": "kimi",
+ "model": "moonshotai/kimi-k3",
+ "mode": "run",
+ "blind": false,
+ "at": "2026-09-17T12:50:06"
+}

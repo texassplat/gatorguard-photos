@@ -1,0 +1,46 @@
+{
+ "finish": "stop",
+ "usage": {
+  "input_tokens": 4979,
+  "output_tokens": 169,
+  "cost": 0.006230445
+ },
+ "served_by": "Morph",
+ "label": {
+  "content": "floor_photo",
+  "area": "interior_room",
+  "setting": "residential",
+  "system": "metallic",
+  "color": "Cappuccino",
+  "color_confidence": "medium",
+  "color_runner_up": "unknown",
+  "color_description": "swirled brown and tan metallic with darker marbling, glossy finish",
+  "shot_type": "finished",
+  "people": "none",
+  "faces_identifiable": false,
+  "privacy": [],
+  "branding_visible": false,
+  "quality": "4",
+  "issues": [],
+  "website_ready": true,
+  "title": "Brown metallic epoxy floor in empty room",
+  "alt_text": "Swirled brown and tan metallic epoxy floor in an empty room with white trim and doors",
+  "tags": [
+   "metallic epoxy",
+   "liquid art",
+   "brown metallic floor",
+   "swirled floor",
+   "glossy floor",
+   "interior room",
+   "white baseboards",
+   "residential"
+  ],
+  "filename": "brown-metallic-floor-empty-room"
+ },
+ "id": "6291f9e28d85",
+ "provider": "kimi",
+ "model": "moonshotai/kimi-k3",
+ "mode": "run",
+ "blind": false,
+ "at": "2026-09-17T12:58:33"
+}

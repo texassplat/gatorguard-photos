@@ -1,0 +1,45 @@
+{
+ "finish": "stop",
+ "usage": {
+  "input_tokens": 5333,
+  "output_tokens": 296,
+  "cost": 0.020439
+ },
+ "served_by": "Parasail",
+ "label": {
+  "content": "floor_photo",
+  "area": "interior_room",
+  "setting": "unknown",
+  "system": "full_flake",
+  "color": "Silverado",
+  "color_confidence": "medium",
+  "color_runner_up": "Quartzite",
+  "color_description": "fine gray, silver and white chips in dark and light gray sections",
+  "shot_type": "finished",
+  "people": "none",
+  "faces_identifiable": false,
+  "privacy": [],
+  "branding_visible": false,
+  "quality": "3",
+  "issues": [],
+  "website_ready": false,
+  "title": "Gray full flake interior floor in two tones",
+  "alt_text": "Gray full flake interior floor coating with a darker gray section meeting a light gray section",
+  "tags": [
+   "full flake",
+   "interior floor",
+   "gray chips",
+   "silver gray",
+   "two tone floor",
+   "speckled floor",
+   "fine flake"
+  ],
+  "filename": "two-tone-gray-full-flake-interior-floor"
+ },
+ "id": "597b36ab1c08",
+ "provider": "kimi",
+ "model": "moonshotai/kimi-k3",
+ "mode": "run",
+ "blind": false,
+ "at": "2026-09-17T12:48:39"
+}

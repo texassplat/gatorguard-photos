@@ -1,0 +1,47 @@
+{
+ "finish": "stop",
+ "usage": {
+  "input_tokens": 5319,
+  "output_tokens": 216,
+  "cost": 0.01279386598464
+ },
+ "served_by": "Makora",
+ "label": {
+  "content": "people_or_team",
+  "area": "patio_or_porch",
+  "setting": "residential",
+  "system": "unknown",
+  "color": "not_applicable",
+  "color_confidence": "none",
+  "color_runner_up": "not_applicable",
+  "color_description": "",
+  "shot_type": "in_progress",
+  "people": "prominent",
+  "faces_identifiable": false,
+  "privacy": [],
+  "branding_visible": false,
+  "quality": "3",
+  "issues": [],
+  "website_ready": false,
+  "title": "Installer pouring tan coating on backyard patio",
+  "alt_text": "Installer pouring tan base coat onto a concrete patio outside a white-sided home during floor coating installation",
+  "tags": [
+   "installer",
+   "crew working",
+   "patio",
+   "pouring coating",
+   "base coat",
+   "in progress",
+   "residential",
+   "exterior",
+   "concrete patio"
+  ],
+  "filename": "installer-pouring-coating-on-patio"
+ },
+ "id": "538289e65a7a",
+ "provider": "kimi",
+ "model": "moonshotai/kimi-k3",
+ "mode": "run",
+ "blind": false,
+ "at": "2026-09-17T12:47:14"
+}

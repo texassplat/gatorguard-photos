@@ -1,0 +1,48 @@
+{
+ "finish": "stop",
+ "usage": {
+  "input_tokens": 5216,
+  "output_tokens": 218,
+  "cost": 0.018918
+ },
+ "served_by": "Moonshot AI",
+ "label": {
+  "content": "floor_photo",
+  "area": "basement",
+  "setting": "residential",
+  "system": "metallic",
+  "color": "Charcoal",
+  "color_confidence": "medium",
+  "color_runner_up": "Denim",
+  "color_description": "dark charcoal gray metallic with lighter gray and black marbled swirls",
+  "shot_type": "finished",
+  "people": "none",
+  "faces_identifiable": false,
+  "privacy": [],
+  "branding_visible": false,
+  "quality": "5",
+  "issues": [],
+  "website_ready": true,
+  "title": "Basement living room with dark metallic floor",
+  "alt_text": "Finished basement with couch and dark gray marbled metallic epoxy floor, Liquid Art metallic floor coating",
+  "tags": [
+   "metallic",
+   "liquid art",
+   "basement",
+   "dark gray",
+   "marbled",
+   "swirl",
+   "living room",
+   "couch",
+   "finished floor",
+   "reflective"
+  ],
+  "filename": "basement-dark-metallic-liquid-art-floor"
+ },
+ "id": "c35951b41dd7",
+ "provider": "kimi",
+ "model": "moonshotai/kimi-k3",
+ "mode": "run",
+ "blind": false,
+ "at": "2026-09-17T12:50:41"
+}

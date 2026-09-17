@@ -1,0 +1,47 @@
+{
+ "finish": "stop",
+ "usage": {
+  "input_tokens": 5327,
+  "output_tokens": 306,
+  "cost": 0.01478142
+ },
+ "served_by": "Phala",
+ "label": {
+  "alt_text": "Glossy solid red coated concrete floor in an unfinished room with exposed stud walls",
+  "area": "interior_room",
+  "branding_visible": false,
+  "color": "unknown",
+  "color_confidence": "none",
+  "color_description": "solid bright red coating, no chips or metallic swirl",
+  "color_runner_up": "not_applicable",
+  "content": "floor_photo",
+  "faces_identifiable": false,
+  "filename": "solid-red-floor-unfinished-room",
+  "issues": [
+   "dark"
+  ],
+  "people": "none",
+  "privacy": [],
+  "quality": "3",
+  "setting": "unknown",
+  "shot_type": "finished",
+  "system": "solid_color",
+  "tags": [
+   "solid color",
+   "red floor",
+   "glossy",
+   "unfinished room",
+   "exposed studs",
+   "new construction",
+   "concrete floor coating"
+  ],
+  "title": "Glossy red solid color floor in unfinished room",
+  "website_ready": false
+ },
+ "id": "eb009c0cb6de",
+ "provider": "kimi",
+ "model": "moonshotai/kimi-k3",
+ "mode": "run",
+ "blind": false,
+ "at": "2026-09-17T12:53:07"
+}

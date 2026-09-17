@@ -1,0 +1,47 @@
+{
+ "finish": "stop",
+ "usage": {
+  "input_tokens": 5322,
+  "output_tokens": 248,
+  "cost": 0.0105276
+ },
+ "served_by": "Together",
+ "label": {
+  "content": "floor_photo",
+  "area": "garage",
+  "setting": "residential",
+  "system": "full_flake",
+  "color": "Granite",
+  "color_confidence": "medium",
+  "color_runner_up": "Silver Butte",
+  "color_description": "white, gray and black chips, small to medium size, silver gray overall",
+  "shot_type": "finished",
+  "people": "none",
+  "faces_identifiable": false,
+  "privacy": [],
+  "branding_visible": false,
+  "quality": "4",
+  "issues": [],
+  "website_ready": true,
+  "title": "Silver gray flake garage floor with white Porsche",
+  "alt_text": "Front wheel of a white Porsche on a silver gray full flake garage floor coating",
+  "tags": [
+   "garage",
+   "full flake",
+   "gray chips",
+   "white chips",
+   "porsche",
+   "sports car",
+   "finished floor",
+   "close up wheel",
+   "silver gray"
+  ],
+  "filename": "gray-flake-garage-floor-white-porsche"
+ },
+ "id": "6e5b54f6358f",
+ "provider": "kimi",
+ "model": "moonshotai/kimi-k3",
+ "mode": "run",
+ "blind": false,
+ "at": "2026-09-17T12:42:26"
+}

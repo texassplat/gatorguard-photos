@@ -1,0 +1,49 @@
+{
+ "finish": "stop",
+ "usage": {
+  "input_tokens": 5212,
+  "output_tokens": 202,
+  "cost": 0.01306692
+ },
+ "served_by": "Phala",
+ "label": {
+  "alt_text": "Red sports car parked on a dark gray metallic epoxy garage floor",
+  "area": "garage",
+  "branding_visible": false,
+  "color": "Charcoal",
+  "color_confidence": "medium",
+  "color_description": "dark charcoal gray metallic with lighter silver swirls, highly reflective",
+  "color_runner_up": "Gray",
+  "content": "floor_photo",
+  "faces_identifiable": false,
+  "filename": "garage-charcoal-metallic-floor-red-sports-car",
+  "issues": [],
+  "people": "none",
+  "privacy": [
+   "vehicle_interior"
+  ],
+  "quality": "5",
+  "setting": "residential",
+  "shot_type": "finished",
+  "system": "metallic",
+  "tags": [
+   "metallic epoxy",
+   "garage floor",
+   "charcoal gray",
+   "swirled",
+   "reflective",
+   "sports car",
+   "corvette",
+   "dark gray",
+   "finished floor"
+  ],
+  "title": "Garage with charcoal metallic floor and red sports car",
+  "website_ready": false
+ },
+ "id": "08a816515c17",
+ "provider": "kimi",
+ "model": "moonshotai/kimi-k3",
+ "mode": "run",
+ "blind": false,
+ "at": "2026-09-17T12:50:15"
+}

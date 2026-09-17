@@ -1,0 +1,47 @@
+{
+ "finish": "stop",
+ "usage": {
+  "input_tokens": 4980,
+  "output_tokens": 209,
+  "cost": 0.0089166
+ },
+ "served_by": "Together",
+ "label": {
+  "content": "floor_photo",
+  "area": "commercial_or_industrial",
+  "setting": "commercial",
+  "system": "full_flake",
+  "color": "Granite",
+  "color_confidence": "low",
+  "color_runner_up": "Callisto",
+  "color_description": "gray, white and black chips, small to medium size, darker chips on stem wall",
+  "shot_type": "finished",
+  "people": "none",
+  "faces_identifiable": false,
+  "privacy": [],
+  "branding_visible": false,
+  "quality": "4",
+  "issues": [],
+  "website_ready": true,
+  "title": "Commercial hallway with gray full flake floor",
+  "alt_text": "Commercial hallway with gray full flake floor coating and matching flake stem walls along brick walls",
+  "tags": [
+   "commercial",
+   "hallway",
+   "full flake",
+   "gray chips",
+   "stem wall",
+   "brick walls",
+   "glossy",
+   "school hallway",
+   "finished floor"
+  ],
+  "filename": "commercial-hallway-gray-full-flake-floor"
+ },
+ "id": "63791d4ee694",
+ "provider": "kimi",
+ "model": "moonshotai/kimi-k3",
+ "mode": "run",
+ "blind": false,
+ "at": "2026-09-17T12:34:10"
+}

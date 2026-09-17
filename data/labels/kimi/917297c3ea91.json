@@ -1,0 +1,50 @@
+{
+ "finish": "stop",
+ "usage": {
+  "input_tokens": 5319,
+  "output_tokens": 262,
+  "cost": 0.019887
+ },
+ "served_by": "Parasail",
+ "label": {
+  "content": "floor_photo",
+  "area": "patio_or_porch",
+  "setting": "residential",
+  "system": "unknown",
+  "color": "not_applicable",
+  "color_confidence": "none",
+  "color_runner_up": "not_applicable",
+  "color_description": "",
+  "shot_type": "crew_working",
+  "people": "prominent",
+  "faces_identifiable": true,
+  "privacy": [
+   "customer_face"
+  ],
+  "branding_visible": false,
+  "quality": "3",
+  "issues": [
+   "wet_or_dirty"
+  ],
+  "website_ready": false,
+  "title": "Installer spreading coating on backyard patio slab",
+  "alt_text": "Installer spreading yellow-tinted coating over a concrete patio beside a house and wooden deck",
+  "tags": [
+   "installer",
+   "crew working",
+   "patio",
+   "coating application",
+   "exterior concrete",
+   "squeegee",
+   "in progress",
+   "deck"
+  ],
+  "filename": "installer-coating-backyard-patio-slab"
+ },
+ "id": "917297c3ea91",
+ "provider": "kimi",
+ "model": "moonshotai/kimi-k3",
+ "mode": "run",
+ "blind": false,
+ "at": "2026-09-17T12:47:34"
+}

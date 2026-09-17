@@ -1,0 +1,48 @@
+{
+ "finish": "stop",
+ "usage": {
+  "input_tokens": 5014,
+  "output_tokens": 230,
+  "cost": 0.018492
+ },
+ "served_by": "Parasail",
+ "label": {
+  "content": "floor_photo",
+  "area": "commercial_or_industrial",
+  "setting": "commercial",
+  "system": "full_flake",
+  "color": "Granite",
+  "color_confidence": "medium",
+  "color_runner_up": "Silver Butte",
+  "color_description": "white, gray and black chips, small to medium size",
+  "shot_type": "finished",
+  "people": "none",
+  "faces_identifiable": false,
+  "privacy": [],
+  "branding_visible": false,
+  "quality": "4",
+  "issues": [],
+  "website_ready": true,
+  "title": "Commercial basement with gray full flake floor",
+  "alt_text": "Open commercial basement room with gray, white and black full flake floor coating, support posts and exposed ceiling joists",
+  "tags": [
+   "commercial",
+   "basement",
+   "full flake",
+   "gray chips",
+   "white chips",
+   "black chips",
+   "support posts",
+   "exposed ceiling",
+   "finished floor",
+   "glossy"
+  ],
+  "filename": "commercial-basement-gray-full-flake-floor"
+ },
+ "id": "506371dea9fe",
+ "provider": "kimi",
+ "model": "moonshotai/kimi-k3",
+ "mode": "run",
+ "blind": false,
+ "at": "2026-09-17T12:33:45"
+}

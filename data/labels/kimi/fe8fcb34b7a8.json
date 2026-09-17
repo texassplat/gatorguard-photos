@@ -1,0 +1,46 @@
+{
+ "finish": "stop",
+ "usage": {
+  "input_tokens": 5243,
+  "output_tokens": 214,
+  "cost": 0.018939
+ },
+ "served_by": "Fireworks",
+ "label": {
+  "content": "floor_photo",
+  "area": "commercial_or_industrial",
+  "setting": "commercial",
+  "system": "metallic",
+  "color": "Gray",
+  "color_confidence": "medium",
+  "color_runner_up": "Denim",
+  "color_description": "gray metallic with subtle marbled swirls, no chips",
+  "shot_type": "finished",
+  "people": "none",
+  "faces_identifiable": false,
+  "privacy": [],
+  "branding_visible": false,
+  "quality": "4",
+  "issues": [],
+  "website_ready": true,
+  "title": "Office lobby with gray metallic floor",
+  "alt_text": "Office lobby with desk and glossy gray metallic epoxy floor, commercial concrete floor coating",
+  "tags": [
+   "office",
+   "commercial floor",
+   "gray metallic",
+   "metallic epoxy",
+   "lobby",
+   "reception desk",
+   "reflective floor",
+   "interior"
+  ],
+  "filename": "office-lobby-gray-metallic-floor"
+ },
+ "id": "fe8fcb34b7a8",
+ "provider": "kimi",
+ "model": "moonshotai/kimi-k3",
+ "mode": "run",
+ "blind": false,
+ "at": "2026-09-17T12:35:05"
+}

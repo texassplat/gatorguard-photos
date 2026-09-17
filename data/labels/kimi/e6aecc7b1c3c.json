@@ -1,0 +1,51 @@
+{
+ "finish": "stop",
+ "usage": {
+  "input_tokens": 5052,
+  "output_tokens": 203,
+  "cost": 0.0090426
+ },
+ "served_by": "Together",
+ "label": {
+  "content": "people_or_team",
+  "area": "garage",
+  "setting": "residential",
+  "system": "bare_concrete",
+  "color": "not_applicable",
+  "color_confidence": "none",
+  "color_runner_up": "not_applicable",
+  "color_description": "",
+  "shot_type": "crew_working",
+  "people": "prominent",
+  "faces_identifiable": true,
+  "privacy": [
+   "customer_face"
+  ],
+  "branding_visible": false,
+  "quality": "3",
+  "issues": [
+   "cluttered"
+  ],
+  "website_ready": false,
+  "title": "Crew grinding garage floor before coating",
+  "alt_text": "Two installers running a concrete grinder on a bare garage floor with brick walls and cabinets",
+  "tags": [
+   "installers",
+   "grinding",
+   "concrete grinder",
+   "in progress",
+   "garage",
+   "bare concrete",
+   "brick walls",
+   "dust vacuum",
+   "prep work"
+  ],
+  "filename": "crew-grinding-garage-floor-prep"
+ },
+ "id": "e6aecc7b1c3c",
+ "provider": "kimi",
+ "model": "moonshotai/kimi-k3",
+ "mode": "run",
+ "blind": false,
+ "at": "2026-09-17T12:46:52"
+}

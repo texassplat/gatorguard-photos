@@ -1,0 +1,47 @@
+{
+ "finish": "stop",
+ "usage": {
+  "input_tokens": 5283,
+  "output_tokens": 159,
+  "cost": 0.006695445
+ },
+ "served_by": "Morph",
+ "label": {
+  "content": "document_or_screenshot",
+  "area": "not_visible",
+  "setting": "unknown",
+  "system": "not_applicable",
+  "color": "not_applicable",
+  "color_confidence": "none",
+  "color_runner_up": "not_applicable",
+  "color_description": "",
+  "shot_type": "document",
+  "people": "none",
+  "faces_identifiable": false,
+  "privacy": [
+   "personal_papers"
+  ],
+  "branding_visible": false,
+  "quality": "3",
+  "issues": [],
+  "website_ready": false,
+  "title": "Invoice for Gator Guard video project",
+  "alt_text": "Invoice from Mitch Muhlbaier to Gator Guard for a garage floor video project in Indianapolis dated July 3, 2023.",
+  "tags": [
+   "invoice",
+   "document",
+   "pdf",
+   "video project",
+   "indianapolis",
+   "paperwork",
+   "billing"
+  ],
+  "filename": "gator-guard-video-invoice-document"
+ },
+ "id": "ee5a2cfcefec",
+ "provider": "kimi",
+ "model": "moonshotai/kimi-k3",
+ "mode": "run",
+ "blind": false,
+ "at": "2026-09-17T12:58:48"
+}

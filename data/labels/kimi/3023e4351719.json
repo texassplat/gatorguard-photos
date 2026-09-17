@@ -1,0 +1,46 @@
+{
+ "finish": "stop",
+ "usage": {
+  "input_tokens": 5346,
+  "output_tokens": 250,
+  "cost": 0.0106296
+ },
+ "served_by": "Together",
+ "label": {
+  "content": "floor_photo",
+  "area": "interior_room",
+  "setting": "residential",
+  "system": "full_flake",
+  "color": "unknown",
+  "color_confidence": "low",
+  "color_runner_up": "Granite",
+  "color_description": "gray, white and black chips, small size",
+  "shot_type": "finished",
+  "people": "none",
+  "faces_identifiable": false,
+  "privacy": [],
+  "branding_visible": false,
+  "quality": "4",
+  "issues": [],
+  "website_ready": true,
+  "title": "Bathroom vanity with gray full flake floor",
+  "alt_text": "Bathroom with white vanity cabinets and a gray full flake floor coating with small gray, white and black chips",
+  "tags": [
+   "bathroom",
+   "full flake",
+   "gray chips",
+   "vanity",
+   "cabinets",
+   "interior floor",
+   "finished floor",
+   "small chips"
+  ],
+  "filename": "bathroom-gray-full-flake-floor"
+ },
+ "id": "3023e4351719",
+ "provider": "kimi",
+ "model": "moonshotai/kimi-k3",
+ "mode": "run",
+ "blind": false,
+ "at": "2026-09-17T12:47:40"
+}

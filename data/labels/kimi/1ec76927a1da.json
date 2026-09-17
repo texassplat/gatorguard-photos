@@ -1,0 +1,43 @@
+{
+ "finish": "stop",
+ "usage": {
+  "input_tokens": 5265,
+  "output_tokens": 212,
+  "cost": 0.007218195
+ },
+ "served_by": "Morph",
+ "label": {
+  "content": "vehicle_or_equipment",
+  "area": "driveway_or_walkway",
+  "setting": "residential",
+  "system": "poly_enhance",
+  "color": "unknown",
+  "color_confidence": "none",
+  "color_runner_up": "unknown",
+  "color_description": "",
+  "shot_type": "truck_or_equipment",
+  "people": "none",
+  "faces_identifiable": false,
+  "privacy": [],
+  "branding_visible": true,
+  "quality": "4",
+  "issues": [],
+  "website_ready": true,
+  "title": "GatorGuard truck on poly enhanced driveway",
+  "alt_text": "GatorGuard truck on poly enhanced driveway",
+  "tags": [
+   "truck",
+   "gator guard",
+   "driveway",
+   "poly enhance",
+   "exterior"
+  ],
+  "filename": "gator-guard-truck-poly-enhance-driveway"
+ },
+ "id": "1ec76927a1da",
+ "provider": "kimi",
+ "model": "moonshotai/kimi-k3",
+ "mode": "run",
+ "blind": false,
+ "at": "2026-09-17T12:56:08"
+}

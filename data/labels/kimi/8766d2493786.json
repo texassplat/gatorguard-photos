@@ -1,0 +1,46 @@
+{
+ "finish": "stop",
+ "usage": {
+  "input_tokens": 5213,
+  "output_tokens": 213,
+  "cost": 0.0096756
+ },
+ "served_by": "Together",
+ "label": {
+  "content": "floor_photo",
+  "area": "interior_room",
+  "setting": "residential",
+  "system": "metallic",
+  "color": "Gray",
+  "color_confidence": "medium",
+  "color_runner_up": "Charcoal",
+  "color_description": "light and medium gray metallic swirls with white marbling, no chips",
+  "shot_type": "finished",
+  "people": "none",
+  "faces_identifiable": false,
+  "privacy": [],
+  "branding_visible": false,
+  "quality": "4",
+  "issues": [],
+  "website_ready": true,
+  "title": "Kitchen with gray metallic epoxy floor",
+  "alt_text": "Kitchen with white cabinets and stainless appliances over a gray swirled metallic epoxy floor",
+  "tags": [
+   "metallic epoxy",
+   "gray metallic",
+   "kitchen floor",
+   "white cabinets",
+   "stainless appliances",
+   "swirled floor",
+   "interior floor",
+   "liquid art"
+  ],
+  "filename": "kitchen-gray-metallic-epoxy-floor"
+ },
+ "id": "8766d2493786",
+ "provider": "kimi",
+ "model": "moonshotai/kimi-k3",
+ "mode": "run",
+ "blind": false,
+ "at": "2026-09-17T12:49:30"
+}

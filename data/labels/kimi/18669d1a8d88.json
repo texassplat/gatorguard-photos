@@ -1,0 +1,47 @@
+{
+ "finish": "stop",
+ "usage": {
+  "input_tokens": 4991,
+  "output_tokens": 236,
+  "cost": 0.0093546
+ },
+ "served_by": "Together",
+ "label": {
+  "content": "floor_photo",
+  "area": "garage",
+  "setting": "residential",
+  "system": "full_flake",
+  "color": "Granite",
+  "color_confidence": "medium",
+  "color_runner_up": "Zircon",
+  "color_description": "white, gray and black chips with a few tan and rust accents, small to medium size",
+  "shot_type": "close_up",
+  "people": "none",
+  "faces_identifiable": false,
+  "privacy": [],
+  "branding_visible": false,
+  "quality": "4",
+  "issues": [],
+  "website_ready": true,
+  "title": "Close up of flake floor edge lip",
+  "alt_text": "Close up of a glossy gray full flake floor coating wrapping over an edge lip in a garage",
+  "tags": [
+   "close up",
+   "edge lip",
+   "full flake",
+   "gray chips",
+   "white chips",
+   "black chips",
+   "glossy",
+   "garage floor",
+   "floor edge detail"
+  ],
+  "filename": "gray-flake-floor-edge-lip-close-up"
+ },
+ "id": "18669d1a8d88",
+ "provider": "kimi",
+ "model": "moonshotai/kimi-k3",
+ "mode": "run",
+ "blind": false,
+ "at": "2026-09-17T12:49:07"
+}

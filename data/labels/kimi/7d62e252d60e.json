@@ -1,0 +1,46 @@
+{
+ "finish": "stop",
+ "usage": {
+  "input_tokens": 5337,
+  "output_tokens": 269,
+  "cost": 0.010542
+ },
+ "served_by": "Together",
+ "label": {
+  "content": "floor_photo",
+  "area": "basement",
+  "setting": "residential",
+  "system": "full_flake",
+  "color": "Granite",
+  "color_confidence": "medium",
+  "color_runner_up": "Infinity",
+  "color_description": "gray base with white, black and light gray chips, small to medium size",
+  "shot_type": "finished",
+  "people": "none",
+  "faces_identifiable": false,
+  "privacy": [],
+  "branding_visible": false,
+  "quality": "4",
+  "issues": [],
+  "website_ready": true,
+  "title": "Basement with gray full flake floor",
+  "alt_text": "Finished basement with white painted block walls and a glossy gray full flake floor coating",
+  "tags": [
+   "basement",
+   "full flake",
+   "gray floor",
+   "gray white black chips",
+   "glossy",
+   "painted block walls",
+   "finished floor",
+   "epoxy floor"
+  ],
+  "filename": "basement-gray-full-flake-floor"
+ },
+ "id": "7d62e252d60e",
+ "provider": "kimi",
+ "model": "moonshotai/kimi-k3",
+ "mode": "pilot",
+ "blind": true,
+ "at": "2026-09-17T12:26:02"
+}

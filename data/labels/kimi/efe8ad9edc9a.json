@@ -1,0 +1,47 @@
+{
+ "finish": "stop",
+ "usage": {
+  "input_tokens": 5188,
+  "output_tokens": 247,
+  "cost": 0.00744132
+ },
+ "served_by": "Morph",
+ "label": {
+  "content": "vehicle_or_equipment",
+  "area": "garage",
+  "setting": "residential",
+  "system": "metallic",
+  "color": "Gun Metal",
+  "color_confidence": "low",
+  "color_runner_up": "Charcoal",
+  "color_description": "dark charcoal gray metallic coating with fine light gray speckling",
+  "shot_type": "close_up",
+  "people": "none",
+  "faces_identifiable": false,
+  "privacy": [],
+  "branding_visible": false,
+  "quality": "4",
+  "issues": [],
+  "website_ready": false,
+  "title": "Red motorcycle on dark metallic garage floor",
+  "alt_text": "Red motorcycle front wheel and chrome engine on a dark gray metallic garage floor coating",
+  "tags": [
+   "garage",
+   "metallic floor",
+   "dark gray metallic",
+   "motorcycle",
+   "red motorcycle",
+   "chrome wheel",
+   "harley davidson",
+   "finished floor",
+   "close up"
+  ],
+  "filename": "red-motorcycle-dark-metallic-garage-floor"
+ },
+ "id": "efe8ad9edc9a",
+ "provider": "kimi",
+ "model": "moonshotai/kimi-k3",
+ "mode": "run",
+ "blind": false,
+ "at": "2026-09-17T12:51:06"
+}

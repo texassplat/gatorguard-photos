@@ -1,0 +1,46 @@
+{
+ "finish": "stop",
+ "usage": {
+  "input_tokens": 5319,
+  "output_tokens": 238,
+  "cost": 0.019527
+ },
+ "served_by": "Parasail",
+ "label": {
+  "content": "floor_photo",
+  "area": "garage",
+  "setting": "unknown",
+  "system": "full_flake",
+  "color": "Granite",
+  "color_confidence": "medium",
+  "color_runner_up": "Stone Ridge",
+  "color_description": "gray, white and black chips with some tan, medium size",
+  "shot_type": "crew_working",
+  "people": "prominent",
+  "faces_identifiable": false,
+  "privacy": [],
+  "branding_visible": false,
+  "quality": "4",
+  "issues": [],
+  "website_ready": true,
+  "title": "Crew installing custom logo stencil on flake floor",
+  "alt_text": "Worker heating a black logo stencil on a gray full flake garage floor with custom logo work",
+  "tags": [
+   "custom logo",
+   "logo stencil",
+   "full flake",
+   "gray chips",
+   "crew working",
+   "torch",
+   "garage floor",
+   "in progress"
+  ],
+  "filename": "crew-installing-logo-stencil-flake-floor"
+ },
+ "id": "7e984244ff3a",
+ "provider": "kimi",
+ "model": "moonshotai/kimi-k3",
+ "mode": "run",
+ "blind": false,
+ "at": "2026-09-17T12:52:33"
+}

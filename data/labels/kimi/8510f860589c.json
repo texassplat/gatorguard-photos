@@ -1,0 +1,47 @@
+{
+ "finish": "stop",
+ "usage": {
+  "input_tokens": 5333,
+  "output_tokens": 255,
+  "cost": 0.0106656
+ },
+ "served_by": "Together",
+ "label": {
+  "content": "floor_photo",
+  "area": "garage",
+  "setting": "residential",
+  "system": "full_flake",
+  "color": "unknown",
+  "color_confidence": "low",
+  "color_runner_up": "unknown",
+  "color_description": "gray base with sparse small black and white chips",
+  "shot_type": "finished",
+  "people": "none",
+  "faces_identifiable": false,
+  "privacy": [],
+  "branding_visible": false,
+  "quality": "3",
+  "issues": [],
+  "website_ready": false,
+  "title": "Glossy gray garage floor with sparse black chips",
+  "alt_text": "Low angle view of a glossy gray coated garage floor with sparse black and white chips, full flake garage floor coating",
+  "tags": [
+   "garage floor",
+   "gray coating",
+   "black chips",
+   "white chips",
+   "glossy finish",
+   "full flake",
+   "low angle",
+   "reflection",
+   "old style"
+  ],
+  "filename": "gray-garage-floor-sparse-black-chips"
+ },
+ "id": "8510f860589c",
+ "provider": "kimi",
+ "model": "moonshotai/kimi-k3",
+ "mode": "run",
+ "blind": false,
+ "at": "2026-09-17T12:53:11"
+}

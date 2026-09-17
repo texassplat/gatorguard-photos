@@ -1,0 +1,48 @@
+{
+ "finish": "stop",
+ "usage": {
+  "input_tokens": 5321,
+  "output_tokens": 203,
+  "cost": 0.0098496
+ },
+ "served_by": "Together",
+ "label": {
+  "content": "floor_photo",
+  "area": "basement",
+  "setting": "residential",
+  "system": "solid_color_chip",
+  "color": "unknown",
+  "color_confidence": "low",
+  "color_runner_up": "Callisto",
+  "color_description": "light gray chips of one color, small size, glossy clear coat",
+  "shot_type": "finished",
+  "people": "none",
+  "faces_identifiable": false,
+  "privacy": [],
+  "branding_visible": false,
+  "quality": "3",
+  "issues": [
+   "wet_or_dirty"
+  ],
+  "website_ready": false,
+  "title": "Basement with light gray solid color chip floor",
+  "alt_text": "Basement with a light gray solid color chip floor, glossy finish, exposed pipes and block walls",
+  "tags": [
+   "basement",
+   "solid color chip",
+   "gray floor",
+   "glossy",
+   "block walls",
+   "pipes",
+   "finished floor",
+   "light gray"
+  ],
+  "filename": "basement-light-gray-solid-color-chip"
+ },
+ "id": "f616603cf874",
+ "provider": "kimi",
+ "model": "moonshotai/kimi-k3",
+ "mode": "run",
+ "blind": false,
+ "at": "2026-09-17T12:57:17"
+}

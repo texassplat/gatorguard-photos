@@ -1,0 +1,47 @@
+{
+ "finish": "stop",
+ "usage": {
+  "input_tokens": 4489,
+  "output_tokens": 236,
+  "cost": 0.0078486
+ },
+ "served_by": "Together",
+ "label": {
+  "content": "floor_photo",
+  "area": "interior_room",
+  "setting": "residential",
+  "system": "metallic",
+  "color": "Copper",
+  "color_confidence": "medium",
+  "color_runner_up": "Cappuccino",
+  "color_description": "warm copper brown metallic with subtle marbling, glossy",
+  "shot_type": "finished",
+  "people": "none",
+  "faces_identifiable": false,
+  "privacy": [],
+  "branding_visible": false,
+  "quality": "4",
+  "issues": [],
+  "website_ready": true,
+  "title": "Copper metallic epoxy floor in living space",
+  "alt_text": "Glossy copper brown metallic epoxy floor in a room with stone accent wall and shelving, metallic floor coating",
+  "tags": [
+   "metallic epoxy",
+   "copper",
+   "liquid art",
+   "interior floor",
+   "glossy",
+   "marbled",
+   "living room",
+   "stone wall",
+   "finished floor"
+  ],
+  "filename": "copper-metallic-interior-floor"
+ },
+ "id": "5a59305e0b40",
+ "provider": "kimi",
+ "model": "moonshotai/kimi-k3",
+ "mode": "run",
+ "blind": false,
+ "at": "2026-09-17T12:49:54"
+}

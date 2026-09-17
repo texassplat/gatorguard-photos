@@ -1,0 +1,45 @@
+{
+ "finish": "stop",
+ "usage": {
+  "input_tokens": 5248,
+  "output_tokens": 237,
+  "cost": 0.0209229
+ },
+ "served_by": "Morph",
+ "label": {
+  "content": "floor_photo",
+  "area": "interior_room",
+  "setting": "unknown",
+  "system": "solid_color",
+  "color": "not_applicable",
+  "color_confidence": "none",
+  "color_runner_up": "not_applicable",
+  "color_description": "solid off white coating with a glossy finish, no chips visible",
+  "shot_type": "in_progress",
+  "people": "none",
+  "faces_identifiable": false,
+  "privacy": [],
+  "branding_visible": false,
+  "quality": "3",
+  "issues": [],
+  "website_ready": false,
+  "title": "Glossy white solid color floor coating",
+  "alt_text": "Glossy off white solid color coated floor in a room with painted brick walls and support poles",
+  "tags": [
+   "solid color",
+   "white floor",
+   "glossy finish",
+   "interior room",
+   "painted brick walls",
+   "support poles",
+   "old style"
+  ],
+  "filename": "white-solid-color-coated-floor"
+ },
+ "id": "ed69aa10a267",
+ "provider": "kimi",
+ "model": "moonshotai/kimi-k3",
+ "mode": "run",
+ "blind": false,
+ "at": "2026-09-17T12:54:44"
+}

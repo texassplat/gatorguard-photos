@@ -1,0 +1,46 @@
+{
+ "finish": "stop",
+ "usage": {
+  "input_tokens": 5332,
+  "output_tokens": 316,
+  "cost": 0.020736
+ },
+ "served_by": "Parasail",
+ "label": {
+  "content": "floor_photo",
+  "area": "basement",
+  "setting": "residential",
+  "system": "metallic",
+  "color": "Copper",
+  "color_confidence": "medium",
+  "color_runner_up": "Cappuccino",
+  "color_description": "swirled copper brown metallic epoxy, marbled and reflective, no chips",
+  "shot_type": "finished",
+  "people": "none",
+  "faces_identifiable": false,
+  "privacy": [],
+  "branding_visible": false,
+  "quality": "4",
+  "issues": [],
+  "website_ready": true,
+  "title": "Copper metallic epoxy floor in unfinished basement",
+  "alt_text": "Swirled copper brown metallic epoxy floor in a basement with bare concrete walls, metallic epoxy floor coating",
+  "tags": [
+   "metallic epoxy",
+   "copper",
+   "marbled floor",
+   "basement floor",
+   "swirled",
+   "reflective",
+   "concrete walls",
+   "liquid art"
+  ],
+  "filename": "copper-metallic-epoxy-basement-floor"
+ },
+ "id": "81009084d83f",
+ "provider": "kimi",
+ "model": "moonshotai/kimi-k3",
+ "mode": "run",
+ "blind": false,
+ "at": "2026-09-17T12:51:49"
+}

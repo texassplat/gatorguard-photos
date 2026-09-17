@@ -1,0 +1,48 @@
+{
+ "finish": "stop",
+ "usage": {
+  "input_tokens": 5321,
+  "output_tokens": 257,
+  "cost": 0.0106596
+ },
+ "served_by": "Together",
+ "label": {
+  "content": "floor_photo",
+  "area": "basement",
+  "setting": "residential",
+  "system": "solid_color_chip",
+  "color": "unknown",
+  "color_confidence": "low",
+  "color_runner_up": "Ocotillo",
+  "color_description": "small light tan and beige chips, fairly uniform single-tone look",
+  "shot_type": "finished",
+  "people": "none",
+  "faces_identifiable": false,
+  "privacy": [],
+  "branding_visible": false,
+  "quality": "3",
+  "issues": [
+   "cluttered"
+  ],
+  "website_ready": false,
+  "title": "Basement utility room with tan chip floor",
+  "alt_text": "Basement utility room with water heater and furnace on a tan single color chip floor coating",
+  "tags": [
+   "basement",
+   "utility room",
+   "solid color chip",
+   "tan chips",
+   "water heater",
+   "furnace",
+   "floor drain",
+   "finished floor"
+  ],
+  "filename": "basement-utility-room-tan-chip-floor"
+ },
+ "id": "c6cda700fc6e",
+ "provider": "kimi",
+ "model": "moonshotai/kimi-k3",
+ "mode": "run",
+ "blind": false,
+ "at": "2026-09-17T12:57:15"
+}

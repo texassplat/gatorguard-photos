@@ -1,0 +1,46 @@
+{
+ "finish": "stop",
+ "usage": {
+  "input_tokens": 5206,
+  "output_tokens": 214,
+  "cost": 0.0096696
+ },
+ "served_by": "Together",
+ "label": {
+  "content": "floor_photo",
+  "area": "not_visible",
+  "setting": "unknown",
+  "system": "full_flake",
+  "color": "Avalon",
+  "color_confidence": "low",
+  "color_runner_up": "Infinity",
+  "color_description": "light gray base with fine white, gray, black and faint tan chips, small size",
+  "shot_type": "close_up",
+  "people": "none",
+  "faces_identifiable": false,
+  "privacy": [],
+  "branding_visible": false,
+  "quality": "3",
+  "issues": [],
+  "website_ready": false,
+  "title": "Close up of light gray full flake floor",
+  "alt_text": "Close up of a light gray full flake floor with fine white, gray and black chips and a saw-cut joint",
+  "tags": [
+   "full flake",
+   "close up",
+   "light gray",
+   "fine chips",
+   "gray chips",
+   "floor coating",
+   "saw cut joint",
+   "surface detail"
+  ],
+  "filename": "light-gray-full-flake-close-up"
+ },
+ "id": "fdd837d5a431",
+ "provider": "kimi",
+ "model": "moonshotai/kimi-k3",
+ "mode": "run",
+ "blind": false,
+ "at": "2026-09-17T12:38:23"
+}

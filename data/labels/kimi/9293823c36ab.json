@@ -1,0 +1,45 @@
+{
+ "finish": "stop",
+ "usage": {
+  "input_tokens": 5284,
+  "output_tokens": 294,
+  "cost": 0.01023126
+ },
+ "served_by": "DigitalOcean",
+ "label": {
+  "alt_text": "Commercial room with glossy light gray coated concrete floor, shelving and support posts visible",
+  "area": "commercial_or_industrial",
+  "branding_visible": false,
+  "color": "Gray",
+  "color_confidence": "medium",
+  "color_description": "uniform light gray glossy coating with no chips",
+  "color_runner_up": "unknown",
+  "content": "floor_photo",
+  "faces_identifiable": false,
+  "filename": "gray-solid-color-commercial-floor",
+  "issues": [],
+  "people": "none",
+  "privacy": [],
+  "quality": "4",
+  "setting": "commercial",
+  "shot_type": "finished",
+  "system": "solid_color",
+  "tags": [
+   "commercial floor",
+   "solid color coating",
+   "gray floor",
+   "glossy finish",
+   "indoor room",
+   "shelving",
+   "finished floor"
+  ],
+  "title": "Commercial room with glossy gray coated floor",
+  "website_ready": true
+ },
+ "id": "9293823c36ab",
+ "provider": "kimi",
+ "model": "moonshotai/kimi-k3",
+ "mode": "run",
+ "blind": false,
+ "at": "2026-09-17T12:33:34"
+}

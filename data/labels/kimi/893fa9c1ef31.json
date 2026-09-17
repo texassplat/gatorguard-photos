@@ -1,0 +1,49 @@
+{
+ "finish": "stop",
+ "usage": {
+  "input_tokens": 5347,
+  "output_tokens": 255,
+  "cost": 0.0107076
+ },
+ "served_by": "Together",
+ "label": {
+  "content": "floor_photo",
+  "area": "garage",
+  "setting": "residential",
+  "system": "full_flake",
+  "color": "unknown",
+  "color_confidence": "low",
+  "color_runner_up": "Granite",
+  "color_description": "gray, white and black chips, small to medium size",
+  "shot_type": "close_up",
+  "people": "none",
+  "faces_identifiable": false,
+  "privacy": [],
+  "branding_visible": false,
+  "quality": "3",
+  "issues": [
+   "wet_or_dirty"
+  ],
+  "website_ready": false,
+  "title": "Garage edge lip where flake floor meets driveway",
+  "alt_text": "Close up of a garage door lip with a gray full flake coated floor inside and bare concrete driveway outside",
+  "tags": [
+   "garage",
+   "edge lip",
+   "garage threshold",
+   "full flake",
+   "gray chips",
+   "bare concrete",
+   "driveway",
+   "close up",
+   "wet edge"
+  ],
+  "filename": "garage-lip-flake-floor-edge"
+ },
+ "id": "893fa9c1ef31",
+ "provider": "kimi",
+ "model": "moonshotai/kimi-k3",
+ "mode": "run",
+ "blind": false,
+ "at": "2026-09-17T12:48:42"
+}

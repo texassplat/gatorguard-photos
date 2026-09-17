@@ -1,0 +1,46 @@
+{
+ "finish": "stop",
+ "usage": {
+  "input_tokens": 5317,
+  "output_tokens": 208,
+  "cost": 0.0099126
+ },
+ "served_by": "Together",
+ "label": {
+  "content": "floor_photo",
+  "area": "commercial_or_industrial",
+  "setting": "commercial",
+  "system": "full_flake",
+  "color": "Infinity",
+  "color_confidence": "medium",
+  "color_runner_up": "Lunar",
+  "color_description": "gray base with white, black and light gray chips, small to medium size",
+  "shot_type": "finished",
+  "people": "none",
+  "faces_identifiable": false,
+  "privacy": [],
+  "branding_visible": false,
+  "quality": "4",
+  "issues": [],
+  "website_ready": true,
+  "title": "Commercial room with gray full flake floor",
+  "alt_text": "Glossy gray full flake floor coating in a commercial room with white walls and an open door",
+  "tags": [
+   "commercial floor",
+   "full flake",
+   "gray chips",
+   "glossy finish",
+   "interior room",
+   "white walls",
+   "finished floor",
+   "gray epoxy"
+  ],
+  "filename": "commercial-room-gray-full-flake-floor"
+ },
+ "id": "b1a332a18c8c",
+ "provider": "kimi",
+ "model": "moonshotai/kimi-k3",
+ "mode": "run",
+ "blind": false,
+ "at": "2026-09-17T12:34:55"
+}

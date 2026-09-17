@@ -1,0 +1,47 @@
+{
+ "finish": "stop",
+ "usage": {
+  "input_tokens": 5256,
+  "output_tokens": 167,
+  "cost": 0.00672882
+ },
+ "served_by": "Morph",
+ "label": {
+  "content": "floor_photo",
+  "area": "patio_or_porch",
+  "setting": "residential",
+  "system": "poly_enhance",
+  "color": "not_applicable",
+  "color_confidence": "none",
+  "color_runner_up": "not_applicable",
+  "color_description": "",
+  "shot_type": "finished",
+  "people": "none",
+  "faces_identifiable": false,
+  "privacy": [],
+  "branding_visible": false,
+  "quality": "4",
+  "issues": [],
+  "website_ready": true,
+  "title": "Wet-look sealed paver patio under pergola",
+  "alt_text": "Brick paver patio with glossy wet-look sealer under a wood pergola, poly enhance sealer",
+  "tags": [
+   "patio",
+   "pavers",
+   "wet look",
+   "sealer",
+   "glossy",
+   "pergola",
+   "backyard",
+   "outdoor living",
+   "poly enhance"
+  ],
+  "filename": "sealed-paver-patio-pergola"
+ },
+ "id": "b9b24b102ba0",
+ "provider": "kimi",
+ "model": "moonshotai/kimi-k3",
+ "mode": "run",
+ "blind": false,
+ "at": "2026-09-17T12:55:49"
+}

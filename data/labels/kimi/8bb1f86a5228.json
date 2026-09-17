@@ -1,0 +1,46 @@
+{
+ "finish": "stop",
+ "usage": {
+  "input_tokens": 5336,
+  "output_tokens": 215,
+  "cost": 0.0100746
+ },
+ "served_by": "Together",
+ "label": {
+  "content": "floor_photo",
+  "area": "commercial_or_industrial",
+  "setting": "commercial",
+  "system": "full_flake",
+  "color": "Granite",
+  "color_confidence": "medium",
+  "color_runner_up": "Stone Rowe",
+  "color_description": "gray, white and black chips, small to medium size",
+  "shot_type": "finished",
+  "people": "background",
+  "faces_identifiable": false,
+  "privacy": [],
+  "branding_visible": false,
+  "quality": "4",
+  "issues": [],
+  "website_ready": true,
+  "title": "Commercial shop with gray full flake floor",
+  "alt_text": "Large commercial workshop with glossy gray full flake floor coating, overhead doors and open bays",
+  "tags": [
+   "commercial",
+   "full flake",
+   "gray chips",
+   "workshop",
+   "garage doors",
+   "glossy floor",
+   "wide shot",
+   "finished"
+  ],
+  "filename": "commercial-shop-gray-full-flake-floor"
+ },
+ "id": "8bb1f86a5228",
+ "provider": "kimi",
+ "model": "moonshotai/kimi-k3",
+ "mode": "run",
+ "blind": false,
+ "at": "2026-09-17T12:33:16"
+}

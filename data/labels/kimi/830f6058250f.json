@@ -1,0 +1,46 @@
+{
+ "finish": "stop",
+ "usage": {
+  "input_tokens": 5327,
+  "output_tokens": 244,
+  "cost": 0.0104826
+ },
+ "served_by": "Together",
+ "label": {
+  "content": "floor_photo",
+  "area": "patio_or_porch",
+  "setting": "residential",
+  "system": "metallic",
+  "color": "Cappuccino",
+  "color_confidence": "medium",
+  "color_runner_up": "Copper",
+  "color_description": "marbled brown metallic with lighter tan swirls, glossy finish",
+  "shot_type": "finished",
+  "people": "none",
+  "faces_identifiable": false,
+  "privacy": [],
+  "branding_visible": false,
+  "quality": "4",
+  "issues": [],
+  "website_ready": true,
+  "title": "Screened porch with brown metallic epoxy floor",
+  "alt_text": "Glossy brown marbled metallic epoxy floor in a screened porch with sliding glass doors, metallic floor coating",
+  "tags": [
+   "metallic epoxy",
+   "brown metallic",
+   "screened porch",
+   "patio floor",
+   "glossy floor",
+   "marbled finish",
+   "liquid art",
+   "reflective floor"
+  ],
+  "filename": "brown-metallic-screened-porch-floor"
+ },
+ "id": "830f6058250f",
+ "provider": "kimi",
+ "model": "moonshotai/kimi-k3",
+ "mode": "run",
+ "blind": false,
+ "at": "2026-09-17T12:51:32"
+}

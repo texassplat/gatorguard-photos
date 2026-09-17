@@ -1,0 +1,48 @@
+{
+ "finish": "stop",
+ "usage": {
+  "input_tokens": 5336,
+  "output_tokens": 268,
+  "cost": 0.0108696
+ },
+ "served_by": "Together",
+ "label": {
+  "content": "floor_photo",
+  "area": "garage",
+  "setting": "residential",
+  "system": "full_flake",
+  "color": "Ocotillo",
+  "color_confidence": "high",
+  "color_runner_up": "Santana",
+  "color_description": "tan, brown, black and gray chips, medium size",
+  "shot_type": "finished",
+  "people": "background",
+  "faces_identifiable": false,
+  "privacy": [],
+  "branding_visible": false,
+  "quality": "4",
+  "issues": [],
+  "website_ready": true,
+  "title": "Garage with tan Ocotillo full flake floor",
+  "alt_text": "Low angle view of a glossy tan full flake garage floor with cabinets, open door, and car outside",
+  "tags": [
+   "garage",
+   "full flake",
+   "tan chips",
+   "brown chips",
+   "glossy floor",
+   "cabinets",
+   "open garage door",
+   "car",
+   "finished floor",
+   "low angle"
+  ],
+  "filename": "garage-ocotillo-full-flake-floor"
+ },
+ "id": "85acffa060a9",
+ "provider": "kimi",
+ "model": "moonshotai/kimi-k3",
+ "mode": "run",
+ "blind": false,
+ "at": "2026-09-17T12:46:07"
+}

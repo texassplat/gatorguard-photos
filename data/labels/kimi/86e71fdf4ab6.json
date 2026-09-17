@@ -1,0 +1,46 @@
+{
+ "finish": "stop",
+ "usage": {
+  "input_tokens": 5334,
+  "output_tokens": 252,
+  "cost": 0.00981486
+ },
+ "served_by": "DigitalOcean",
+ "label": {
+  "alt_text": "Finished basement with light gray full flake floor coating, painted brick walls and black ceiling",
+  "area": "basement",
+  "branding_visible": false,
+  "color": "Lunar",
+  "color_confidence": "low",
+  "color_description": "white and light gray chips, small size",
+  "color_runner_up": "Avalon",
+  "content": "floor_photo",
+  "faces_identifiable": false,
+  "filename": "basement-light-gray-full-flake-floor",
+  "issues": [],
+  "people": "none",
+  "privacy": [],
+  "quality": "4",
+  "setting": "residential",
+  "shot_type": "finished",
+  "system": "full_flake",
+  "tags": [
+   "basement",
+   "full flake",
+   "light gray chips",
+   "painted brick walls",
+   "black ceiling",
+   "floor drain",
+   "empty room",
+   "full flake basement floor"
+  ],
+  "title": "Basement with light gray full flake floor",
+  "website_ready": true
+ },
+ "id": "86e71fdf4ab6",
+ "provider": "kimi",
+ "model": "moonshotai/kimi-k3",
+ "mode": "run",
+ "blind": false,
+ "at": "2026-09-17T12:31:40"
+}

@@ -1,0 +1,47 @@
+{
+ "finish": "stop",
+ "usage": {
+  "input_tokens": 5338,
+  "output_tokens": 264,
+  "cost": 0.0108156
+ },
+ "served_by": "Together",
+ "label": {
+  "content": "floor_photo",
+  "area": "garage",
+  "setting": "residential",
+  "system": "full_flake",
+  "color": "unknown",
+  "color_confidence": "low",
+  "color_runner_up": "Granite",
+  "color_description": "light gray base with small white, gray and black chips",
+  "shot_type": "finished",
+  "people": "none",
+  "faces_identifiable": false,
+  "privacy": [],
+  "branding_visible": true,
+  "quality": "4",
+  "issues": [],
+  "website_ready": true,
+  "title": "Garage with gray flake floor and Chatham Hills logo",
+  "alt_text": "Garage with light gray full flake floor and black Chatham Hills script logo, full flake garage floor coating",
+  "tags": [
+   "garage",
+   "full flake",
+   "gray chips",
+   "floor logo",
+   "chatham hills",
+   "finished floor",
+   "gray walls",
+   "window",
+   "glossy"
+  ],
+  "filename": "garage-gray-flake-chatham-hills-logo"
+ },
+ "id": "3e4520db8667",
+ "provider": "kimi",
+ "model": "moonshotai/kimi-k3",
+ "mode": "run",
+ "blind": false,
+ "at": "2026-09-17T12:41:18"
+}

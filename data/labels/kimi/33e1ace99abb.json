@@ -1,0 +1,47 @@
+{
+ "finish": "stop",
+ "usage": {
+  "input_tokens": 5314,
+  "output_tokens": 194,
+  "cost": 0.0096936
+ },
+ "served_by": "Together",
+ "label": {
+  "content": "floor_photo",
+  "area": "patio_or_porch",
+  "setting": "residential",
+  "system": "unknown",
+  "color": "not_applicable",
+  "color_confidence": "none",
+  "color_runner_up": "not_applicable",
+  "color_description": "",
+  "shot_type": "in_progress",
+  "people": "prominent",
+  "faces_identifiable": false,
+  "privacy": [],
+  "branding_visible": true,
+  "quality": "4",
+  "issues": [],
+  "website_ready": false,
+  "title": "Installer squeegeeing yellow base coat on patio",
+  "alt_text": "GatorGuard installer squeegeeing a yellow base coat over exterior concrete beside a house, coating in progress",
+  "tags": [
+   "installer",
+   "crew working",
+   "squeegee",
+   "base coat",
+   "patio",
+   "exterior concrete",
+   "in progress",
+   "yellow coating",
+   "prep"
+  ],
+  "filename": "installer-squeegeeing-yellow-base-coat-patio"
+ },
+ "id": "33e1ace99abb",
+ "provider": "kimi",
+ "model": "moonshotai/kimi-k3",
+ "mode": "run",
+ "blind": false,
+ "at": "2026-09-17T12:47:32"
+}

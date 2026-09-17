@@ -1,0 +1,49 @@
+{
+ "finish": "stop",
+ "usage": {
+  "input_tokens": 4963,
+  "output_tokens": 273,
+  "cost": 0.016191
+ },
+ "served_by": "DigitalOcean",
+ "label": {
+  "alt_text": "Interior room with a glossy gray full flake floor, wet clear coat, view toward doors and hallway. full flake interior floor coating",
+  "area": "interior_room",
+  "branding_visible": false,
+  "color": "Aurora",
+  "color_confidence": "medium",
+  "color_description": "gray base with black, white and gray chips, small to medium size",
+  "color_runner_up": "Indigo",
+  "content": "floor_photo",
+  "faces_identifiable": false,
+  "filename": "interior-room-gray-full-flake-floor",
+  "issues": [
+   "wet_or_dirty"
+  ],
+  "people": "none",
+  "privacy": [],
+  "quality": "3",
+  "setting": "residential",
+  "shot_type": "finished",
+  "system": "full_flake",
+  "tags": [
+   "full flake",
+   "interior room",
+   "gray chips",
+   "black and white chips",
+   "glossy floor",
+   "wet look",
+   "clear coat",
+   "finished floor",
+   "hallway"
+  ],
+  "title": "Interior room with glossy gray full flake floor",
+  "website_ready": false
+ },
+ "id": "05bc48892ab8",
+ "provider": "kimi",
+ "model": "moonshotai/kimi-k3",
+ "mode": "run",
+ "blind": false,
+ "at": "2026-09-17T12:48:21"
+}

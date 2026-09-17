@@ -1,0 +1,44 @@
+{
+ "finish": "stop",
+ "usage": {
+  "input_tokens": 4607,
+  "output_tokens": 220,
+  "cost": 0.00754661
+ },
+ "served_by": "DigitalOcean",
+ "label": {
+  "alt_text": "Columbus script logo graphic on white background",
+  "area": "not_visible",
+  "branding_visible": true,
+  "color": "not_applicable",
+  "color_confidence": "none",
+  "color_description": "",
+  "color_runner_up": "not_applicable",
+  "content": "logo_or_text_graphic",
+  "faces_identifiable": false,
+  "filename": "columbus-script-logo-graphic",
+  "issues": [],
+  "people": "none",
+  "privacy": [],
+  "quality": "4",
+  "setting": "unknown",
+  "shot_type": "graphic",
+  "system": "not_applicable",
+  "tags": [
+   "columbus",
+   "script logo",
+   "email logo",
+   "birdeye asset",
+   "text graphic",
+   "marketing asset"
+  ],
+  "title": "Columbus script logo graphic",
+  "website_ready": false
+ },
+ "id": "8d22c7d2088b",
+ "provider": "kimi",
+ "model": "moonshotai/kimi-k3",
+ "mode": "run",
+ "blind": false,
+ "at": "2026-09-17T12:31:46"
+}

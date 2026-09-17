@@ -1,0 +1,47 @@
+{
+ "finish": "stop",
+ "usage": {
+  "input_tokens": 5326,
+  "output_tokens": 211,
+  "cost": 0.0099846
+ },
+ "served_by": "Together",
+ "label": {
+  "content": "floor_photo",
+  "area": "commercial_or_industrial",
+  "setting": "commercial",
+  "system": "full_flake",
+  "color": "Granite",
+  "color_confidence": "medium",
+  "color_runner_up": "Aurora",
+  "color_description": "gray, white and black chips, small size",
+  "shot_type": "finished",
+  "people": "none",
+  "faces_identifiable": false,
+  "privacy": [],
+  "branding_visible": false,
+  "quality": "4",
+  "issues": [],
+  "website_ready": true,
+  "title": "Commercial showroom with gray full flake floor",
+  "alt_text": "Glossy gray full flake floor in a commercial space with glass doors and a truck outside",
+  "tags": [
+   "commercial",
+   "full flake",
+   "gray chips",
+   "black chips",
+   "white chips",
+   "showroom",
+   "glass doors",
+   "glossy floor",
+   "finished"
+  ],
+  "filename": "commercial-gray-full-flake-floor"
+ },
+ "id": "0996e34fdf2f",
+ "provider": "kimi",
+ "model": "moonshotai/kimi-k3",
+ "mode": "run",
+ "blind": false,
+ "at": "2026-09-17T12:33:43"
+}

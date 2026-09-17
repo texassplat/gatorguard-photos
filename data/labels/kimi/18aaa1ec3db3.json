@@ -1,0 +1,44 @@
+{
+ "finish": "stop",
+ "usage": {
+  "input_tokens": 4607,
+  "output_tokens": 190,
+  "cost": 0.00715811
+ },
+ "served_by": "DigitalOcean",
+ "label": {
+  "alt_text": "Charlotte logo in black cursive script",
+  "area": "not_visible",
+  "branding_visible": true,
+  "color": "not_applicable",
+  "color_confidence": "none",
+  "color_description": "",
+  "color_runner_up": "not_applicable",
+  "content": "logo_or_text_graphic",
+  "faces_identifiable": false,
+  "filename": "charlotte-cursive-logo-graphic",
+  "issues": [],
+  "people": "none",
+  "privacy": [],
+  "quality": "3",
+  "setting": "unknown",
+  "shot_type": "graphic",
+  "system": "not_applicable",
+  "tags": [
+   "charlotte",
+   "logo",
+   "cursive",
+   "email logo",
+   "birdeye asset",
+   "graphic"
+  ],
+  "title": "Charlotte cursive logo graphic",
+  "website_ready": false
+ },
+ "id": "18aaa1ec3db3",
+ "provider": "kimi",
+ "model": "moonshotai/kimi-k3",
+ "mode": "run",
+ "blind": false,
+ "at": "2026-09-17T12:31:44"
+}

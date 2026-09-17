@@ -1,0 +1,47 @@
+{
+ "finish": "stop",
+ "usage": {
+  "input_tokens": 5314,
+  "output_tokens": 226,
+  "cost": 0.0101736
+ },
+ "served_by": "Together",
+ "label": {
+  "content": "people_or_team",
+  "area": "driveway_or_walkway",
+  "setting": "residential",
+  "system": "bare_concrete",
+  "color": "not_applicable",
+  "color_confidence": "none",
+  "color_runner_up": "not_applicable",
+  "color_description": "",
+  "shot_type": "crew_working",
+  "people": "prominent",
+  "faces_identifiable": true,
+  "privacy": [],
+  "branding_visible": true,
+  "quality": "4",
+  "issues": [],
+  "website_ready": false,
+  "title": "Crew member grinding driveway beside GatorGuard truck",
+  "alt_text": "GatorGuard crew member running a concrete grinder on a driveway next to the branded box truck",
+  "tags": [
+   "crew working",
+   "grinding",
+   "surface prep",
+   "driveway",
+   "gatorguard truck",
+   "recruiting",
+   "concrete grinder",
+   "residential",
+   "in progress"
+  ],
+  "filename": "crew-grinding-driveway-gatorguard-truck"
+ },
+ "id": "7a50b39527c1",
+ "provider": "kimi",
+ "model": "moonshotai/kimi-k3",
+ "mode": "run",
+ "blind": false,
+ "at": "2026-09-17T12:35:51"
+}

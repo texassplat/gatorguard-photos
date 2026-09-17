@@ -1,0 +1,47 @@
+{
+ "finish": "stop",
+ "usage": {
+  "input_tokens": 5334,
+  "output_tokens": 226,
+  "cost": 0.0102336
+ },
+ "served_by": "Together",
+ "label": {
+  "content": "floor_photo",
+  "area": "garage",
+  "setting": "residential",
+  "system": "full_flake",
+  "color": "Black Canyon",
+  "color_confidence": "low",
+  "color_runner_up": "Chestnut",
+  "color_description": "tan, brown and black chips, medium size",
+  "shot_type": "close_up",
+  "people": "none",
+  "faces_identifiable": false,
+  "privacy": [],
+  "branding_visible": false,
+  "quality": "4",
+  "issues": [],
+  "website_ready": false,
+  "title": "Close up of cut control joint in flake floor",
+  "alt_text": "Low angle close up of a cut control joint in a tan and black full flake garage floor coating",
+  "tags": [
+   "cut line",
+   "control joint",
+   "tool joint",
+   "close up",
+   "full flake",
+   "tan chips",
+   "black chips",
+   "garage floor",
+   "glossy"
+  ],
+  "filename": "cut-control-joint-flake-floor-close-up"
+ },
+ "id": "e6fc6c3fdd23",
+ "provider": "kimi",
+ "model": "moonshotai/kimi-k3",
+ "mode": "run",
+ "blind": false,
+ "at": "2026-09-17T12:35:39"
+}

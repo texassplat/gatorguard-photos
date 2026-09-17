@@ -1,0 +1,46 @@
+{
+ "finish": "stop",
+ "usage": {
+  "input_tokens": 5206,
+  "output_tokens": 231,
+  "cost": 0.0099246
+ },
+ "served_by": "Together",
+ "label": {
+  "content": "floor_photo",
+  "area": "garage",
+  "setting": "unknown",
+  "system": "full_flake",
+  "color": "Granite",
+  "color_confidence": "low",
+  "color_runner_up": "Lunar",
+  "color_description": "gray, black and white chips, small to medium size",
+  "shot_type": "finished",
+  "people": "prominent",
+  "faces_identifiable": false,
+  "privacy": [],
+  "branding_visible": false,
+  "quality": "3",
+  "issues": [],
+  "website_ready": false,
+  "title": "Golden retriever on gray flake garage floor",
+  "alt_text": "Golden retriever with green toy standing on a gray full flake garage floor while a person points",
+  "tags": [
+   "dog",
+   "golden retriever",
+   "gray flake floor",
+   "garage",
+   "gameday photoshoot",
+   "pet friendly",
+   "full flake",
+   "photoshoot"
+  ],
+  "filename": "golden-retriever-gray-flake-garage-floor"
+ },
+ "id": "a25e142a6989",
+ "provider": "kimi",
+ "model": "moonshotai/kimi-k3",
+ "mode": "run",
+ "blind": false,
+ "at": "2026-09-17T12:40:04"
+}

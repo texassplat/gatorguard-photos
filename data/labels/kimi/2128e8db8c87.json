@@ -1,0 +1,46 @@
+{
+ "finish": "stop",
+ "usage": {
+  "input_tokens": 5321,
+  "output_tokens": 195,
+  "cost": 0.018888
+ },
+ "served_by": "Parasail",
+ "label": {
+  "content": "vehicle_or_equipment",
+  "area": "other_exterior",
+  "setting": "residential",
+  "system": "not_applicable",
+  "color": "not_applicable",
+  "color_confidence": "none",
+  "color_runner_up": "not_applicable",
+  "color_description": "",
+  "shot_type": "truck_or_equipment",
+  "people": "none",
+  "faces_identifiable": false,
+  "privacy": [],
+  "branding_visible": true,
+  "quality": "4",
+  "issues": [],
+  "website_ready": false,
+  "title": "GatorGuard box truck and yard sign at jobsite",
+  "alt_text": "GatorGuard Concrete Coatings box truck with liftgate parked on a residential street, yard sign on lawn",
+  "tags": [
+   "gatorguard truck",
+   "box truck",
+   "yard sign",
+   "liftgate",
+   "jobsite",
+   "residential street",
+   "branding",
+   "lawn"
+  ],
+  "filename": "gatorguard-truck-yard-sign-jobsite"
+ },
+ "id": "2128e8db8c87",
+ "provider": "kimi",
+ "model": "moonshotai/kimi-k3",
+ "mode": "run",
+ "blind": false,
+ "at": "2026-09-17T12:38:11"
+}

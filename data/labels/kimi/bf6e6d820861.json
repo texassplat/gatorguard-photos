@@ -1,0 +1,47 @@
+{
+ "finish": "stop",
+ "usage": {
+  "input_tokens": 5338,
+  "output_tokens": 281,
+  "cost": 0.0110706
+ },
+ "served_by": "Together",
+ "label": {
+  "content": "floor_photo",
+  "area": "garage",
+  "setting": "residential",
+  "system": "solid_color",
+  "color": "Gray",
+  "color_confidence": "low",
+  "color_runner_up": "unknown",
+  "color_description": "smooth solid gray coating, glossy, no chips",
+  "shot_type": "finished",
+  "people": "none",
+  "faces_identifiable": false,
+  "privacy": [],
+  "branding_visible": false,
+  "quality": "3",
+  "issues": [
+   "cluttered"
+  ],
+  "website_ready": false,
+  "title": "Garage with glossy gray solid color floor",
+  "alt_text": "Garage with a glossy gray solid color floor coating, workbench and storage shelves along the walls",
+  "tags": [
+   "garage",
+   "solid color",
+   "gray floor",
+   "glossy",
+   "workbench",
+   "shelves",
+   "finished floor"
+  ],
+  "filename": "garage-glossy-gray-solid-color-floor"
+ },
+ "id": "bf6e6d820861",
+ "provider": "kimi",
+ "model": "moonshotai/kimi-k3",
+ "mode": "run",
+ "blind": false,
+ "at": "2026-09-17T12:41:18"
+}

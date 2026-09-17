@@ -1,0 +1,47 @@
+{
+ "finish": "stop",
+ "usage": {
+  "input_tokens": 5323,
+  "output_tokens": 211,
+  "cost": 0.019134
+ },
+ "served_by": "Parasail",
+ "label": {
+  "content": "floor_photo",
+  "area": "garage",
+  "setting": "residential",
+  "system": "full_flake",
+  "color": "Santana",
+  "color_confidence": "medium",
+  "color_runner_up": "Chestnut",
+  "color_description": "tan, brown and black chips, small to medium size",
+  "shot_type": "close_up",
+  "people": "none",
+  "faces_identifiable": false,
+  "privacy": [],
+  "branding_visible": false,
+  "quality": "3",
+  "issues": [],
+  "website_ready": false,
+  "title": "Flake coated garage steps and floor",
+  "alt_text": "Close view of garage steps and floor coated with tan, brown and black flake, full flake garage floor coating",
+  "tags": [
+   "garage",
+   "steps",
+   "full flake",
+   "tan chips",
+   "brown chips",
+   "black chips",
+   "stem wall",
+   "baseboard",
+   "finished floor"
+  ],
+  "filename": "garage-steps-tan-full-flake"
+ },
+ "id": "ae5da0cacfcf",
+ "provider": "kimi",
+ "model": "moonshotai/kimi-k3",
+ "mode": "run",
+ "blind": false,
+ "at": "2026-09-17T12:42:44"
+}

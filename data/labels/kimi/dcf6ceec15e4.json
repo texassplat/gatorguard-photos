@@ -1,0 +1,46 @@
+{
+ "finish": "stop",
+ "usage": {
+  "input_tokens": 4851,
+  "output_tokens": 364,
+  "cost": 0.01708385
+ },
+ "served_by": "DigitalOcean",
+ "label": {
+  "alt_text": "Close up of a glossy light gray full flake floor with black, gray and tan chips in a garage",
+  "area": "garage",
+  "branding_visible": false,
+  "color": "Lunar",
+  "color_confidence": "low",
+  "color_description": "light gray and white chips with black and scattered tan chips, small to medium size",
+  "color_runner_up": "unknown",
+  "content": "floor_photo",
+  "faces_identifiable": false,
+  "filename": "close-up-light-gray-flake-floor",
+  "issues": [],
+  "people": "none",
+  "privacy": [],
+  "quality": "4",
+  "setting": "unknown",
+  "shot_type": "close_up",
+  "system": "full_flake",
+  "tags": [
+   "full flake",
+   "close up",
+   "glossy",
+   "light gray chips",
+   "black chips",
+   "tan chips",
+   "garage floor",
+   "coating detail"
+  ],
+  "title": "Close up of light gray full flake floor",
+  "website_ready": true
+ },
+ "id": "dcf6ceec15e4",
+ "provider": "kimi",
+ "model": "moonshotai/kimi-k3",
+ "mode": "run",
+ "blind": false,
+ "at": "2026-09-17T12:33:04"
+}

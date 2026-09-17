@@ -1,0 +1,47 @@
+{
+ "finish": "stop",
+ "usage": {
+  "input_tokens": 5321,
+  "output_tokens": 227,
+  "cost": 0.01273464
+ },
+ "served_by": "Alibaba",
+ "label": {
+  "content": "floor_photo",
+  "area": "basement",
+  "setting": "residential",
+  "system": "solid_color_chip",
+  "color": "Quartzite",
+  "color_confidence": "low",
+  "color_runner_up": "Avalon",
+  "color_description": "light gray chips with subtle darker speckling, fine to medium size, uniform single color look",
+  "shot_type": "finished",
+  "people": "none",
+  "faces_identifiable": false,
+  "privacy": [],
+  "branding_visible": false,
+  "quality": "4",
+  "issues": [],
+  "website_ready": true,
+  "title": "Basement with light gray solid color chip floor",
+  "alt_text": "Finished basement floor with light gray solid color chip coating, exposed ceiling joists and support posts, solid color chip floor coating",
+  "tags": [
+   "basement",
+   "solid color chip",
+   "light gray floor",
+   "gray chips",
+   "exposed ceiling",
+   "support post",
+   "finished floor",
+   "residential",
+   "glossy coating"
+  ],
+  "filename": "basement-light-gray-solid-color-chip-floor"
+ },
+ "id": "62a5bdcdd656",
+ "provider": "kimi",
+ "model": "moonshotai/kimi-k3",
+ "mode": "run",
+ "blind": false,
+ "at": "2026-09-17T12:57:44"
+}

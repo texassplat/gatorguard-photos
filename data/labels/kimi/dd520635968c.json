@@ -1,0 +1,46 @@
+{
+ "finish": "stop",
+ "usage": {
+  "input_tokens": 5322,
+  "output_tokens": 287,
+  "cost": 0.0111126
+ },
+ "served_by": "Together",
+ "label": {
+  "content": "floor_photo",
+  "area": "not_visible",
+  "setting": "unknown",
+  "system": "full_flake",
+  "color": "unknown",
+  "color_confidence": "low",
+  "color_runner_up": "Silver Butte",
+  "color_description": "light gray and beige fine chips with white and black specks, glossy clear coat",
+  "shot_type": "close_up",
+  "people": "none",
+  "faces_identifiable": false,
+  "privacy": [],
+  "branding_visible": false,
+  "quality": "3",
+  "issues": [],
+  "website_ready": false,
+  "title": "Close up of light gray full flake floor",
+  "alt_text": "Close up of a glossy light gray and beige full flake coated floor against a painted brick wall",
+  "tags": [
+   "full flake",
+   "close up",
+   "gray chips",
+   "beige chips",
+   "glossy finish",
+   "painted brick wall",
+   "fine flake",
+   "coated floor"
+  ],
+  "filename": "light-gray-full-flake-floor-close-up"
+ },
+ "id": "dd520635968c",
+ "provider": "kimi",
+ "model": "moonshotai/kimi-k3",
+ "mode": "run",
+ "blind": false,
+ "at": "2026-09-17T12:32:57"
+}

@@ -1,0 +1,48 @@
+{
+ "finish": "stop",
+ "usage": {
+  "input_tokens": 5328,
+  "output_tokens": 282,
+  "cost": 0.01018806
+ },
+ "served_by": "DigitalOcean",
+ "label": {
+  "alt_text": "Close-up of a glossy full flake coating edge with tan, black, white and red chips",
+  "area": "not_visible",
+  "branding_visible": false,
+  "color": "Windermere",
+  "color_confidence": "low",
+  "color_description": "tan, black, white and red chips with a few blue-looking flecks near the edge",
+  "color_runner_up": "Cambridge",
+  "content": "floor_photo",
+  "faces_identifiable": false,
+  "filename": "full-flake-edge-close-up",
+  "issues": [
+   "blurry"
+  ],
+  "people": "none",
+  "privacy": [],
+  "quality": "2",
+  "setting": "unknown",
+  "shot_type": "close_up",
+  "system": "full_flake",
+  "tags": [
+   "full flake",
+   "close up",
+   "edge detail",
+   "tan chips",
+   "black chips",
+   "red chips",
+   "glossy finish",
+   "coating edge"
+  ],
+  "title": "Close-up of full flake coating edge",
+  "website_ready": false
+ },
+ "id": "d87d8132100c",
+ "provider": "kimi",
+ "model": "moonshotai/kimi-k3",
+ "mode": "run",
+ "blind": false,
+ "at": "2026-09-17T12:32:44"
+}

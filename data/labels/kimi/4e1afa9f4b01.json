@@ -1,0 +1,47 @@
+{
+ "finish": "stop",
+ "usage": {
+  "input_tokens": 4858,
+  "output_tokens": 261,
+  "cost": 0.018489
+ },
+ "served_by": "Parasail",
+ "label": {
+  "content": "floor_photo",
+  "area": "basement",
+  "setting": "residential",
+  "system": "full_flake",
+  "color": "unknown",
+  "color_confidence": "low",
+  "color_runner_up": "Quartzite",
+  "color_description": "small gray, tan and white chips, fine to medium size",
+  "shot_type": "finished",
+  "people": "none",
+  "faces_identifiable": false,
+  "privacy": [],
+  "branding_visible": false,
+  "quality": "4",
+  "issues": [],
+  "website_ready": true,
+  "title": "Finished basement with gray full flake floor",
+  "alt_text": "Finished basement with glossy gray full flake floor coating, support poles, stairs and exposed ceiling",
+  "tags": [
+   "basement",
+   "full flake",
+   "gray floor",
+   "finished basement",
+   "support poles",
+   "exposed ceiling",
+   "stairs",
+   "glossy floor",
+   "speckled floor"
+  ],
+  "filename": "finished-basement-gray-full-flake-floor"
+ },
+ "id": "4e1afa9f4b01",
+ "provider": "kimi",
+ "model": "moonshotai/kimi-k3",
+ "mode": "run",
+ "blind": false,
+ "at": "2026-09-17T12:31:31"
+}

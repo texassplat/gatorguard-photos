@@ -1,0 +1,47 @@
+{
+ "finish": "stop",
+ "usage": {
+  "input_tokens": 5320,
+  "output_tokens": 284,
+  "cost": 0.01446552
+ },
+ "served_by": "Phala",
+ "label": {
+  "alt_text": "Rustic wood beam garage interior with a blue gray full flake epoxy floor and string lights",
+  "area": "garage",
+  "branding_visible": false,
+  "color": "Cobalt",
+  "color_confidence": "medium",
+  "color_description": "blue, gray and white chips, small to medium size",
+  "color_runner_up": "Pacific Coast",
+  "content": "floor_photo",
+  "faces_identifiable": false,
+  "filename": "wood-beam-garage-blue-flake-floor",
+  "issues": [],
+  "people": "none",
+  "privacy": [],
+  "quality": "4",
+  "setting": "residential",
+  "shot_type": "finished",
+  "system": "full_flake",
+  "tags": [
+   "garage",
+   "full flake",
+   "blue chips",
+   "gray chips",
+   "wood beams",
+   "barn style",
+   "string lights",
+   "finished floor",
+   "rustic"
+  ],
+  "title": "Rustic beam garage with blue full flake floor",
+  "website_ready": true
+ },
+ "id": "4a7b0804c6ee",
+ "provider": "kimi",
+ "model": "moonshotai/kimi-k3",
+ "mode": "run",
+ "blind": false,
+ "at": "2026-09-17T12:44:32"
+}

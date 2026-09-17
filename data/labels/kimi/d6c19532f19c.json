@@ -1,0 +1,48 @@
+{
+ "finish": "stop",
+ "usage": {
+  "input_tokens": 5317,
+  "output_tokens": 263,
+  "cost": 0.019896
+ },
+ "served_by": "Parasail",
+ "label": {
+  "content": "floor_photo",
+  "area": "garage",
+  "setting": "residential",
+  "system": "solid_color",
+  "color": "unknown",
+  "color_confidence": "low",
+  "color_runner_up": "Gray",
+  "color_description": "flat light gray coating, no chips",
+  "shot_type": "finished",
+  "people": "none",
+  "faces_identifiable": false,
+  "privacy": [],
+  "branding_visible": false,
+  "quality": "3",
+  "issues": [
+   "text_overlay"
+  ],
+  "website_ready": false,
+  "title": "Garage with glossy light gray solid color floor",
+  "alt_text": "Garage with cinder block walls and a glossy light gray solid color coated floor scored in large squares",
+  "tags": [
+   "garage",
+   "solid color floor",
+   "gray floor",
+   "glossy finish",
+   "cinder block walls",
+   "scored lines",
+   "finished",
+   "text overlay"
+  ],
+  "filename": "garage-light-gray-solid-color-floor"
+ },
+ "id": "d6c19532f19c",
+ "provider": "kimi",
+ "model": "moonshotai/kimi-k3",
+ "mode": "run",
+ "blind": false,
+ "at": "2026-09-17T12:54:25"
+}

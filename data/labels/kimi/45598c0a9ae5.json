@@ -1,0 +1,48 @@
+{
+ "finish": "stop",
+ "usage": {
+  "input_tokens": 4979,
+  "output_tokens": 154,
+  "cost": 0.006072945
+ },
+ "served_by": "Morph",
+ "label": {
+  "content": "floor_photo",
+  "area": "not_visible",
+  "setting": "unknown",
+  "system": "unknown",
+  "color": "not_applicable",
+  "color_confidence": "none",
+  "color_runner_up": "not_applicable",
+  "color_description": "",
+  "shot_type": "in_progress",
+  "people": "prominent",
+  "faces_identifiable": false,
+  "privacy": [],
+  "branding_visible": false,
+  "quality": "3",
+  "issues": [
+   "low_resolution"
+  ],
+  "website_ready": false,
+  "title": "Spreading white base coat with roller",
+  "alt_text": "Crew spreading white epoxy base coat with a roller over taped edges during floor coating installation",
+  "tags": [
+   "in progress",
+   "roller application",
+   "white base coat",
+   "epoxy coating",
+   "plastic sheeting",
+   "crew working",
+   "floor prep",
+   "spiked shoes"
+  ],
+  "filename": "spreading-white-base-coat-roller"
+ },
+ "id": "45598c0a9ae5",
+ "provider": "kimi",
+ "model": "moonshotai/kimi-k3",
+ "mode": "run",
+ "blind": false,
+ "at": "2026-09-17T12:58:31"
+}

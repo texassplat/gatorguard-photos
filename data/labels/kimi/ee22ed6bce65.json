@@ -1,0 +1,48 @@
+{
+ "finish": "stop",
+ "usage": {
+  "input_tokens": 5337,
+  "output_tokens": 282,
+  "cost": 0.010737
+ },
+ "served_by": "Together",
+ "label": {
+  "content": "floor_photo",
+  "area": "basement",
+  "setting": "residential",
+  "system": "full_flake",
+  "color": "Silver Butte",
+  "color_confidence": "low",
+  "color_runner_up": "Quartzite",
+  "color_description": "gray base with black, white and small tan-gold chips, medium size",
+  "shot_type": "finished",
+  "people": "none",
+  "faces_identifiable": false,
+  "privacy": [],
+  "branding_visible": false,
+  "quality": "4",
+  "issues": [],
+  "website_ready": true,
+  "title": "Basement with gray full flake floor",
+  "alt_text": "Finished basement with gray full flake floor, white brick wall and black ceiling, full flake basement floor coating",
+  "tags": [
+   "basement",
+   "full flake",
+   "gray chips",
+   "black chips",
+   "white chips",
+   "tan chips",
+   "white brick wall",
+   "black ceiling",
+   "finished floor",
+   "glossy"
+  ],
+  "filename": "basement-gray-full-flake-floor"
+ },
+ "id": "ee22ed6bce65",
+ "provider": "kimi",
+ "model": "moonshotai/kimi-k3",
+ "mode": "pilot",
+ "blind": true,
+ "at": "2026-09-17T12:25:58"
+}

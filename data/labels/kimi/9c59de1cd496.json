@@ -1,0 +1,47 @@
+{
+ "finish": "stop",
+ "usage": {
+  "input_tokens": 5321,
+  "output_tokens": 243,
+  "cost": 0.0104496
+ },
+ "served_by": "Together",
+ "label": {
+  "content": "floor_photo",
+  "area": "driveway_or_walkway",
+  "setting": "residential",
+  "system": "poly_enhance",
+  "color": "not_applicable",
+  "color_confidence": "none",
+  "color_runner_up": "not_applicable",
+  "color_description": "exposed aggregate concrete with tan, gray and brown pebbles under a clear wet-look sealer",
+  "shot_type": "finished",
+  "people": "none",
+  "faces_identifiable": false,
+  "privacy": [],
+  "branding_visible": false,
+  "quality": "4",
+  "issues": [],
+  "website_ready": true,
+  "title": "Sealed exposed aggregate garden walkway",
+  "alt_text": "Curved exposed aggregate concrete walkway with clear wet-look sealer beside garden beds and lawn",
+  "tags": [
+   "walkway",
+   "exposed aggregate",
+   "poly enhance",
+   "wet look sealer",
+   "outdoor",
+   "garden path",
+   "residential",
+   "clear sealer",
+   "curved walkway"
+  ],
+  "filename": "sealed-exposed-aggregate-garden-walkway"
+ },
+ "id": "9c59de1cd496",
+ "provider": "kimi",
+ "model": "moonshotai/kimi-k3",
+ "mode": "run",
+ "blind": false,
+ "at": "2026-09-17T12:56:07"
+}

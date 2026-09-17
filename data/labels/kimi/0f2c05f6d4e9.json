@@ -1,0 +1,50 @@
+{
+ "finish": "stop",
+ "usage": {
+  "input_tokens": 5261,
+  "output_tokens": 178,
+  "cost": 0.011733375
+ },
+ "served_by": "Morph",
+ "label": {
+  "content": "floor_photo",
+  "area": "steps_or_stairs",
+  "setting": "residential",
+  "system": "full_flake",
+  "color": "unknown",
+  "color_confidence": "low",
+  "color_runner_up": "unknown",
+  "color_description": "tan and beige chips with some darker flecks, fine to medium size",
+  "shot_type": "finished",
+  "people": "none",
+  "faces_identifiable": false,
+  "privacy": [],
+  "branding_visible": false,
+  "quality": "3",
+  "issues": [
+   "cluttered"
+  ],
+  "website_ready": false,
+  "title": "Coated concrete steps with wood and metal railing",
+  "alt_text": "Coated concrete front steps with tan flake finish, wood posts and black metal railings beside a brick wall",
+  "tags": [
+   "steps",
+   "stairs",
+   "exterior",
+   "tan chips",
+   "flake floor",
+   "railing",
+   "wood posts",
+   "brick wall",
+   "front entry",
+   "concrete steps"
+  ],
+  "filename": "coated-concrete-steps-wood-metal-railing"
+ },
+ "id": "0f2c05f6d4e9",
+ "provider": "kimi",
+ "model": "moonshotai/kimi-k3",
+ "mode": "run",
+ "blind": false,
+ "at": "2026-09-17T12:36:43"
+}

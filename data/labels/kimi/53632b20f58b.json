@@ -1,0 +1,46 @@
+{
+ "finish": "stop",
+ "usage": {
+  "input_tokens": 5214,
+  "output_tokens": 282,
+  "cost": 0.01415232
+ },
+ "served_by": "Phala",
+ "label": {
+  "alt_text": "Living room with a light gray and white swirled metallic floor, gray sectional sofa and white accent tables; metallic epoxy floor coating",
+  "area": "interior_room",
+  "branding_visible": false,
+  "color": "Gray",
+  "color_confidence": "medium",
+  "color_description": "light gray and white swirled metallic, marbled look",
+  "color_runner_up": "Quartzite",
+  "content": "floor_photo",
+  "faces_identifiable": false,
+  "filename": "living-room-light-gray-metallic-floor",
+  "issues": [],
+  "people": "none",
+  "privacy": [],
+  "quality": "5",
+  "setting": "residential",
+  "shot_type": "finished",
+  "system": "metallic",
+  "tags": [
+   "metallic floor",
+   "living room",
+   "light gray",
+   "white swirl",
+   "marbled",
+   "sectional sofa",
+   "modern interior",
+   "reflective floor"
+  ],
+  "title": "Living room with light gray metallic floor",
+  "website_ready": true
+ },
+ "id": "53632b20f58b",
+ "provider": "kimi",
+ "model": "moonshotai/kimi-k3",
+ "mode": "run",
+ "blind": false,
+ "at": "2026-09-17T12:50:24"
+}

@@ -1,0 +1,47 @@
+{
+ "finish": "stop",
+ "usage": {
+  "input_tokens": 4520,
+  "output_tokens": 300,
+  "cost": 0.0089016
+ },
+ "served_by": "Together",
+ "label": {
+  "content": "floor_photo",
+  "area": "garage",
+  "setting": "residential",
+  "system": "full_flake",
+  "color": "Chestnut",
+  "color_confidence": "low",
+  "color_runner_up": "Sedona",
+  "color_description": "tan, brown, black and gray chips with faint blue accents, medium size",
+  "shot_type": "close_up",
+  "people": "none",
+  "faces_identifiable": false,
+  "privacy": [],
+  "branding_visible": false,
+  "quality": "4",
+  "issues": [],
+  "website_ready": true,
+  "title": "Low angle garage floor with tan full flake",
+  "alt_text": "Low angle view of a garage with a glossy tan, brown and black full flake floor, wall storage racks and windows.",
+  "tags": [
+   "garage",
+   "full flake",
+   "tan chips",
+   "brown chips",
+   "black chips",
+   "glossy floor",
+   "low angle",
+   "finished floor",
+   "wall racks"
+  ],
+  "filename": "garage-tan-full-flake-low-angle"
+ },
+ "id": "94377bdac4ee",
+ "provider": "kimi",
+ "model": "moonshotai/kimi-k3",
+ "mode": "run",
+ "blind": false,
+ "at": "2026-09-17T12:32:38"
+}

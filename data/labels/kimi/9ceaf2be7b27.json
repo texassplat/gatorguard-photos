@@ -1,0 +1,48 @@
+{
+ "finish": "stop",
+ "usage": {
+  "input_tokens": 5348,
+  "output_tokens": 255,
+  "cost": 0.0107106
+ },
+ "served_by": "Together",
+ "label": {
+  "content": "floor_photo",
+  "area": "garage",
+  "setting": "residential",
+  "system": "full_flake",
+  "color": "Santana",
+  "color_confidence": "medium",
+  "color_runner_up": "Windermere",
+  "color_description": "tan, brown, black, gray and white chips, medium size",
+  "shot_type": "close_up",
+  "people": "none",
+  "faces_identifiable": false,
+  "privacy": [],
+  "branding_visible": false,
+  "quality": "4",
+  "issues": [],
+  "website_ready": true,
+  "title": "Low angle of tan full flake garage floor edge",
+  "alt_text": "Low-angle close-up of a tan full flake garage floor meeting bare concrete at the garage door, with cabinets and gas cans inside",
+  "tags": [
+   "full flake",
+   "garage floor",
+   "close up",
+   "floor edge",
+   "tan chips",
+   "black chips",
+   "crisp line",
+   "glossy",
+   "residential",
+   "garage door edge"
+  ],
+  "filename": "tan-full-flake-garage-floor-edge"
+ },
+ "id": "9ceaf2be7b27",
+ "provider": "kimi",
+ "model": "moonshotai/kimi-k3",
+ "mode": "run",
+ "blind": false,
+ "at": "2026-09-17T12:35:10"
+}

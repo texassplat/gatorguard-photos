@@ -1,0 +1,46 @@
+{
+ "finish": "stop",
+ "usage": {
+  "input_tokens": 5211,
+  "output_tokens": 266,
+  "cost": 0.019623
+ },
+ "served_by": "Parasail",
+ "label": {
+  "content": "other",
+  "area": "interior_room",
+  "setting": "unknown",
+  "system": "full_flake",
+  "color": "unknown",
+  "color_confidence": "low",
+  "color_runner_up": "unknown",
+  "color_description": "light tan and gray fine speckled chips",
+  "shot_type": "other",
+  "people": "prominent",
+  "faces_identifiable": false,
+  "privacy": [],
+  "branding_visible": false,
+  "quality": "3",
+  "issues": [],
+  "website_ready": false,
+  "title": "Golden retriever sitting on coated flake floor",
+  "alt_text": "Golden retriever with green toy sitting on a speckled flake coated floor as a person reaches toward it",
+  "tags": [
+   "dog",
+   "golden retriever",
+   "gameday photoshoot",
+   "flake floor",
+   "pet on coated floor",
+   "tan chips",
+   "interior",
+   "hand reaching"
+  ],
+  "filename": "golden-retriever-on-flake-floor"
+ },
+ "id": "c5160c5e3703",
+ "provider": "kimi",
+ "model": "moonshotai/kimi-k3",
+ "mode": "run",
+ "blind": false,
+ "at": "2026-09-17T12:40:13"
+}

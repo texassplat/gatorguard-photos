@@ -1,0 +1,47 @@
+{
+ "finish": "stop",
+ "usage": {
+  "input_tokens": 5324,
+  "output_tokens": 236,
+  "cost": 0.019512
+ },
+ "served_by": "Parasail",
+ "label": {
+  "content": "floor_photo",
+  "area": "garage",
+  "setting": "residential",
+  "system": "full_flake",
+  "color": "Stone Ridge",
+  "color_confidence": "low",
+  "color_runner_up": "Infinity",
+  "color_description": "light gray base with white, gray and tan-brown chips, medium size",
+  "shot_type": "finished",
+  "people": "none",
+  "faces_identifiable": false,
+  "privacy": [],
+  "branding_visible": false,
+  "quality": "4",
+  "issues": [],
+  "website_ready": true,
+  "title": "Garage floor with gray tan flake coating",
+  "alt_text": "Finished garage floor with gray, white and tan vinyl flake coating and saw cut joints, full flake garage floor coating",
+  "tags": [
+   "garage",
+   "full flake",
+   "gray chips",
+   "tan chips",
+   "finished floor",
+   "saw cut joints",
+   "shelf",
+   "ladder",
+   "garage storage"
+  ],
+  "filename": "garage-gray-tan-full-flake-floor"
+ },
+ "id": "4105b7378c56",
+ "provider": "kimi",
+ "model": "moonshotai/kimi-k3",
+ "mode": "run",
+ "blind": false,
+ "at": "2026-09-17T12:46:00"
+}

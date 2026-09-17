@@ -1,0 +1,47 @@
+{
+ "finish": "stop",
+ "usage": {
+  "input_tokens": 5328,
+  "output_tokens": 304,
+  "cost": 0.0113856
+ },
+ "served_by": "Together",
+ "label": {
+  "content": "floor_photo",
+  "area": "patio_or_porch",
+  "setting": "residential",
+  "system": "full_flake",
+  "color": "Windermere",
+  "color_confidence": "low",
+  "color_runner_up": "Chestnut",
+  "color_description": "tan, brown, black and white chips, medium size",
+  "shot_type": "finished",
+  "people": "none",
+  "faces_identifiable": false,
+  "privacy": [],
+  "branding_visible": false,
+  "quality": "4",
+  "issues": [],
+  "website_ready": true,
+  "title": "Covered porch with tan full flake floor",
+  "alt_text": "Covered residential porch with glossy full flake floor coating in tan, brown and black chips, stone fireplace and garden view",
+  "tags": [
+   "covered porch",
+   "full flake",
+   "exterior floor",
+   "tan chips",
+   "brown chips",
+   "stone fireplace",
+   "glossy finish",
+   "patio coating",
+   "finished floor"
+  ],
+  "filename": "covered-porch-tan-full-flake-floor"
+ },
+ "id": "fb2f4c40f194",
+ "provider": "kimi",
+ "model": "moonshotai/kimi-k3",
+ "mode": "run",
+ "blind": false,
+ "at": "2026-09-17T12:36:47"
+}

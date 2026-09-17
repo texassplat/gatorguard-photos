@@ -1,0 +1,47 @@
+{
+ "finish": "stop",
+ "usage": {
+  "input_tokens": 5333,
+  "output_tokens": 290,
+  "cost": 0.020349
+ },
+ "served_by": "Parasail",
+ "label": {
+  "content": "floor_photo",
+  "area": "not_visible",
+  "setting": "unknown",
+  "system": "full_flake",
+  "color": "Zircon",
+  "color_confidence": "low",
+  "color_runner_up": "Granite",
+  "color_description": "silver gray, black and white chips, medium to large size",
+  "shot_type": "close_up",
+  "people": "none",
+  "faces_identifiable": false,
+  "privacy": [],
+  "branding_visible": false,
+  "quality": "4",
+  "issues": [],
+  "website_ready": false,
+  "title": "Close up of flake coating edge and lip",
+  "alt_text": "Close up of a gray, black and white flake floor coating ending at a bare concrete edge lip",
+  "tags": [
+   "close up",
+   "edge",
+   "lip",
+   "full flake",
+   "gray chips",
+   "black chips",
+   "white chips",
+   "coating edge",
+   "bare concrete"
+  ],
+  "filename": "flake-coating-edge-lip-close-up"
+ },
+ "id": "139b657bcd05",
+ "provider": "kimi",
+ "model": "moonshotai/kimi-k3",
+ "mode": "run",
+ "blind": false,
+ "at": "2026-09-17T12:49:02"
+}

@@ -1,0 +1,49 @@
+{
+ "finish": "stop",
+ "usage": {
+  "input_tokens": 5209,
+  "output_tokens": 198,
+  "cost": 0.018597
+ },
+ "served_by": "Parasail",
+ "label": {
+  "content": "floor_photo",
+  "area": "garage",
+  "setting": "residential",
+  "system": "full_flake",
+  "color": "Pacific Coast",
+  "color_confidence": "medium",
+  "color_runner_up": "unknown",
+  "color_description": "white and light gray base with blue, black and gray chips, small to medium size",
+  "shot_type": "finished",
+  "people": "none",
+  "faces_identifiable": false,
+  "privacy": [],
+  "branding_visible": false,
+  "quality": "4",
+  "issues": [
+   "cluttered"
+  ],
+  "website_ready": false,
+  "title": "Garage with white blue full flake floor",
+  "alt_text": "Low angle view of a full flake garage floor with white, blue and gray chips in front of cabinets and shelving",
+  "tags": [
+   "garage",
+   "full flake",
+   "blue chips",
+   "white chips",
+   "gray chips",
+   "garage cabinets",
+   "garage storage",
+   "finished floor",
+   "flake floor"
+  ],
+  "filename": "garage-white-blue-full-flake-floor"
+ },
+ "id": "ad8b91d8831d",
+ "provider": "kimi",
+ "model": "moonshotai/kimi-k3",
+ "mode": "run",
+ "blind": false,
+ "at": "2026-09-17T12:41:12"
+}

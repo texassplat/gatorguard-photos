@@ -1,0 +1,47 @@
+{
+ "finish": "stop",
+ "usage": {
+  "input_tokens": 5193,
+  "output_tokens": 303,
+  "cost": 0.020124
+ },
+ "served_by": "Fireworks",
+ "label": {
+  "alt_text": "Gray full flake epoxy floor in a commercial room with carpet tile edge, cabinets and fire extinguisher",
+  "area": "commercial_or_industrial",
+  "branding_visible": false,
+  "color": "Granite",
+  "color_confidence": "medium",
+  "color_description": "light gray base with white, gray and black chips, small size",
+  "color_runner_up": "Infinity",
+  "content": "floor_photo",
+  "faces_identifiable": false,
+  "filename": "commercial-gray-full-flake-floor-carpet-edge",
+  "issues": [],
+  "people": "none",
+  "privacy": [],
+  "quality": "4",
+  "setting": "commercial",
+  "shot_type": "finished",
+  "system": "full_flake",
+  "tags": [
+   "commercial floor",
+   "full flake",
+   "gray chips",
+   "glossy",
+   "carpet tile",
+   "cabinets",
+   "fire extinguisher",
+   "finished",
+   "office floor"
+  ],
+  "title": "Gray full flake floor in commercial space",
+  "website_ready": true
+ },
+ "id": "8fc4e0136e66",
+ "provider": "kimi",
+ "model": "moonshotai/kimi-k3",
+ "mode": "run",
+ "blind": false,
+ "at": "2026-09-17T12:35:06"
+}

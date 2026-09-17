@@ -1,0 +1,46 @@
+{
+ "finish": "stop",
+ "usage": {
+  "input_tokens": 4979,
+  "output_tokens": 173,
+  "cost": 0.006272445
+ },
+ "served_by": "Morph",
+ "label": {
+  "content": "floor_photo",
+  "area": "garage",
+  "setting": "residential",
+  "system": "full_flake",
+  "color": "unknown",
+  "color_confidence": "low",
+  "color_runner_up": "Avalon",
+  "color_description": "light gray and white chips with black specks, medium size",
+  "shot_type": "in_progress",
+  "people": "prominent",
+  "faces_identifiable": false,
+  "privacy": [],
+  "branding_visible": false,
+  "quality": "3",
+  "issues": [],
+  "website_ready": false,
+  "title": "Crew squeegeeing clear coat over flake floor",
+  "alt_text": "Worker pushing a squeegee across a light gray flake floor inside a garage during clear coat application",
+  "tags": [
+   "in progress",
+   "squeegee",
+   "clear coat",
+   "full flake",
+   "gray chips",
+   "garage floor",
+   "crew working",
+   "topcoat application"
+  ],
+  "filename": "squeegee-clear-coat-flake-garage"
+ },
+ "id": "e659eed16f86",
+ "provider": "kimi",
+ "model": "moonshotai/kimi-k3",
+ "mode": "run",
+ "blind": false,
+ "at": "2026-09-17T12:58:48"
+}

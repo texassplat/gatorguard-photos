@@ -1,0 +1,48 @@
+{
+ "finish": "stop",
+ "usage": {
+  "input_tokens": 5097,
+  "output_tokens": 327,
+  "cost": 0.00853971
+ },
+ "served_by": "InferenceNet",
+ "label": {
+  "website_ready": true,
+  "title": "Pole barn with gray and blue metallic epoxy floor",
+  "tags": [
+   "metallic epoxy",
+   "liquid art",
+   "gray and blue",
+   "swirl",
+   "marbled",
+   "pole barn",
+   "wood walls",
+   "garage doors",
+   "high gloss",
+   "drone video"
+  ],
+  "system": "metallic",
+  "shot_type": "finished",
+  "setting": "residential",
+  "quality": "5",
+  "privacy": [],
+  "people": "none",
+  "issues": [],
+  "filename": "gray-blue-metallic-epoxy-pole-barn-floor",
+  "faces_identifiable": false,
+  "content": "floor_photo",
+  "color_runner_up": "Sapphire",
+  "color_description": "marbled gray and white metallic with bold blue swirls, high gloss",
+  "color_confidence": "low",
+  "color": "Gray",
+  "branding_visible": false,
+  "area": "garage",
+  "alt_text": "Glossy gray and white metallic epoxy floor with blue swirls in a wood-walled pole barn with overhead doors"
+ },
+ "id": "72867aea1e4d",
+ "provider": "kimi",
+ "model": "moonshotai/kimi-k3",
+ "mode": "run",
+ "blind": false,
+ "at": "2026-09-17T12:46:37"
+}

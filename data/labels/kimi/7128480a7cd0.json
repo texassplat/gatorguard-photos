@@ -1,0 +1,46 @@
+{
+ "finish": "stop",
+ "usage": {
+  "input_tokens": 5328,
+  "output_tokens": 255,
+  "cost": 0.0106506
+ },
+ "served_by": "Together",
+ "label": {
+  "content": "floor_photo",
+  "area": "interior_room",
+  "setting": "residential",
+  "system": "metallic",
+  "color": "Sapphire",
+  "color_confidence": "medium",
+  "color_runner_up": "Denim",
+  "color_description": "vivid blue metallic with lighter blue and white marbled swirls",
+  "shot_type": "in_progress",
+  "people": "none",
+  "faces_identifiable": false,
+  "privacy": [],
+  "branding_visible": false,
+  "quality": "4",
+  "issues": [],
+  "website_ready": false,
+  "title": "Blue metallic epoxy floor freshly applied",
+  "alt_text": "Freshly applied blue metallic epoxy floor with marbled swirls in a room corner, metallic epoxy floor coating",
+  "tags": [
+   "metallic epoxy",
+   "liquid art",
+   "blue floor",
+   "marbled",
+   "swirled",
+   "in progress",
+   "interior room",
+   "glossy"
+  ],
+  "filename": "blue-metallic-epoxy-floor-in-progress"
+ },
+ "id": "7128480a7cd0",
+ "provider": "kimi",
+ "model": "moonshotai/kimi-k3",
+ "mode": "run",
+ "blind": false,
+ "at": "2026-09-17T12:51:17"
+}

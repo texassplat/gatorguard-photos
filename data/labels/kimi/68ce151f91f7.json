@@ -1,0 +1,45 @@
+{
+ "finish": "stop",
+ "usage": {
+  "input_tokens": 5339,
+  "output_tokens": 214,
+  "cost": 0.01638575
+ },
+ "served_by": "DigitalOcean",
+ "label": {
+  "alt_text": "Large commercial space with glossy gray solid color concrete floor coating and exposed ceiling",
+  "area": "commercial_or_industrial",
+  "branding_visible": false,
+  "color": "unknown",
+  "color_confidence": "low",
+  "color_description": "flat light gray coating with no chips",
+  "color_runner_up": "unknown",
+  "content": "floor_photo",
+  "faces_identifiable": false,
+  "filename": "commercial-space-gray-solid-color-floor",
+  "issues": [],
+  "people": "none",
+  "privacy": [],
+  "quality": "4",
+  "setting": "commercial",
+  "shot_type": "finished",
+  "system": "solid_color",
+  "tags": [
+   "commercial floor",
+   "gray floor",
+   "solid color",
+   "glossy coating",
+   "exposed ceiling",
+   "storage shelves",
+   "finished"
+  ],
+  "title": "Commercial space with gray solid color floor",
+  "website_ready": true
+ },
+ "id": "68ce151f91f7",
+ "provider": "kimi",
+ "model": "moonshotai/kimi-k3",
+ "mode": "run",
+ "blind": false,
+ "at": "2026-09-17T12:33:28"
+}

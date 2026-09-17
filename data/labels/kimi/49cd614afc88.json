@@ -1,0 +1,47 @@
+{
+ "finish": "stop",
+ "usage": {
+  "input_tokens": 5319,
+  "output_tokens": 237,
+  "cost": 0.0103536
+ },
+ "served_by": "Together",
+ "label": {
+  "content": "floor_photo",
+  "area": "garage",
+  "setting": "residential",
+  "system": "full_flake",
+  "color": "Santana",
+  "color_confidence": "low",
+  "color_runner_up": "Chestnut",
+  "color_description": "tan and brown chips with some black, small to medium size",
+  "shot_type": "in_progress",
+  "people": "prominent",
+  "faces_identifiable": false,
+  "privacy": [],
+  "branding_visible": false,
+  "quality": "3",
+  "issues": [],
+  "website_ready": false,
+  "title": "Crew member clear coating tan flake garage floor",
+  "alt_text": "Worker rolling clear coat over a tan and brown flake garage floor, full flake garage floor coating",
+  "tags": [
+   "garage",
+   "full flake",
+   "clear coat",
+   "in progress",
+   "crew working",
+   "roller",
+   "tan chips",
+   "brown chips",
+   "topcoat"
+  ],
+  "filename": "crew-clear-coating-tan-flake-garage"
+ },
+ "id": "49cd614afc88",
+ "provider": "kimi",
+ "model": "moonshotai/kimi-k3",
+ "mode": "run",
+ "blind": false,
+ "at": "2026-09-17T12:45:40"
+}

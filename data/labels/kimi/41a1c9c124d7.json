@@ -1,0 +1,47 @@
+{
+ "finish": "stop",
+ "usage": {
+  "input_tokens": 5317,
+  "output_tokens": 830,
+  "cost": 0.028401
+ },
+ "served_by": "Parasail",
+ "label": {
+  "content": "people_or_team",
+  "area": "garage",
+  "setting": "residential",
+  "system": "unknown",
+  "color": "unknown",
+  "color_confidence": "none",
+  "color_runner_up": "unknown",
+  "color_description": "wet gray coating being rolled, no chips visible",
+  "shot_type": "crew_working",
+  "people": "prominent",
+  "faces_identifiable": true,
+  "privacy": [],
+  "branding_visible": false,
+  "quality": "4",
+  "issues": [],
+  "website_ready": false,
+  "title": "Installer rolling gray coating in garage",
+  "alt_text": "Installer in a respirator rolls gray coating onto a garage floor during application.",
+  "tags": [
+   "installer",
+   "crew working",
+   "respirator",
+   "roller",
+   "garage",
+   "in progress",
+   "gray coating",
+   "workbench",
+   "floor application"
+  ],
+  "filename": "installer-rolling-gray-garage-coating"
+ },
+ "id": "41a1c9c124d7",
+ "provider": "kimi",
+ "model": "moonshotai/kimi-k3",
+ "mode": "run",
+ "blind": false,
+ "at": "2026-09-17T12:46:56"
+}

@@ -1,0 +1,49 @@
+{
+ "finish": "stop",
+ "usage": {
+  "input_tokens": 5336,
+  "output_tokens": 162,
+  "cost": 0.018438
+ },
+ "served_by": "Parasail",
+ "label": {
+  "content": "floor_photo",
+  "area": "commercial_or_industrial",
+  "setting": "commercial",
+  "system": "solid_color",
+  "color": "Gray",
+  "color_confidence": "low",
+  "color_runner_up": "unknown",
+  "color_description": "flat light gray coating, no chips",
+  "shot_type": "finished",
+  "people": "none",
+  "faces_identifiable": false,
+  "privacy": [],
+  "branding_visible": false,
+  "quality": "4",
+  "issues": [
+   "wet_or_dirty"
+  ],
+  "website_ready": true,
+  "title": "Commercial hallway with gray solid color floor",
+  "alt_text": "Commercial hallway with glossy light gray solid color floor coating and classroom doors",
+  "tags": [
+   "commercial",
+   "hallway",
+   "solid color",
+   "gray floor",
+   "glossy",
+   "interior",
+   "finished",
+   "doors",
+   "classroom"
+  ],
+  "filename": "commercial-hallway-gray-solid-color-floor"
+ },
+ "id": "0aa375207a22",
+ "provider": "kimi",
+ "model": "moonshotai/kimi-k3",
+ "mode": "run",
+ "blind": false,
+ "at": "2026-09-17T12:35:01"
+}

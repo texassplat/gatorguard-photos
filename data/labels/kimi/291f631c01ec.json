@@ -1,0 +1,48 @@
+{
+ "finish": "stop",
+ "usage": {
+  "input_tokens": 5348,
+  "output_tokens": 374,
+  "cost": 0.0238194
+ },
+ "served_by": "Fireworks",
+ "label": {
+  "content": "floor_photo",
+  "area": "basement",
+  "setting": "residential",
+  "system": "full_flake",
+  "color": "Granite",
+  "color_confidence": "high",
+  "color_runner_up": "Silver Butte",
+  "color_description": "gray, white and black chips, small to medium size, glossy clear coat",
+  "shot_type": "finished",
+  "people": "none",
+  "faces_identifiable": false,
+  "privacy": [],
+  "branding_visible": false,
+  "quality": "3",
+  "issues": [
+   "overexposed"
+  ],
+  "website_ready": false,
+  "title": "Basement with gray Granite full flake floor",
+  "alt_text": "Finished basement floor with gray, white and black full flake coating and glossy clear coat, full flake basement floor",
+  "tags": [
+   "basement",
+   "full flake",
+   "gray chips",
+   "black chips",
+   "white chips",
+   "glossy floor",
+   "cinder block walls",
+   "finished floor"
+  ],
+  "filename": "basement-gray-full-flake-floor"
+ },
+ "id": "291f631c01ec",
+ "provider": "kimi",
+ "model": "moonshotai/kimi-k3",
+ "mode": "pilot",
+ "blind": true,
+ "at": "2026-09-17T12:24:29"
+}

@@ -1,0 +1,48 @@
+{
+ "finish": "stop",
+ "usage": {
+  "input_tokens": 5206,
+  "output_tokens": 243,
+  "cost": 0.0101046
+ },
+ "served_by": "Together",
+ "label": {
+  "content": "floor_photo",
+  "area": "not_visible",
+  "setting": "unknown",
+  "system": "full_flake",
+  "color": "Callisto",
+  "color_confidence": "medium",
+  "color_runner_up": "Lunar",
+  "color_description": "gray, white and black chips, small size, glossy clear coat",
+  "shot_type": "close_up",
+  "people": "none",
+  "faces_identifiable": false,
+  "privacy": [],
+  "branding_visible": false,
+  "quality": "4",
+  "issues": [],
+  "website_ready": true,
+  "title": "Nacho chips and cheese on gray flake floor",
+  "alt_text": "Tortilla chips with cheese sauce on a gray, white and black full flake coated floor",
+  "tags": [
+   "full flake",
+   "gray chips",
+   "white chips",
+   "black chips",
+   "close up",
+   "gameday photoshoot",
+   "nachos",
+   "cheese sauce",
+   "stain resistance",
+   "easy cleanup"
+  ],
+  "filename": "nachos-on-gray-full-flake-floor"
+ },
+ "id": "3bcfc3436b38",
+ "provider": "kimi",
+ "model": "moonshotai/kimi-k3",
+ "mode": "run",
+ "blind": false,
+ "at": "2026-09-17T12:39:23"
+}

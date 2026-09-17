@@ -1,0 +1,49 @@
+{
+ "finish": "stop",
+ "usage": {
+  "input_tokens": 5320,
+  "output_tokens": 263,
+  "cost": 0.0107466
+ },
+ "served_by": "Together",
+ "label": {
+  "content": "floor_photo",
+  "area": "garage",
+  "setting": "residential",
+  "system": "full_flake",
+  "color": "Lunar",
+  "color_confidence": "low",
+  "color_runner_up": "Infinity",
+  "color_description": "small gray and white chips, fine speckled mix",
+  "shot_type": "finished",
+  "people": "none",
+  "faces_identifiable": false,
+  "privacy": [],
+  "branding_visible": false,
+  "quality": "3",
+  "issues": [
+   "cluttered"
+  ],
+  "website_ready": false,
+  "title": "Garage with gray and white full flake floor",
+  "alt_text": "Low angle view of a gray and white full flake garage floor with unfinished walls and cabinets",
+  "tags": [
+   "garage",
+   "full flake",
+   "gray chips",
+   "white chips",
+   "finished floor",
+   "low angle",
+   "garage door",
+   "cabinets",
+   "renovation"
+  ],
+  "filename": "garage-gray-white-full-flake-floor"
+ },
+ "id": "d94605f859ab",
+ "provider": "kimi",
+ "model": "moonshotai/kimi-k3",
+ "mode": "run",
+ "blind": false,
+ "at": "2026-09-17T12:44:10"
+}

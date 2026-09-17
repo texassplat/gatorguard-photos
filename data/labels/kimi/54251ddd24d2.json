@@ -1,0 +1,48 @@
+{
+ "finish": "stop",
+ "usage": {
+  "input_tokens": 5285,
+  "output_tokens": 213,
+  "cost": 0.0098916
+ },
+ "served_by": "Together",
+ "label": {
+  "content": "floor_photo",
+  "area": "patio_or_porch",
+  "setting": "residential",
+  "system": "poly_enhance",
+  "color": "not_applicable",
+  "color_confidence": "none",
+  "color_runner_up": "not_applicable",
+  "color_description": "",
+  "shot_type": "finished",
+  "people": "none",
+  "faces_identifiable": false,
+  "privacy": [],
+  "branding_visible": false,
+  "quality": "4",
+  "issues": [],
+  "website_ready": true,
+  "title": "Sealed aggregate patio with brick grid pattern",
+  "alt_text": "Front patio with exposed aggregate panels divided by brick borders, sealed with a wet-look clear sealer",
+  "tags": [
+   "patio",
+   "poly enhance",
+   "wet look sealer",
+   "exposed aggregate",
+   "brick border",
+   "grid pattern",
+   "front yard",
+   "landscaping",
+   "clear sealer",
+   "residential"
+  ],
+  "filename": "sealed-aggregate-patio-brick-grid"
+ },
+ "id": "54251ddd24d2",
+ "provider": "kimi",
+ "model": "moonshotai/kimi-k3",
+ "mode": "run",
+ "blind": false,
+ "at": "2026-09-17T12:55:24"
+}

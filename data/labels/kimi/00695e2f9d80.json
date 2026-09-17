@@ -1,0 +1,50 @@
+{
+ "finish": "stop",
+ "usage": {
+  "input_tokens": 5681,
+  "output_tokens": 251,
+  "cost": 0.0116496
+ },
+ "served_by": "Together",
+ "label": {
+  "content": "floor_photo",
+  "area": "patio_or_porch",
+  "setting": "residential",
+  "system": "full_flake",
+  "color": "Pacific Coast",
+  "color_confidence": "medium",
+  "color_runner_up": "Arcadia",
+  "color_description": "gray, white, blue and tan chips, small to medium size",
+  "shot_type": "finished",
+  "people": "none",
+  "faces_identifiable": false,
+  "privacy": [],
+  "branding_visible": false,
+  "quality": "4",
+  "issues": [
+   "heavy_filter"
+  ],
+  "website_ready": true,
+  "title": "Covered porch with gray blue full flake floor",
+  "alt_text": "Covered porch with a gray, blue and tan full flake floor, stone fireplace and garden view",
+  "tags": [
+   "covered porch",
+   "full flake",
+   "gray chips",
+   "blue chips",
+   "outdoor fireplace",
+   "stone fireplace",
+   "wood ceiling",
+   "garden view",
+   "finished floor",
+   "exterior"
+  ],
+  "filename": "covered-porch-gray-blue-flake-floor"
+ },
+ "id": "00695e2f9d80",
+ "provider": "kimi",
+ "model": "moonshotai/kimi-k3",
+ "mode": "run",
+ "blind": false,
+ "at": "2026-09-17T12:36:04"
+}

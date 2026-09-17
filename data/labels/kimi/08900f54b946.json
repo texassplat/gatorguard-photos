@@ -1,0 +1,49 @@
+{
+ "finish": "stop",
+ "usage": {
+  "input_tokens": 5059,
+  "output_tokens": 319,
+  "cost": 0.010458
+ },
+ "served_by": "Together",
+ "label": {
+  "content": "vehicle_or_equipment",
+  "area": "garage",
+  "setting": "residential",
+  "system": "metallic",
+  "color": "unknown",
+  "color_confidence": "low",
+  "color_runner_up": "Gray",
+  "color_description": "light gray metallic coating being poured, wet and reflective",
+  "shot_type": "in_progress",
+  "people": "prominent",
+  "faces_identifiable": true,
+  "privacy": [
+   "customer_face"
+  ],
+  "branding_visible": true,
+  "quality": "3",
+  "issues": [],
+  "website_ready": false,
+  "title": "Crew grinding and pouring garage floor coating",
+  "alt_text": "GatorGuard truck, crew grinding a garage floor, and pouring gray metallic epoxy coating",
+  "tags": [
+   "crew working",
+   "grinding",
+   "pouring epoxy",
+   "metallic",
+   "garage",
+   "box truck",
+   "in progress",
+   "video",
+   "gray coating"
+  ],
+  "filename": "crew-grinding-pouring-garage-metallic"
+ },
+ "id": "08900f54b946",
+ "provider": "kimi",
+ "model": "moonshotai/kimi-k3",
+ "mode": "pilot",
+ "blind": false,
+ "at": "2026-09-17T12:24:43"
+}

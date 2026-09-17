@@ -1,0 +1,49 @@
+{
+ "finish": "stop",
+ "usage": {
+  "input_tokens": 5321,
+  "output_tokens": 206,
+  "cost": 0.0188802
+ },
+ "served_by": "Modal",
+ "label": {
+  "content": "floor_photo",
+  "area": "driveway_or_walkway",
+  "setting": "residential",
+  "system": "poly_enhance",
+  "color": "not_applicable",
+  "color_confidence": "none",
+  "color_runner_up": "not_applicable",
+  "color_description": "",
+  "shot_type": "finished",
+  "people": "background",
+  "faces_identifiable": false,
+  "privacy": [
+   "house_number"
+  ],
+  "branding_visible": false,
+  "quality": "4",
+  "issues": [],
+  "website_ready": false,
+  "title": "Sealed concrete driveway taped off at suburban home",
+  "alt_text": "Freshly sealed concrete driveway with wet look sheen, taped off in front of a suburban brick home",
+  "tags": [
+   "driveway",
+   "poly enhance",
+   "wet look sealer",
+   "clear sealer",
+   "residential",
+   "taped off",
+   "suburban home",
+   "concrete driveway",
+   "curb appeal"
+  ],
+  "filename": "sealed-driveway-taped-suburban-home"
+ },
+ "id": "64cb9ee005e6",
+ "provider": "kimi",
+ "model": "moonshotai/kimi-k3",
+ "mode": "run",
+ "blind": false,
+ "at": "2026-09-17T12:55:55"
+}

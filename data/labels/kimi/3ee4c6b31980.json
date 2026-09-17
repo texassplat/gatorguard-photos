@@ -1,0 +1,49 @@
+{
+ "finish": "stop",
+ "usage": {
+  "input_tokens": 5327,
+  "output_tokens": 207,
+  "cost": 0.0099276
+ },
+ "served_by": "Together",
+ "label": {
+  "content": "people_or_team",
+  "area": "not_visible",
+  "setting": "unknown",
+  "system": "not_applicable",
+  "color": "not_applicable",
+  "color_confidence": "none",
+  "color_runner_up": "not_applicable",
+  "color_description": "",
+  "shot_type": "team_or_portrait",
+  "people": "prominent",
+  "faces_identifiable": true,
+  "privacy": [],
+  "branding_visible": true,
+  "quality": "4",
+  "issues": [
+   "cluttered"
+  ],
+  "website_ready": false,
+  "title": "Two installers giving thumbs up in work trailer",
+  "alt_text": "Two GatorGuard installers in gray shirts giving thumbs up inside a work trailer with buckets, tools and coating supplies",
+  "tags": [
+   "installers",
+   "crew",
+   "work trailer",
+   "thumbs up",
+   "recruiting",
+   "tools",
+   "buckets",
+   "team",
+   "gatorguard shirts"
+  ],
+  "filename": "installers-thumbs-up-work-trailer"
+ },
+ "id": "3ee4c6b31980",
+ "provider": "kimi",
+ "model": "moonshotai/kimi-k3",
+ "mode": "run",
+ "blind": false,
+ "at": "2026-09-17T12:35:51"
+}

@@ -1,0 +1,47 @@
+{
+ "finish": "stop",
+ "usage": {
+  "input_tokens": 5324,
+  "output_tokens": 293,
+  "cost": 0.020367
+ },
+ "served_by": "Parasail",
+ "label": {
+  "content": "floor_photo",
+  "area": "garage",
+  "setting": "residential",
+  "system": "solid_color",
+  "color": "unknown",
+  "color_confidence": "none",
+  "color_runner_up": "not_applicable",
+  "color_description": "light gray to off white solid coating, no chips",
+  "shot_type": "finished",
+  "people": "none",
+  "faces_identifiable": false,
+  "privacy": [],
+  "branding_visible": false,
+  "quality": "4",
+  "issues": [
+   "cluttered"
+  ],
+  "website_ready": false,
+  "title": "Garage with light gray solid color floor",
+  "alt_text": "Garage with glossy light gray solid color floor coating, wall shelves with hoses and storage boxes",
+  "tags": [
+   "garage",
+   "solid color",
+   "light gray floor",
+   "glossy finish",
+   "wall shelves",
+   "garden hoses",
+   "finished floor"
+  ],
+  "filename": "garage-light-gray-solid-floor"
+ },
+ "id": "c52845e51e4d",
+ "provider": "kimi",
+ "model": "moonshotai/kimi-k3",
+ "mode": "run",
+ "blind": false,
+ "at": "2026-09-17T12:45:55"
+}

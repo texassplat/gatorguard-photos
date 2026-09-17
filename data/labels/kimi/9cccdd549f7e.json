@@ -1,0 +1,46 @@
+{
+ "finish": "stop",
+ "usage": {
+  "input_tokens": 5209,
+  "output_tokens": 210,
+  "cost": 0.018777
+ },
+ "served_by": "Fireworks",
+ "label": {
+  "content": "people_or_team",
+  "area": "showroom_or_retail",
+  "setting": "unknown",
+  "system": "full_flake",
+  "color": "unknown",
+  "color_confidence": "low",
+  "color_runner_up": "unknown",
+  "color_description": "light gray and white fine chips on the floor",
+  "shot_type": "team_or_portrait",
+  "people": "prominent",
+  "faces_identifiable": false,
+  "privacy": [],
+  "branding_visible": false,
+  "quality": "4",
+  "issues": [],
+  "website_ready": false,
+  "title": "Crew in green shirts celebrating on flake floor",
+  "alt_text": "GatorGuard crew in green shirts with raised arms standing on a gray full flake coated floor",
+  "tags": [
+   "team",
+   "crew",
+   "green shirts",
+   "celebrating",
+   "gameday photoshoot",
+   "full flake",
+   "gray chips",
+   "showroom"
+  ],
+  "filename": "gameday-crew-celebrating-flake-floor"
+ },
+ "id": "9cccdd549f7e",
+ "provider": "kimi",
+ "model": "moonshotai/kimi-k3",
+ "mode": "run",
+ "blind": false,
+ "at": "2026-09-17T12:38:55"
+}

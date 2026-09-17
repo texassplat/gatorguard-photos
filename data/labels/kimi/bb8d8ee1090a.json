@@ -1,0 +1,47 @@
+{
+ "finish": "stop",
+ "usage": {
+  "input_tokens": 5328,
+  "output_tokens": 298,
+  "cost": 0.0112956
+ },
+ "served_by": "Together",
+ "label": {
+  "content": "floor_photo",
+  "area": "garage",
+  "setting": "residential",
+  "system": "full_flake",
+  "color": "unknown",
+  "color_confidence": "low",
+  "color_runner_up": "Chestnut with Rust Red",
+  "color_description": "tan, brown, black and red chips, small to medium size, glossy clear coat",
+  "shot_type": "close_up",
+  "people": "none",
+  "faces_identifiable": false,
+  "privacy": [],
+  "branding_visible": false,
+  "quality": "4",
+  "issues": [],
+  "website_ready": true,
+  "title": "Full flake stem wall in unfinished garage",
+  "alt_text": "Close up of a glossy full flake stem wall and garage floor with tan, brown and red chips near a side door",
+  "tags": [
+   "stem wall",
+   "close up",
+   "full flake",
+   "garage floor",
+   "tan chips",
+   "red chips",
+   "glossy",
+   "unfinished drywall",
+   "entry door"
+  ],
+  "filename": "full-flake-stem-wall-close-up"
+ },
+ "id": "bb8d8ee1090a",
+ "provider": "kimi",
+ "model": "moonshotai/kimi-k3",
+ "mode": "run",
+ "blind": false,
+ "at": "2026-09-17T12:57:42"
+}

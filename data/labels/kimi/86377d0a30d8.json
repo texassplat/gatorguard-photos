@@ -1,0 +1,46 @@
+{
+ "finish": "stop",
+ "usage": {
+  "input_tokens": 5044,
+  "output_tokens": 209,
+  "cost": 0.0091086
+ },
+ "served_by": "Together",
+ "label": {
+  "content": "floor_photo",
+  "area": "interior_room",
+  "setting": "residential",
+  "system": "metallic",
+  "color": "Cappuccino",
+  "color_confidence": "medium",
+  "color_runner_up": "Copper",
+  "color_description": "swirled brown and tan metallic, marbled wet look",
+  "shot_type": "in_progress",
+  "people": "prominent",
+  "faces_identifiable": false,
+  "privacy": [],
+  "branding_visible": false,
+  "quality": "4",
+  "issues": [],
+  "website_ready": false,
+  "title": "Spreading brown metallic epoxy on interior floor",
+  "alt_text": "Worker spreading swirled brown metallic epoxy coating across an interior concrete floor with a squeegee",
+  "tags": [
+   "metallic epoxy",
+   "brown metallic",
+   "marbled floor",
+   "squeegee",
+   "coating application",
+   "interior floor",
+   "in progress",
+   "liquid art"
+  ],
+  "filename": "spreading-brown-metallic-epoxy-floor"
+ },
+ "id": "86377d0a30d8",
+ "provider": "kimi",
+ "model": "moonshotai/kimi-k3",
+ "mode": "run",
+ "blind": false,
+ "at": "2026-09-17T12:58:35"
+}

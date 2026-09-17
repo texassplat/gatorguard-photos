@@ -1,0 +1,47 @@
+{
+ "finish": "stop",
+ "usage": {
+  "input_tokens": 5324,
+  "output_tokens": 215,
+  "cost": 0.01823715
+ },
+ "served_by": "DeepInfra",
+ "label": {
+  "content": "floor_photo",
+  "area": "garage",
+  "setting": "residential",
+  "system": "full_flake",
+  "color": "Santana",
+  "color_confidence": "medium",
+  "color_runner_up": "Stone Rowe",
+  "color_description": "tan, cream, gray and light brown chips, small to medium size",
+  "shot_type": "finished",
+  "people": "none",
+  "faces_identifiable": false,
+  "privacy": [],
+  "branding_visible": false,
+  "quality": "4",
+  "issues": [],
+  "website_ready": true,
+  "title": "Garage with warm tan full flake floor",
+  "alt_text": "Finished garage floor with tan, cream and gray full flake coating, paneled wall and open door in background",
+  "tags": [
+   "garage",
+   "full flake",
+   "tan flakes",
+   "gray flakes",
+   "speckled floor",
+   "finished floor",
+   "residential",
+   "panel wall",
+   "glossy coating"
+  ],
+  "filename": "garage-tan-full-flake-floor"
+ },
+ "id": "6676ea9e34b1",
+ "provider": "kimi",
+ "model": "moonshotai/kimi-k3",
+ "mode": "run",
+ "blind": false,
+ "at": "2026-09-17T12:46:01"
+}

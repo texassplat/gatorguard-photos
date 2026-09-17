@@ -1,0 +1,48 @@
+{
+ "finish": "stop",
+ "usage": {
+  "input_tokens": 4851,
+  "output_tokens": 274,
+  "cost": 0.0095046
+ },
+ "served_by": "Together",
+ "label": {
+  "content": "floor_photo",
+  "area": "interior_room",
+  "setting": "residential",
+  "system": "full_flake",
+  "color": "Galaxy",
+  "color_confidence": "low",
+  "color_runner_up": "Quartzite",
+  "color_description": "dark base with black, white, gray and tan chips, small to medium size, glossy wet clear coat",
+  "shot_type": "finished",
+  "people": "background",
+  "faces_identifiable": false,
+  "privacy": [],
+  "branding_visible": false,
+  "quality": "3",
+  "issues": [
+   "wet_or_dirty"
+  ],
+  "website_ready": false,
+  "title": "Interior room with dark full flake floor",
+  "alt_text": "Dark full flake floor with black, white and tan chips in an interior room with brick columns, glossy clear coat",
+  "tags": [
+   "full flake",
+   "interior floor",
+   "dark chips",
+   "black chips",
+   "tan chips",
+   "glossy",
+   "brick columns",
+   "finished floor"
+  ],
+  "filename": "interior-room-dark-full-flake-floor"
+ },
+ "id": "9f3e55cf4d42",
+ "provider": "kimi",
+ "model": "moonshotai/kimi-k3",
+ "mode": "run",
+ "blind": false,
+ "at": "2026-09-17T12:47:51"
+}

@@ -1,0 +1,48 @@
+{
+ "finish": "stop",
+ "usage": {
+  "input_tokens": 5255,
+  "output_tokens": 423,
+  "cost": 0.02211
+ },
+ "served_by": "Parasail",
+ "label": {
+  "content": "floor_photo",
+  "area": "patio_or_porch",
+  "setting": "residential",
+  "system": "full_flake",
+  "color": "Lunar",
+  "color_confidence": "low",
+  "color_runner_up": "Infinity",
+  "color_description": "very light gray and off-white chips, fine to small size",
+  "shot_type": "finished",
+  "people": "none",
+  "faces_identifiable": false,
+  "privacy": [],
+  "branding_visible": false,
+  "quality": "4",
+  "issues": [],
+  "website_ready": true,
+  "title": "Patio with outdoor kitchen and light flake floor",
+  "alt_text": "Patio with stone outdoor kitchen, bar stools and light speckled full flake patio floor coating",
+  "tags": [
+   "patio",
+   "outdoor kitchen",
+   "full flake",
+   "light gray chips",
+   "bar stools",
+   "grill",
+   "stone bar",
+   "exterior",
+   "finished floor",
+   "backyard"
+  ],
+  "filename": "patio-outdoor-kitchen-light-flake-floor"
+ },
+ "id": "3e29d0bddb94",
+ "provider": "kimi",
+ "model": "moonshotai/kimi-k3",
+ "mode": "run",
+ "blind": false,
+ "at": "2026-09-17T12:38:02"
+}

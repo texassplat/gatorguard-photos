@@ -1,0 +1,48 @@
+{
+ "finish": "stop",
+ "usage": {
+  "input_tokens": 5320,
+  "output_tokens": 263,
+  "cost": 0.0107466
+ },
+ "served_by": "Together",
+ "label": {
+  "content": "floor_photo",
+  "area": "garage",
+  "setting": "residential",
+  "system": "full_flake",
+  "color": "Cobalt",
+  "color_confidence": "medium",
+  "color_runner_up": "Zircon",
+  "color_description": "blue, gray and white chips over a blue-gray base, small to medium size",
+  "shot_type": "finished",
+  "people": "none",
+  "faces_identifiable": false,
+  "privacy": [],
+  "branding_visible": false,
+  "quality": "5",
+  "issues": [],
+  "website_ready": true,
+  "title": "Finished garage with blue full flake floor",
+  "alt_text": "Spacious garage with a blue-gray full flake floor, cabinets, slatwall and workbench. Full flake garage floor coating.",
+  "tags": [
+   "garage",
+   "full flake",
+   "blue chips",
+   "gray chips",
+   "cabinets",
+   "slatwall",
+   "workbench",
+   "finished floor",
+   "garage door opener",
+   "windows"
+  ],
+  "filename": "garage-blue-full-flake-finished-floor"
+ },
+ "id": "6c5363be5257",
+ "provider": "kimi",
+ "model": "moonshotai/kimi-k3",
+ "mode": "run",
+ "blind": false,
+ "at": "2026-09-17T12:44:05"
+}

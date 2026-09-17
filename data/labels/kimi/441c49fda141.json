@@ -1,0 +1,50 @@
+{
+ "finish": "stop",
+ "usage": {
+  "input_tokens": 4847,
+  "output_tokens": 297,
+  "cost": 0.018996
+ },
+ "served_by": "Parasail",
+ "label": {
+  "content": "floor_photo",
+  "area": "garage",
+  "setting": "residential",
+  "system": "full_flake",
+  "color": "Windermere",
+  "color_confidence": "low",
+  "color_runner_up": "Chestnut",
+  "color_description": "tan, brown, black and cream chips, medium size",
+  "shot_type": "in_progress",
+  "people": "none",
+  "faces_identifiable": false,
+  "privacy": [],
+  "branding_visible": false,
+  "quality": "3",
+  "issues": [
+   "wet_or_dirty"
+  ],
+  "website_ready": false,
+  "title": "Freshly coated garage floor with tan flake",
+  "alt_text": "Garage floor with fresh wet full flake coating in tan, brown and black chips, roller tray and bucket at open door",
+  "tags": [
+   "garage",
+   "full flake",
+   "wet coating",
+   "in progress",
+   "tan chips",
+   "brown chips",
+   "garage door open",
+   "residential",
+   "glossy",
+   "fresh coat"
+  ],
+  "filename": "garage-fresh-flake-coating-wet"
+ },
+ "id": "441c49fda141",
+ "provider": "kimi",
+ "model": "moonshotai/kimi-k3",
+ "mode": "run",
+ "blind": false,
+ "at": "2026-09-17T12:42:35"
+}

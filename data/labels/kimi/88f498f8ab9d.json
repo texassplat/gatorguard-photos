@@ -1,0 +1,44 @@
+{
+ "finish": "stop",
+ "usage": {
+  "input_tokens": 4607,
+  "output_tokens": 189,
+  "cost": 0.016656
+ },
+ "served_by": "Parasail",
+ "label": {
+  "content": "logo_or_text_graphic",
+  "area": "not_visible",
+  "setting": "unknown",
+  "system": "not_applicable",
+  "color": "not_applicable",
+  "color_confidence": "none",
+  "color_runner_up": "not_applicable",
+  "color_description": "",
+  "shot_type": "graphic",
+  "people": "none",
+  "faces_identifiable": false,
+  "privacy": [],
+  "branding_visible": true,
+  "quality": "4",
+  "issues": [],
+  "website_ready": false,
+  "title": "Louisville script text graphic",
+  "alt_text": "Black script text reading Louisville on a white background, email graphic",
+  "tags": [
+   "louisville",
+   "logo",
+   "script text",
+   "email asset",
+   "graphic",
+   "birdeye asset"
+  ],
+  "filename": "louisville-script-text-graphic"
+ },
+ "id": "88f498f8ab9d",
+ "provider": "kimi",
+ "model": "moonshotai/kimi-k3",
+ "mode": "run",
+ "blind": false,
+ "at": "2026-09-17T12:31:47"
+}

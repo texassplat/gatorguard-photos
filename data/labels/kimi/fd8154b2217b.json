@@ -1,0 +1,48 @@
+{
+ "finish": "stop",
+ "usage": {
+  "input_tokens": 5329,
+  "output_tokens": 288,
+  "cost": 0.020307
+ },
+ "served_by": "Fireworks",
+ "label": {
+  "content": "floor_photo",
+  "area": "patio_or_porch",
+  "setting": "commercial",
+  "system": "full_flake",
+  "color": "Windermere",
+  "color_confidence": "low",
+  "color_runner_up": "Granite",
+  "color_description": "tan, brown, black and white chips, small to medium size",
+  "shot_type": "finished",
+  "people": "none",
+  "faces_identifiable": false,
+  "privacy": [],
+  "branding_visible": false,
+  "quality": "4",
+  "issues": [],
+  "website_ready": true,
+  "title": "Rooftop balcony with tan full flake floor",
+  "alt_text": "Covered balcony with tan full flake floor, wood chairs and glass railing overlooking a river bridge",
+  "tags": [
+   "full flake",
+   "balcony",
+   "porch",
+   "exterior",
+   "tan chips",
+   "brown chips",
+   "glass railing",
+   "wood chairs",
+   "river view",
+   "finished"
+  ],
+  "filename": "balcony-full-flake-glass-railing-view"
+ },
+ "id": "fd8154b2217b",
+ "provider": "kimi",
+ "model": "moonshotai/kimi-k3",
+ "mode": "run",
+ "blind": false,
+ "at": "2026-09-17T12:37:25"
+}

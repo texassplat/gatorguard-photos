@@ -1,0 +1,47 @@
+{
+ "finish": "stop",
+ "usage": {
+  "input_tokens": 4914,
+  "output_tokens": 269,
+  "cost": 0.0096186
+ },
+ "served_by": "Together",
+ "label": {
+  "content": "floor_photo",
+  "area": "patio_or_porch",
+  "setting": "commercial",
+  "system": "solid_color_chip",
+  "color": "unknown",
+  "color_confidence": "low",
+  "color_runner_up": "Chestnut",
+  "color_description": "single tone brown chips, fine texture, glossy wet look",
+  "shot_type": "finished",
+  "people": "background",
+  "faces_identifiable": false,
+  "privacy": [],
+  "branding_visible": false,
+  "quality": "3",
+  "issues": [
+   "wet_or_dirty"
+  ],
+  "website_ready": false,
+  "title": "Brown solid color chip floor at commercial entry",
+  "alt_text": "Glossy brown solid color chip coating on a covered commercial entry floor, person standing outside.",
+  "tags": [
+   "solid color chip",
+   "brown floor",
+   "commercial entry",
+   "covered patio",
+   "glossy coating",
+   "stone column",
+   "finished floor"
+  ],
+  "filename": "brown-solid-color-chip-commercial-entry"
+ },
+ "id": "db11670f77f0",
+ "provider": "kimi",
+ "model": "moonshotai/kimi-k3",
+ "mode": "run",
+ "blind": false,
+ "at": "2026-09-17T12:56:49"
+}

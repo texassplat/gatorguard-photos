@@ -1,0 +1,47 @@
+{
+ "finish": "stop",
+ "usage": {
+  "input_tokens": 5339,
+  "output_tokens": 381,
+  "cost": 0.021732
+ },
+ "served_by": "Parasail",
+ "label": {
+  "content": "floor_photo",
+  "area": "garage",
+  "setting": "residential",
+  "system": "full_flake",
+  "color": "Granite",
+  "color_confidence": "low",
+  "color_runner_up": "Stone Rowe",
+  "color_description": "gray, white and black chips, small to medium size",
+  "shot_type": "close_up",
+  "people": "none",
+  "faces_identifiable": false,
+  "privacy": [],
+  "branding_visible": false,
+  "quality": "4",
+  "issues": [],
+  "website_ready": false,
+  "title": "Gray full flake garage floor with cut control joints",
+  "alt_text": "Garage floor with gray full flake coating and saw cut control joints near white paneled doors, full flake garage floor",
+  "tags": [
+   "garage floor",
+   "full flake",
+   "gray chips",
+   "cut lines",
+   "control joints",
+   "tool joints",
+   "finished floor",
+   "white doors",
+   "gray walls"
+  ],
+  "filename": "gray-flake-garage-floor-cut-joints"
+ },
+ "id": "ba04e9a8f4af",
+ "provider": "kimi",
+ "model": "moonshotai/kimi-k3",
+ "mode": "run",
+ "blind": false,
+ "at": "2026-09-17T12:35:35"
+}

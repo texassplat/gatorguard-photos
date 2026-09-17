@@ -1,0 +1,45 @@
+{
+ "finish": "stop",
+ "usage": {
+  "input_tokens": 5322,
+  "output_tokens": 235,
+  "cost": 0.00956411
+ },
+ "served_by": "DigitalOcean",
+ "label": {
+  "alt_text": "Light gray solid color epoxy floor in a commercial auto shop with vehicle lifts",
+  "area": "commercial_or_industrial",
+  "branding_visible": false,
+  "color": "not_applicable",
+  "color_confidence": "none",
+  "color_description": "",
+  "color_runner_up": "not_applicable",
+  "content": "floor_photo",
+  "faces_identifiable": false,
+  "filename": "auto-shop-gray-solid-color-floor",
+  "issues": [],
+  "people": "background",
+  "privacy": [],
+  "quality": "4",
+  "setting": "commercial",
+  "shot_type": "finished",
+  "system": "solid_color",
+  "tags": [
+   "commercial",
+   "auto shop",
+   "vehicle lifts",
+   "solid color",
+   "light gray floor",
+   "garage doors",
+   "glossy"
+  ],
+  "title": "Auto shop with light gray solid color floor",
+  "website_ready": true
+ },
+ "id": "b30fb65da87f",
+ "provider": "kimi",
+ "model": "moonshotai/kimi-k3",
+ "mode": "run",
+ "blind": false,
+ "at": "2026-09-17T12:34:05"
+}

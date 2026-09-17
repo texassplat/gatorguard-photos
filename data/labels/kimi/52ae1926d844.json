@@ -1,0 +1,46 @@
+{
+ "finish": "stop",
+ "usage": {
+  "input_tokens": 5321,
+  "output_tokens": 379,
+  "cost": 0.0124896
+ },
+ "served_by": "Together",
+ "label": {
+  "content": "floor_photo",
+  "area": "not_visible",
+  "setting": "unknown",
+  "system": "poly_enhance",
+  "color": "not_applicable",
+  "color_confidence": "none",
+  "color_runner_up": "not_applicable",
+  "color_description": "red and tan brick pavers with a glossy wet-look clear sealer",
+  "shot_type": "finished",
+  "people": "none",
+  "faces_identifiable": false,
+  "privacy": [],
+  "branding_visible": false,
+  "quality": "4",
+  "issues": [],
+  "website_ready": true,
+  "title": "Glossy sealed brick paver floor",
+  "alt_text": "Low angle view of red and tan brick pavers with a glossy wet-look poly enhance sealer",
+  "tags": [
+   "poly enhance",
+   "wet look sealer",
+   "brick pavers",
+   "paver floor",
+   "glossy finish",
+   "red pavers",
+   "tan pavers",
+   "clear sealer"
+  ],
+  "filename": "glossy-sealed-brick-paver-floor"
+ },
+ "id": "52ae1926d844",
+ "provider": "kimi",
+ "model": "moonshotai/kimi-k3",
+ "mode": "run",
+ "blind": false,
+ "at": "2026-09-17T12:55:11"
+}

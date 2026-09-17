@@ -1,0 +1,47 @@
+{
+ "finish": "stop",
+ "usage": {
+  "input_tokens": 5214,
+  "output_tokens": 253,
+  "cost": 0.01376082
+ },
+ "served_by": "Phala",
+ "label": {
+  "alt_text": "Finished basement with gray metallic epoxy floor, lounge chairs and windows, Liquid Art metallic floor coating",
+  "area": "basement",
+  "branding_visible": false,
+  "color": "Gray",
+  "color_confidence": "high",
+  "color_description": "swirled gray and silver metallic with hints of blue, glossy marbled finish",
+  "color_runner_up": "Charcoal",
+  "content": "floor_photo",
+  "faces_identifiable": false,
+  "filename": "gray-metallic-basement-floor-lounge",
+  "issues": [],
+  "people": "none",
+  "privacy": [],
+  "quality": "4",
+  "setting": "residential",
+  "shot_type": "finished",
+  "system": "metallic",
+  "tags": [
+   "metallic",
+   "gray metallic",
+   "basement",
+   "swirled",
+   "reflective",
+   "lounge chairs",
+   "windows",
+   "finished floor",
+   "liquid art"
+  ],
+  "title": "Basement lounge with gray metallic floor",
+  "website_ready": true
+ },
+ "id": "5e7f2f00e854",
+ "provider": "kimi",
+ "model": "moonshotai/kimi-k3",
+ "mode": "run",
+ "blind": false,
+ "at": "2026-09-17T12:50:48"
+}

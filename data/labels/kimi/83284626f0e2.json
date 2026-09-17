@@ -1,0 +1,45 @@
+{
+ "finish": "stop",
+ "usage": {
+  "input_tokens": 4602,
+  "output_tokens": 166,
+  "cost": 0.0071376
+ },
+ "served_by": "Together",
+ "label": {
+  "content": "logo_or_text_graphic",
+  "area": "not_visible",
+  "setting": "unknown",
+  "system": "not_applicable",
+  "color": "not_applicable",
+  "color_confidence": "none",
+  "color_runner_up": "not_applicable",
+  "color_description": "",
+  "shot_type": "graphic",
+  "people": "none",
+  "faces_identifiable": false,
+  "privacy": [],
+  "branding_visible": false,
+  "quality": "4",
+  "issues": [],
+  "website_ready": false,
+  "title": "St Louis script logo graphic",
+  "alt_text": "Black script lettering reading St Louis on a white background, email logo graphic",
+  "tags": [
+   "st louis",
+   "logo",
+   "script lettering",
+   "email asset",
+   "birdeye asset",
+   "black and white",
+   "graphic"
+  ],
+  "filename": "st-louis-script-email-logo"
+ },
+ "id": "83284626f0e2",
+ "provider": "kimi",
+ "model": "moonshotai/kimi-k3",
+ "mode": "run",
+ "blind": false,
+ "at": "2026-09-17T12:31:45"
+}

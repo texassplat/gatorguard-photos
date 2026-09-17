@@ -1,0 +1,47 @@
+{
+ "finish": "stop",
+ "usage": {
+  "input_tokens": 5328,
+  "output_tokens": 215,
+  "cost": 0.0100506
+ },
+ "served_by": "Together",
+ "label": {
+  "content": "floor_photo",
+  "area": "patio_or_porch",
+  "setting": "residential",
+  "system": "full_flake",
+  "color": "Chestnut",
+  "color_confidence": "medium",
+  "color_runner_up": "Cambridge",
+  "color_description": "tan, brown, black and white chips, small to medium size",
+  "shot_type": "finished",
+  "people": "none",
+  "faces_identifiable": false,
+  "privacy": [],
+  "branding_visible": false,
+  "quality": "4",
+  "issues": [],
+  "website_ready": true,
+  "title": "Sunroom porch with brown full flake floor",
+  "alt_text": "Sunroom with wicker furniture on a glossy brown full flake floor coating",
+  "tags": [
+   "sunroom",
+   "porch",
+   "full flake",
+   "brown chips",
+   "tan chips",
+   "wicker furniture",
+   "glossy floor",
+   "finished floor",
+   "exterior"
+  ],
+  "filename": "sunroom-brown-full-flake-floor"
+ },
+ "id": "010785695a53",
+ "provider": "kimi",
+ "model": "moonshotai/kimi-k3",
+ "mode": "run",
+ "blind": false,
+ "at": "2026-09-17T12:37:37"
+}

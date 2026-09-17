@@ -1,0 +1,45 @@
+{
+ "finish": "stop",
+ "usage": {
+  "input_tokens": 5324,
+  "output_tokens": 244,
+  "cost": 0.00968576
+ },
+ "served_by": "DigitalOcean",
+ "label": {
+  "alt_text": "Auto repair shop floor coated in smooth gray solid color coating with blue car lifts, solid color commercial floor coating",
+  "area": "commercial_or_industrial",
+  "branding_visible": false,
+  "color": "unknown",
+  "color_confidence": "none",
+  "color_description": "flat light gray coating, no chips",
+  "color_runner_up": "not_applicable",
+  "content": "floor_photo",
+  "faces_identifiable": false,
+  "filename": "auto-shop-gray-solid-color-floor",
+  "issues": [],
+  "people": "none",
+  "privacy": [],
+  "quality": "4",
+  "setting": "commercial",
+  "shot_type": "finished",
+  "system": "solid_color",
+  "tags": [
+   "commercial",
+   "auto shop",
+   "car lifts",
+   "solid gray floor",
+   "block walls",
+   "smooth finish",
+   "garage equipment"
+  ],
+  "title": "Auto shop with gray solid color coated floor",
+  "website_ready": true
+ },
+ "id": "f7d531bb3ab9",
+ "provider": "kimi",
+ "model": "moonshotai/kimi-k3",
+ "mode": "run",
+ "blind": false,
+ "at": "2026-09-17T12:34:06"
+}

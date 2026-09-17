@@ -1,0 +1,47 @@
+{
+ "finish": "stop",
+ "usage": {
+  "input_tokens": 5044,
+  "output_tokens": 222,
+  "cost": 0.0093036
+ },
+ "served_by": "Together",
+ "label": {
+  "content": "floor_photo",
+  "area": "basement",
+  "setting": "residential",
+  "system": "metallic",
+  "color": "Cappuccino",
+  "color_confidence": "medium",
+  "color_runner_up": "Copper",
+  "color_description": "swirled brown and tan metallic epoxy, marbled and reflective",
+  "shot_type": "finished",
+  "people": "none",
+  "faces_identifiable": false,
+  "privacy": [],
+  "branding_visible": false,
+  "quality": "4",
+  "issues": [],
+  "website_ready": true,
+  "title": "Metallic epoxy floor in brown and tan swirls",
+  "alt_text": "Glossy brown and tan swirled metallic epoxy floor in a room with white baseboards, metallic floor coating",
+  "tags": [
+   "metallic epoxy",
+   "brown metallic",
+   "tan swirls",
+   "marbled floor",
+   "glossy floor",
+   "basement floor",
+   "interior floor",
+   "finished floor",
+   "reflective coating"
+  ],
+  "filename": "brown-tan-metallic-epoxy-floor"
+ },
+ "id": "662ddaf976fa",
+ "provider": "kimi",
+ "model": "moonshotai/kimi-k3",
+ "mode": "run",
+ "blind": false,
+ "at": "2026-09-17T12:58:31"
+}

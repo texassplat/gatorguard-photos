@@ -1,0 +1,49 @@
+{
+ "finish": "stop",
+ "usage": {
+  "input_tokens": 5314,
+  "output_tokens": 221,
+  "cost": 0.0100986
+ },
+ "served_by": "Together",
+ "label": {
+  "content": "people_or_team",
+  "area": "patio_or_porch",
+  "setting": "residential",
+  "system": "unknown",
+  "color": "not_applicable",
+  "color_confidence": "none",
+  "color_runner_up": "not_applicable",
+  "color_description": "",
+  "shot_type": "crew_working",
+  "people": "prominent",
+  "faces_identifiable": true,
+  "privacy": [],
+  "branding_visible": false,
+  "quality": "3",
+  "issues": [
+   "wet_or_dirty"
+  ],
+  "website_ready": false,
+  "title": "Installer spreading yellow coating on worn patio",
+  "alt_text": "Installer spreading yellow-tinted coating over a worn concrete patio beside a house with siding and a wood deck",
+  "tags": [
+   "installer",
+   "crew working",
+   "patio",
+   "coating application",
+   "yellow base coat",
+   "worn concrete",
+   "squeegee",
+   "exterior",
+   "in progress"
+  ],
+  "filename": "installer-spreading-coating-worn-patio"
+ },
+ "id": "05de39eb8bfb",
+ "provider": "kimi",
+ "model": "moonshotai/kimi-k3",
+ "mode": "run",
+ "blind": false,
+ "at": "2026-09-17T12:47:11"
+}

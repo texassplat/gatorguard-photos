@@ -1,0 +1,46 @@
+{
+ "finish": "stop",
+ "usage": {
+  "input_tokens": 5357,
+  "output_tokens": 230,
+  "cost": 0.019521
+ },
+ "served_by": "Chutes",
+ "label": {
+  "content": "floor_photo",
+  "area": "garage",
+  "setting": "residential",
+  "system": "full_flake",
+  "color": "Chestnut with Rust Red",
+  "color_confidence": "medium",
+  "color_runner_up": "Sedona",
+  "color_description": "brown, tan and rust red chips with some black, small to medium size",
+  "shot_type": "finished",
+  "people": "none",
+  "faces_identifiable": false,
+  "privacy": [],
+  "branding_visible": false,
+  "quality": "4",
+  "issues": [],
+  "website_ready": true,
+  "title": "Garage with brown and rust full flake floor",
+  "alt_text": "Garage interior with brown, tan and rust red full flake floor coating, cabinets, ladder and ductwork along the wall",
+  "tags": [
+   "garage",
+   "full flake",
+   "brown chips",
+   "rust red chips",
+   "finished floor",
+   "cabinets",
+   "ladder",
+   "exposed duct"
+  ],
+  "filename": "garage-brown-rust-full-flake-floor"
+ },
+ "id": "7fe02cf7fdca",
+ "provider": "kimi",
+ "model": "moonshotai/kimi-k3",
+ "mode": "run",
+ "blind": false,
+ "at": "2026-09-17T12:45:31"
+}

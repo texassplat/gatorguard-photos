@@ -1,0 +1,46 @@
+{
+ "finish": "stop",
+ "usage": {
+  "input_tokens": 5339,
+  "output_tokens": 307,
+  "cost": 0.020622
+ },
+ "served_by": "Parasail",
+ "label": {
+  "content": "floor_photo",
+  "area": "garage",
+  "setting": "residential",
+  "system": "full_flake",
+  "color": "Granite",
+  "color_confidence": "low",
+  "color_runner_up": "Indigo",
+  "color_description": "gray, black and white chips with small tan accents, medium size",
+  "shot_type": "close_up",
+  "people": "none",
+  "faces_identifiable": false,
+  "privacy": [],
+  "branding_visible": false,
+  "quality": "4",
+  "issues": [],
+  "website_ready": false,
+  "title": "Close-up of tool joint in gray flake garage floor",
+  "alt_text": "Close-up of a cut tool joint in a gray full flake garage floor coating",
+  "tags": [
+   "cut line",
+   "tool joint",
+   "close up",
+   "full flake",
+   "gray chips",
+   "garage floor",
+   "control joint",
+   "finished floor"
+  ],
+  "filename": "tool-joint-close-up-gray-flake-floor"
+ },
+ "id": "1dbdf5eff8c1",
+ "provider": "kimi",
+ "model": "moonshotai/kimi-k3",
+ "mode": "run",
+ "blind": false,
+ "at": "2026-09-17T12:35:33"
+}

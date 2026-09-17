@@ -1,0 +1,48 @@
+{
+ "finish": "stop",
+ "usage": {
+  "input_tokens": 5327,
+  "output_tokens": 253,
+  "cost": 0.0106176
+ },
+ "served_by": "Together",
+ "label": {
+  "content": "floor_photo",
+  "area": "interior_room",
+  "setting": "residential",
+  "system": "metallic",
+  "color": "Gray",
+  "color_confidence": "medium",
+  "color_runner_up": "Charcoal",
+  "color_description": "marbled medium gray metallic with lighter gray swirls, glossy reflective finish",
+  "shot_type": "finished",
+  "people": "none",
+  "faces_identifiable": false,
+  "privacy": [],
+  "branding_visible": false,
+  "quality": "3",
+  "issues": [
+   "cluttered"
+  ],
+  "website_ready": false,
+  "title": "Gray metallic epoxy floor in kitchen area",
+  "alt_text": "Glossy gray marbled metallic epoxy floor in a residential room with white cabinets and counters",
+  "tags": [
+   "metallic epoxy",
+   "gray metallic",
+   "marbled floor",
+   "glossy floor",
+   "kitchen",
+   "interior floor",
+   "liquid art",
+   "reflective floor"
+  ],
+  "filename": "gray-metallic-epoxy-kitchen-floor"
+ },
+ "id": "e1299d9bfc82",
+ "provider": "kimi",
+ "model": "moonshotai/kimi-k3",
+ "mode": "run",
+ "blind": false,
+ "at": "2026-09-17T12:51:53"
+}

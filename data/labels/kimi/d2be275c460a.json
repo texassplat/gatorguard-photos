@@ -1,0 +1,48 @@
+{
+ "finish": "stop",
+ "usage": {
+  "input_tokens": 5317,
+  "output_tokens": 259,
+  "cost": 0.0106776
+ },
+ "served_by": "Together",
+ "label": {
+  "content": "floor_photo",
+  "area": "commercial_or_industrial",
+  "setting": "commercial",
+  "system": "full_flake",
+  "color": "unknown",
+  "color_confidence": "low",
+  "color_runner_up": "Callisto",
+  "color_description": "gray, white and black chips, small size",
+  "shot_type": "finished",
+  "people": "none",
+  "faces_identifiable": false,
+  "privacy": [],
+  "branding_visible": false,
+  "quality": "4",
+  "issues": [],
+  "website_ready": true,
+  "title": "Commercial lobby with gray full flake floor",
+  "alt_text": "Gray, white and black full flake floor with coated stem wall under a green chair in a commercial space",
+  "tags": [
+   "commercial",
+   "full flake",
+   "gray chips",
+   "white chips",
+   "black chips",
+   "stem wall",
+   "green chair",
+   "lobby",
+   "finished floor",
+   "small chips"
+  ],
+  "filename": "commercial-gray-full-flake-floor-green-chair"
+ },
+ "id": "d2be275c460a",
+ "provider": "kimi",
+ "model": "moonshotai/kimi-k3",
+ "mode": "run",
+ "blind": false,
+ "at": "2026-09-17T12:33:45"
+}

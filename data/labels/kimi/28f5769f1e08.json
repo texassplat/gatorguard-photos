@@ -1,0 +1,47 @@
+{
+ "finish": "stop",
+ "usage": {
+  "input_tokens": 4924,
+  "output_tokens": 258,
+  "cost": 0.0158457
+ },
+ "served_by": "Makora",
+ "label": {
+  "content": "floor_photo",
+  "area": "patio_or_porch",
+  "setting": "residential",
+  "system": "full_flake",
+  "color": "unknown",
+  "color_confidence": "low",
+  "color_runner_up": "Granite",
+  "color_description": "light gray, white and charcoal chips, small to medium size",
+  "shot_type": "finished",
+  "people": "none",
+  "faces_identifiable": false,
+  "privacy": [],
+  "branding_visible": false,
+  "quality": "4",
+  "issues": [],
+  "website_ready": true,
+  "title": "Flake coated front porch with brick exterior",
+  "alt_text": "Gray full flake coating on a brick front porch beside a garden pond and green double doors",
+  "tags": [
+   "front porch",
+   "exterior",
+   "full flake",
+   "gray chips",
+   "brick house",
+   "double doors",
+   "garden pond",
+   "finished floor",
+   "steps"
+  ],
+  "filename": "flake-coated-brick-front-porch"
+ },
+ "id": "28f5769f1e08",
+ "provider": "kimi",
+ "model": "moonshotai/kimi-k3",
+ "mode": "run",
+ "blind": false,
+ "at": "2026-09-17T12:36:59"
+}

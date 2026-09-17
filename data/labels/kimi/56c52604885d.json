@@ -1,0 +1,48 @@
+{
+ "finish": "stop",
+ "usage": {
+  "input_tokens": 5227,
+  "output_tokens": 238,
+  "cost": 0.009747
+ },
+ "served_by": "Together",
+ "label": {
+  "content": "floor_photo",
+  "area": "interior_room",
+  "setting": "residential",
+  "system": "full_flake",
+  "color": "Chestnut",
+  "color_confidence": "medium",
+  "color_runner_up": "Sedona",
+  "color_description": "warm brown base with tan, brown and black chips, small to medium size",
+  "shot_type": "finished",
+  "people": "none",
+  "faces_identifiable": false,
+  "privacy": [],
+  "branding_visible": false,
+  "quality": "4",
+  "issues": [],
+  "website_ready": true,
+  "title": "Home theater room with brown full flake floor",
+  "alt_text": "Home theater room with glossy brown full flake floor, bookshelves and projection screen, full flake floor coating",
+  "tags": [
+   "full flake",
+   "interior",
+   "home theater",
+   "basement",
+   "brown chips",
+   "tan chips",
+   "glossy floor",
+   "bookshelves",
+   "projection screen",
+   "finished floor"
+  ],
+  "filename": "home-theater-brown-full-flake-floor"
+ },
+ "id": "56c52604885d",
+ "provider": "kimi",
+ "model": "moonshotai/kimi-k3",
+ "mode": "pilot",
+ "blind": false,
+ "at": "2026-09-17T12:24:46"
+}
