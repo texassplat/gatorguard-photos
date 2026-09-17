@@ -322,9 +322,14 @@ $('#sort').onchange = () => { state.sort = $('#sort').value; apply(); };
 $('#reset').onclick = () => { state.q = ''; $('#q').value = ''; state.f = {}; state.t = {}; apply(); };
 $('#hint').innerHTML = `Click a picture for details. <b>Copy image</b> pastes straight into a doc, email or Canva; <b>Download</b> saves a 1600px web copy with a descriptive file name. Full-size originals are in the <a href="${META.drive}" target="_blank" rel="noopener">ALL GG PHOTOS Drive folder</a> at the path shown in each picture's details.` +
   (META.labelled < META.total ? ` <b>${META.total - META.labelled} items are not AI-labelled yet</b>, so for those the filters only know what the Drive folder names say.` : ' Colors marked <span class="chip g">?</span> are AI matches; the rest come from staff folders.');
-const openId = readHash();
-apply(true);
-if (openId && BY_ID[openId]) jump(openId);
+function fromHash() {
+  const openId = readHash();
+  apply(true);
+  if (openId && BY_ID[openId]) jump(openId); else if ($('#lb').classList.contains('on')) close();
+}
+// Pasting a filter link into an open tab, and the back button, both land here.
+addEventListener('hashchange', fromHash);
+fromHash();
 </script>
 </body>
 </html>
