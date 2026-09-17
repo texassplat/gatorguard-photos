@@ -136,7 +136,8 @@ def main():
         out.append(row)
 
     labels = {"area": AREA, "sys": SYSTEM, "shot": SHOT, "k": KIND}
-    meta = {"drive": DRIVE_FOLDER, "labelled": sum(1 for r in out if r["ai"]), "total": len(out)}
+    meta = {"drive": DRIVE_FOLDER, "labelled": sum(1 for r in out if r["ai"]), "total": len(out),
+            "colors": ALL_COLORS, "collections": COLOR_TO_COLLECTION}
     tpl = (ROOT / "template.html").read_text()
     html = (tpl.replace("/*__DATA__*/null", json.dumps(out, separators=(",", ":"), ensure_ascii=False))
                .replace("/*__LABELS__*/null", json.dumps(labels, separators=(",", ":")))

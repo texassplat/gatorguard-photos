@@ -26,6 +26,26 @@ https://drive.google.com/drive/folders/1clmfBvB8T7fjUeJ5VA_deRzeleH6H0oQ
 4. **Hand fixes** go in `data/overrides.json`: `{"<id>": {"color": "Granite", "title": "..."}}`.
    They beat everything else.
 
+## Fixing labels from the page
+
+The gallery has an **Edit labels** button. Anyone can correct the colour, coating type,
+area, title, alt text and the website-ready flag, either one picture at a time in the
+details panel or in bulk: tick several pictures, then pick a colour or coating for all of
+them at once. A picture with near-duplicates offers one click to copy its colour to them.
+
+The site is static, so those edits live in that person's browser (localStorage) until the
+file comes back here:
+
+```bash
+# they click "Download my edits" and send you the JSON
+.venv/bin/python tools/apply_overrides.py ~/Downloads/gatorguard-photo-edits-2026-09-17.json
+.venv/bin/python tools/build.py && git add -A && git commit -m "Apply label fixes" && git push
+```
+
+Merged fixes show as "set by hand" in the details panel and fill the Color filter. Several
+people's files can be merged in one command; later files win. Editors can also load each
+other's file with **Load an edits file** before sending one combined file back.
+
 ## Privacy
 
 Published copies carry no EXIF, so no GPS, camera serials or original timestamps. GPS is

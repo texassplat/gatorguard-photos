@@ -56,6 +56,20 @@
   #toast { position:fixed; bottom:24px; left:50%; transform:translateX(-50%); background:#1a1f1b; color:#fff; padding:10px 16px; border-radius:8px; opacity:0; transition:opacity .2s; z-index:30; pointer-events:none }
   #toast.on { opacity:1 }
   .empty { color:var(--mut); padding:40px; text-align:center }
+  .pick { display:none; position:absolute; left:6px; top:6px; z-index:2; background:rgba(255,255,255,.9); border-radius:5px; padding:3px 5px; cursor:pointer }
+  body.editing .pick { display:block }
+  body.editing .card.picked { outline:2px solid var(--acc) }
+  #bulk { display:none; gap:8px; align-items:center; flex-wrap:wrap; margin-top:8px; padding:8px; background:var(--accbg); border-radius:8px }
+  body.editing #bulk.on { display:flex }
+  #editbar { display:none; gap:6px; align-items:center; flex-wrap:wrap; margin-top:8px }
+  body.editing #editbar { display:flex }
+  .edited { border-left:3px solid var(--acc); padding-left:5px }
+  form.ed { background:var(--bg); border:1px solid var(--line); border-radius:8px; padding:10px; margin:10px 0; display:grid; gap:6px }
+  form.ed label { display:grid; gap:2px; font-size:12px; color:var(--mut) }
+  form.ed select, form.ed input, form.ed textarea { font:inherit; font-size:13px; padding:5px 7px; border:1px solid var(--line); border-radius:6px; background:var(--card); color:var(--ink); max-width:none; width:100% }
+  form.ed textarea { min-height:58px; resize:vertical }
+  form.ed label.chk { display:flex; flex-direction:row; align-items:center; gap:6px; color:var(--ink); border:none; padding:0 }
+  form.ed label.chk input { width:auto }
   #ftoggle { display:none }
   @media (max-width:760px) {
     header { position:static }
@@ -78,10 +92,27 @@
       <option value="folder">By folder</option>
     </select>
     <button id="ftoggle">Filters</button>
+    <button id="editmode" title="Fix colors and other labels">Edit labels</button>
     <button id="reset">Clear filters</button>
     <span id="count"></span>
   </div>
   <div class="row filters" id="filters"></div>
+  <div class="row" id="editbar">
+    <b>Editing.</b> <span id="editcount"></span>
+    <span class="hint" style="margin:0">Tick pictures to fix several at once, or open one and edit it there. Edits stay in this browser until you send the file.</span>
+    <button id="ovsave">Download my edits</button>
+    <button id="ovload">Load an edits file</button>
+    <button id="ovclear">Discard my edits</button>
+    <input type="file" id="ovfile" accept="application/json" hidden>
+  </div>
+  <div class="row" id="bulk">
+    <b><span id="nsel">0</span> selected</b>
+    <select id="bcolor"></select>
+    <select id="bsys"></select>
+    <select id="barea"></select>
+    <button id="bready">Mark website-ready</button>
+    <button id="bclear">Clear selection</button>
+  </div>
   <div class="hint" id="hint"></div>
 </header>
 <main><div class="grid" id="grid"></div><button id="more">Show more</button></main>
@@ -101,6 +132,7 @@ const DATA = /*__DATA__*/null;
 const L = /*__LABELS__*/null;
 const META = /*__META__*/null;
 const BY_ID = Object.fromEntries(DATA.map(d => [d.id, d]));
+const RAW = Object.fromEntries(DATA.map(d => [d.id, JSON.parse(JSON.stringify(d))]));
 const $ = s => document.querySelector(s);
 const esc = s => String(s ?? '').replace(/[&<>"']/g, c => ({'&':'&amp;','<':'&lt;','>':'&gt;','"':'&quot;',"'":'&#39;'}[c]));
 const nice = (dict, v) => (L[dict] && L[dict][v]) || v;
@@ -111,7 +143,7 @@ const FACETS = [
   {k:'area', label:'Area', get:d => d.area && L.area[d.area] ? d.area : null, name:v => nice('area', v)},
   {k:'sys', label:'Coating', get:d => d.sys && L.sys[d.sys] ? d.sys : null, name:v => nice('sys', v)},
   {k:'coll', label:'Collection', get:d => d.coll},
-  {k:'col', label:'Color (staff)', get:d => d.col},
+  {k:'col', label:'Color', get:d => d.col},
   {k:'chips', label:'Chip colors', get:d => d.chips, multi:true},
   {k:'shot', label:'Shot', get:d => d.shot && L.shot[d.shot] ? d.shot : null, name:v => nice('shot', v)},
   {k:'set', label:'Setting', get:d => d.set, name:v => v[0].toUpperCase() + v.slice(1)},
@@ -126,6 +158,44 @@ const TOGGLES = [
   {k:'nopriv', label:'Hide privacy flags', test:d => !d.priv.length && !d.face},
   {k:'review', label:'Needs review', test:d => d.rev},
 ];
+// Corrections a person makes here. They live in this browser (localStorage) and are
+// exported as a JSON file that goes into the repo's data/overrides.json, which the
+// build applies for everyone.
+const OV_KEY = 'gg-photo-overrides';
+const OV_FIELDS = ['color', 'system', 'area', 'title', 'alt_text', 'website_ready'];
+let OV = {};
+try { OV = JSON.parse(localStorage.getItem(OV_KEY) || '{}'); } catch { OV = {}; }
+const sel = new Set();
+
+function applyOv(d) {
+  const o = OV[d.id]; if (!o) return;
+  if (o.color !== undefined) { d.col = o.color || null; d.cs = o.color ? 'manual' : null; d.coll = o.color ? (META.collections[o.color] || null) : null; }
+  if (o.system !== undefined) d.sys = o.system || null;
+  if (o.area !== undefined) d.area = o.area || null;
+  if (o.title) d.title = o.title;
+  if (o.alt_text !== undefined) d.alt = o.alt_text;
+  if (o.website_ready !== undefined) d.ready = o.website_ready;
+  d.edited = true; delete d._h;
+}
+function setOv(ids, patch) {
+  for (const id of ids) {
+    const o = OV[id] = OV[id] || {};
+    for (const [k, v] of Object.entries(patch)) (v === null ? delete o[k] : o[k] = v);
+    if (!Object.keys(o).length) delete OV[id];
+    const d = BY_ID[id];
+    if (d) { Object.assign(d, JSON.parse(JSON.stringify(RAW[id]))); d.edited = false; applyOv(d); }
+  }
+  try { localStorage.setItem(OV_KEY, JSON.stringify(OV)); } catch { toast('This browser will not save the edits, so download the file now.'); }
+  refreshEditUi();
+  apply(true);
+}
+function refreshEditUi() {
+  const n = Object.keys(OV).length;
+  $('#editcount').textContent = n ? `${n} picture${n > 1 ? 's' : ''} edited` : 'No edits yet';
+  $('#editmode').textContent = n ? `Edit labels (${n})` : 'Edit labels';
+  $('#nsel').textContent = sel.size;
+  $('#bulk').classList.toggle('on', sel.size > 0);
+}
 let SEEN = new Set();
 const state = {q:'', sort:'best', f:{}, t:{}};
 const PAGE = 120;
@@ -197,14 +267,22 @@ function card(d, i) {
   const chips = [];
   if (d.area && L.area[d.area]) chips.push(`<span class="chip">${esc(L.area[d.area])}</span>`);
   if (d.sys && L.sys[d.sys]) chips.push(`<span class="chip">${esc(L.sys[d.sys])}</span>`);
-  if (d.col) chips.push(`<span class="chip ${d.cs && d.cs.startsWith('ai') ? 'g' : ''}" title="${d.cs && d.cs.startsWith('ai') ? 'AI color match (' + esc(d.aicf) + ')' : 'Color from staff folder'}">${esc(d.col)}${d.cs && d.cs.startsWith('ai') ? '?' : ''}</span>`);
+  if (d.col) chips.push(`<span class="chip ${d.cs === 'manual' ? 'm' : d.cs && d.cs.startsWith('ai') ? 'g' : ''}" title="${d.cs && d.cs.startsWith('ai') ? 'AI color match (' + esc(d.aicf) + ')' : 'Color from staff folder'}">${esc(d.col)}${d.cs && d.cs.startsWith('ai') ? '?' : ''}</span>`);
   const sub = [d.mk, d.yr].filter(Boolean).join(' · ');
   const badge = d.k === 'video' ? `<span class="badge">&#9654; ${d.dur ? Math.round(d.dur) + 's' : 'video'}</span>` : d.k === 'doc' ? '<span class="badge">PDF</span>' : '';
   const qb = d.ready ? '<span class="badge r">web-ready</span>' : '';
-  c.innerHTML = `<div class="img"><img loading="lazy" src="${d.t}" alt="${esc(d.alt)}">${badge}${qb}</div>
+  c.innerHTML = `<div class="img"><label class="pick"><input type="checkbox" ${sel.has(d.id) ? 'checked' : ''}></label><img loading="lazy" src="${d.t}" alt="${esc(d.alt)}">${badge}${qb}</div>
     <div class="meta"><b title="${esc(d.title)}">${esc(d.title)}</b>${esc(sub)}<div class="chips">${chips.join('')}</div></div>
     <div class="btns"><button data-a="copy">Copy image</button><a class="btn" href="${d.m}" download="${esc(d.dl)}">Download</a></div>`;
-  c.querySelector('.img').onclick = () => open(i);
+  c.classList.toggle('picked', sel.has(d.id));
+  c.querySelector('.pick').onclick = e => {
+    e.stopPropagation();
+    const on = e.target.checked ?? !sel.has(d.id);
+    on ? sel.add(d.id) : sel.delete(d.id);
+    c.classList.toggle('picked', sel.has(d.id));
+    refreshEditUi();
+  };
+  c.querySelector('.img').onclick = e => { if (!e.target.closest('.pick')) open(i); };
   c.querySelector('[data-a=copy]').onclick = e => copyImage(d, e.target);
   return c;
 }
@@ -242,8 +320,8 @@ function open(i) {
   else media.innerHTML = `<img src="${d.m}" alt="${esc(d.alt)}">`;
   const row = (k, v) => v ? `<dt>${k}</dt><dd>${v}</dd>` : '';
   let color = '';
-  if (d.col) color = `${esc(d.col)}${d.coll ? ' <span style="color:var(--mut)">(' + esc(d.coll) + ')</span>' : ''}<br><small>${
-    d.cs === 'folder' ? 'from the staff folder' : d.cs === 'duplicate' ? 'from a copy filed in a color folder' : d.cs === 'manual' ? 'set by hand' : 'AI match, ' + esc(d.aicf) + ' confidence'}</small>`;
+  if (d.col) color = `${d.edited && d.cs === 'manual' ? '<span class="edited">' : ''}${esc(d.col)}${d.coll ? ' <span style="color:var(--mut)">(' + esc(d.coll) + ')</span>' : ''}<br><small>${
+    d.cs === 'folder' ? 'from the staff folder' : d.cs === 'duplicate' ? 'from a copy filed in a color folder' : d.cs === 'manual' ? 'set by hand' : 'AI match, ' + esc(d.aicf) + ' confidence'}</small>${d.edited && d.cs === 'manual' ? '</span>' : ''}`;
   if (d.aic && d.aic !== d.col) color += `${color ? '<br>' : ''}<small>Closest swatch by eye: ${esc(d.aic)}${d.air && !['unknown','not_applicable'].includes(d.air) ? ' or ' + esc(d.air) : ''}. A rough guess; check against the samples before using it.</small>`;
   const sims = d.sim.map(s => BY_ID[s]).filter(Boolean);
   $('#side').innerHTML = `
@@ -272,11 +350,54 @@ function open(i) {
       ${row('Size', d.w ? `${d.w}×${d.h}, ${d.mb} MB original` + (d.dur ? `, ${Math.round(d.dur)}s` : '') : '')}
       ${row('Original', d.p.map(esc).join('<br>') + `<br><a href="${META.drive}" target="_blank" rel="noopener">Open the Drive folder</a>`)}
     </dl>
+    ${document.body.classList.contains('editing') ? editForm(d) : (d.edited ? '<div class="hint">Edited here. Turn on <b>Edit labels</b> to change it.</div>' : '')}
     ${sims.length ? `<div style="color:var(--mut)">Near-duplicates</div><div class="sims">${sims.map(s => `<img src="${s.t}" data-id="${s.id}" title="${esc(s.p[0])}">`).join('')}</div>` : ''}
     <button id="close" data-a="close">Close ✕</button>`;
   $('#side').querySelectorAll('.sims img').forEach(im => im.onclick = () => jump(im.dataset.id));
   $('#lb').classList.add('on');
   history.replaceState(null, '', hashFor(d.id));
+}
+function opts(pairs, value) {
+  return pairs.map(([v, t]) => `<option value="${esc(v)}"${v === (value ?? '') ? ' selected' : ''}>${esc(t)}</option>`).join('');
+}
+const COLOR_OPTS = () => [['', 'Color: not set']].concat(
+  META.colors.map(c => [c, `${c} (${META.collections[c]})`]));
+const SYS_OPTS = () => [['', 'Coating: not set']].concat(
+  Object.entries(L.sys).filter(([, t]) => t).map(([v, t]) => [v, t]));
+const AREA_OPTS = () => [['', 'Area: not set']].concat(
+  Object.entries(L.area).filter(([, t]) => t).map(([v, t]) => [v, t]));
+
+function editForm(d) {
+  const o = OV[d.id] || {};
+  return `<form class="ed" id="ed">
+    <b>Fix the labels</b>
+    <label>Color (flake or metallic)<select name="color">${opts(COLOR_OPTS(), o.color ?? (d.cs === 'manual' ? d.col : (d.cs === 'folder' || d.cs === 'duplicate' ? d.col : '')))}</select></label>
+    <label>Coating type<select name="system">${opts(SYS_OPTS(), o.system ?? d.sys ?? '')}</select></label>
+    <label>Area<select name="area">${opts(AREA_OPTS(), o.area ?? d.area ?? '')}</select></label>
+    <label>Title<input name="title" value="${esc(o.title ?? d.title)}"></label>
+    <label>Alt text<textarea name="alt_text">${esc(o.alt_text ?? d.alt)}</textarea></label>
+    <label class="chk" style="border:none;padding:0"><input type="checkbox" name="website_ready" ${(o.website_ready ?? d.ready) ? 'checked' : ''}> Website-ready</label>
+    <div class="row"><button type="submit">Save</button>
+      ${OV[d.id] ? '<button type="button" data-a="undo">Undo my edit</button>' : ''}
+      ${d.sim.length ? `<button type="button" data-a="sims">Apply color to ${d.sim.length} near-duplicate${d.sim.length > 1 ? 's' : ''}</button>` : ''}
+    </div>
+  </form>`;
+}
+function readForm(f) {
+  const patch = {};
+  for (const k of OV_FIELDS) {
+    const el = f.elements[k];
+    patch[k] = el.type === 'checkbox' ? el.checked : el.value;
+  }
+  const d = RAW[view[cur].id];
+  // Only keep what actually differs from the built label.
+  if (patch.color === (d.cs === 'manual' ? '' : d.col || '')) delete patch.color;
+  if (patch.system === (d.sys || '')) delete patch.system;
+  if (patch.area === (d.area || '')) delete patch.area;
+  if (patch.title === d.title) delete patch.title;
+  if (patch.alt_text === d.alt) delete patch.alt_text;
+  if (patch.website_ready === !!d.ready) delete patch.website_ready;
+  return patch;
 }
 function jump(id) {
   let i = view.findIndex(x => x.id === id);
@@ -287,8 +408,18 @@ function close() { $('#lb').classList.remove('on'); $('#media').innerHTML = ''; 
 $('#prev').onclick = e => { e.stopPropagation(); open((cur - 1 + view.length) % view.length); };
 $('#next').onclick = e => { e.stopPropagation(); open((cur + 1) % view.length); };
 $('#stage').addEventListener('click', e => { if (e.target.id === 'stage' || e.target.id === 'media') close(); });
+$('#side').addEventListener('submit', e => {
+  e.preventDefault();
+  const d = view[cur];
+  const patch = readForm(e.target);
+  setOv([d.id], patch);
+  toast(Object.keys(patch).length ? 'Saved in this browser. Download the file to make it stick.' : 'Nothing changed.');
+  open(cur);
+});
 $('#side').addEventListener('click', e => {
   const a = e.target.dataset.a; if (!a || cur < 0) return; const d = view[cur];
+  if (a === 'undo') { setOv([d.id], Object.fromEntries(OV_FIELDS.map(k => [k, null]))); open(cur); return; }
+  if (a === 'sims') { setOv(d.sim, {color: d.col || ''}); toast('Color copied to the near-duplicates.'); return; }
   if (a === 'close') close(); else if (a === 'copy') copyImage(d, e.target);
   else if (a === 'link') copyText(abs(hashFor(d.id)), 'Link'); else if (a === 'alt') copyText(d.alt, 'Alt text');
 });
@@ -318,10 +449,70 @@ function readHash() {
 let qTimer;
 $('#q').addEventListener('input', () => { clearTimeout(qTimer); qTimer = setTimeout(() => { state.q = $('#q').value.trim().toLowerCase(); apply(); }, 150); });
 $('#ftoggle').onclick = () => $('header').classList.toggle('open');
+
+// --- editing ---------------------------------------------------------------
+$('#editmode').onclick = () => {
+  document.body.classList.toggle('editing');
+  if (!document.body.classList.contains('editing')) { sel.clear(); }
+  refreshEditUi();
+  apply(true);
+  if (cur >= 0) open(cur);
+};
+$('#bcolor').innerHTML = opts([['', 'Set color for selected...']].concat(META.colors.map(c => [c, c])), '');
+$('#bsys').innerHTML = opts([['', 'Set coating for selected...']].concat(Object.entries(L.sys).filter(([, t]) => t)), '');
+$('#barea').innerHTML = opts([['', 'Set area for selected...']].concat(Object.entries(L.area).filter(([, t]) => t)), '');
+const bulk = (field, value) => {
+  if (!sel.size || !value) return;
+  setOv([...sel], {[field]: value});
+  toast(`${sel.size} picture${sel.size > 1 ? 's' : ''} updated.`);
+};
+$('#bcolor').onchange = e => { bulk('color', e.target.value); e.target.value = ''; };
+$('#bsys').onchange = e => { bulk('system', e.target.value); e.target.value = ''; };
+$('#barea').onchange = e => { bulk('area', e.target.value); e.target.value = ''; };
+$('#bready').onclick = () => { if (sel.size) { setOv([...sel], {website_ready: true}); toast('Marked website-ready.'); } };
+$('#bclear').onclick = () => { sel.clear(); refreshEditUi(); apply(true); };
+$('#ovsave').onclick = () => {
+  const n = Object.keys(OV).length;
+  if (!n) return toast('No edits to download yet.');
+  const blob = new Blob([JSON.stringify(OV, null, 1)], {type: 'application/json'});
+  const a = document.createElement('a');
+  a.href = URL.createObjectURL(blob);
+  a.download = `gatorguard-photo-edits-${new Date().toISOString().slice(0, 10)}.json`;
+  a.click();
+  URL.revokeObjectURL(a.href);
+  toast(`${n} edits downloaded. Send the file to whoever rebuilds the page.`);
+};
+$('#ovload').onclick = () => $('#ovfile').click();
+$('#ovfile').onchange = async e => {
+  const f = e.target.files[0]; if (!f) return;
+  try {
+    const incoming = JSON.parse(await f.text());
+    let n = 0;
+    for (const [id, patch] of Object.entries(incoming)) {
+      if (!BY_ID[id] || typeof patch !== 'object') continue;
+      setOv([id], Object.fromEntries(OV_FIELDS.filter(k => k in patch).map(k => [k, patch[k]])));
+      n++;
+    }
+    toast(`Loaded ${n} edits from the file.`);
+  } catch { toast('That file is not an edits file.'); }
+  e.target.value = '';
+};
+$('#ovclear').onclick = () => {
+  if (!Object.keys(OV).length || !confirm('Discard every edit made in this browser?')) return;
+  const ids = Object.keys(OV);
+  OV = {};
+  localStorage.removeItem(OV_KEY);
+  for (const id of ids) { Object.assign(BY_ID[id], JSON.parse(JSON.stringify(RAW[id]))); BY_ID[id].edited = false; delete BY_ID[id]._h; }
+  refreshEditUi(); apply(true);
+  toast('Edits discarded.');
+};
 $('#sort').onchange = () => { state.sort = $('#sort').value; apply(); };
 $('#reset').onclick = () => { state.q = ''; $('#q').value = ''; state.f = {}; state.t = {}; apply(); };
 $('#hint').innerHTML = `Click a picture for details. <b>Copy image</b> pastes straight into a doc, email or Canva; <b>Download</b> saves a 1600px web copy with a descriptive file name. Full-size originals are in the <a href="${META.drive}" target="_blank" rel="noopener">ALL GG PHOTOS Drive folder</a> at the path shown in each picture's details.` +
   (META.labelled < META.total ? ` <b>${META.total - META.labelled} items are not AI-labelled yet</b>, so for those the filters only know what the Drive folder names say.` : ' Colors marked <span class="chip g">?</span> are AI matches; the rest come from staff folders.');
+DATA.forEach(applyOv);
+refreshEditUi();
+
 function fromHash() {
   const openId = readHash();
   apply(true);
