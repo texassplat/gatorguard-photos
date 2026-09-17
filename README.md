@@ -19,7 +19,7 @@ https://drive.google.com/drive/folders/1clmfBvB8T7fjUeJ5VA_deRzeleH6H0oQ
    `tools/label.py` also supports Claude Opus 5 through the Batch API.
 3. **AI colour names are not trusted.** In a blind test on 20 staff-coloured photos,
    Kimi K3 named the exact colour 5 times. The page therefore lists colours only from
-   staff folders ("Color (staff)") and offers "Chip colors" (grays, tans and browns,
+   staff folders and hand fixes (the "Color" filter) and offers "Chip colors" (grays, tans and browns,
    reds...) from the model's description. The model's closest-swatch guess shows only in
    the details panel. To trust a provider's colours, blind-test it
    (`label.py pilot --blind-only`) and add it to `TRUSTED_AI_COLOR` in `tools/build.py`.
