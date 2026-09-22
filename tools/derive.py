@@ -7,7 +7,7 @@ Per item (id = first 12 hex of the file's SHA-1):
   docs/t/<id>.webp   grid thumbnail, 480px wide
   docs/m/<id>.jpg    web copy, 1600px long edge (PNG kept when it has transparency);
                      for videos a poster frame, for PDFs page 1
-  docs/v/<id>.mp4    videos only: muted 480p preview of the first 20 seconds
+  docs/v/<id>.mp4    videos only: 480p preview of the first 20 seconds, with sound
   docs/d/<id>.pdf    PDFs only: the file itself when under 15 MB
   work/label/<id>.jpg  1024px input for the vision model (videos: 2x2 frame grid)
 
@@ -98,8 +98,9 @@ def do_video(it, force):
     vp = V / f"{iid}.mp4"
     long_edge = "scale='if(gt(iw,ih),854,-2)':'if(gt(iw,ih),-2,854)'"
     if force or not vp.exists():
-        run(["ffmpeg", "-y", "-v", "error", "-i", str(src), "-t", "20", "-an", "-vf", long_edge,
+        run(["ffmpeg", "-y", "-v", "error", "-i", str(src), "-t", "20", "-vf", long_edge,
              "-c:v", "libx264", "-preset", "veryfast", "-crf", "30", "-pix_fmt", "yuv420p",
+             "-c:a", "aac", "-b:a", "96k", "-ac", "2",
              "-movflags", "+faststart", str(vp)])
     with tempfile.TemporaryDirectory() as tmp:
         frames = []
