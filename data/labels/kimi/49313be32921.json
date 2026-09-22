@@ -1,0 +1,47 @@
+{
+ "finish": "stop",
+ "usage": {
+  "input_tokens": 4450,
+  "output_tokens": 293,
+  "cost": 0.0145968
+ },
+ "served_by": "Together",
+ "label": {
+  "content": "floor_photo",
+  "area": "driveway_or_walkway",
+  "setting": "residential",
+  "system": "poly_enhance",
+  "color": "not_applicable",
+  "color_confidence": "none",
+  "color_runner_up": "not_applicable",
+  "color_description": "",
+  "shot_type": "close_up",
+  "people": "none",
+  "faces_identifiable": false,
+  "privacy": [],
+  "branding_visible": false,
+  "quality": "4",
+  "issues": [],
+  "website_ready": true,
+  "title": "Wet look sealer on exposed aggregate driveway",
+  "alt_text": "Close-up of exposed aggregate driveway with glossy wet-look sealer in sun and shade, poly enhance concrete sealer",
+  "tags": [
+   "driveway",
+   "exposed aggregate",
+   "wet look sealer",
+   "clear sealer",
+   "close up",
+   "residential",
+   "outdoor",
+   "glossy finish",
+   "sun and shade"
+  ],
+  "filename": "wet-look-sealed-aggregate-driveway"
+ },
+ "id": "49313be32921",
+ "provider": "kimi",
+ "model": "moonshotai/kimi-k3",
+ "mode": "run",
+ "blind": false,
+ "at": "2026-09-22T10:52:35"
+}

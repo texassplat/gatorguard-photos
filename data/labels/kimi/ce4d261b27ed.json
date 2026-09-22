@@ -1,0 +1,47 @@
+{
+ "finish": "stop",
+ "usage": {
+  "input_tokens": 5070,
+  "output_tokens": 189,
+  "cost": 0.00832581
+ },
+ "served_by": "DigitalOcean",
+ "label": {
+  "alt_text": "Backyard pool deck with smooth sealed concrete, lounge chairs and desert landscaping",
+  "area": "pool_deck",
+  "branding_visible": false,
+  "color": "unknown",
+  "color_confidence": "low",
+  "color_description": "",
+  "color_runner_up": "unknown",
+  "content": "floor_photo",
+  "faces_identifiable": false,
+  "filename": "pool-deck-sealed-concrete-lounge-area",
+  "issues": [],
+  "people": "none",
+  "privacy": [],
+  "quality": "4",
+  "setting": "residential",
+  "shot_type": "finished",
+  "system": "poly_enhance",
+  "tags": [
+   "pool deck",
+   "sealed concrete",
+   "patio",
+   "outdoor",
+   "lounge chairs",
+   "backyard",
+   "pool",
+   "desert landscaping",
+   "finished"
+  ],
+  "title": "Pool deck with sealed concrete and lounge chairs",
+  "website_ready": true
+ },
+ "id": "ce4d261b27ed",
+ "provider": "kimi",
+ "model": "moonshotai/kimi-k3",
+ "mode": "run",
+ "blind": false,
+ "at": "2026-09-22T10:52:40"
+}

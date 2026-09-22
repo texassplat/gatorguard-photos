@@ -1,0 +1,50 @@
+{
+ "finish": "stop",
+ "usage": {
+  "input_tokens": 5655,
+  "output_tokens": 344,
+  "cost": 0.0189768
+ },
+ "served_by": "Together",
+ "label": {
+  "content": "floor_photo",
+  "area": "patio_or_porch",
+  "setting": "residential",
+  "system": "full_flake",
+  "color": "unknown",
+  "color_confidence": "low",
+  "color_runner_up": "unknown",
+  "color_description": "montage of floors: tan and brown flake in sunrooms, gray flake under a motorcycle, and a wet stamped patio",
+  "shot_type": "finished",
+  "people": "none",
+  "faces_identifiable": false,
+  "privacy": [],
+  "branding_visible": true,
+  "quality": "3",
+  "issues": [
+   "text_overlay"
+  ],
+  "website_ready": false,
+  "title": "Montage of coated sunroom, garage and patio floors",
+  "alt_text": "Four clip montage of coated floors: sunroom flake floor, motorcycle on gray flake garage floor, and wet stamped patio.",
+  "tags": [
+   "video montage",
+   "facebook ad",
+   "full flake",
+   "sunroom floor",
+   "garage floor",
+   "motorcycle",
+   "stamped patio",
+   "tan flake",
+   "gray flake",
+   "logo overlay"
+  ],
+  "filename": "coated-floor-montage-facebook-ad"
+ },
+ "id": "40e890b0a2f5",
+ "provider": "kimi",
+ "model": "moonshotai/kimi-k3",
+ "mode": "run",
+ "blind": false,
+ "at": "2026-09-22T10:48:01"
+}

@@ -1,0 +1,47 @@
+{
+ "finish": "stop",
+ "usage": {
+  "input_tokens": 4770,
+  "output_tokens": 307,
+  "cost": 0.00908891
+ },
+ "served_by": "DigitalOcean",
+ "label": {
+  "alt_text": "White SUV parked in a finished garage with a light gray flake floor coating and black cabinets",
+  "area": "garage",
+  "branding_visible": false,
+  "color": "unknown",
+  "color_confidence": "low",
+  "color_description": "light gray and white chips, small size, on a pale gray base",
+  "color_runner_up": "Lunar",
+  "content": "floor_photo",
+  "faces_identifiable": false,
+  "filename": "garage-light-gray-flake-floor-white-suv",
+  "issues": [],
+  "people": "none",
+  "privacy": [],
+  "quality": "5",
+  "setting": "residential",
+  "shot_type": "finished",
+  "system": "full_flake",
+  "tags": [
+   "garage",
+   "full flake",
+   "light gray floor",
+   "white suv",
+   "black cabinets",
+   "tv",
+   "tool chest",
+   "finished",
+   "gray and white chips"
+  ],
+  "title": "Finished garage with light gray flake floor",
+  "website_ready": true
+ },
+ "id": "84823413c874",
+ "provider": "kimi",
+ "model": "moonshotai/kimi-k3",
+ "mode": "run",
+ "blind": false,
+ "at": "2026-09-22T10:52:46"
+}

@@ -1,0 +1,48 @@
+{
+ "finish": "stop",
+ "usage": {
+  "input_tokens": 5024,
+  "output_tokens": 228,
+  "cost": 0.01004136
+ },
+ "served_by": "Phala",
+ "label": {
+  "alt_text": "Video testimonial with homeowners outside a house and a GatorGuard truck with logo",
+  "area": "other_exterior",
+  "branding_visible": true,
+  "color": "not_applicable",
+  "color_confidence": "none",
+  "color_description": "",
+  "color_runner_up": "not_applicable",
+  "content": "people_or_team",
+  "faces_identifiable": true,
+  "filename": "homeowner-testimonial-facebook-ad-video",
+  "issues": [],
+  "people": "prominent",
+  "privacy": [
+   "customer_face"
+  ],
+  "quality": "4",
+  "setting": "residential",
+  "shot_type": "other",
+  "system": "not_applicable",
+  "tags": [
+   "testimonial",
+   "facebook ad",
+   "homeowners",
+   "video",
+   "front door",
+   "garage entrance",
+   "gator guard truck",
+   "logo"
+  ],
+  "title": "Homeowner testimonial ad with GatorGuard truck",
+  "website_ready": false
+ },
+ "id": "79a833cf365f",
+ "provider": "kimi",
+ "model": "moonshotai/kimi-k3",
+ "mode": "run",
+ "blind": false,
+ "at": "2026-09-22T10:48:25"
+}

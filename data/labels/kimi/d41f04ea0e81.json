@@ -1,0 +1,46 @@
+{
+ "finish": "stop",
+ "usage": {
+  "input_tokens": 5081,
+  "output_tokens": 359,
+  "cost": 0.01055536
+ },
+ "served_by": "DigitalOcean",
+ "label": {
+  "alt_text": "Garage with gray full flake floor, stem walls coated, sunlight across floor. Full flake garage floor coating.",
+  "area": "garage",
+  "branding_visible": false,
+  "color": "Gray",
+  "color_confidence": "low",
+  "color_description": "gray base with gray, white and black chips, small to medium size",
+  "color_runner_up": "Aurora",
+  "content": "floor_photo",
+  "faces_identifiable": false,
+  "filename": "gray-full-flake-garage-with-coated-walls",
+  "issues": [],
+  "people": "none",
+  "privacy": [],
+  "quality": "4",
+  "setting": "residential",
+  "shot_type": "finished",
+  "system": "full_flake",
+  "tags": [
+   "garage floor",
+   "full flake",
+   "gray chips",
+   "stem wall",
+   "coated walls",
+   "sunlight",
+   "gravel landscaping",
+   "finished floor"
+  ],
+  "title": "Garage with gray full flake and coated stem walls",
+  "website_ready": true
+ },
+ "id": "d41f04ea0e81",
+ "provider": "kimi",
+ "model": "moonshotai/kimi-k3",
+ "mode": "run",
+ "blind": false,
+ "at": "2026-09-22T10:50:58"
+}

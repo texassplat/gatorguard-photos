@@ -1,0 +1,48 @@
+{
+ "finish": "stop",
+ "usage": {
+  "input_tokens": 5655,
+  "output_tokens": 286,
+  "cost": 0.021255
+ },
+ "served_by": "Modal",
+ "label": {
+  "alt_text": "Montage of coated concrete floors: metallic basement, gray flake garage, tan flake garage and dark metallic garage with blue sports car",
+  "area": "garage",
+  "branding_visible": false,
+  "color": "unknown",
+  "color_confidence": "none",
+  "color_description": "mix: gray metallic swirls, black and white small chips, warm tan brown chips, and dark charcoal metallic",
+  "color_runner_up": "not_applicable",
+  "content": "floor_photo",
+  "faces_identifiable": false,
+  "filename": "coated-floor-montage-facebook-ad-video",
+  "issues": [],
+  "people": "none",
+  "privacy": [],
+  "quality": "4",
+  "setting": "residential",
+  "shot_type": "finished",
+  "system": "unknown",
+  "tags": [
+   "facebook ad",
+   "video montage",
+   "garage floor",
+   "basement floor",
+   "full flake",
+   "metallic epoxy",
+   "gray chips",
+   "tan chips",
+   "blue mustang",
+   "finished floor"
+  ],
+  "title": "Ad video montage of flake and metallic floors",
+  "website_ready": false
+ },
+ "id": "f8a551c7d2c8",
+ "provider": "kimi",
+ "model": "moonshotai/kimi-k3",
+ "mode": "run",
+ "blind": false,
+ "at": "2026-09-22T10:48:10"
+}

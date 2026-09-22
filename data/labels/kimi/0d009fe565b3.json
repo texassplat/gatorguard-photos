@@ -1,0 +1,47 @@
+{
+ "finish": "stop",
+ "usage": {
+  "input_tokens": 5263,
+  "output_tokens": 272,
+  "cost": 0.00989281
+ },
+ "served_by": "DigitalOcean",
+ "label": {
+  "alt_text": "Two golden retrievers sitting on a gray flake coated floor under Veterans Day ad text",
+  "area": "not_visible",
+  "branding_visible": true,
+  "color": "unknown",
+  "color_confidence": "none",
+  "color_description": "gray and white chips, fine to medium size",
+  "color_runner_up": "unknown",
+  "content": "marketing_graphic",
+  "faces_identifiable": false,
+  "filename": "veterans-day-ad-dogs-flake-floor",
+  "issues": [
+   "text_overlay"
+  ],
+  "people": "none",
+  "privacy": [],
+  "quality": "2",
+  "setting": "unknown",
+  "shot_type": "graphic",
+  "system": "full_flake",
+  "tags": [
+   "veterans day ad",
+   "facebook ad",
+   "dogs",
+   "golden retrievers",
+   "gray flake floor",
+   "gatorguard logo",
+   "promo graphic"
+  ],
+  "title": "Veterans Day ad with two dogs on flake floor",
+  "website_ready": false
+ },
+ "id": "0d009fe565b3",
+ "provider": "kimi",
+ "model": "moonshotai/kimi-k3",
+ "mode": "run",
+ "blind": false,
+ "at": "2026-09-22T10:49:23"
+}

@@ -1,0 +1,49 @@
+{
+ "finish": "stop",
+ "usage": {
+  "input_tokens": 5660,
+  "output_tokens": 300,
+  "cost": 0.01126776
+ },
+ "served_by": "DigitalOcean",
+ "label": {
+  "alt_text": "Collage of garage and interior floors with metallic and full flake coatings in a Facebook ad",
+  "area": "garage",
+  "branding_visible": false,
+  "color": "unknown",
+  "color_confidence": "low",
+  "color_description": "mixed scenes: gray white and black chips, tan and brown chips, and gray metallic swirls",
+  "color_runner_up": "unknown",
+  "content": "floor_photo",
+  "faces_identifiable": false,
+  "filename": "facebook-ad-floor-collage-video",
+  "issues": [
+   "low_resolution"
+  ],
+  "people": "none",
+  "privacy": [],
+  "quality": "3",
+  "setting": "residential",
+  "shot_type": "finished",
+  "system": "unknown",
+  "tags": [
+   "facebook ad",
+   "collage",
+   "garage floor",
+   "full flake",
+   "metallic epoxy",
+   "sports car",
+   "gray chips",
+   "interior floor",
+   "finished floor"
+  ],
+  "title": "Facebook ad collage of coated floors",
+  "website_ready": false
+ },
+ "id": "281e64b171a8",
+ "provider": "kimi",
+ "model": "moonshotai/kimi-k3",
+ "mode": "run",
+ "blind": false,
+ "at": "2026-09-22T10:48:20"
+}

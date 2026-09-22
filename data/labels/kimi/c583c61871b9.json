@@ -1,0 +1,48 @@
+{
+ "finish": "stop",
+ "usage": {
+  "input_tokens": 5654,
+  "output_tokens": 215,
+  "cost": 0.01015171
+ },
+ "served_by": "DigitalOcean",
+ "label": {
+  "alt_text": "Promotional graphic advertising bundle savings and financing, with before and after garage floor photos on phone screens",
+  "area": "not_visible",
+  "branding_visible": true,
+  "color": "not_applicable",
+  "color_confidence": "none",
+  "color_description": "",
+  "color_runner_up": "not_applicable",
+  "content": "marketing_graphic",
+  "faces_identifiable": false,
+  "filename": "bundle-save-financing-ad-graphic",
+  "issues": [
+   "text_overlay"
+  ],
+  "people": "none",
+  "privacy": [],
+  "quality": "3",
+  "setting": "unknown",
+  "shot_type": "graphic",
+  "system": "full_flake",
+  "tags": [
+   "facebook ad",
+   "promotion",
+   "bundle and save",
+   "financing",
+   "before and after",
+   "garage floor",
+   "gray flake",
+   "5 star rating"
+  ],
+  "title": "Bundle and save financing promotion ad",
+  "website_ready": false
+ },
+ "id": "c583c61871b9",
+ "provider": "kimi",
+ "model": "moonshotai/kimi-k3",
+ "mode": "run",
+ "blind": false,
+ "at": "2026-09-22T10:49:19"
+}

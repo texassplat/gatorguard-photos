@@ -1,0 +1,49 @@
+{
+ "finish": "stop",
+ "usage": {
+  "input_tokens": 4969,
+  "output_tokens": 169,
+  "cost": 0.00780926
+ },
+ "served_by": "DigitalOcean",
+ "label": {
+  "alt_text": "Hand lifting peeling failed floor coating from concrete, overlaid with GatorGuard advertising text",
+  "area": "not_visible",
+  "branding_visible": true,
+  "color": "not_applicable",
+  "color_confidence": "none",
+  "color_description": "",
+  "color_runner_up": "not_applicable",
+  "content": "marketing_graphic",
+  "faces_identifiable": false,
+  "filename": "facebook-ad-failed-coating-peeling",
+  "issues": [
+   "text_overlay",
+   "low_resolution"
+  ],
+  "people": "prominent",
+  "privacy": [],
+  "quality": "2",
+  "setting": "unknown",
+  "shot_type": "graphic",
+  "system": "bare_concrete",
+  "tags": [
+   "facebook ad",
+   "failed coating",
+   "peeling coating",
+   "hand",
+   "concrete",
+   "marketing graphic",
+   "text overlay",
+   "ad"
+  ],
+  "title": "Ad graphic of failed coating peeling off concrete",
+  "website_ready": false
+ },
+ "id": "b827af8221a5",
+ "provider": "kimi",
+ "model": "moonshotai/kimi-k3",
+ "mode": "run",
+ "blind": false,
+ "at": "2026-09-22T10:48:51"
+}

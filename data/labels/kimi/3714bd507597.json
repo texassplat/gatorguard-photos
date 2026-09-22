@@ -1,0 +1,46 @@
+{
+ "finish": "stop",
+ "usage": {
+  "input_tokens": 5085,
+  "output_tokens": 288,
+  "cost": 0.00964611
+ },
+ "served_by": "DigitalOcean",
+ "label": {
+  "alt_text": "Close-up of black, white and gray full flake floor and stem wall in a garage",
+  "area": "garage",
+  "branding_visible": false,
+  "color": "Gun Metal",
+  "color_confidence": "medium",
+  "color_description": "black, white and gray chips, small to medium size",
+  "color_runner_up": "Galaxy",
+  "content": "floor_photo",
+  "faces_identifiable": false,
+  "filename": "garage-stem-wall-black-white-flake",
+  "issues": [],
+  "people": "none",
+  "privacy": [],
+  "quality": "4",
+  "setting": "residential",
+  "shot_type": "close_up",
+  "system": "full_flake",
+  "tags": [
+   "full flake",
+   "stem wall",
+   "close up",
+   "garage floor",
+   "black chips",
+   "white chips",
+   "gray chips",
+   "detail shot"
+  ],
+  "title": "Close-up of flake floor and stem wall",
+  "website_ready": true
+ },
+ "id": "3714bd507597",
+ "provider": "kimi",
+ "model": "moonshotai/kimi-k3",
+ "mode": "run",
+ "blind": false,
+ "at": "2026-09-22T10:54:35"
+}

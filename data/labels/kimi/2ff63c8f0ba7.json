@@ -1,0 +1,48 @@
+{
+ "finish": "stop",
+ "usage": {
+  "input_tokens": 5652,
+  "output_tokens": 212,
+  "cost": 0.020136
+ },
+ "served_by": "Modal",
+ "label": {
+  "alt_text": "GatorGuard box truck parked by a suburban home with a glossy sealed concrete driveway and Lifetime Warranty text overlay",
+  "area": "driveway_or_walkway",
+  "branding_visible": true,
+  "color": "not_applicable",
+  "color_confidence": "none",
+  "color_description": "smooth gray concrete with a glossy wet-look sealer",
+  "color_runner_up": "not_applicable",
+  "content": "marketing_graphic",
+  "faces_identifiable": false,
+  "filename": "gatorguard-truck-sealed-driveway-warranty-graphic",
+  "issues": [
+   "text_overlay"
+  ],
+  "people": "none",
+  "privacy": [],
+  "quality": "3",
+  "setting": "residential",
+  "shot_type": "graphic",
+  "system": "poly_enhance",
+  "tags": [
+   "driveway",
+   "sealed concrete",
+   "wet look",
+   "gatorguard truck",
+   "text overlay",
+   "warranty graphic",
+   "google ads",
+   "suburban home"
+  ],
+  "title": "GatorGuard truck at sealed concrete driveway",
+  "website_ready": false
+ },
+ "id": "2ff63c8f0ba7",
+ "provider": "kimi",
+ "model": "moonshotai/kimi-k3",
+ "mode": "run",
+ "blind": false,
+ "at": "2026-09-22T10:53:09"
+}

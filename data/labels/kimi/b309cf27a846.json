@@ -1,0 +1,49 @@
+{
+ "finish": "stop",
+ "usage": {
+  "input_tokens": 5650,
+  "output_tokens": 233,
+  "cost": 0.0173022
+ },
+ "served_by": "Together",
+ "label": {
+  "content": "marketing_graphic",
+  "area": "garage",
+  "setting": "unknown",
+  "system": "full_flake",
+  "color": "Cobalt",
+  "color_confidence": "medium",
+  "color_runner_up": "Indigo",
+  "color_description": "blue, gray and white chips, medium size",
+  "shot_type": "graphic",
+  "people": "none",
+  "faces_identifiable": false,
+  "privacy": [],
+  "branding_visible": true,
+  "quality": "3",
+  "issues": [
+   "text_overlay"
+  ],
+  "website_ready": false,
+  "title": "Free upgrade Facebook ad over blue flake floor",
+  "alt_text": "GatorGuard free upgrade ad graphic over a blue gray full flake garage floor coating",
+  "tags": [
+   "facebook ad",
+   "promotion",
+   "free upgrade",
+   "full flake",
+   "blue chips",
+   "garage floor",
+   "gator mascot",
+   "american flag",
+   "text overlay"
+  ],
+  "filename": "free-upgrade-ad-blue-flake-floor"
+ },
+ "id": "b309cf27a846",
+ "provider": "kimi",
+ "model": "moonshotai/kimi-k3",
+ "mode": "run",
+ "blind": false,
+ "at": "2026-09-22T10:50:11"
+}

@@ -1,0 +1,47 @@
+{
+ "finish": "stop",
+ "usage": {
+  "input_tokens": 4835,
+  "output_tokens": 219,
+  "cost": 0.0146391
+ },
+ "served_by": "Together",
+ "label": {
+  "content": "floor_photo",
+  "area": "patio_or_porch",
+  "setting": "residential",
+  "system": "stamped_concrete",
+  "color": "not_applicable",
+  "color_confidence": "none",
+  "color_runner_up": "not_applicable",
+  "color_description": "",
+  "shot_type": "finished",
+  "people": "none",
+  "faces_identifiable": false,
+  "privacy": [],
+  "branding_visible": false,
+  "quality": "4",
+  "issues": [],
+  "website_ready": true,
+  "title": "Stamped stone patio with wet-look sealer by lake",
+  "alt_text": "Stamped concrete patio in a flagstone pattern with glossy wet-look sealer overlooking a lake",
+  "tags": [
+   "stamped concrete",
+   "patio",
+   "flagstone pattern",
+   "wet look sealer",
+   "glossy",
+   "lake view",
+   "outdoor",
+   "stone pattern",
+   "brown tones"
+  ],
+  "filename": "stamped-stone-patio-wet-look-sealer-lake"
+ },
+ "id": "e0fd23a6a68c",
+ "provider": "kimi",
+ "model": "moonshotai/kimi-k3",
+ "mode": "run",
+ "blind": false,
+ "at": "2026-09-22T10:50:16"
+}

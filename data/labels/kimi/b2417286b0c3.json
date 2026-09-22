@@ -1,0 +1,50 @@
+{
+ "finish": "stop",
+ "usage": {
+  "input_tokens": 5647,
+  "output_tokens": 199,
+  "cost": 0.0167832
+ },
+ "served_by": "Together",
+ "label": {
+  "content": "marketing_graphic",
+  "area": "basement",
+  "setting": "residential",
+  "system": "metallic",
+  "color": "Gray",
+  "color_confidence": "medium",
+  "color_runner_up": "Charcoal",
+  "color_description": "gray and white marbled metallic swirls, reflective",
+  "shot_type": "graphic",
+  "people": "none",
+  "faces_identifiable": false,
+  "privacy": [],
+  "branding_visible": true,
+  "quality": "3",
+  "issues": [
+   "text_overlay"
+  ],
+  "website_ready": false,
+  "title": "Facebook ad with gray metallic basement floor",
+  "alt_text": "Facebook ad showing a basement living room with gray marbled metallic floor, GatorGuard logo and 50 percent off text",
+  "tags": [
+   "facebook ad",
+   "basement",
+   "metallic floor",
+   "gray metallic",
+   "living room",
+   "promotion",
+   "logo",
+   "text overlay",
+   "sofa",
+   "finished floor"
+  ],
+  "filename": "facebook-ad-gray-metallic-basement"
+ },
+ "id": "b2417286b0c3",
+ "provider": "kimi",
+ "model": "moonshotai/kimi-k3",
+ "mode": "run",
+ "blind": false,
+ "at": "2026-09-22T10:46:24"
+}

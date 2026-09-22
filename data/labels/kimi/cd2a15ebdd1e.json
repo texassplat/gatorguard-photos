@@ -1,0 +1,48 @@
+{
+ "finish": "stop",
+ "usage": {
+  "input_tokens": 5056,
+  "output_tokens": 178,
+  "cost": 0.0147087
+ },
+ "served_by": "Together",
+ "label": {
+  "content": "marketing_graphic",
+  "area": "not_visible",
+  "setting": "unknown",
+  "system": "not_applicable",
+  "color": "not_applicable",
+  "color_confidence": "none",
+  "color_runner_up": "not_applicable",
+  "color_description": "",
+  "shot_type": "graphic",
+  "people": "none",
+  "faces_identifiable": false,
+  "privacy": [],
+  "branding_visible": true,
+  "quality": "3",
+  "issues": [
+   "text_overlay",
+   "dark"
+  ],
+  "website_ready": false,
+  "title": "GatorGuard ad with crocodile mascot",
+  "alt_text": "GatorGuard Concrete Coatings ad graphic with a crocodile mascot and company name text",
+  "tags": [
+   "facebook ad",
+   "mascot",
+   "crocodile",
+   "alligator",
+   "branding",
+   "text overlay",
+   "marketing graphic"
+  ],
+  "filename": "gatorguard-crocodile-mascot-ad"
+ },
+ "id": "cd2a15ebdd1e",
+ "provider": "kimi",
+ "model": "moonshotai/kimi-k3",
+ "mode": "run",
+ "blind": false,
+ "at": "2026-09-22T10:49:47"
+}

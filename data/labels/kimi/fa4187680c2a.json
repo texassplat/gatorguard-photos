@@ -1,0 +1,46 @@
+{
+ "finish": "stop",
+ "usage": {
+  "input_tokens": 5025,
+  "output_tokens": 341,
+  "cost": 0.01017946
+ },
+ "served_by": "DigitalOcean",
+ "label": {
+  "alt_text": "Empty garage interior with a dark speckled full flake epoxy floor.",
+  "area": "garage",
+  "branding_visible": false,
+  "color": "Galaxy",
+  "color_confidence": "medium",
+  "color_description": "dark black and gray chips with white specks, small size",
+  "color_runner_up": "Zircon",
+  "content": "floor_photo",
+  "faces_identifiable": false,
+  "filename": "empty-garage-dark-full-flake-floor",
+  "issues": [],
+  "people": "none",
+  "privacy": [],
+  "quality": "4",
+  "setting": "residential",
+  "shot_type": "finished",
+  "system": "full_flake",
+  "tags": [
+   "garage",
+   "full flake",
+   "dark floor",
+   "black chips",
+   "gray chips",
+   "empty garage",
+   "glossy floor",
+   "finished"
+  ],
+  "title": "Empty garage with dark full flake floor",
+  "website_ready": true
+ },
+ "id": "fa4187680c2a",
+ "provider": "kimi",
+ "model": "moonshotai/kimi-k3",
+ "mode": "run",
+ "blind": false,
+ "at": "2026-09-22T10:50:33"
+}

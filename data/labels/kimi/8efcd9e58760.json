@@ -1,0 +1,47 @@
+{
+ "finish": "stop",
+ "usage": {
+  "input_tokens": 5336,
+  "output_tokens": 273,
+  "cost": 0.0169575
+ },
+ "served_by": "Together",
+ "label": {
+  "content": "floor_photo",
+  "area": "garage",
+  "setting": "residential",
+  "system": "full_flake",
+  "color": "Chestnut",
+  "color_confidence": "medium",
+  "color_runner_up": "Ocotillo",
+  "color_description": "tan, brown and black chips, small to medium size",
+  "shot_type": "finished",
+  "people": "none",
+  "faces_identifiable": false,
+  "privacy": [],
+  "branding_visible": false,
+  "quality": "4",
+  "issues": [],
+  "website_ready": true,
+  "title": "Shed with wood walls and brown flake floor",
+  "alt_text": "Wood-paneled shed or garage with a brown full flake floor coating and tools hanging on the walls",
+  "tags": [
+   "garage",
+   "shed",
+   "full flake",
+   "wood panel walls",
+   "tan chips",
+   "brown chips",
+   "black chips",
+   "finished floor",
+   "tools on wall"
+  ],
+  "filename": "wood-paneled-shed-brown-flake-floor"
+ },
+ "id": "8efcd9e58760",
+ "provider": "kimi",
+ "model": "moonshotai/kimi-k3",
+ "mode": "run",
+ "blind": false,
+ "at": "2026-09-22T10:51:37"
+}

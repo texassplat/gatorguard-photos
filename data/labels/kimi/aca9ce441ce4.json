@@ -1,0 +1,50 @@
+{
+ "finish": "stop",
+ "usage": {
+  "input_tokens": 5057,
+  "output_tokens": 270,
+  "cost": 0.01055166
+ },
+ "served_by": "Phala",
+ "label": {
+  "alt_text": "Social media ad graphic showing a brick entryway with gray full flake floor labeled Bedford and the words Durable Beautiful.",
+  "area": "patio_or_porch",
+  "branding_visible": true,
+  "color": "Bedford",
+  "color_confidence": "medium",
+  "color_description": "light gray base with tan, white and black chips, small to medium size",
+  "color_runner_up": "unknown",
+  "content": "marketing_graphic",
+  "faces_identifiable": false,
+  "filename": "facebook-ad-bedford-flake-entryway",
+  "issues": [
+   "text_overlay",
+   "heavy_filter",
+   "low_resolution"
+  ],
+  "people": "none",
+  "privacy": [],
+  "quality": "2",
+  "setting": "residential",
+  "shot_type": "graphic",
+  "system": "full_flake",
+  "tags": [
+   "facebook ad",
+   "marketing graphic",
+   "entryway",
+   "brick wall",
+   "red door",
+   "gray flake floor",
+   "bedford",
+   "text overlay"
+  ],
+  "title": "Facebook ad showing Bedford flake entryway floor",
+  "website_ready": false
+ },
+ "id": "aca9ce441ce4",
+ "provider": "kimi",
+ "model": "moonshotai/kimi-k3",
+ "mode": "run",
+ "blind": false,
+ "at": "2026-09-22T10:49:31"
+}

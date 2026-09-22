@@ -1,0 +1,51 @@
+{
+ "finish": "stop",
+ "usage": {
+  "input_tokens": 5067,
+  "output_tokens": 244,
+  "cost": 0.0094305
+ },
+ "served_by": "InferenceNet",
+ "label": {
+  "website_ready": false,
+  "title": "Facebook ad video with flake garage floors and branding",
+  "tags": [
+   "facebook ad",
+   "video",
+   "garage",
+   "full flake",
+   "gray chips",
+   "text overlay",
+   "lifetime warranty",
+   "branding",
+   "ad creative",
+   "gatorguard logo"
+  ],
+  "system": "full_flake",
+  "shot_type": "graphic",
+  "setting": "residential",
+  "quality": "2",
+  "privacy": [],
+  "people": "none",
+  "issues": [
+   "text_overlay",
+   "low_resolution"
+  ],
+  "filename": "facebook-ad-video-flake-garage-branding",
+  "faces_identifiable": false,
+  "content": "marketing_graphic",
+  "color_runner_up": "Granite",
+  "color_description": "gray, white and black chips, small to medium size",
+  "color_confidence": "low",
+  "color": "unknown",
+  "branding_visible": true,
+  "area": "garage",
+  "alt_text": "Facebook ad video frames showing gray flake garage floor, GatorGuard branding and warranty badge"
+ },
+ "id": "9dbd3884cddb",
+ "provider": "kimi",
+ "model": "moonshotai/kimi-k3",
+ "mode": "run",
+ "blind": false,
+ "at": "2026-09-22T10:48:39"
+}

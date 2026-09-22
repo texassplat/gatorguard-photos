@@ -1,0 +1,47 @@
+{
+ "finish": "stop",
+ "usage": {
+  "input_tokens": 5065,
+  "output_tokens": 183,
+  "cost": 0.0148053
+ },
+ "served_by": "Together",
+ "label": {
+  "content": "other",
+  "area": "garage",
+  "setting": "residential",
+  "system": "not_applicable",
+  "color": "not_applicable",
+  "color_confidence": "none",
+  "color_runner_up": "not_applicable",
+  "color_description": "",
+  "shot_type": "other",
+  "people": "none",
+  "faces_identifiable": false,
+  "privacy": [],
+  "branding_visible": false,
+  "quality": "3",
+  "issues": [],
+  "website_ready": false,
+  "title": "Garage interior walls, ceiling and entry door",
+  "alt_text": "Empty garage interior showing white walls, ceiling, garage door tracks, opener and entry door with stairs",
+  "tags": [
+   "garage",
+   "interior",
+   "walls",
+   "ceiling",
+   "garage door opener",
+   "entry door",
+   "stairs",
+   "empty garage",
+   "no floor visible"
+  ],
+  "filename": "garage-interior-walls-ceiling-door"
+ },
+ "id": "8b3480be3a0f",
+ "provider": "kimi",
+ "model": "moonshotai/kimi-k3",
+ "mode": "run",
+ "blind": false,
+ "at": "2026-09-22T10:52:21"
+}

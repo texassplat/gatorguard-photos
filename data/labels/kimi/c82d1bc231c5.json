@@ -1,0 +1,47 @@
+{
+ "finish": "stop",
+ "usage": {
+  "input_tokens": 5068,
+  "output_tokens": 229,
+  "cost": 0.00883871
+ },
+ "served_by": "DigitalOcean",
+ "label": {
+  "alt_text": "GatorGuard ad graphic with logo, free estimate text, and a garage with red car on a coated floor.",
+  "area": "garage",
+  "branding_visible": true,
+  "color": "unknown",
+  "color_confidence": "none",
+  "color_description": "",
+  "color_runner_up": "not_applicable",
+  "content": "logo_or_text_graphic",
+  "faces_identifiable": false,
+  "filename": "gatorguard-ad-graphic-free-estimate",
+  "issues": [
+   "text_overlay"
+  ],
+  "people": "none",
+  "privacy": [],
+  "quality": "3",
+  "setting": "unknown",
+  "shot_type": "graphic",
+  "system": "unknown",
+  "tags": [
+   "google ads",
+   "logo",
+   "marketing graphic",
+   "free estimate",
+   "nationwide installs",
+   "garage ad",
+   "video graphic"
+  ],
+  "title": "GatorGuard ad graphic with garage inset",
+  "website_ready": false
+ },
+ "id": "c82d1bc231c5",
+ "provider": "kimi",
+ "model": "moonshotai/kimi-k3",
+ "mode": "run",
+ "blind": false,
+ "at": "2026-09-22T10:54:20"
+}

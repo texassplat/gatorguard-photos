@@ -1,0 +1,47 @@
+{
+ "finish": "stop",
+ "usage": {
+  "input_tokens": 5022,
+  "output_tokens": 230,
+  "cost": 0.018516
+ },
+ "served_by": "Modal",
+ "label": {
+  "alt_text": "Gray flake coated garage floor with Lifetime Warranty text overlay",
+  "area": "not_visible",
+  "branding_visible": false,
+  "color": "unknown",
+  "color_confidence": "low",
+  "color_description": "gray, white and black chips, small size",
+  "color_runner_up": "Granite",
+  "content": "marketing_graphic",
+  "faces_identifiable": false,
+  "filename": "gray-flake-floor-lifetime-warranty-text",
+  "issues": [
+   "text_overlay"
+  ],
+  "people": "none",
+  "privacy": [],
+  "quality": "3",
+  "setting": "residential",
+  "shot_type": "graphic",
+  "system": "full_flake",
+  "tags": [
+   "google ads",
+   "text overlay",
+   "lifetime warranty",
+   "full flake",
+   "gray chips",
+   "garage floor",
+   "ad image"
+  ],
+  "title": "Gray full flake floor with warranty text overlay",
+  "website_ready": false
+ },
+ "id": "004ac6071a12",
+ "provider": "kimi",
+ "model": "moonshotai/kimi-k3",
+ "mode": "run",
+ "blind": false,
+ "at": "2026-09-22T10:53:12"
+}

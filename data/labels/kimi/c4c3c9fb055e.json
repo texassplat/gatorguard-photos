@@ -1,0 +1,48 @@
+{
+ "finish": "stop",
+ "usage": {
+  "input_tokens": 5394,
+  "output_tokens": 171,
+  "cost": 0.00891891
+ },
+ "served_by": "DigitalOcean",
+ "label": {
+  "alt_text": "Hand spreading gray coating on concrete with graphic letters overlay, coating in progress",
+  "area": "not_visible",
+  "branding_visible": true,
+  "color": "not_applicable",
+  "color_confidence": "none",
+  "color_description": "",
+  "color_runner_up": "not_applicable",
+  "content": "marketing_graphic",
+  "faces_identifiable": false,
+  "filename": "gray-coating-application-graphic-overlay",
+  "issues": [
+   "text_overlay"
+  ],
+  "people": "prominent",
+  "privacy": [],
+  "quality": "2",
+  "setting": "unknown",
+  "shot_type": "in_progress",
+  "system": "unknown",
+  "tags": [
+   "coating application",
+   "crew member",
+   "blue gloves",
+   "gray coating",
+   "graphic overlay",
+   "facebook ad",
+   "in progress",
+   "trowel"
+  ],
+  "title": "Spreading gray coating with graphic overlay",
+  "website_ready": false
+ },
+ "id": "c4c3c9fb055e",
+ "provider": "kimi",
+ "model": "moonshotai/kimi-k3",
+ "mode": "run",
+ "blind": false,
+ "at": "2026-09-22T10:49:42"
+}

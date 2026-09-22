@@ -1,0 +1,50 @@
+{
+ "finish": "stop",
+ "usage": {
+  "input_tokens": 5080,
+  "output_tokens": 189,
+  "cost": 0.00835131
+ },
+ "served_by": "DigitalOcean",
+ "label": {
+  "alt_text": "Video ad about one-day coating systems with text overlay and gray chip garage floor close-ups",
+  "area": "garage",
+  "branding_visible": true,
+  "color": "unknown",
+  "color_confidence": "none",
+  "color_description": "gray, black and white chips, small size",
+  "color_runner_up": "unknown",
+  "content": "marketing_graphic",
+  "faces_identifiable": false,
+  "filename": "one-day-coating-warning-ad-video",
+  "issues": [
+   "text_overlay",
+   "blurry"
+  ],
+  "people": "prominent",
+  "privacy": [],
+  "quality": "2",
+  "setting": "unknown",
+  "shot_type": "graphic",
+  "system": "full_flake",
+  "tags": [
+   "video ad",
+   "google ads",
+   "text overlay",
+   "one-day coating",
+   "peeling coating",
+   "gray chips",
+   "garage floor",
+   "hands",
+   "marketing"
+  ],
+  "title": "Ad video warning about one-day coatings",
+  "website_ready": false
+ },
+ "id": "044df3047f71",
+ "provider": "kimi",
+ "model": "moonshotai/kimi-k3",
+ "mode": "run",
+ "blind": false,
+ "at": "2026-09-22T10:53:35"
+}

@@ -1,0 +1,48 @@
+{
+ "finish": "stop",
+ "usage": {
+  "input_tokens": 5653,
+  "output_tokens": 291,
+  "cost": 0.0211512
+ },
+ "served_by": "Together",
+ "label": {
+  "content": "marketing_graphic",
+  "area": "garage",
+  "setting": "unknown",
+  "system": "not_applicable",
+  "color": "not_applicable",
+  "color_confidence": "none",
+  "color_runner_up": "not_applicable",
+  "color_description": "",
+  "shot_type": "graphic",
+  "people": "none",
+  "faces_identifiable": false,
+  "privacy": [],
+  "branding_visible": true,
+  "quality": "3",
+  "issues": [
+   "text_overlay"
+  ],
+  "website_ready": false,
+  "title": "Veterans Day special Facebook ad graphic",
+  "alt_text": "GatorGuard Veterans Day special ad with flag graphics over a gray flake garage floor photo",
+  "tags": [
+   "facebook ad",
+   "veterans day",
+   "promotion",
+   "marketing graphic",
+   "logo",
+   "american flag",
+   "text overlay",
+   "garage floor"
+  ],
+  "filename": "veterans-day-special-ad-graphic"
+ },
+ "id": "38d9e6674102",
+ "provider": "kimi",
+ "model": "moonshotai/kimi-k3",
+ "mode": "run",
+ "blind": false,
+ "at": "2026-09-22T10:46:06"
+}

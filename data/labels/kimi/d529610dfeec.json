@@ -1,0 +1,46 @@
+{
+ "finish": "stop",
+ "usage": {
+  "input_tokens": 5278,
+  "output_tokens": 275,
+  "cost": 0.0168108
+ },
+ "served_by": "Together",
+ "label": {
+  "content": "floor_photo",
+  "area": "garage",
+  "setting": "residential",
+  "system": "full_flake",
+  "color": "Granite",
+  "color_confidence": "low",
+  "color_runner_up": "Silver Butte",
+  "color_description": "gray, black and white chips, small size",
+  "shot_type": "finished",
+  "people": "none",
+  "faces_identifiable": false,
+  "privacy": [],
+  "branding_visible": false,
+  "quality": "4",
+  "issues": [],
+  "website_ready": true,
+  "title": "Garage with gray full flake floor and saw cuts",
+  "alt_text": "Garage interior with gray full flake floor coating divided by saw cut lines, gray walls and white trim",
+  "tags": [
+   "garage",
+   "full flake",
+   "gray chips",
+   "saw cut lines",
+   "finished floor",
+   "garage floor coating",
+   "gray floor",
+   "white baseboards"
+  ],
+  "filename": "garage-gray-full-flake-saw-cuts"
+ },
+ "id": "d529610dfeec",
+ "provider": "kimi",
+ "model": "moonshotai/kimi-k3",
+ "mode": "run",
+ "blind": false,
+ "at": "2026-09-22T10:52:09"
+}

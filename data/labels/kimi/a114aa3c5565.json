@@ -1,0 +1,50 @@
+{
+ "finish": "stop",
+ "usage": {
+  "input_tokens": 5655,
+  "output_tokens": 234,
+  "cost": 0.0173268
+ },
+ "served_by": "Together",
+ "label": {
+  "content": "floor_photo",
+  "area": "patio_or_porch",
+  "setting": "residential",
+  "system": "full_flake",
+  "color": "unknown",
+  "color_confidence": "low",
+  "color_runner_up": "unknown",
+  "color_description": "mix of gray and brown chip floors across four scenes",
+  "shot_type": "finished",
+  "people": "none",
+  "faces_identifiable": false,
+  "privacy": [],
+  "branding_visible": true,
+  "quality": "4",
+  "issues": [
+   "text_overlay"
+  ],
+  "website_ready": false,
+  "title": "Four coated floors: garage, sunroom, patio, porch",
+  "alt_text": "Four scenes of flake coated concrete floors: garage with motorcycle, sunroom, covered patio and screened porch",
+  "tags": [
+   "full flake",
+   "garage floor",
+   "motorcycle",
+   "sunroom",
+   "covered patio",
+   "screened porch",
+   "gray chips",
+   "brown chips",
+   "facebook ad",
+   "gatorguard logo"
+  ],
+  "filename": "four-flake-floor-scenes-ad"
+ },
+ "id": "a114aa3c5565",
+ "provider": "kimi",
+ "model": "moonshotai/kimi-k3",
+ "mode": "run",
+ "blind": false,
+ "at": "2026-09-22T10:47:53"
+}

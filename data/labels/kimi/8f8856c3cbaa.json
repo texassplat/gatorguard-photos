@@ -1,0 +1,48 @@
+{
+ "finish": "stop",
+ "usage": {
+  "input_tokens": 5656,
+  "output_tokens": 243,
+  "cost": 0.01051941
+ },
+ "served_by": "DigitalOcean",
+ "label": {
+  "alt_text": "Gray metallic epoxy floor in a basement with white walls and exposed ceiling, metallic coating.",
+  "area": "basement",
+  "branding_visible": false,
+  "color": "Charcoal",
+  "color_confidence": "medium",
+  "color_description": "dark gray base with lighter gray and white marbled swirls",
+  "color_runner_up": "Denim",
+  "content": "floor_photo",
+  "faces_identifiable": false,
+  "filename": "finished-basement-gray-metallic-epoxy-floor",
+  "issues": [
+   "wet_or_dirty"
+  ],
+  "people": "none",
+  "privacy": [],
+  "quality": "4",
+  "setting": "residential",
+  "shot_type": "finished",
+  "system": "metallic",
+  "tags": [
+   "basement",
+   "metallic epoxy",
+   "gray floor",
+   "marbled",
+   "exposed ceiling",
+   "closet doors",
+   "finished",
+   "reflective"
+  ],
+  "title": "Finished basement with gray metallic epoxy floor",
+  "website_ready": true
+ },
+ "id": "8f8856c3cbaa",
+ "provider": "kimi",
+ "model": "moonshotai/kimi-k3",
+ "mode": "run",
+ "blind": false,
+ "at": "2026-09-22T10:53:58"
+}

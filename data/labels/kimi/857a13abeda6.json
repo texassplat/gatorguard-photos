@@ -1,0 +1,48 @@
+{
+ "finish": "stop",
+ "usage": {
+  "input_tokens": 5652,
+  "output_tokens": 346,
+  "cost": 0.01184306
+ },
+ "served_by": "DigitalOcean",
+ "label": {
+  "alt_text": "GatorGuard crew member grinding concrete outdoors next to branded work truck, with logo overlays",
+  "area": "other_exterior",
+  "branding_visible": true,
+  "color": "not_applicable",
+  "color_confidence": "none",
+  "color_description": "",
+  "color_runner_up": "not_applicable",
+  "content": "people_or_team",
+  "faces_identifiable": true,
+  "filename": "crew-grinding-beside-gatorguard-truck",
+  "issues": [
+   "text_overlay"
+  ],
+  "people": "prominent",
+  "privacy": [],
+  "quality": "4",
+  "setting": "residential",
+  "shot_type": "crew_working",
+  "system": "bare_concrete",
+  "tags": [
+   "crew working",
+   "grinding",
+   "concrete prep",
+   "work truck",
+   "branding",
+   "outdoor",
+   "facebook ad",
+   "logo overlay"
+  ],
+  "title": "Crew member grinding concrete by branded truck",
+  "website_ready": false
+ },
+ "id": "857a13abeda6",
+ "provider": "kimi",
+ "model": "moonshotai/kimi-k3",
+ "mode": "run",
+ "blind": false,
+ "at": "2026-09-22T10:46:44"
+}

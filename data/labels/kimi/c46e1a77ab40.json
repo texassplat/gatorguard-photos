@@ -1,0 +1,48 @@
+{
+ "finish": "stop",
+ "usage": {
+  "input_tokens": 5649,
+  "output_tokens": 244,
+  "cost": 0.0144249
+ },
+ "served_by": "Phala",
+ "label": {
+  "alt_text": "GatorGuard Black Friday sale graphic over a garage with a tan and brown full flake floor.",
+  "area": "garage",
+  "branding_visible": true,
+  "color": "unknown",
+  "color_confidence": "low",
+  "color_description": "tan, brown and black chips, small to medium size",
+  "color_runner_up": "Chestnut",
+  "content": "marketing_graphic",
+  "faces_identifiable": false,
+  "filename": "black-friday-sale-garage-flake-floor-ad",
+  "issues": [
+   "text_overlay"
+  ],
+  "people": "none",
+  "privacy": [],
+  "quality": "3",
+  "setting": "residential",
+  "shot_type": "graphic",
+  "system": "full_flake",
+  "tags": [
+   "black friday",
+   "sale",
+   "ad",
+   "garage",
+   "full flake",
+   "tan and brown chips",
+   "facebook ad",
+   "promotion"
+  ],
+  "title": "Black Friday ad over garage flake floor",
+  "website_ready": false
+ },
+ "id": "c46e1a77ab40",
+ "provider": "kimi",
+ "model": "moonshotai/kimi-k3",
+ "mode": "run",
+ "blind": false,
+ "at": "2026-09-22T10:46:47"
+}

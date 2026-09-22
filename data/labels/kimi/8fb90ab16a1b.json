@@ -1,0 +1,46 @@
+{
+ "finish": "stop",
+ "usage": {
+  "input_tokens": 5698,
+  "output_tokens": 299,
+  "cost": 0.01135171
+ },
+ "served_by": "DigitalOcean",
+ "label": {
+  "alt_text": "Empty garage interior with a gray full flake epoxy floor, windows and entry door visible",
+  "area": "garage",
+  "branding_visible": false,
+  "color": "Granite",
+  "color_confidence": "medium",
+  "color_description": "gray, white and black chips, small to medium size",
+  "color_runner_up": "Avalon",
+  "content": "floor_photo",
+  "faces_identifiable": false,
+  "filename": "garage-gray-full-flake-finished",
+  "issues": [
+   "tilted"
+  ],
+  "people": "none",
+  "privacy": [],
+  "quality": "3",
+  "setting": "residential",
+  "shot_type": "finished",
+  "system": "full_flake",
+  "tags": [
+   "garage",
+   "full flake",
+   "gray chips",
+   "finished floor",
+   "windows",
+   "tilted angle"
+  ],
+  "title": "Finished garage with gray full flake floor",
+  "website_ready": false
+ },
+ "id": "8fb90ab16a1b",
+ "provider": "kimi",
+ "model": "moonshotai/kimi-k3",
+ "mode": "run",
+ "blind": false,
+ "at": "2026-09-22T10:51:53"
+}

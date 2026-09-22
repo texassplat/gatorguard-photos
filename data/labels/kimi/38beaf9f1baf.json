@@ -1,0 +1,47 @@
+{
+ "finish": "stop",
+ "usage": {
+  "input_tokens": 5323,
+  "output_tokens": 251,
+  "cost": 0.0114396
+ },
+ "served_by": "Modal",
+ "label": {
+  "alt_text": "Garage with gray full flake epoxy floor, white paneled walls and blue accent stripe, full flake garage floor coating",
+  "area": "garage",
+  "branding_visible": false,
+  "color": "Granite",
+  "color_confidence": "medium",
+  "color_description": "gray, white and black chips, medium size",
+  "color_runner_up": "Stone Rowe",
+  "content": "floor_photo",
+  "faces_identifiable": false,
+  "filename": "gray-full-flake-garage-floor",
+  "issues": [],
+  "people": "none",
+  "privacy": [],
+  "quality": "4",
+  "setting": "residential",
+  "shot_type": "finished",
+  "system": "full_flake",
+  "tags": [
+   "garage",
+   "full flake",
+   "gray chips",
+   "white and black chips",
+   "garage door",
+   "blue wall stripe",
+   "finished floor",
+   "glossy",
+   "epoxy floor"
+  ],
+  "title": "Garage with gray full flake floor",
+  "website_ready": true
+ },
+ "id": "38beaf9f1baf",
+ "provider": "kimi",
+ "model": "moonshotai/kimi-k3",
+ "mode": "run",
+ "blind": false,
+ "at": "2026-09-22T10:54:07"
+}

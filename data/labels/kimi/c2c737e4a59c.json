@@ -1,0 +1,48 @@
+{
+ "finish": "stop",
+ "usage": {
+  "input_tokens": 5062,
+  "output_tokens": 326,
+  "cost": 0.01007956
+ },
+ "served_by": "DigitalOcean",
+ "label": {
+  "alt_text": "Gloved hand spreading gray coating with a trowel while cartoon hands clap; text reads Dont Miss Out",
+  "area": "not_visible",
+  "branding_visible": false,
+  "color": "unknown",
+  "color_confidence": "none",
+  "color_description": "smooth gray coating being spread, no chips",
+  "color_runner_up": "unknown",
+  "content": "marketing_graphic",
+  "faces_identifiable": false,
+  "filename": "dont-miss-out-trowel-meme-ad",
+  "issues": [
+   "text_overlay"
+  ],
+  "people": "prominent",
+  "privacy": [],
+  "quality": "2",
+  "setting": "unknown",
+  "shot_type": "in_progress",
+  "system": "unknown",
+  "tags": [
+   "meme ad",
+   "facebook ad",
+   "text overlay",
+   "trowel",
+   "blue glove",
+   "gray coating",
+   "in progress",
+   "clapping hands"
+  ],
+  "title": "Meme ad with gloved hand troweling coating",
+  "website_ready": false
+ },
+ "id": "c2c737e4a59c",
+ "provider": "kimi",
+ "model": "moonshotai/kimi-k3",
+ "mode": "run",
+ "blind": false,
+ "at": "2026-09-22T10:49:41"
+}

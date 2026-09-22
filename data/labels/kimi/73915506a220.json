@@ -1,0 +1,48 @@
+{
+ "finish": "stop",
+ "usage": {
+  "input_tokens": 5031,
+  "output_tokens": 209,
+  "cost": 0.0099336
+ },
+ "served_by": "Modal",
+ "label": {
+  "alt_text": "Gray stamped concrete pool deck with compass rose medallion beside a swimming pool, stamped concrete pool deck sealer",
+  "area": "pool_deck",
+  "branding_visible": false,
+  "color": "not_applicable",
+  "color_confidence": "none",
+  "color_description": "",
+  "color_runner_up": "not_applicable",
+  "content": "floor_photo",
+  "faces_identifiable": false,
+  "filename": "stamped-concrete-pool-deck-compass-medallion",
+  "issues": [],
+  "people": "none",
+  "privacy": [],
+  "quality": "4",
+  "setting": "residential",
+  "shot_type": "finished",
+  "system": "stamped_concrete",
+  "tags": [
+   "pool deck",
+   "stamped concrete",
+   "compass medallion",
+   "gray concrete",
+   "sealed concrete",
+   "pool",
+   "black metal fence",
+   "backyard",
+   "decorative concrete",
+   "finished"
+  ],
+  "title": "Stamped concrete pool deck with compass medallion",
+  "website_ready": true
+ },
+ "id": "73915506a220",
+ "provider": "kimi",
+ "model": "moonshotai/kimi-k3",
+ "mode": "run",
+ "blind": false,
+ "at": "2026-09-22T10:54:01"
+}

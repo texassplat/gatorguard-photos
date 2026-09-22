@@ -1,0 +1,46 @@
+{
+ "finish": "stop",
+ "usage": {
+  "input_tokens": 5367,
+  "output_tokens": 276,
+  "cost": 0.01020981
+ },
+ "served_by": "DigitalOcean",
+ "label": {
+  "alt_text": "Metallic epoxy floor with gray, blue and red swirls in a residential hallway",
+  "area": "interior_room",
+  "branding_visible": false,
+  "color": "unknown",
+  "color_confidence": "low",
+  "color_description": "dark gray metallic base with swirls of blue and red",
+  "color_runner_up": "Charcoal",
+  "content": "floor_photo",
+  "faces_identifiable": false,
+  "filename": "hallway-metallic-gray-blue-red-swirls",
+  "issues": [],
+  "people": "none",
+  "privacy": [],
+  "quality": "4",
+  "setting": "residential",
+  "shot_type": "finished",
+  "system": "metallic",
+  "tags": [
+   "metallic epoxy",
+   "swirl pattern",
+   "hallway",
+   "gray blue red",
+   "reflective finish",
+   "interior floor",
+   "liquid art",
+   "residential"
+  ],
+  "title": "Hallway with gray blue and red metallic floor",
+  "website_ready": true
+ },
+ "id": "ed380150250c",
+ "provider": "kimi",
+ "model": "moonshotai/kimi-k3",
+ "mode": "run",
+ "blind": false,
+ "at": "2026-09-22T10:51:43"
+}

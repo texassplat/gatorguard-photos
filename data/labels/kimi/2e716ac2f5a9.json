@@ -1,0 +1,46 @@
+{
+ "finish": "stop",
+ "usage": {
+  "input_tokens": 5107,
+  "output_tokens": 323,
+  "cost": 0.01015546
+ },
+ "served_by": "DigitalOcean",
+ "label": {
+  "alt_text": "Front porch with gray full flake floor coating, white columns and garden view",
+  "area": "patio_or_porch",
+  "branding_visible": false,
+  "color": "Granite",
+  "color_confidence": "medium",
+  "color_description": "gray, white and black chips, fine to medium size",
+  "color_runner_up": "Gray",
+  "content": "floor_photo",
+  "faces_identifiable": false,
+  "filename": "front-porch-gray-full-flake-floor",
+  "issues": [],
+  "people": "none",
+  "privacy": [],
+  "quality": "5",
+  "setting": "residential",
+  "shot_type": "finished",
+  "system": "full_flake",
+  "tags": [
+   "front porch",
+   "full flake",
+   "gray chips",
+   "white columns",
+   "outdoor floor",
+   "garden view",
+   "finished floor",
+   "sunny"
+  ],
+  "title": "Front porch with gray full flake coating",
+  "website_ready": true
+ },
+ "id": "2e716ac2f5a9",
+ "provider": "kimi",
+ "model": "moonshotai/kimi-k3",
+ "mode": "run",
+ "blind": false,
+ "at": "2026-09-22T10:51:13"
+}

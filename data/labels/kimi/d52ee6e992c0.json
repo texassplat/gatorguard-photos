@@ -1,0 +1,46 @@
+{
+ "finish": "stop",
+ "usage": {
+  "input_tokens": 5667,
+  "output_tokens": 290,
+  "cost": 0.01115611
+ },
+ "served_by": "DigitalOcean",
+ "label": {
+  "alt_text": "Video montage of mixing coating, broadcasting flakes, and a GatorGuard truck on a garage floor job.",
+  "area": "garage",
+  "branding_visible": true,
+  "color": "unknown",
+  "color_confidence": "none",
+  "color_description": "",
+  "color_runner_up": "unknown",
+  "content": "vehicle_or_equipment",
+  "faces_identifiable": false,
+  "filename": "mixing-flakes-and-gatorguard-truck-video",
+  "issues": [],
+  "people": "background",
+  "privacy": [],
+  "quality": "3",
+  "setting": "residential",
+  "shot_type": "in_progress",
+  "system": "full_flake",
+  "tags": [
+   "video",
+   "mixing buckets",
+   "flake broadcast",
+   "gatorguard truck",
+   "in progress",
+   "garage floor",
+   "crew work",
+   "logo overlay"
+  ],
+  "title": "Mixing, flake broadcast and GatorGuard truck montage",
+  "website_ready": false
+ },
+ "id": "d52ee6e992c0",
+ "provider": "kimi",
+ "model": "moonshotai/kimi-k3",
+ "mode": "run",
+ "blind": false,
+ "at": "2026-09-22T10:54:17"
+}

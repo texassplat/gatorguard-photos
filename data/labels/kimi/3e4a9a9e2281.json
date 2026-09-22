@@ -1,0 +1,48 @@
+{
+ "finish": "stop",
+ "usage": {
+  "input_tokens": 5046,
+  "output_tokens": 272,
+  "cost": 0.0160536
+ },
+ "served_by": "Together",
+ "label": {
+  "content": "floor_photo",
+  "area": "garage",
+  "setting": "residential",
+  "system": "full_flake",
+  "color": "unknown",
+  "color_confidence": "low",
+  "color_runner_up": "Granite",
+  "color_description": "light gray, white and black chips, small to medium size",
+  "shot_type": "finished",
+  "people": "none",
+  "faces_identifiable": false,
+  "privacy": [],
+  "branding_visible": false,
+  "quality": "4",
+  "issues": [],
+  "website_ready": true,
+  "title": "Garage with gray full flake floor and white cabinets",
+  "alt_text": "Finished garage with gray full flake floor coating, white cabinets, dark walls and ceiling fan",
+  "tags": [
+   "garage",
+   "full flake",
+   "gray chips",
+   "white cabinets",
+   "ceiling fan",
+   "garage door opener",
+   "finished floor",
+   "epoxy floor",
+   "residential",
+   "dark walls"
+  ],
+  "filename": "garage-gray-full-flake-white-cabinets"
+ },
+ "id": "3e4a9a9e2281",
+ "provider": "kimi",
+ "model": "moonshotai/kimi-k3",
+ "mode": "run",
+ "blind": false,
+ "at": "2026-09-22T10:51:25"
+}

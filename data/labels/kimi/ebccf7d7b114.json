@@ -1,0 +1,49 @@
+{
+ "finish": "stop",
+ "usage": {
+  "input_tokens": 5648,
+  "output_tokens": 252,
+  "cost": 0.0175812
+ },
+ "served_by": "Together",
+ "label": {
+  "content": "floor_photo",
+  "area": "not_visible",
+  "setting": "unknown",
+  "system": "full_flake",
+  "color": "Zircon",
+  "color_confidence": "medium",
+  "color_runner_up": "Stone Rowe",
+  "color_description": "gray, white and black chips with scattered blue chips, small to medium size",
+  "shot_type": "close_up",
+  "people": "none",
+  "faces_identifiable": false,
+  "privacy": [],
+  "branding_visible": true,
+  "quality": "4",
+  "issues": [
+   "text_overlay"
+  ],
+  "website_ready": false,
+  "title": "Navy seal logo embedded in gray flake floor",
+  "alt_text": "Close up of a US Navy seal emblem set into a gray, white and blue full flake floor coating",
+  "tags": [
+   "full flake",
+   "logo inlay",
+   "navy seal",
+   "gray chips",
+   "blue chips",
+   "close up",
+   "custom logo",
+   "facebook ad",
+   "floor graphic"
+  ],
+  "filename": "navy-seal-logo-gray-flake-floor"
+ },
+ "id": "ebccf7d7b114",
+ "provider": "kimi",
+ "model": "moonshotai/kimi-k3",
+ "mode": "run",
+ "blind": false,
+ "at": "2026-09-22T10:46:53"
+}

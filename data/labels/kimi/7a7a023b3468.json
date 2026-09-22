@@ -1,0 +1,49 @@
+{
+ "finish": "stop",
+ "usage": {
+  "input_tokens": 5649,
+  "output_tokens": 191,
+  "cost": 0.0166692
+ },
+ "served_by": "Together",
+ "label": {
+  "content": "floor_photo",
+  "area": "patio_or_porch",
+  "setting": "residential",
+  "system": "stamped_concrete",
+  "color": "not_applicable",
+  "color_confidence": "none",
+  "color_runner_up": "not_applicable",
+  "color_description": "",
+  "shot_type": "finished",
+  "people": "none",
+  "faces_identifiable": false,
+  "privacy": [],
+  "branding_visible": true,
+  "quality": "4",
+  "issues": [
+   "text_overlay"
+  ],
+  "website_ready": false,
+  "title": "Stamped concrete patio sealed by the lake",
+  "alt_text": "Sealed stamped concrete patio in a flagstone pattern beside a lake with a dock, GatorGuard logo overlay",
+  "tags": [
+   "stamped concrete",
+   "patio",
+   "lake",
+   "flagstone pattern",
+   "sealed",
+   "wet look",
+   "outdoor",
+   "facebook ad",
+   "logo overlay"
+  ],
+  "filename": "stamped-concrete-lakeside-patio-sealed"
+ },
+ "id": "7a7a023b3468",
+ "provider": "kimi",
+ "model": "moonshotai/kimi-k3",
+ "mode": "run",
+ "blind": false,
+ "at": "2026-09-22T10:46:10"
+}

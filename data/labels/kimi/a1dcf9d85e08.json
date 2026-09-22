@@ -1,0 +1,51 @@
+{
+ "finish": "stop",
+ "usage": {
+  "input_tokens": 5068,
+  "output_tokens": 239,
+  "cost": 0.0156516
+ },
+ "served_by": "Together",
+ "label": {
+  "content": "other",
+  "area": "garage",
+  "setting": "residential",
+  "system": "full_flake",
+  "color": "Granite",
+  "color_confidence": "medium",
+  "color_runner_up": "Silver Butte",
+  "color_description": "gray, white and black chips, small to medium size",
+  "shot_type": "in_progress",
+  "people": "prominent",
+  "faces_identifiable": false,
+  "privacy": [],
+  "branding_visible": true,
+  "quality": "3",
+  "issues": [
+   "dark",
+   "text_overlay"
+  ],
+  "website_ready": false,
+  "title": "Garage floor coating process montage",
+  "alt_text": "Montage of grinding, mixing epoxy and a finished gray full flake garage floor coating",
+  "tags": [
+   "garage",
+   "full flake",
+   "grinding",
+   "diamond grind",
+   "mixing epoxy",
+   "crew working",
+   "gray chips",
+   "in progress",
+   "finished floor",
+   "process"
+  ],
+  "filename": "garage-floor-coating-process-montage"
+ },
+ "id": "a1dcf9d85e08",
+ "provider": "kimi",
+ "model": "moonshotai/kimi-k3",
+ "mode": "run",
+ "blind": false,
+ "at": "2026-09-22T10:52:25"
+}

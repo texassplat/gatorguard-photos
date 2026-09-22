@@ -1,0 +1,45 @@
+{
+ "finish": "stop",
+ "usage": {
+  "input_tokens": 5698,
+  "output_tokens": 251,
+  "cost": 0.0104295
+ },
+ "served_by": "InferenceNet",
+ "label": {
+  "website_ready": true,
+  "title": "Interior metallic epoxy floor with red and blue swirls",
+  "tags": [
+   "metallic epoxy",
+   "interior floor",
+   "dark gray metallic",
+   "red and blue swirls",
+   "reflective floor",
+   "new construction",
+   "hallway"
+  ],
+  "system": "metallic",
+  "shot_type": "finished",
+  "setting": "residential",
+  "quality": "4",
+  "privacy": [],
+  "people": "none",
+  "issues": [],
+  "filename": "interior-metallic-floor-red-blue-swirls",
+  "faces_identifiable": false,
+  "content": "floor_photo",
+  "color_runner_up": "unknown",
+  "color_description": "dark gray metallic base with bold red and blue marbled swirls, highly reflective",
+  "color_confidence": "low",
+  "color": "Charcoal",
+  "branding_visible": false,
+  "area": "interior_room",
+  "alt_text": "Reflective dark gray metallic epoxy floor with red and blue swirls in a hallway of an unfinished home interior"
+ },
+ "id": "8d4c91ef3da2",
+ "provider": "kimi",
+ "model": "moonshotai/kimi-k3",
+ "mode": "run",
+ "blind": false,
+ "at": "2026-09-22T10:51:45"
+}

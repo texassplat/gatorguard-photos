@@ -1,0 +1,45 @@
+{
+ "finish": "stop",
+ "usage": {
+  "input_tokens": 5071,
+  "output_tokens": 219,
+  "cost": 0.00871686
+ },
+ "served_by": "DigitalOcean",
+ "label": {
+  "alt_text": "Close up of a full flake garage floor edge with gray, black, white and rust-colored chips next to bare concrete",
+  "area": "garage",
+  "branding_visible": false,
+  "color": "Sedona",
+  "color_confidence": "medium",
+  "color_description": "gray, white and black chips with scattered rust orange chips, medium size",
+  "color_runner_up": "Granite",
+  "content": "floor_photo",
+  "faces_identifiable": false,
+  "filename": "flake-floor-edge-close-up",
+  "issues": [],
+  "people": "none",
+  "privacy": [],
+  "quality": "3",
+  "setting": "residential",
+  "shot_type": "close_up",
+  "system": "full_flake",
+  "tags": [
+   "full flake",
+   "close up",
+   "floor edge",
+   "gray chips",
+   "rust chips",
+   "garage floor",
+   "bare concrete edge"
+  ],
+  "title": "Close up of flake floor edge",
+  "website_ready": false
+ },
+ "id": "ce061d2ecf17",
+ "provider": "kimi",
+ "model": "moonshotai/kimi-k3",
+ "mode": "run",
+ "blind": false,
+ "at": "2026-09-22T10:51:20"
+}

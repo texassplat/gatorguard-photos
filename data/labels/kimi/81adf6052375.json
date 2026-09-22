@@ -1,0 +1,47 @@
+{
+ "finish": "stop",
+ "usage": {
+  "input_tokens": 5289,
+  "output_tokens": 283,
+  "cost": 0.01010156
+ },
+ "served_by": "DigitalOcean",
+ "label": {
+  "alt_text": "Empty garage interior with gray, black and white full flake epoxy floor coating and stem wall wrap.",
+  "area": "garage",
+  "branding_visible": false,
+  "color": "Granite",
+  "color_confidence": "medium",
+  "color_description": "gray, white and black chips, fine to medium size",
+  "color_runner_up": "Zircon",
+  "content": "floor_photo",
+  "faces_identifiable": false,
+  "filename": "garage-gray-full-flake-floor",
+  "issues": [
+   "low_resolution"
+  ],
+  "people": "none",
+  "privacy": [],
+  "quality": "3",
+  "setting": "residential",
+  "shot_type": "finished",
+  "system": "full_flake",
+  "tags": [
+   "garage floor",
+   "full flake",
+   "gray chips",
+   "black and white chips",
+   "stem wall",
+   "empty garage",
+   "epoxy floor"
+  ],
+  "title": "Garage with gray full flake floor",
+  "website_ready": false
+ },
+ "id": "81adf6052375",
+ "provider": "kimi",
+ "model": "moonshotai/kimi-k3",
+ "mode": "run",
+ "blind": false,
+ "at": "2026-09-22T10:51:34"
+}

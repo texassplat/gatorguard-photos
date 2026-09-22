@@ -1,0 +1,47 @@
+{
+ "finish": "stop",
+ "usage": {
+  "input_tokens": 5022,
+  "output_tokens": 177,
+  "cost": 0.017721
+ },
+ "served_by": "Modal",
+ "label": {
+  "alt_text": "Basement living area with gray marbled metallic epoxy floor and large Lifetime Warranty text overlay",
+  "area": "basement",
+  "branding_visible": false,
+  "color": "Gray",
+  "color_confidence": "low",
+  "color_description": "gray and silver swirled metallic, no chips",
+  "color_runner_up": "Charcoal",
+  "content": "marketing_graphic",
+  "faces_identifiable": false,
+  "filename": "lifetime-warranty-basement-metallic-ad",
+  "issues": [
+   "text_overlay"
+  ],
+  "people": "none",
+  "privacy": [],
+  "quality": "4",
+  "setting": "residential",
+  "shot_type": "graphic",
+  "system": "metallic",
+  "tags": [
+   "metallic floor",
+   "basement",
+   "gray metallic",
+   "lifetime warranty",
+   "ad graphic",
+   "living room",
+   "text overlay"
+  ],
+  "title": "Basement metallic floor with Lifetime Warranty text",
+  "website_ready": false
+ },
+ "id": "ec0dafa074e7",
+ "provider": "kimi",
+ "model": "moonshotai/kimi-k3",
+ "mode": "run",
+ "blind": false,
+ "at": "2026-09-22T10:53:12"
+}

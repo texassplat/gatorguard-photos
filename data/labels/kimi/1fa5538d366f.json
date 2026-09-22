@@ -1,0 +1,52 @@
+{
+ "finish": "stop",
+ "usage": {
+  "input_tokens": 5068,
+  "output_tokens": 368,
+  "cost": 0.01063876
+ },
+ "served_by": "DigitalOcean",
+ "label": {
+  "alt_text": "Ad video frames with crew applying floor coating, homeowners, flake close-up and branded presenter.",
+  "area": "garage",
+  "branding_visible": true,
+  "color": "unknown",
+  "color_confidence": "none",
+  "color_description": "gray, white and black chips, small size, in one close-up frame",
+  "color_runner_up": "unknown",
+  "content": "marketing_graphic",
+  "faces_identifiable": true,
+  "filename": "gatorguard-ad-video-captions",
+  "issues": [
+   "text_overlay"
+  ],
+  "people": "prominent",
+  "privacy": [
+   "customer_face"
+  ],
+  "quality": "3",
+  "setting": "residential",
+  "shot_type": "other",
+  "system": "unknown",
+  "tags": [
+   "video ad",
+   "facebook ad",
+   "sales call",
+   "crew applying coating",
+   "flake close up",
+   "neon sign",
+   "presenter",
+   "captions",
+   "garage",
+   "brand"
+  ],
+  "title": "GatorGuard differentiator ad video frames",
+  "website_ready": false
+ },
+ "id": "1fa5538d366f",
+ "provider": "kimi",
+ "model": "moonshotai/kimi-k3",
+ "mode": "run",
+ "blind": false,
+ "at": "2026-09-22T10:48:25"
+}

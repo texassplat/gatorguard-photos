@@ -1,0 +1,47 @@
+{
+ "finish": "stop",
+ "usage": {
+  "input_tokens": 4722,
+  "output_tokens": 242,
+  "cost": 0.0146343
+ },
+ "served_by": "Together",
+ "label": {
+  "content": "floor_photo",
+  "area": "basement",
+  "setting": "residential",
+  "system": "full_flake",
+  "color": "Ocotillo",
+  "color_confidence": "medium",
+  "color_runner_up": "Santana",
+  "color_description": "tan, brown, black and gray chips, small to medium size, on a light beige base",
+  "shot_type": "close_up",
+  "people": "none",
+  "faces_identifiable": false,
+  "privacy": [],
+  "branding_visible": false,
+  "quality": "4",
+  "issues": [],
+  "website_ready": true,
+  "title": "Tan full flake floor along painted block wall",
+  "alt_text": "Close-up of a tan, brown and black full flake floor along a white painted block wall, full flake floor coating",
+  "tags": [
+   "full flake",
+   "basement floor",
+   "block wall",
+   "painted wall",
+   "tan chips",
+   "brown chips",
+   "black chips",
+   "close up",
+   "glossy finish"
+  ],
+  "filename": "tan-full-flake-floor-block-wall"
+ },
+ "id": "4ecb8535404d",
+ "provider": "kimi",
+ "model": "moonshotai/kimi-k3",
+ "mode": "run",
+ "blind": false,
+ "at": "2026-09-22T10:52:27"
+}

@@ -1,0 +1,46 @@
+{
+ "finish": "stop",
+ "usage": {
+  "input_tokens": 5068,
+  "output_tokens": 267,
+  "cost": 0.00933081
+ },
+ "served_by": "DigitalOcean",
+ "label": {
+  "alt_text": "Finished garage floor with gray speckled full flake coating, painted wood walls and open overhead door",
+  "area": "garage",
+  "branding_visible": false,
+  "color": "Quartzite",
+  "color_confidence": "low",
+  "color_description": "light gray base with gray, white and black chips, fine to medium size",
+  "color_runner_up": "Lunar",
+  "content": "floor_photo",
+  "faces_identifiable": false,
+  "filename": "gray-full-flake-garage-floor-open-door",
+  "issues": [],
+  "people": "none",
+  "privacy": [],
+  "quality": "4",
+  "setting": "residential",
+  "shot_type": "finished",
+  "system": "full_flake",
+  "tags": [
+   "garage",
+   "full flake",
+   "gray chips",
+   "open garage door",
+   "painted wood walls",
+   "rafters",
+   "finished floor",
+   "reflective clear coat"
+  ],
+  "title": "Garage with gray full flake floor and open door",
+  "website_ready": true
+ },
+ "id": "d0417573a413",
+ "provider": "kimi",
+ "model": "moonshotai/kimi-k3",
+ "mode": "run",
+ "blind": false,
+ "at": "2026-09-22T10:52:04"
+}

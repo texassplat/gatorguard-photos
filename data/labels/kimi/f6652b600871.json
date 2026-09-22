@@ -1,0 +1,46 @@
+{
+ "finish": "stop",
+ "usage": {
+  "input_tokens": 5024,
+  "output_tokens": 207,
+  "cost": 0.0150261
+ },
+ "served_by": "Together",
+ "label": {
+  "content": "floor_photo",
+  "area": "basement",
+  "setting": "residential",
+  "system": "metallic",
+  "color": "Gray",
+  "color_confidence": "medium",
+  "color_runner_up": "Denim",
+  "color_description": "light gray marbled metallic finish with soft swirls, no chips",
+  "shot_type": "finished",
+  "people": "none",
+  "faces_identifiable": false,
+  "privacy": [],
+  "branding_visible": false,
+  "quality": "4",
+  "issues": [],
+  "website_ready": true,
+  "title": "Empty basement room with gray metallic floor",
+  "alt_text": "Empty basement room with a light gray marbled metallic epoxy floor and white trim, metallic floor coating",
+  "tags": [
+   "basement",
+   "metallic epoxy",
+   "gray floor",
+   "marbled finish",
+   "empty room",
+   "white trim",
+   "finished floor",
+   "interior"
+  ],
+  "filename": "basement-gray-metallic-floor"
+ },
+ "id": "f6652b600871",
+ "provider": "kimi",
+ "model": "moonshotai/kimi-k3",
+ "mode": "run",
+ "blind": false,
+ "at": "2026-09-22T10:53:35"
+}

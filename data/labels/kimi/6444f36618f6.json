@@ -1,0 +1,46 @@
+{
+ "finish": "stop",
+ "usage": {
+  "input_tokens": 5069,
+  "output_tokens": 263,
+  "cost": 0.00928156
+ },
+ "served_by": "DigitalOcean",
+ "label": {
+  "alt_text": "Garage with gray full flake floor coating, paneled doors and gray walls, white control joints",
+  "area": "garage",
+  "branding_visible": false,
+  "color": "Infinity",
+  "color_confidence": "medium",
+  "color_description": "gray base with white, gray and black chips, fine to medium size",
+  "color_runner_up": "Silver Butte",
+  "content": "floor_photo",
+  "faces_identifiable": false,
+  "filename": "gray-full-flake-garage-floor",
+  "issues": [],
+  "people": "none",
+  "privacy": [],
+  "quality": "4",
+  "setting": "residential",
+  "shot_type": "finished",
+  "system": "full_flake",
+  "tags": [
+   "garage",
+   "full flake",
+   "gray floor",
+   "control joints",
+   "white doors",
+   "garage floor coating",
+   "clean",
+   "gray chips"
+  ],
+  "title": "Garage with gray full flake floor",
+  "website_ready": true
+ },
+ "id": "6444f36618f6",
+ "provider": "kimi",
+ "model": "moonshotai/kimi-k3",
+ "mode": "run",
+ "blind": false,
+ "at": "2026-09-22T10:51:18"
+}

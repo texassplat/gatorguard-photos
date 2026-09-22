@@ -1,0 +1,47 @@
+{
+ "finish": "stop",
+ "usage": {
+  "input_tokens": 5087,
+  "output_tokens": 267,
+  "cost": 0.00937926
+ },
+ "served_by": "DigitalOcean",
+ "label": {
+  "alt_text": "GatorGuard Facebook ad showing before and after panels of coated garage and paved floors",
+  "area": "garage",
+  "branding_visible": true,
+  "color": "unknown",
+  "color_confidence": "none",
+  "color_description": "",
+  "color_runner_up": "unknown",
+  "content": "before_after_composite",
+  "faces_identifiable": false,
+  "filename": "gatorguard-before-after-flake-ad-video",
+  "issues": [
+   "text_overlay"
+  ],
+  "people": "none",
+  "privacy": [],
+  "quality": "3",
+  "setting": "residential",
+  "shot_type": "before_after",
+  "system": "full_flake",
+  "tags": [
+   "facebook ad",
+   "before and after",
+   "garage floor",
+   "flake coating",
+   "paver patio",
+   "branded graphic",
+   "social media"
+  ],
+  "title": "GatorGuard before and after ad composite",
+  "website_ready": false
+ },
+ "id": "12d28b8f0d9b",
+ "provider": "kimi",
+ "model": "moonshotai/kimi-k3",
+ "mode": "run",
+ "blind": false,
+ "at": "2026-09-22T10:47:51"
+}

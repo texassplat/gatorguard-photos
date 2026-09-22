@@ -1,0 +1,48 @@
+{
+ "finish": "stop",
+ "usage": {
+  "input_tokens": 5649,
+  "output_tokens": 232,
+  "cost": 0.0172842
+ },
+ "served_by": "Together",
+ "label": {
+  "content": "marketing_graphic",
+  "area": "basement",
+  "setting": "residential",
+  "system": "full_flake",
+  "color": "unknown",
+  "color_confidence": "low",
+  "color_runner_up": "Chestnut",
+  "color_description": "brown, tan and black chips, small to medium size",
+  "shot_type": "graphic",
+  "people": "none",
+  "faces_identifiable": false,
+  "privacy": [],
+  "branding_visible": true,
+  "quality": "3",
+  "issues": [
+   "text_overlay"
+  ],
+  "website_ready": false,
+  "title": "Facebook ad with brown flake floor review",
+  "alt_text": "GatorGuard Facebook ad graphic showing a five star review and a phone mockup of a brown full flake basement floor",
+  "tags": [
+   "facebook ad",
+   "marketing graphic",
+   "customer review",
+   "full flake",
+   "basement",
+   "brown chips",
+   "gator mascot",
+   "phone mockup"
+  ],
+  "filename": "facebook-ad-brown-flake-review"
+ },
+ "id": "d34eb30847ee",
+ "provider": "kimi",
+ "model": "moonshotai/kimi-k3",
+ "mode": "run",
+ "blind": false,
+ "at": "2026-09-22T10:46:27"
+}

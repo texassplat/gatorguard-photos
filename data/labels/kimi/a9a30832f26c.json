@@ -1,0 +1,48 @@
+{
+ "finish": "stop",
+ "usage": {
+  "input_tokens": 5047,
+  "output_tokens": 289,
+  "cost": 0.01073016
+ },
+ "served_by": "Phala",
+ "label": {
+  "alt_text": "Close-up of a dark gray and black full flake epoxy floor with glossy clear coat, full flake garage floor coating",
+  "area": "not_visible",
+  "branding_visible": false,
+  "color": "Gun Metal",
+  "color_confidence": "medium",
+  "color_description": "dark gray and black chips with some light gray, medium size, glossy clear coat",
+  "color_runner_up": "Galaxy",
+  "content": "floor_photo",
+  "faces_identifiable": false,
+  "filename": "close-up-dark-gray-flake-floor",
+  "issues": [
+   "blurry"
+  ],
+  "people": "none",
+  "privacy": [],
+  "quality": "3",
+  "setting": "unknown",
+  "shot_type": "close_up",
+  "system": "full_flake",
+  "tags": [
+   "full flake",
+   "close up",
+   "dark gray chips",
+   "black chips",
+   "glossy",
+   "flake texture",
+   "garage floor",
+   "epoxy floor"
+  ],
+  "title": "Close-up of dark gray full flake floor",
+  "website_ready": false
+ },
+ "id": "a9a30832f26c",
+ "provider": "kimi",
+ "model": "moonshotai/kimi-k3",
+ "mode": "run",
+ "blind": false,
+ "at": "2026-09-22T10:51:31"
+}

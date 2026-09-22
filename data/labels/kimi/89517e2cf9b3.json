@@ -1,0 +1,48 @@
+{
+ "finish": "stop",
+ "usage": {
+  "input_tokens": 5075,
+  "output_tokens": 331,
+  "cost": 0.0170472
+ },
+ "served_by": "Together",
+ "label": {
+  "content": "floor_photo",
+  "area": "garage",
+  "setting": "residential",
+  "system": "full_flake",
+  "color": "unknown",
+  "color_confidence": "low",
+  "color_runner_up": "Granite",
+  "color_description": "light gray base with white, gray and black chips, small to medium size",
+  "shot_type": "close_up",
+  "people": "none",
+  "faces_identifiable": false,
+  "privacy": [],
+  "branding_visible": false,
+  "quality": "4",
+  "issues": [],
+  "website_ready": false,
+  "title": "Coated garage threshold edge with gray flake floor",
+  "alt_text": "Close up of a coated garage floor edge and stem wall with gray, white and black flake chips next to gravel",
+  "tags": [
+   "garage",
+   "full flake",
+   "close up",
+   "stem wall",
+   "garage threshold",
+   "gray chips",
+   "white chips",
+   "black chips",
+   "gravel",
+   "edge detail"
+  ],
+  "filename": "garage-threshold-gray-flake-close-up"
+ },
+ "id": "89517e2cf9b3",
+ "provider": "kimi",
+ "model": "moonshotai/kimi-k3",
+ "mode": "run",
+ "blind": false,
+ "at": "2026-09-22T10:51:22"
+}

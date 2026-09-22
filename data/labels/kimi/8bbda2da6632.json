@@ -1,0 +1,46 @@
+{
+ "finish": "stop",
+ "usage": {
+  "input_tokens": 4727,
+  "output_tokens": 283,
+  "cost": 0.00866846
+ },
+ "served_by": "DigitalOcean",
+ "label": {
+  "alt_text": "White sports car parked on a tan full flake garage floor coating with brown and black chips",
+  "area": "garage",
+  "branding_visible": false,
+  "color": "Chestnut",
+  "color_confidence": "medium",
+  "color_description": "tan base with brown and black chips, medium size",
+  "color_runner_up": "Santana",
+  "content": "floor_photo",
+  "faces_identifiable": false,
+  "filename": "white-car-tan-flake-garage-floor",
+  "issues": [],
+  "people": "none",
+  "privacy": [],
+  "quality": "4",
+  "setting": "residential",
+  "shot_type": "finished",
+  "system": "full_flake",
+  "tags": [
+   "garage floor",
+   "full flake",
+   "tan chips",
+   "brown chips",
+   "black chips",
+   "white car",
+   "finished floor",
+   "garage floor coating"
+  ],
+  "title": "White sports car on tan full flake garage floor",
+  "website_ready": true
+ },
+ "id": "8bbda2da6632",
+ "provider": "kimi",
+ "model": "moonshotai/kimi-k3",
+ "mode": "run",
+ "blind": false,
+ "at": "2026-09-22T10:52:36"
+}

@@ -1,0 +1,46 @@
+{
+ "finish": "stop",
+ "usage": {
+  "input_tokens": 5353,
+  "output_tokens": 640,
+  "cost": 0.01971504
+ },
+ "served_by": "Wafer",
+ "label": {
+  "content": "floor_photo",
+  "area": "interior_room",
+  "setting": "residential",
+  "system": "metallic",
+  "color": "Denim",
+  "color_confidence": "low",
+  "color_runner_up": "Sapphire",
+  "color_description": "white base with deep blue swirls, marbled metallic finish, no chips",
+  "shot_type": "finished",
+  "people": "none",
+  "faces_identifiable": false,
+  "privacy": [],
+  "branding_visible": false,
+  "quality": "4",
+  "issues": [],
+  "website_ready": false,
+  "title": "Blue and white metallic epoxy floor with mirrors",
+  "alt_text": "Blue and white marbled metallic epoxy floor in a room with gray walls, mirrors and a window; metallic epoxy floor coating",
+  "tags": [
+   "metallic epoxy",
+   "blue metallic floor",
+   "marbled floor",
+   "white and blue",
+   "mirrors",
+   "interior room",
+   "finished floor",
+   "reflective floor"
+  ],
+  "filename": "blue-white-metallic-floor-mirrored-room"
+ },
+ "id": "e805f0c47a36",
+ "provider": "kimi",
+ "model": "moonshotai/kimi-k3",
+ "mode": "run",
+ "blind": false,
+ "at": "2026-09-22T10:53:59"
+}

@@ -1,0 +1,50 @@
+{
+ "finish": "stop",
+ "usage": {
+  "input_tokens": 5065,
+  "output_tokens": 159,
+  "cost": 0.00792456
+ },
+ "served_by": "DigitalOcean",
+ "label": {
+  "alt_text": " holiday discount ad",
+  "area": "garage",
+  "branding_visible": true,
+  "color": "unknown",
+  "color_confidence": "none",
+  "color_description": "",
+  "color_runner_up": "unknown",
+  "content": "marketing_graphic",
+  "faces_identifiable": true,
+  "filename": "holiday-ad-crew-customers-promo",
+  "issues": [
+   "text_overlay"
+  ],
+  "people": "prominent",
+  "privacy": [
+   "customer_face"
+  ],
+  "quality": "3",
+  "setting": "residential",
+  "shot_type": "graphic",
+  "system": "not_applicable",
+  "tags": [
+   "facebook ad",
+   "holiday promo",
+   "promo video",
+   "customers",
+   "crew",
+   "text overlay",
+   "logo",
+   "garage"
+  ],
+  "title": "Holiday ad with crew, customers and promo text",
+  "website_ready": false
+ },
+ "id": "34327bbd0b1e",
+ "provider": "kimi",
+ "model": "moonshotai/kimi-k3",
+ "mode": "run",
+ "blind": false,
+ "at": "2026-09-22T10:48:24"
+}

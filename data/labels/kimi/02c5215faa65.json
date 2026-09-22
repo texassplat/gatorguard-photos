@@ -1,0 +1,46 @@
+{
+ "finish": "stop",
+ "usage": {
+  "input_tokens": 5699,
+  "output_tokens": 284,
+  "cost": 0.01116001
+ },
+ "served_by": "DigitalOcean",
+ "label": {
+  "alt_text": "Garage with gray full flake floor and wooden stairs against white walls",
+  "area": "garage",
+  "branding_visible": false,
+  "color": "Zircon",
+  "color_confidence": "medium",
+  "color_description": "gray base with white, gray-blue and black chips, medium size",
+  "color_runner_up": "Stone Rowe",
+  "content": "floor_photo",
+  "faces_identifiable": false,
+  "filename": "garage-gray-flake-floor-wooden-stairs",
+  "issues": [],
+  "people": "none",
+  "privacy": [],
+  "quality": "4",
+  "setting": "residential",
+  "shot_type": "finished",
+  "system": "full_flake",
+  "tags": [
+   "garage",
+   "full flake",
+   "gray chips",
+   "wooden stairs",
+   "white walls",
+   "empty garage",
+   "residential",
+   "flake floor"
+  ],
+  "title": "Garage with gray full flake floor and stairs",
+  "website_ready": true
+ },
+ "id": "02c5215faa65",
+ "provider": "kimi",
+ "model": "moonshotai/kimi-k3",
+ "mode": "run",
+ "blind": false,
+ "at": "2026-09-22T10:52:44"
+}

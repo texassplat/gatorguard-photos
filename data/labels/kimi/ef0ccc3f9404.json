@@ -1,0 +1,51 @@
+{
+ "finish": "stop",
+ "usage": {
+  "input_tokens": 5031,
+  "output_tokens": 287,
+  "cost": 0.0111036
+ },
+ "served_by": "Modal",
+ "label": {
+  "alt_text": "Brick two-story house with open cluttered garage and speckled concrete driveway in a residential neighborhood",
+  "area": "driveway_or_walkway",
+  "branding_visible": false,
+  "color": "unknown",
+  "color_confidence": "low",
+  "color_description": "tan and brown speckled surface on the driveway, possibly aggregate",
+  "color_runner_up": "unknown",
+  "content": "floor_photo",
+  "faces_identifiable": false,
+  "filename": "brick-house-open-garage-speckled-driveway",
+  "issues": [
+   "cluttered",
+   "dark"
+  ],
+  "people": "none",
+  "privacy": [
+   "house_number"
+  ],
+  "quality": "3",
+  "setting": "residential",
+  "shot_type": "finished",
+  "system": "unknown",
+  "tags": [
+   "driveway",
+   "brick house",
+   "garage exterior",
+   "residential",
+   "speckled driveway",
+   "curb appeal",
+   "suburban home",
+   "cluttered garage"
+  ],
+  "title": "Brick house exterior with open garage and driveway",
+  "website_ready": false
+ },
+ "id": "ef0ccc3f9404",
+ "provider": "kimi",
+ "model": "moonshotai/kimi-k3",
+ "mode": "run",
+ "blind": false,
+ "at": "2026-09-22T10:54:05"
+}

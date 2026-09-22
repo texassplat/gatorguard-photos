@@ -1,0 +1,49 @@
+{
+ "finish": "stop",
+ "usage": {
+  "input_tokens": 4999,
+  "output_tokens": 159,
+  "cost": 0.012514975
+ },
+ "served_by": "Morph",
+ "label": {
+  "content": "marketing_graphic",
+  "area": "not_visible",
+  "setting": "unknown",
+  "system": "not_applicable",
+  "color": "not_applicable",
+  "color_confidence": "none",
+  "color_runner_up": "not_applicable",
+  "color_description": "",
+  "shot_type": "graphic",
+  "people": "none",
+  "faces_identifiable": false,
+  "privacy": [],
+  "branding_visible": true,
+  "quality": "2",
+  "issues": [
+   "text_overlay",
+   "low_resolution"
+  ],
+  "website_ready": false,
+  "title": "Animated ad with framed floor photos",
+  "alt_text": "Animated video ad layout with framed coated floor photos labeled Silver Butte and Stone Rowe on a black background",
+  "tags": [
+   "facebook ad",
+   "animated ad",
+   "photo frames",
+   "silver butte",
+   "stone rowe",
+   "text overlay",
+   "built to last",
+   "black background"
+  ],
+  "filename": "animated-ad-framed-floor-photos"
+ },
+ "id": "71277dca159a",
+ "provider": "kimi",
+ "model": "moonshotai/kimi-k3",
+ "mode": "run",
+ "blind": false,
+ "at": "2026-09-22T10:48:38"
+}

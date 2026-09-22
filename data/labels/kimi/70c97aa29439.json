@@ -1,0 +1,47 @@
+{
+ "finish": "stop",
+ "usage": {
+  "input_tokens": 5111,
+  "output_tokens": 259,
+  "cost": 0.00933686
+ },
+ "served_by": "DigitalOcean",
+ "label": {
+  "alt_text": "Elevated outdoor concrete porch with a light gray full flake floor coating and block retaining wall",
+  "area": "patio_or_porch",
+  "branding_visible": false,
+  "color": "unknown",
+  "color_confidence": "low",
+  "color_description": "very fine light gray, white and dark speckle chips",
+  "color_runner_up": "unknown",
+  "content": "floor_photo",
+  "faces_identifiable": false,
+  "filename": "gray-flake-elevated-porch-floor",
+  "issues": [],
+  "people": "none",
+  "privacy": [],
+  "quality": "4",
+  "setting": "residential",
+  "shot_type": "finished",
+  "system": "full_flake",
+  "tags": [
+   "porch",
+   "full flake",
+   "light gray chips",
+   "fine flake",
+   "outdoor floor",
+   "retaining wall",
+   "backyard",
+   "finished floor",
+   "elevated patio"
+  ],
+  "title": "Elevated porch with light gray full flake floor",
+  "website_ready": true
+ },
+ "id": "70c97aa29439",
+ "provider": "kimi",
+ "model": "moonshotai/kimi-k3",
+ "mode": "run",
+ "blind": false,
+ "at": "2026-09-22T10:50:41"
+}

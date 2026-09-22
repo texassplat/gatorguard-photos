@@ -1,0 +1,45 @@
+{
+ "finish": "stop",
+ "usage": {
+  "input_tokens": 4810,
+  "output_tokens": 174,
+  "cost": 0.01704
+ },
+ "served_by": "Modal",
+ "label": {
+  "alt_text": "3D diagram showing full flake floor coating layers over a concrete slab",
+  "area": "not_visible",
+  "branding_visible": false,
+  "color": "not_applicable",
+  "color_confidence": "none",
+  "color_description": "tan, brown, black and white chips shown in the diagram layer",
+  "color_runner_up": "not_applicable",
+  "content": "marketing_graphic",
+  "faces_identifiable": false,
+  "filename": "full-flake-coating-layers-diagram",
+  "issues": [],
+  "people": "none",
+  "privacy": [],
+  "quality": "4",
+  "setting": "unknown",
+  "shot_type": "graphic",
+  "system": "full_flake",
+  "tags": [
+   "full flake",
+   "coating layers",
+   "diagram",
+   "3d rendering",
+   "concrete slab",
+   "product graphic",
+   "google ads"
+  ],
+  "title": "3D diagram of full flake coating layers",
+  "website_ready": true
+ },
+ "id": "af3ffead19a8",
+ "provider": "kimi",
+ "model": "moonshotai/kimi-k3",
+ "mode": "run",
+ "blind": false,
+ "at": "2026-09-22T10:53:00"
+}

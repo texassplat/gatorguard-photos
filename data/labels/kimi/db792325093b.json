@@ -1,0 +1,47 @@
+{
+ "finish": "stop",
+ "usage": {
+  "input_tokens": 5655,
+  "output_tokens": 196,
+  "cost": 0.00990821
+ },
+ "served_by": "DigitalOcean",
+ "label": {
+  "alt_text": "Wine room with gray marbled metallic floor, shelves of bottles, GatorGuard logo overlay",
+  "area": "interior_room",
+  "branding_visible": true,
+  "color": "Gray",
+  "color_confidence": "medium",
+  "color_description": "gray and white marbled metallic, reflective",
+  "color_runner_up": "Quartzite",
+  "content": "floor_photo",
+  "faces_identifiable": false,
+  "filename": "wine-room-gray-metallic-floor-ad",
+  "issues": [
+   "text_overlay"
+  ],
+  "people": "none",
+  "privacy": [],
+  "quality": "4",
+  "setting": "residential",
+  "shot_type": "finished",
+  "system": "metallic",
+  "tags": [
+   "metallic floor",
+   "marbled gray",
+   "wine room",
+   "interior",
+   "shelves",
+   "logo overlay",
+   "reflective floor"
+  ],
+  "title": "Wine room with gray marbled metallic floor",
+  "website_ready": false
+ },
+ "id": "db792325093b",
+ "provider": "kimi",
+ "model": "moonshotai/kimi-k3",
+ "mode": "run",
+ "blind": false,
+ "at": "2026-09-22T10:46:19"
+}

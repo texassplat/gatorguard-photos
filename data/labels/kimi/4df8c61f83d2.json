@@ -1,0 +1,50 @@
+{
+ "finish": "stop",
+ "usage": {
+  "input_tokens": 5075,
+  "output_tokens": 187,
+  "cost": 0.0148872
+ },
+ "served_by": "Together",
+ "label": {
+  "content": "people_or_team",
+  "area": "not_visible",
+  "setting": "residential",
+  "system": "not_applicable",
+  "color": "not_applicable",
+  "color_confidence": "none",
+  "color_runner_up": "not_applicable",
+  "color_description": "",
+  "shot_type": "other",
+  "people": "prominent",
+  "faces_identifiable": true,
+  "privacy": [
+   "customer_face"
+  ],
+  "branding_visible": true,
+  "quality": "3",
+  "issues": [
+   "low_resolution"
+  ],
+  "website_ready": false,
+  "title": "Homeowner testimonial video with GatorGuard representative",
+  "alt_text": "GatorGuard representative greeting homeowners at their front door in a testimonial video",
+  "tags": [
+   "testimonial",
+   "homeowner",
+   "facebook ad",
+   "video",
+   "front door",
+   "couple",
+   "gatorguard logo",
+   "residential"
+  ],
+  "filename": "homeowner-testimonial-video-gatorguard-rep"
+ },
+ "id": "4df8c61f83d2",
+ "provider": "kimi",
+ "model": "moonshotai/kimi-k3",
+ "mode": "run",
+ "blind": false,
+ "at": "2026-09-22T10:47:26"
+}

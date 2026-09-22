@@ -1,0 +1,46 @@
+{
+ "finish": "stop",
+ "usage": {
+  "input_tokens": 5085,
+  "output_tokens": 238,
+  "cost": 0.00899861
+ },
+ "served_by": "DigitalOcean",
+ "label": {
+  "alt_text": "Garage floor with gray, white and black flake coating and a raised edge near a sliding door, full flake garage floor",
+  "area": "garage",
+  "branding_visible": false,
+  "color": "unknown",
+  "color_confidence": "low",
+  "color_description": "gray, white and black chips, small to medium size",
+  "color_runner_up": "unknown",
+  "content": "floor_photo",
+  "faces_identifiable": false,
+  "filename": "gray-flake-garage-floor-raised-edge",
+  "issues": [],
+  "people": "none",
+  "privacy": [],
+  "quality": "4",
+  "setting": "residential",
+  "shot_type": "finished",
+  "system": "full_flake",
+  "tags": [
+   "garage floor",
+   "full flake",
+   "gray chips",
+   "white chips",
+   "black chips",
+   "raised edge",
+   "sliding door",
+   "finished floor"
+  ],
+  "title": "Garage with gray flake floor and raised edge",
+  "website_ready": true
+ },
+ "id": "579c65ee1210",
+ "provider": "kimi",
+ "model": "moonshotai/kimi-k3",
+ "mode": "run",
+ "blind": false,
+ "at": "2026-09-22T10:51:51"
+}

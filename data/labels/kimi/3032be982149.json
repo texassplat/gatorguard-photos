@@ -1,0 +1,49 @@
+{
+ "finish": "stop",
+ "usage": {
+  "input_tokens": 5654,
+  "output_tokens": 217,
+  "cost": 0.0170715
+ },
+ "served_by": "Together",
+ "label": {
+  "content": "marketing_graphic",
+  "area": "basement",
+  "setting": "residential",
+  "system": "metallic",
+  "color": "Gray",
+  "color_confidence": "medium",
+  "color_runner_up": "Charcoal",
+  "color_description": "swirled gray and silver metallic, marbled reflective finish",
+  "shot_type": "graphic",
+  "people": "none",
+  "faces_identifiable": false,
+  "privacy": [],
+  "branding_visible": true,
+  "quality": "3",
+  "issues": [
+   "text_overlay"
+  ],
+  "website_ready": false,
+  "title": "Facebook ad for gray metallic basement floor",
+  "alt_text": "GatorGuard ad showing two photos of a basement with a gray swirled metallic epoxy floor",
+  "tags": [
+   "facebook ad",
+   "metallic",
+   "liquid art",
+   "gray metallic",
+   "basement",
+   "swirled floor",
+   "marbled",
+   "gatorguard logo",
+   "advertising"
+  ],
+  "filename": "facebook-ad-gray-metallic-basement"
+ },
+ "id": "3032be982149",
+ "provider": "kimi",
+ "model": "moonshotai/kimi-k3",
+ "mode": "run",
+ "blind": false,
+ "at": "2026-09-22T10:46:24"
+}

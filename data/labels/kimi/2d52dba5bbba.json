@@ -1,0 +1,48 @@
+{
+ "finish": "stop",
+ "usage": {
+  "input_tokens": 5019,
+  "output_tokens": 185,
+  "cost": 0.0146865
+ },
+ "served_by": "Together",
+ "label": {
+  "content": "people_or_team",
+  "area": "garage",
+  "setting": "residential",
+  "system": "unknown",
+  "color": "unknown",
+  "color_confidence": "none",
+  "color_runner_up": "unknown",
+  "color_description": "",
+  "shot_type": "team_or_portrait",
+  "people": "prominent",
+  "faces_identifiable": true,
+  "privacy": [
+   "customer_face"
+  ],
+  "branding_visible": false,
+  "quality": "4",
+  "issues": [],
+  "website_ready": false,
+  "title": "Couple standing in front of open garages",
+  "alt_text": "Smiling man and woman standing in front of a home with two open garages, floor coating not clearly visible",
+  "tags": [
+   "people",
+   "customers",
+   "garage",
+   "open garage doors",
+   "residential",
+   "facebook ad",
+   "portrait",
+   "home exterior"
+  ],
+  "filename": "couple-in-front-of-open-garages"
+ },
+ "id": "2d52dba5bbba",
+ "provider": "kimi",
+ "model": "moonshotai/kimi-k3",
+ "mode": "run",
+ "blind": false,
+ "at": "2026-09-22T10:49:43"
+}

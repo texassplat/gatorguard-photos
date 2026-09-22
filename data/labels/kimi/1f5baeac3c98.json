@@ -1,0 +1,52 @@
+{
+ "finish": "stop",
+ "usage": {
+  "input_tokens": 5660,
+  "output_tokens": 406,
+  "cost": 0.01264046
+ },
+ "served_by": "DigitalOcean",
+ "label": {
+  "alt_text": "Crew applying coating in a garage, with finished white gray black flake floors on a porch and patio",
+  "area": "garage",
+  "branding_visible": true,
+  "color": "Granite",
+  "color_confidence": "low",
+  "color_description": "white, gray, black and tan chips, medium size",
+  "color_runner_up": "Stone Rowe",
+  "content": "other",
+  "faces_identifiable": true,
+  "filename": "crew-work-and-finished-flake-floors",
+  "issues": [
+   "blurry",
+   "low_resolution",
+   "text_overlay"
+  ],
+  "people": "prominent",
+  "privacy": [
+   "customer_face"
+  ],
+  "quality": "2",
+  "setting": "residential",
+  "shot_type": "before_after",
+  "system": "full_flake",
+  "tags": [
+   "full flake",
+   "garage",
+   "porch",
+   "crew working",
+   "applying coating",
+   "white gray black chips",
+   "logo watermark",
+   "facebook ad"
+  ],
+  "title": "Crew applying coating and finished flake floors",
+  "website_ready": false
+ },
+ "id": "1f5baeac3c98",
+ "provider": "kimi",
+ "model": "moonshotai/kimi-k3",
+ "mode": "run",
+ "blind": false,
+ "at": "2026-09-22T10:48:17"
+}

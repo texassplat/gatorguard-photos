@@ -1,0 +1,50 @@
+{
+ "finish": "stop",
+ "usage": {
+  "input_tokens": 5651,
+  "output_tokens": 194,
+  "cost": 0.01100106
+ },
+ "served_by": "Phala",
+ "label": {
+  "alt_text": "Now hiring ad for epoxy flooring installer in St. Louis with three GatorGuard crew members by branded truck",
+  "area": "not_visible",
+  "branding_visible": true,
+  "color": "not_applicable",
+  "color_confidence": "none",
+  "color_description": "",
+  "color_runner_up": "not_applicable",
+  "content": "marketing_graphic",
+  "faces_identifiable": true,
+  "filename": "hiring-ad-epoxy-installer-st-louis",
+  "issues": [
+   "text_overlay"
+  ],
+  "people": "prominent",
+  "privacy": [
+   "customer_face"
+  ],
+  "quality": "3",
+  "setting": "unknown",
+  "shot_type": "graphic",
+  "system": "not_applicable",
+  "tags": [
+   "hiring ad",
+   "now hiring",
+   "crew",
+   "facebook ad",
+   "gatorguard truck",
+   "team photo",
+   "recruitment",
+   "st louis"
+  ],
+  "title": "Now hiring epoxy installer ad with crew",
+  "website_ready": false
+ },
+ "id": "970586b65fd9",
+ "provider": "kimi",
+ "model": "moonshotai/kimi-k3",
+ "mode": "run",
+ "blind": false,
+ "at": "2026-09-22T10:50:18"
+}

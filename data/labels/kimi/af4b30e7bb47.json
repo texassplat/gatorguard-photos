@@ -1,0 +1,45 @@
+{
+ "finish": "stop",
+ "usage": {
+  "input_tokens": 5657,
+  "output_tokens": 294,
+  "cost": 0.01118241
+ },
+ "served_by": "DigitalOcean",
+ "label": {
+  "alt_text": "Low-angle view of a glossy full flake garage floor in dark brown and black chips, with the garage door open.",
+  "area": "garage",
+  "branding_visible": false,
+  "color": "unknown",
+  "color_confidence": "low",
+  "color_description": "dark brown and black chips, small to medium size",
+  "color_runner_up": "Black Canyon",
+  "content": "floor_photo",
+  "faces_identifiable": false,
+  "filename": "low-angle-dark-flake-garage-floor",
+  "issues": [],
+  "people": "none",
+  "privacy": [],
+  "quality": "3",
+  "setting": "residential",
+  "shot_type": "close_up",
+  "system": "full_flake",
+  "tags": [
+   "garage floor",
+   "full flake",
+   "dark brown chips",
+   "glossy finish",
+   "close up",
+   "low angle",
+   "open garage door"
+  ],
+  "title": "Close-up of dark brown full flake garage floor",
+  "website_ready": false
+ },
+ "id": "af4b30e7bb47",
+ "provider": "kimi",
+ "model": "moonshotai/kimi-k3",
+ "mode": "run",
+ "blind": false,
+ "at": "2026-09-22T10:53:01"
+}

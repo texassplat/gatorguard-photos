@@ -7,14 +7,16 @@ Writes docs/index.html (template.html with the data inlined), docs/photos.csv an
 docs/robots.txt. Precedence for each field: data/overrides.json (hand fixes) >
 staff folder and file-name facts > a near-duplicate's folder facts (colour only) >
 the AI label. AI colour names fill the colour field only for providers listed in
-TRUSTED_AI_COLOR; otherwise they are shown as a guess in the details panel.
+TRUSTED_AI_COLOR; otherwise they are shown as a guess in the details panel. Where an item
+ran in Google Ads or Facebook ads (data/ads.json, from tools/ads.py) the row says which
+platform, the asset names and the campaigns.
 """
 import csv
 import json
 from pathlib import Path
 
-from common import (ALL_COLORS, COLOR_TO_COLLECTION, DATA, DRIVE_FOLDER, ROOT, SITE, load_json,
-                    norm_color, slugify)
+from common import (AD_FOLDERS, ALL_COLORS, COLOR_TO_COLLECTION, DATA, DRIVE_FOLDER, ROOT, SITE,
+                    load_json, norm_color, slugify)
 
 # Label sources in order of preference; the first one that has labelled an item wins.
 PROVIDERS = ["claude", "kimi"]
@@ -48,6 +50,7 @@ SHOT = {"finished": "Finished floor", "before": "Before", "in_progress": "In pro
         "team_or_portrait": "Team or portrait", "truck_or_equipment": "Truck or equipment",
         "graphic": "Graphic or logo", "document": "Document", "other": None}
 KIND = {"photo": "Photo", "video": "Video", "doc": "PDF"}
+PLATFORM = {"google": "Google Ads", "facebook": "Facebook"}
 
 
 def pick_area(folder, lab):
@@ -63,7 +66,20 @@ def pick_area(folder, lab):
 def main():
     inv = load_json(DATA / "inventory.json", [])
     overrides = load_json(DATA / "overrides.json", {})
+    ads = load_json(DATA / "ads.json", {})
+    ad_files, ad_library = ads.get("files", {}), ads.get("library", {})
+    campaigns = sorted({c for a in list(ad_files.values()) + list(ad_library.values()) for c in a["campaigns"]})
+    camp_idx = {c: i for i, c in enumerate(campaigns)}
     by_id = {it["id"]: it for it in inv}
+    # Ad versions of one picture with different text or edits are linked as near-duplicates.
+    by_path = {p: it["id"] for it in inv for p in it["paths"]}
+    variants = {}
+    for rel, a in ad_files.items():
+        for v in a.get("variants", []):
+            x, y = by_path.get(rel), v[4:] if v.startswith("lib:") else by_path.get(v)
+            if x and y:
+                variants.setdefault(x, set()).add(y)
+                variants.setdefault(y, set()).add(x)
     out, review = [], 0
     for it in inv:
         iid, folder = it["id"], it["folder"]
@@ -71,6 +87,12 @@ def main():
                     if "label" in r), {})
         lab = rec.get("label", {})
         ov = overrides.get(iid, {})
+        ad = next((ad_files[p] for p in it["paths"] if p in ad_files), None) or ad_library.get(iid) or {}
+        ad_src = []
+        for a in ad.get("assets", []):
+            ref = [PLATFORM[a["platform"]], a["name"], a.get("link")]
+            if ref not in ad_src:
+                ad_src.append(ref)
 
         color, color_src = folder.get("color"), "folder" if folder.get("color") else None
         if not color:
@@ -98,7 +120,7 @@ def main():
         if setting == "unknown":
             setting = None
         tags = []
-        for t in folder.get("tags", []) + lab.get("tags", []) + ov.get("tags", []):
+        for t in folder.get("tags", []) + (["AI-generated"] if ad.get("generated") else []) + lab.get("tags", []) + ov.get("tags", []):
             t = t.strip()
             # Drop a catalogue colour name the model guessed; only staff colours are stated.
             named = norm_color(t)
@@ -114,7 +136,8 @@ def main():
         row = {
             "id": iid, "k": it["kind"], "p": it["paths"], "n": name,
             "w": it.get("w"), "h": it.get("h"), "mb": round(it["bytes"] / 1e6, 1),
-            "dur": it.get("duration"), "date": it.get("date"), "yr": (it.get("date") or "")[:4] or None,
+            "dur": it.get("duration"), "date": it.get("date") or ad.get("date"),
+            "yr": (it.get("date") or ad.get("date") or "")[:4] or None,
             "mk": ov.get("market") or it.get("market") or folder.get("market"),
             "area": area, "set": setting, "sys": system, "col": color, "cs": color_src,
             "coll": COLOR_TO_COLLECTION.get(color) if color else folder.get("collection"),
@@ -123,11 +146,13 @@ def main():
             "shot": shot, "ppl": lab.get("people"), "face": lab.get("faces_identifiable"),
             "priv": lab.get("privacy", []), "brand": lab.get("branding_visible"),
             "q": int(lab["quality"]) if lab.get("quality") else None, "iss": lab.get("issues", []),
-            "ready": ov.get("website_ready", lab.get("website_ready")),
+            "ready": ov.get("website_ready", False if ad.get("generated") else lab.get("website_ready")),
             "title": title, "alt": ov.get("alt_text") or lab.get("alt_text") or "", "tags": tags,
             "top": Path(it["paths"][0]).parts[0] if len(Path(it["paths"][0]).parts) > 1 else "(top level)",
-            "sim": it.get("similar", []), "ai": bool(lab), "rev": disagree, "by": rec.get("model"),
+            "sim": list(dict.fromkeys(it.get("similar", []) + sorted(variants.get(iid, ())))), "ai": bool(lab), "rev": disagree, "by": rec.get("model"),
             "m": f"m/{iid}{ext}", "t": f"t/{iid}.webp", "dl": f"{slug}-{iid[:4]}{ext}",
+            "ads": [PLATFORM[p] for p in ad.get("platforms", [])], "camp": [camp_idx[c] for c in ad.get("campaigns", [])],
+            "asrc": ad_src[:8], "acount": len(ad_src),
         }
         if it["kind"] == "video":
             row["v"] = f"v/{iid}.mp4"
@@ -137,7 +162,8 @@ def main():
 
     labels = {"area": AREA, "sys": SYSTEM, "shot": SHOT, "k": KIND}
     meta = {"drive": DRIVE_FOLDER, "labelled": sum(1 for r in out if r["ai"]), "total": len(out),
-            "colors": ALL_COLORS, "collections": COLOR_TO_COLLECTION}
+            "colors": ALL_COLORS, "collections": COLOR_TO_COLLECTION, "campaigns": campaigns,
+            "adFolders": list(AD_FOLDERS.values()), "adsFetched": ads.get("fetched")}
     tpl = (ROOT / "template.html").read_text()
     html = (tpl.replace("/*__DATA__*/null", json.dumps(out, separators=(",", ":"), ensure_ascii=False))
                .replace("/*__LABELS__*/null", json.dumps(labels, separators=(",", ":")))
@@ -147,13 +173,14 @@ def main():
     (SITE / ".nojekyll").write_text("")
     with open(SITE / "photos.csv", "w", newline="") as f:
         cols = ["id", "k", "title", "alt", "area", "sys", "coll", "col", "cs", "cd", "shot", "set", "mk",
-                "date", "q", "ready", "tags", "p", "m"]
+                "date", "q", "ready", "tags", "p", "m", "ads"]
         wr = csv.writer(f)
         wr.writerow(["id", "type", "title", "alt_text", "area", "system", "collection", "color",
                      "color_source", "chip_description", "shot_type", "setting", "market", "date",
-                     "quality", "website_ready", "tags", "drive_path", "web_copy"])
+                     "quality", "website_ready", "tags", "original_path", "web_copy", "ad_account", "ad_campaigns"])
         for r in out:
-            wr.writerow(["; ".join(r[c]) if isinstance(r[c], list) else ("" if r[c] is None else r[c]) for c in cols])
+            wr.writerow(["; ".join(r[c]) if isinstance(r[c], list) else ("" if r[c] is None else r[c]) for c in cols]
+                        + ["; ".join(campaigns[i] for i in r["camp"])])
     print(f"{len(out)} items ({meta['labelled']} AI-labelled, {review} folder/AI colour disagreements) "
           f"-> docs/index.html {round((SITE / 'index.html').stat().st_size / 1e6, 1)} MB")
 

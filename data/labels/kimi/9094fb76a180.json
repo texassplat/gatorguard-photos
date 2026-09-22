@@ -1,0 +1,49 @@
+{
+ "finish": "stop",
+ "usage": {
+  "input_tokens": 5426,
+  "output_tokens": 374,
+  "cost": 0.021888
+ },
+ "served_by": "Chutes",
+ "label": {
+  "content": "people_or_team",
+  "area": "driveway_or_walkway",
+  "setting": "residential",
+  "system": "unknown",
+  "color": "not_applicable",
+  "color_confidence": "none",
+  "color_runner_up": "not_applicable",
+  "color_description": "",
+  "shot_type": "other",
+  "people": "prominent",
+  "faces_identifiable": false,
+  "privacy": [],
+  "branding_visible": true,
+  "quality": "2",
+  "issues": [
+   "low_resolution",
+   "wet_or_dirty"
+  ],
+  "website_ready": false,
+  "title": "Man kneeling at garage door on wet driveway",
+  "alt_text": "Man kneels at a closed garage door with wet concrete driveway in front of a stone-sided house",
+  "tags": [
+   "driveway",
+   "garage door",
+   "wet concrete",
+   "stone veneer",
+   "man kneeling",
+   "facebook ad",
+   "exterior",
+   "house front"
+  ],
+  "filename": "man-kneeling-garage-door-wet-driveway"
+ },
+ "id": "9094fb76a180",
+ "provider": "kimi",
+ "model": "moonshotai/kimi-k3",
+ "mode": "run",
+ "blind": false,
+ "at": "2026-09-22T10:49:50"
+}

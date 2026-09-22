@@ -1,0 +1,49 @@
+{
+ "finish": "stop",
+ "usage": {
+  "input_tokens": 5390,
+  "output_tokens": 191,
+  "cost": 0.0158949
+ },
+ "served_by": "Together",
+ "label": {
+  "content": "marketing_graphic",
+  "area": "not_visible",
+  "setting": "unknown",
+  "system": "not_applicable",
+  "color": "not_applicable",
+  "color_confidence": "none",
+  "color_runner_up": "not_applicable",
+  "color_description": "",
+  "shot_type": "graphic",
+  "people": "none",
+  "faces_identifiable": false,
+  "privacy": [],
+  "branding_visible": true,
+  "quality": "3",
+  "issues": [
+   "text_overlay"
+  ],
+  "website_ready": false,
+  "title": "Veterans Day epoxy floor special ad",
+  "alt_text": "Four panel Veterans Day ad with two dogs on a gray floor and military seal floor logos",
+  "tags": [
+   "facebook ad",
+   "veterans day",
+   "promotion",
+   "dogs",
+   "military logo",
+   "army seal",
+   "navy seal",
+   "marketing graphic",
+   "free logo offer"
+  ],
+  "filename": "veterans-day-epoxy-floor-ad"
+ },
+ "id": "1366d5e666e0",
+ "provider": "kimi",
+ "model": "moonshotai/kimi-k3",
+ "mode": "run",
+ "blind": false,
+ "at": "2026-09-22T10:47:05"
+}

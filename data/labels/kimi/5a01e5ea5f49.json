@@ -1,0 +1,49 @@
+{
+ "finish": "stop",
+ "usage": {
+  "input_tokens": 4965,
+  "output_tokens": 209,
+  "cost": 0.0148764
+ },
+ "served_by": "Together",
+ "label": {
+  "content": "marketing_graphic",
+  "area": "basement",
+  "setting": "residential",
+  "system": "metallic",
+  "color": "unknown",
+  "color_confidence": "none",
+  "color_runner_up": "Gray",
+  "color_description": "light gray pearl metallic with subtle marbling, no chips",
+  "shot_type": "finished",
+  "people": "none",
+  "faces_identifiable": false,
+  "privacy": [],
+  "branding_visible": true,
+  "quality": "3",
+  "issues": [
+   "text_overlay"
+  ],
+  "website_ready": false,
+  "title": "Facebook ad for pearl metallic basement floor",
+  "alt_text": "Ad graphic showing a basement with a glossy light gray metallic epoxy floor, GatorGuard logo and text overlay",
+  "tags": [
+   "facebook ad",
+   "metallic",
+   "liquid art",
+   "pearl",
+   "gray metallic",
+   "basement",
+   "glossy floor",
+   "text overlay",
+   "epoxy floor"
+  ],
+  "filename": "facebook-ad-pearl-metallic-basement-floor"
+ },
+ "id": "5a01e5ea5f49",
+ "provider": "kimi",
+ "model": "moonshotai/kimi-k3",
+ "mode": "run",
+ "blind": false,
+ "at": "2026-09-22T10:48:45"
+}

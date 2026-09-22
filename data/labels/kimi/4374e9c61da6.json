@@ -1,0 +1,46 @@
+{
+ "finish": "stop",
+ "usage": {
+  "input_tokens": 5077,
+  "output_tokens": 252,
+  "cost": 0.0158682
+ },
+ "served_by": "Together",
+ "label": {
+  "content": "floor_photo",
+  "area": "steps_or_stairs",
+  "setting": "residential",
+  "system": "full_flake",
+  "color": "Ocotillo",
+  "color_confidence": "medium",
+  "color_runner_up": "Santana",
+  "color_description": "fine tan and beige chips with small dark specks",
+  "shot_type": "finished",
+  "people": "none",
+  "faces_identifiable": false,
+  "privacy": [],
+  "branding_visible": false,
+  "quality": "4",
+  "issues": [],
+  "website_ready": true,
+  "title": "Tan full flake garage entry steps and floor",
+  "alt_text": "Garage entry with tan full flake floor coating on steps, stem walls and landing",
+  "tags": [
+   "garage",
+   "steps",
+   "full flake",
+   "tan chips",
+   "stem wall",
+   "entry",
+   "finished floor",
+   "interior steps"
+  ],
+  "filename": "tan-full-flake-garage-entry-steps"
+ },
+ "id": "4374e9c61da6",
+ "provider": "kimi",
+ "model": "moonshotai/kimi-k3",
+ "mode": "run",
+ "blind": false,
+ "at": "2026-09-22T10:50:48"
+}

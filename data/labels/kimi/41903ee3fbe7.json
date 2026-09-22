@@ -1,0 +1,46 @@
+{
+ "finish": "stop",
+ "usage": {
+  "input_tokens": 5659,
+  "output_tokens": 252,
+  "cost": 0.0124626
+ },
+ "served_by": "Modal",
+ "label": {
+  "alt_text": "Close view of a glossy full flake epoxy floor with tan, brown and black chips, full flake floor coating",
+  "area": "not_visible",
+  "branding_visible": false,
+  "color": "Chestnut",
+  "color_confidence": "medium",
+  "color_description": "tan, brown and black chips with cream flecks, medium size",
+  "color_runner_up": "Sedona",
+  "content": "floor_photo",
+  "faces_identifiable": false,
+  "filename": "tan-brown-full-flake-floor-close-up",
+  "issues": [],
+  "people": "none",
+  "privacy": [],
+  "quality": "4",
+  "setting": "unknown",
+  "shot_type": "close_up",
+  "system": "full_flake",
+  "tags": [
+   "full flake",
+   "epoxy floor",
+   "tan chips",
+   "brown chips",
+   "black chips",
+   "glossy finish",
+   "floor close up",
+   "stem wall"
+  ],
+  "title": "Glossy tan and brown full flake floor close up",
+  "website_ready": true
+ },
+ "id": "41903ee3fbe7",
+ "provider": "kimi",
+ "model": "moonshotai/kimi-k3",
+ "mode": "run",
+ "blind": false,
+ "at": "2026-09-22T10:53:57"
+}

@@ -1,0 +1,47 @@
+{
+ "finish": "stop",
+ "usage": {
+  "input_tokens": 5022,
+  "output_tokens": 219,
+  "cost": 0.00994266
+ },
+ "served_by": "Phala",
+ "label": {
+  "alt_text": "Full flake epoxy floor close-up with Lifetime Warranty text overlay",
+  "area": "not_visible",
+  "branding_visible": false,
+  "color": "unknown",
+  "color_confidence": "low",
+  "color_description": "tan, brown and gray chips with dark accents, small to medium size",
+  "color_runner_up": "unknown",
+  "content": "marketing_graphic",
+  "faces_identifiable": false,
+  "filename": "lifetime-warranty-flake-floor-graphic",
+  "issues": [
+   "text_overlay"
+  ],
+  "people": "none",
+  "privacy": [],
+  "quality": "3",
+  "setting": "unknown",
+  "shot_type": "graphic",
+  "system": "full_flake",
+  "tags": [
+   "marketing graphic",
+   "text overlay",
+   "lifetime warranty",
+   "full flake",
+   "ad creative",
+   "google ads",
+   "flake floor close up"
+  ],
+  "title": "Lifetime Warranty text over flake floor",
+  "website_ready": false
+ },
+ "id": "ad68cb685d2c",
+ "provider": "kimi",
+ "model": "moonshotai/kimi-k3",
+ "mode": "run",
+ "blind": false,
+ "at": "2026-09-22T10:53:33"
+}

@@ -1,0 +1,47 @@
+{
+ "finish": "stop",
+ "usage": {
+  "input_tokens": 5063,
+  "output_tokens": 263,
+  "cost": 0.00926626
+ },
+ "served_by": "DigitalOcean",
+ "label": {
+  "alt_text": "Finished gray full flake floor in an empty garage with exposed beams, overlaid orange ad text reading Book a Chip Floor.",
+  "area": "garage",
+  "branding_visible": true,
+  "color": "unknown",
+  "color_confidence": "low",
+  "color_description": "mostly gray and white chips, fine to medium size",
+  "color_runner_up": "unknown",
+  "content": "floor_photo",
+  "faces_identifiable": false,
+  "filename": "garage-chip-floor-facebook-ad",
+  "issues": [
+   "text_overlay"
+  ],
+  "people": "none",
+  "privacy": [],
+  "quality": "3",
+  "setting": "residential",
+  "shot_type": "finished",
+  "system": "full_flake",
+  "tags": [
+   "full flake",
+   "garage floor",
+   "gray chips",
+   "facebook ad",
+   "text overlay",
+   "exposed beams",
+   "windows"
+  ],
+  "title": "Garage full flake floor used in Facebook ad",
+  "website_ready": false
+ },
+ "id": "1c9d5c777bc1",
+ "provider": "kimi",
+ "model": "moonshotai/kimi-k3",
+ "mode": "run",
+ "blind": false,
+ "at": "2026-09-22T10:50:12"
+}

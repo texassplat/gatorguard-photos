@@ -1,0 +1,49 @@
+{
+ "finish": "stop",
+ "usage": {
+  "input_tokens": 5656,
+  "output_tokens": 222,
+  "cost": 0.01024746
+ },
+ "served_by": "DigitalOcean",
+ "label": {
+  "alt_text": "GatorGuard Concrete Coatings ad offering up to 20% off over a gray full flake walkway photo",
+  "area": "patio_or_porch",
+  "branding_visible": true,
+  "color": "unknown",
+  "color_confidence": "low",
+  "color_description": "gray, white and black chips, small to medium size",
+  "color_runner_up": "Granite",
+  "content": "marketing_graphic",
+  "faces_identifiable": false,
+  "filename": "twenty-percent-off-ad-tag",
+  "issues": [
+   "text_overlay"
+  ],
+  "people": "none",
+  "privacy": [],
+  "quality": "4",
+  "setting": "residential",
+  "shot_type": "graphic",
+  "system": "full_flake",
+  "tags": [
+   "facebook ad",
+   "promotion",
+   "20 percent off",
+   "price tag graphic",
+   "full flake",
+   "gray chips",
+   "walkway",
+   "white railing",
+   "get quote"
+  ],
+  "title": "GatorGuard 20 percent off ad",
+  "website_ready": false
+ },
+ "id": "6526961ebc4b",
+ "provider": "kimi",
+ "model": "moonshotai/kimi-k3",
+ "mode": "run",
+ "blind": false,
+ "at": "2026-09-22T10:46:39"
+}

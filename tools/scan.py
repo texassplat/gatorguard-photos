@@ -1,10 +1,11 @@
 #!/usr/bin/env python3
-"""Inventory the Drive export: one record per unique file (by content hash).
+"""Inventory the Drive export and the ad assets: one record per unique file (by content hash).
 
     .venv/bin/python tools/scan.py
 
-Reads GG_PHOTOS_SRC (default ~/Desktop/GatorGuard/photos/ALL GG PHOTOS) and writes
-data/inventory.json. Exact copies (same bytes) collapse into one record that lists
+Reads GG_PHOTOS_SRC (default ~/Desktop/GatorGuard/photos/ALL GG PHOTOS) plus the ad assets
+tools/ads.py filed under GG_ADS_SRC, and writes data/inventory.json. Exact copies (same
+bytes) collapse into one record that lists
 every path it was found at, so a photo filed under two folders keeps both hints.
 Near-duplicates (resized or re-saved copies) are grouped later by perceptual hash.
 GPS is reduced to a market name here and never stored.
@@ -19,8 +20,8 @@ import imagehash
 from PIL import ExifTags, Image, ImageOps
 from pillow_heif import register_heif_opener
 
-from common import (DATA, DOC_EXT, PHOTO_EXT, SKIP_EXT, SRC, VIDEO_EXT, file_facts,
-                    load_json, market_for, save_json)
+from common import (ADS_SRC, AD_FOLDERS, DATA, DOC_EXT, PHOTO_EXT, SKIP_EXT, SRC, VIDEO_EXT,
+                    file_facts, load_json, market_for, save_json)
 
 register_heif_opener()
 Image.MAX_IMAGE_PIXELS = None
@@ -118,9 +119,10 @@ def kind_of(ext):
     return None
 
 
-def scan_one(path):
+def scan_one(root_path):
+    root, path = root_path
     ext = path.suffix.lower()
-    rel = path.relative_to(SRC)
+    rel = path.relative_to(root)
     rec = {"kind": kind_of(ext), "ext": ext, "bytes": path.stat().st_size, "sha1": sha1(path),
            "path": str(rel)}
     try:
@@ -135,13 +137,15 @@ def scan_one(path):
 
 def main():
     files, skipped = [], 0
-    for p in sorted(SRC.rglob("*")):
-        if not p.is_file():
-            continue
-        if p.suffix.lower() in SKIP_EXT or p.name.startswith(".") or kind_of(p.suffix.lower()) is None:
-            skipped += 1
-            continue
-        files.append(p)
+    roots = [(SRC, SRC)] + [(ADS_SRC, ADS_SRC / f) for f in AD_FOLDERS.values()]
+    for root, top in roots:
+        for p in sorted(top.rglob("*")):
+            if not p.is_file():
+                continue
+            if p.suffix.lower() in SKIP_EXT or p.name.startswith(".") or kind_of(p.suffix.lower()) is None:
+                skipped += 1
+                continue
+            files.append((root, p))
     print(f"{len(files)} media files, {skipped} skipped (drone proxies/telemetry/system files)")
     with ThreadPoolExecutor(8) as ex:
         recs = list(ex.map(scan_one, files))

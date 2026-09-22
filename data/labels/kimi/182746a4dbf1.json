@@ -1,0 +1,48 @@
+{
+ "finish": "stop",
+ "usage": {
+  "input_tokens": 5073,
+  "output_tokens": 283,
+  "cost": 0.00955076
+ },
+ "served_by": "DigitalOcean",
+ "label": {
+  "alt_text": "Facebook ad video showing floor coating application, black and white flake finish, and GatorGuard promo offer text",
+  "area": "not_visible",
+  "branding_visible": true,
+  "color": "unknown",
+  "color_confidence": "none",
+  "color_description": "black and white chips, fine to medium size",
+  "color_runner_up": "unknown",
+  "content": "marketing_graphic",
+  "faces_identifiable": false,
+  "filename": "facebook-ad-floor-coating-promo-video",
+  "issues": [
+   "text_overlay"
+  ],
+  "people": "prominent",
+  "privacy": [],
+  "quality": "3",
+  "setting": "unknown",
+  "shot_type": "graphic",
+  "system": "full_flake",
+  "tags": [
+   "facebook ad",
+   "promo offer",
+   "free chip upgrade",
+   "coating application",
+   "black and white chips",
+   "crew working",
+   "gatorguard logo",
+   "video"
+  ],
+  "title": "Facebook ad video with free chip upgrade offer",
+  "website_ready": false
+ },
+ "id": "182746a4dbf1",
+ "provider": "kimi",
+ "model": "moonshotai/kimi-k3",
+ "mode": "run",
+ "blind": false,
+ "at": "2026-09-22T10:48:38"
+}

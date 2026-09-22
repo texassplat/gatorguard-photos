@@ -1,0 +1,48 @@
+{
+ "finish": "stop",
+ "usage": {
+  "input_tokens": 5024,
+  "output_tokens": 319,
+  "cost": 0.0115626
+ },
+ "served_by": "Modal",
+ "label": {
+  "alt_text": "Dark gray swirled metallic epoxy floor in a room with unfinished framed walls, reflective marbled surface.",
+  "area": "interior_room",
+  "branding_visible": false,
+  "color": "Gray",
+  "color_confidence": "medium",
+  "color_description": "dark gray metallic with lighter gray and silver marbled swirls",
+  "color_runner_up": "Denim",
+  "content": "floor_photo",
+  "faces_identifiable": false,
+  "filename": "dark-gray-metallic-epoxy-basement-floor",
+  "issues": [
+   "tilted"
+  ],
+  "people": "none",
+  "privacy": [],
+  "quality": "4",
+  "setting": "residential",
+  "shot_type": "finished",
+  "system": "metallic",
+  "tags": [
+   "metallic epoxy",
+   "gray floor",
+   "swirled",
+   "marbled",
+   "reflective",
+   "interior room",
+   "unfinished walls",
+   "liquid art"
+  ],
+  "title": "Dark gray metallic floor in unfinished room",
+  "website_ready": true
+ },
+ "id": "e1a9d45a1342",
+ "provider": "kimi",
+ "model": "moonshotai/kimi-k3",
+ "mode": "run",
+ "blind": false,
+ "at": "2026-09-22T10:53:43"
+}

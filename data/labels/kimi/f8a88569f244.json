@@ -1,0 +1,48 @@
+{
+ "finish": "stop",
+ "usage": {
+  "input_tokens": 5390,
+  "output_tokens": 222,
+  "cost": 0.0163599
+ },
+ "served_by": "Together",
+ "label": {
+  "content": "floor_photo",
+  "area": "basement",
+  "setting": "residential",
+  "system": "full_flake",
+  "color": "Black Canyon",
+  "color_confidence": "medium",
+  "color_runner_up": "Gun Metal",
+  "color_description": "black, dark gray and white chips, medium size, glossy clear coat",
+  "shot_type": "finished",
+  "people": "none",
+  "faces_identifiable": false,
+  "privacy": [],
+  "branding_visible": false,
+  "quality": "4",
+  "issues": [],
+  "website_ready": true,
+  "title": "Basement with dark full flake floor",
+  "alt_text": "Unfinished basement with a glossy dark gray and black full flake floor coating beside a stone foundation wall",
+  "tags": [
+   "basement",
+   "full flake",
+   "black chips",
+   "gray chips",
+   "white chips",
+   "glossy floor",
+   "stone wall",
+   "exposed ceiling",
+   "utility room",
+   "low angle"
+  ],
+  "filename": "basement-dark-full-flake-floor"
+ },
+ "id": "f8a88569f244",
+ "provider": "kimi",
+ "model": "moonshotai/kimi-k3",
+ "mode": "run",
+ "blind": false,
+ "at": "2026-09-22T10:50:26"
+}

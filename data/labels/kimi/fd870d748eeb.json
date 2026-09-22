@@ -1,0 +1,47 @@
+{
+ "finish": "stop",
+ "usage": {
+  "input_tokens": 4808,
+  "output_tokens": 233,
+  "cost": 0.0147843
+ },
+ "served_by": "Together",
+ "label": {
+  "content": "floor_photo",
+  "area": "patio_or_porch",
+  "setting": "residential",
+  "system": "full_flake",
+  "color": "Chestnut",
+  "color_confidence": "low",
+  "color_runner_up": "Windermere",
+  "color_description": "tan, brown and black chips, small to medium size",
+  "shot_type": "finished",
+  "people": "none",
+  "faces_identifiable": false,
+  "privacy": [],
+  "branding_visible": false,
+  "quality": "4",
+  "issues": [],
+  "website_ready": true,
+  "title": "Flake floor landing beside brick wall",
+  "alt_text": "Tan, brown and black full flake coated floor next to a red brick wall, full flake floor coating",
+  "tags": [
+   "full flake",
+   "tan chips",
+   "brown chips",
+   "black chips",
+   "brick wall",
+   "entryway",
+   "porch",
+   "finished floor",
+   "glossy"
+  ],
+  "filename": "tan-flake-floor-brick-wall"
+ },
+ "id": "fd870d748eeb",
+ "provider": "kimi",
+ "model": "moonshotai/kimi-k3",
+ "mode": "run",
+ "blind": false,
+ "at": "2026-09-22T10:51:01"
+}

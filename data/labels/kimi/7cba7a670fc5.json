@@ -1,0 +1,47 @@
+{
+ "finish": "stop",
+ "usage": {
+  "input_tokens": 4809,
+  "output_tokens": 233,
+  "cost": 0.00823006
+ },
+ "served_by": "DigitalOcean",
+ "label": {
+  "alt_text": "Interior room with a speckled tan and gray full flake floor and coated stem wall.",
+  "area": "interior_room",
+  "branding_visible": false,
+  "color": "Stone Ridge",
+  "color_confidence": "low",
+  "color_description": "gray, tan and white chips, small to medium size",
+  "color_runner_up": "Granite",
+  "content": "floor_photo",
+  "faces_identifiable": false,
+  "filename": "interior-room-tan-gray-flake-floor",
+  "issues": [],
+  "people": "none",
+  "privacy": [],
+  "quality": "4",
+  "setting": "residential",
+  "shot_type": "finished",
+  "system": "full_flake",
+  "tags": [
+   "full flake",
+   "interior room",
+   "tan chips",
+   "gray chips",
+   "stem wall",
+   "finished floor",
+   "speckled floor",
+   "garage style",
+   "indoor"
+  ],
+  "title": "Interior room with tan and gray flake floor",
+  "website_ready": true
+ },
+ "id": "7cba7a670fc5",
+ "provider": "kimi",
+ "model": "moonshotai/kimi-k3",
+ "mode": "run",
+ "blind": false,
+ "at": "2026-09-22T10:52:03"
+}

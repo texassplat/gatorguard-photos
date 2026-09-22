@@ -1,0 +1,48 @@
+{
+ "finish": "stop",
+ "usage": {
+  "input_tokens": 5061,
+  "output_tokens": 242,
+  "cost": 0.00898921
+ },
+ "served_by": "DigitalOcean",
+ "label": {
+  "alt_text": "Glowing green GatorGuard logo graphic on black background with white mouse cursor",
+  "area": "not_visible",
+  "branding_visible": true,
+  "color": "not_applicable",
+  "color_confidence": "none",
+  "color_description": "",
+  "color_runner_up": "not_applicable",
+  "content": "logo_or_text_graphic",
+  "faces_identifiable": false,
+  "filename": "glowing-green-logo-on-black",
+  "issues": [
+   "blurry",
+   "dark",
+   "low_resolution"
+  ],
+  "people": "none",
+  "privacy": [],
+  "quality": "1",
+  "setting": "unknown",
+  "shot_type": "graphic",
+  "system": "not_applicable",
+  "tags": [
+   "logo",
+   "company logo",
+   "black background",
+   "green text",
+   "cursor",
+   "facebook ad"
+  ],
+  "title": "Glowing green GatorGuard logo graphic",
+  "website_ready": false
+ },
+ "id": "d546ae0d9c2d",
+ "provider": "kimi",
+ "model": "moonshotai/kimi-k3",
+ "mode": "run",
+ "blind": false,
+ "at": "2026-09-22T10:49:23"
+}

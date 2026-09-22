@@ -1,0 +1,46 @@
+{
+ "finish": "stop",
+ "usage": {
+  "input_tokens": 4722,
+  "output_tokens": 267,
+  "cost": 0.0150093
+ },
+ "served_by": "Together",
+ "label": {
+  "content": "floor_photo",
+  "area": "garage",
+  "setting": "residential",
+  "system": "full_flake",
+  "color": "Granite",
+  "color_confidence": "low",
+  "color_runner_up": "Ocotillo",
+  "color_description": "gray, white and black chips with scattered tan and brown chips, small to medium size",
+  "shot_type": "close_up",
+  "people": "none",
+  "faces_identifiable": false,
+  "privacy": [],
+  "branding_visible": false,
+  "quality": "4",
+  "issues": [],
+  "website_ready": true,
+  "title": "Low angle view of gray full flake garage floor",
+  "alt_text": "Low angle view of a gray full flake garage floor with a coated stem wall and control joint",
+  "tags": [
+   "full flake",
+   "garage floor",
+   "gray chips",
+   "tan chips",
+   "close up",
+   "stem wall",
+   "control joint",
+   "finished floor"
+  ],
+  "filename": "gray-full-flake-garage-floor-close-up"
+ },
+ "id": "e0bae1b129d6",
+ "provider": "kimi",
+ "model": "moonshotai/kimi-k3",
+ "mode": "run",
+ "blind": false,
+ "at": "2026-09-22T10:52:46"
+}

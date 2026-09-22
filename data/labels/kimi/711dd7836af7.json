@@ -1,0 +1,44 @@
+{
+ "finish": "stop",
+ "usage": {
+  "input_tokens": 5069,
+  "output_tokens": 201,
+  "cost": 0.0150846
+ },
+ "served_by": "Together",
+ "label": {
+  "content": "other",
+  "area": "other_exterior",
+  "setting": "residential",
+  "system": "not_applicable",
+  "color": "not_applicable",
+  "color_confidence": "none",
+  "color_runner_up": "not_applicable",
+  "color_description": "",
+  "shot_type": "other",
+  "people": "none",
+  "faces_identifiable": false,
+  "privacy": [],
+  "branding_visible": false,
+  "quality": "3",
+  "issues": [],
+  "website_ready": false,
+  "title": "Backyard view over railing with trees and houses",
+  "alt_text": "View over a deck railing of a suburban backyard with evergreen trees, lawn and neighboring houses",
+  "tags": [
+   "backyard",
+   "trees",
+   "neighboring houses",
+   "residential",
+   "outdoor view",
+   "no floor visible"
+  ],
+  "filename": "backyard-view-trees-neighboring-houses"
+ },
+ "id": "711dd7836af7",
+ "provider": "kimi",
+ "model": "moonshotai/kimi-k3",
+ "mode": "run",
+ "blind": false,
+ "at": "2026-09-22T10:50:32"
+}

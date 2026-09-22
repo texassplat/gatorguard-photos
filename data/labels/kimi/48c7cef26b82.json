@@ -1,0 +1,48 @@
+{
+ "finish": "stop",
+ "usage": {
+  "input_tokens": 5069,
+  "output_tokens": 206,
+  "cost": 0.00854341
+ },
+ "served_by": "DigitalOcean",
+ "label": {
+  "alt_text": "Ad montage of coated garage floors, failing coatings and GatorGuard Concrete Coatings logo",
+  "area": "garage",
+  "branding_visible": true,
+  "color": "unknown",
+  "color_confidence": "low",
+  "color_description": "blue, white and gray chips in one frame, brown and tan chips in another",
+  "color_runner_up": "unknown",
+  "content": "marketing_graphic",
+  "faces_identifiable": false,
+  "filename": "gatorguard-ad-montage-garage-floor-products",
+  "issues": [
+   "text_overlay",
+   "cluttered"
+  ],
+  "people": "none",
+  "privacy": [],
+  "quality": "3",
+  "setting": "residential",
+  "shot_type": "graphic",
+  "system": "full_flake",
+  "tags": [
+   "full flake",
+   "garage floor",
+   "ad montage",
+   "gatorguard logo",
+   "marketing graphic",
+   "coating failure collage",
+   "google ads"
+  ],
+  "title": "GatorGuard ad montage about garage floor products",
+  "website_ready": false
+ },
+ "id": "48c7cef26b82",
+ "provider": "kimi",
+ "model": "moonshotai/kimi-k3",
+ "mode": "run",
+ "blind": false,
+ "at": "2026-09-22T10:54:23"
+}

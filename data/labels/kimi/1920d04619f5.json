@@ -1,0 +1,47 @@
+{
+ "finish": "stop",
+ "usage": {
+  "input_tokens": 5059,
+  "output_tokens": 312,
+  "cost": 0.019857
+ },
+ "served_by": "Modal",
+ "label": {
+  "alt_text": "Close up of gray flake coated garage steps and stem wall by an entry door, full flake floor coating",
+  "area": "steps_or_stairs",
+  "branding_visible": false,
+  "color": "Granite",
+  "color_confidence": "medium",
+  "color_description": "gray, white and black chips, small to medium size",
+  "color_runner_up": "unknown",
+  "content": "floor_photo",
+  "faces_identifiable": false,
+  "filename": "gray-full-flake-garage-steps-close-up",
+  "issues": [],
+  "people": "none",
+  "privacy": [],
+  "quality": "4",
+  "setting": "residential",
+  "shot_type": "close_up",
+  "system": "full_flake",
+  "tags": [
+   "garage steps",
+   "stem wall",
+   "full flake",
+   "gray chips",
+   "white chips",
+   "black chips",
+   "entry door",
+   "close up",
+   "finished floor"
+  ],
+  "title": "Gray full flake coating on garage steps",
+  "website_ready": true
+ },
+ "id": "1920d04619f5",
+ "provider": "kimi",
+ "model": "moonshotai/kimi-k3",
+ "mode": "run",
+ "blind": false,
+ "at": "2026-09-22T10:53:23"
+}

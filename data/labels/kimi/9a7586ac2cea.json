@@ -1,0 +1,49 @@
+{
+ "finish": "stop",
+ "usage": {
+  "input_tokens": 5392,
+  "output_tokens": 221,
+  "cost": 0.019491
+ },
+ "served_by": "Modal",
+ "label": {
+  "alt_text": "Coated garage step and floor in gray, white and black full flake with Lifetime Warranty text overlay",
+  "area": "garage",
+  "branding_visible": false,
+  "color": "Granite",
+  "color_confidence": "medium",
+  "color_description": "gray, white and black chips, small to medium size",
+  "color_runner_up": "Silver Butte",
+  "content": "floor_photo",
+  "faces_identifiable": false,
+  "filename": "gray-flake-coated-garage-step",
+  "issues": [
+   "text_overlay"
+  ],
+  "people": "none",
+  "privacy": [],
+  "quality": "4",
+  "setting": "residential",
+  "shot_type": "close_up",
+  "system": "full_flake",
+  "tags": [
+   "garage",
+   "full flake",
+   "step",
+   "stem wall",
+   "gray chips",
+   "white chips",
+   "black chips",
+   "finished floor",
+   "text overlay"
+  ],
+  "title": "Gray full flake garage step and floor",
+  "website_ready": false
+ },
+ "id": "9a7586ac2cea",
+ "provider": "kimi",
+ "model": "moonshotai/kimi-k3",
+ "mode": "run",
+ "blind": false,
+ "at": "2026-09-22T10:53:05"
+}

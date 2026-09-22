@@ -1,0 +1,46 @@
+{
+ "finish": "stop",
+ "usage": {
+  "input_tokens": 4807,
+  "output_tokens": 195,
+  "cost": 0.00773286
+ },
+ "served_by": "DigitalOcean",
+ "label": {
+  "alt_text": "Gray flake coated porch floor with white columns and control joints",
+  "area": "patio_or_porch",
+  "branding_visible": false,
+  "color": "unknown",
+  "color_confidence": "low",
+  "color_description": "gray chips with white and dark gray mix, fine to medium size",
+  "color_runner_up": "Infinity",
+  "content": "floor_photo",
+  "faces_identifiable": false,
+  "filename": "gray-flake-porch-floor",
+  "issues": [],
+  "people": "none",
+  "privacy": [],
+  "quality": "4",
+  "setting": "residential",
+  "shot_type": "finished",
+  "system": "full_flake",
+  "tags": [
+   "porch",
+   "patio",
+   "gray chips",
+   "full flake",
+   "white columns",
+   "control joints",
+   "finished floor",
+   "outdoor"
+  ],
+  "title": "Gray full flake porch floor",
+  "website_ready": true
+ },
+ "id": "cbd5ca201bfe",
+ "provider": "kimi",
+ "model": "moonshotai/kimi-k3",
+ "mode": "run",
+ "blind": false,
+ "at": "2026-09-22T10:50:49"
+}

@@ -1,0 +1,45 @@
+{
+ "finish": "stop",
+ "usage": {
+  "input_tokens": 5054,
+  "output_tokens": 188,
+  "cost": 0.00827206
+ },
+ "served_by": "DigitalOcean",
+ "label": {
+  "alt_text": "Garage with gray full flake floor and visible control joints, full flake garage floor coating",
+  "area": "garage",
+  "branding_visible": false,
+  "color": "unknown",
+  "color_confidence": "low",
+  "color_description": "gray, taupe and white fine chips",
+  "color_runner_up": "Granite",
+  "content": "floor_photo",
+  "faces_identifiable": false,
+  "filename": "garage-gray-full-flake-floor",
+  "issues": [],
+  "people": "none",
+  "privacy": [],
+  "quality": "4",
+  "setting": "residential",
+  "shot_type": "finished",
+  "system": "full_flake",
+  "tags": [
+   "garage",
+   "full flake",
+   "gray chips",
+   "fine chips",
+   "control joints",
+   "finished floor",
+   "white walls"
+  ],
+  "title": "Garage with gray full flake floor",
+  "website_ready": true
+ },
+ "id": "2cce7bd74bd6",
+ "provider": "kimi",
+ "model": "moonshotai/kimi-k3",
+ "mode": "run",
+ "blind": false,
+ "at": "2026-09-22T10:54:39"
+}

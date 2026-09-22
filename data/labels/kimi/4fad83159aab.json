@@ -1,0 +1,47 @@
+{
+ "finish": "stop",
+ "usage": {
+  "input_tokens": 5077,
+  "output_tokens": 264,
+  "cost": 0.0160482
+ },
+ "served_by": "Together",
+ "label": {
+  "content": "floor_photo",
+  "area": "basement",
+  "setting": "residential",
+  "system": "full_flake",
+  "color": "Granite",
+  "color_confidence": "low",
+  "color_runner_up": "Stone Rowe",
+  "color_description": "gray, white and black chips, small to medium size",
+  "shot_type": "finished",
+  "people": "none",
+  "faces_identifiable": false,
+  "privacy": [],
+  "branding_visible": false,
+  "quality": "4",
+  "issues": [],
+  "website_ready": true,
+  "title": "Basement utility room with gray full flake floor",
+  "alt_text": "Gray full flake floor coating in a basement utility room with water heater, furnace and floor drain",
+  "tags": [
+   "basement",
+   "utility room",
+   "full flake",
+   "gray chips",
+   "water heater",
+   "furnace",
+   "floor drain",
+   "finished floor",
+   "garage floor coating"
+  ],
+  "filename": "basement-utility-room-gray-full-flake"
+ },
+ "id": "4fad83159aab",
+ "provider": "kimi",
+ "model": "moonshotai/kimi-k3",
+ "mode": "run",
+ "blind": false,
+ "at": "2026-09-22T10:51:06"
+}

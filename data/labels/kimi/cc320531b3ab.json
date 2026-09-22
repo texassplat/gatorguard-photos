@@ -1,0 +1,47 @@
+{
+ "finish": "stop",
+ "usage": {
+  "input_tokens": 5098,
+  "output_tokens": 241,
+  "cost": 0.0157527
+ },
+ "served_by": "Together",
+ "label": {
+  "content": "floor_photo",
+  "area": "garage",
+  "setting": "residential",
+  "system": "full_flake",
+  "color": "Granite",
+  "color_confidence": "medium",
+  "color_runner_up": "Quartzite",
+  "color_description": "gray, white and black chips, small to medium size",
+  "shot_type": "finished",
+  "people": "none",
+  "faces_identifiable": false,
+  "privacy": [],
+  "branding_visible": false,
+  "quality": "4",
+  "issues": [],
+  "website_ready": true,
+  "title": "Gray full flake garage floor with control joint",
+  "alt_text": "Low angle view of a gray full flake garage floor coating with a saw cut joint and white baseboards",
+  "tags": [
+   "garage floor",
+   "full flake",
+   "gray chips",
+   "white chips",
+   "black chips",
+   "control joint",
+   "finished floor",
+   "glossy",
+   "baseboards"
+  ],
+  "filename": "gray-full-flake-garage-floor-joint"
+ },
+ "id": "cc320531b3ab",
+ "provider": "kimi",
+ "model": "moonshotai/kimi-k3",
+ "mode": "run",
+ "blind": false,
+ "at": "2026-09-22T10:51:26"
+}

@@ -1,0 +1,47 @@
+{
+ "finish": "stop",
+ "usage": {
+  "input_tokens": 5286,
+  "output_tokens": 228,
+  "cost": 0.00938166
+ },
+ "served_by": "DigitalOcean",
+ "label": {
+  "alt_text": "Garage entry with gray full flake floor showing red and black chips, coated stem wall, and a white door.",
+  "area": "garage",
+  "branding_visible": false,
+  "color": "Stone Crest",
+  "color_confidence": "medium",
+  "color_description": "gray base with red and black chips, small to medium size",
+  "color_runner_up": "unknown",
+  "content": "floor_photo",
+  "faces_identifiable": false,
+  "filename": "garage-entry-gray-flake-stem-wall",
+  "issues": [],
+  "people": "none",
+  "privacy": [],
+  "quality": "3",
+  "setting": "residential",
+  "shot_type": "close_up",
+  "system": "full_flake",
+  "tags": [
+   "garage",
+   "full flake",
+   "gray floor",
+   "red chips",
+   "black chips",
+   "stem wall",
+   "entry door",
+   "finished floor",
+   "close up"
+  ],
+  "title": "Garage entry with gray full flake and stem wall",
+  "website_ready": false
+ },
+ "id": "b165a25d1962",
+ "provider": "kimi",
+ "model": "moonshotai/kimi-k3",
+ "mode": "run",
+ "blind": false,
+ "at": "2026-09-22T10:50:59"
+}

@@ -1,0 +1,46 @@
+{
+ "finish": "stop",
+ "usage": {
+  "input_tokens": 5654,
+  "output_tokens": 260,
+  "cost": 0.01073446
+ },
+ "served_by": "DigitalOcean",
+ "label": {
+  "alt_text": "Black Friday ad graphic for concrete coating with a gray full flake garage floor and up to 50% off ticket",
+  "area": "garage",
+  "branding_visible": true,
+  "color": "unknown",
+  "color_confidence": "none",
+  "color_description": "gray, black and white chips, small size",
+  "color_runner_up": "not_applicable",
+  "content": "marketing_graphic",
+  "faces_identifiable": false,
+  "filename": "black-friday-ad-gray-flake-garage",
+  "issues": [
+   "text_overlay"
+  ],
+  "people": "none",
+  "privacy": [],
+  "quality": "3",
+  "setting": "unknown",
+  "shot_type": "graphic",
+  "system": "full_flake",
+  "tags": [
+   "black friday ad",
+   "facebook ad graphic",
+   "garage floor",
+   "gray flakes",
+   "promotion",
+   "full flake finish"
+  ],
+  "title": "Black Friday ad with gray garage floor",
+  "website_ready": false
+ },
+ "id": "9c44f0b48dfd",
+ "provider": "kimi",
+ "model": "moonshotai/kimi-k3",
+ "mode": "run",
+ "blind": false,
+ "at": "2026-09-22T10:46:49"
+}

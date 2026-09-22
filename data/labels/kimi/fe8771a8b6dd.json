@@ -1,0 +1,48 @@
+{
+ "finish": "stop",
+ "usage": {
+  "input_tokens": 5033,
+  "output_tokens": 265,
+  "cost": 0.00921566
+ },
+ "served_by": "DigitalOcean",
+ "label": {
+  "alt_text": "Close-up of gray full flake coated stem wall and step at a garage entry door threshold",
+  "area": "garage",
+  "branding_visible": false,
+  "color": "Granite",
+  "color_confidence": "medium",
+  "color_description": "gray, white and black chips, small to medium size",
+  "color_runner_up": "Avalon",
+  "content": "floor_photo",
+  "faces_identifiable": false,
+  "filename": "gray-flake-stem-wall-door-threshold",
+  "issues": [],
+  "people": "none",
+  "privacy": [],
+  "quality": "4",
+  "setting": "residential",
+  "shot_type": "close_up",
+  "system": "full_flake",
+  "tags": [
+   "full flake",
+   "stem wall",
+   "entry door",
+   "threshold",
+   "garage step",
+   "gray chips",
+   "white chips",
+   "black chips",
+   "close up",
+   "detail"
+  ],
+  "title": "Gray full flake stem wall at entry door",
+  "website_ready": true
+ },
+ "id": "fe8771a8b6dd",
+ "provider": "kimi",
+ "model": "moonshotai/kimi-k3",
+ "mode": "run",
+ "blind": false,
+ "at": "2026-09-22T10:50:45"
+}

@@ -1,0 +1,48 @@
+{
+ "finish": "stop",
+ "usage": {
+  "input_tokens": 5031,
+  "output_tokens": 218,
+  "cost": 0.0100686
+ },
+ "served_by": "Modal",
+ "label": {
+  "alt_text": "GatorGuard truck at a suburban home with a glossy sealed concrete driveway, poly enhance driveway sealer",
+  "area": "driveway_or_walkway",
+  "branding_visible": true,
+  "color": "unknown",
+  "color_confidence": "none",
+  "color_description": "smooth gray concrete with a glossy wet look clear sealer",
+  "color_runner_up": "unknown",
+  "content": "floor_photo",
+  "faces_identifiable": false,
+  "filename": "gatorguard-truck-sealed-driveway-suburban-home",
+  "issues": [],
+  "people": "none",
+  "privacy": [],
+  "quality": "4",
+  "setting": "residential",
+  "shot_type": "finished",
+  "system": "poly_enhance",
+  "tags": [
+   "driveway",
+   "wet look sealer",
+   "glossy",
+   "work truck",
+   "branded truck",
+   "suburban",
+   "brick house",
+   "garage",
+   "blue sky",
+   "finished"
+  ],
+  "title": "Sealed driveway with GatorGuard truck outside brick home",
+  "website_ready": true
+ },
+ "id": "19aa0eb3283a",
+ "provider": "kimi",
+ "model": "moonshotai/kimi-k3",
+ "mode": "run",
+ "blind": false,
+ "at": "2026-09-22T10:54:04"
+}

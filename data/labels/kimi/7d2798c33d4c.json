@@ -1,0 +1,49 @@
+{
+ "finish": "stop",
+ "usage": {
+  "input_tokens": 5662,
+  "output_tokens": 352,
+  "cost": 0.01194626
+ },
+ "served_by": "DigitalOcean",
+ "label": {
+  "alt_text": "Four panel ad showing GatorGuard logo over motorcycle garage, sunroom and patio coated concrete floors.",
+  "area": "other_exterior",
+  "branding_visible": true,
+  "color": "unknown",
+  "color_confidence": "low",
+  "color_description": "mixed collage: gray chips, glossy gray sunroom floor, sealed patio, tan and brown chips",
+  "color_runner_up": "not_applicable",
+  "content": "before_after_composite",
+  "faces_identifiable": false,
+  "filename": "gatorguard-collage-four-floor-photos",
+  "issues": [
+   "text_overlay",
+   "low_resolution"
+  ],
+  "people": "none",
+  "privacy": [],
+  "quality": "3",
+  "setting": "residential",
+  "shot_type": "finished",
+  "system": "full_flake",
+  "tags": [
+   "collage",
+   "facebook ad",
+   "logo watermark",
+   "motorcycle",
+   "garage",
+   "sunroom",
+   "patio",
+   "flake floor"
+  ],
+  "title": "Four panel collage of coated floors with logo",
+  "website_ready": false
+ },
+ "id": "7d2798c33d4c",
+ "provider": "kimi",
+ "model": "moonshotai/kimi-k3",
+ "mode": "run",
+ "blind": false,
+ "at": "2026-09-22T10:48:05"
+}

@@ -1,0 +1,48 @@
+{
+ "finish": "stop",
+ "usage": {
+  "input_tokens": 5066,
+  "output_tokens": 226,
+  "cost": 0.00879476
+ },
+ "served_by": "DigitalOcean",
+ "label": {
+  "alt_text": "Facebook ad video showing base coat application and GatorGuard logo",
+  "area": "garage",
+  "branding_visible": true,
+  "color": "not_applicable",
+  "color_confidence": "none",
+  "color_description": "",
+  "color_runner_up": "not_applicable",
+  "content": "marketing_graphic",
+  "faces_identifiable": false,
+  "filename": "gatoguard-process-base-coat-ad-video",
+  "issues": [
+   "text_overlay",
+   "low_resolution"
+  ],
+  "people": "prominent",
+  "privacy": [],
+  "quality": "2",
+  "setting": "unknown",
+  "shot_type": "in_progress",
+  "system": "unknown",
+  "tags": [
+   "facebook ad",
+   "base coat",
+   "crew working",
+   "logo",
+   "process video",
+   "garage floor coating",
+   "countdown intro"
+  ],
+  "title": "Facebook ad video of base coat application",
+  "website_ready": false
+ },
+ "id": "dd6699c5cadf",
+ "provider": "kimi",
+ "model": "moonshotai/kimi-k3",
+ "mode": "run",
+ "blind": false,
+ "at": "2026-09-22T10:48:49"
+}

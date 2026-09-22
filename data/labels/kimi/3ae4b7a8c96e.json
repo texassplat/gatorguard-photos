@@ -1,0 +1,46 @@
+{
+ "finish": "stop",
+ "usage": {
+  "input_tokens": 5356,
+  "output_tokens": 263,
+  "cost": 0.016854
+ },
+ "served_by": "Together",
+ "label": {
+  "content": "floor_photo",
+  "area": "garage",
+  "setting": "residential",
+  "system": "full_flake",
+  "color": "Granite",
+  "color_confidence": "medium",
+  "color_runner_up": "Indigo",
+  "color_description": "gray, white and black chips with a slight blue cast, small to medium size",
+  "shot_type": "finished",
+  "people": "none",
+  "faces_identifiable": false,
+  "privacy": [],
+  "branding_visible": false,
+  "quality": "4",
+  "issues": [],
+  "website_ready": true,
+  "title": "Garage with gray full flake floor and wood stairs",
+  "alt_text": "Garage interior with gray full flake floor coating, wooden entry stairs and open overhead door",
+  "tags": [
+   "garage",
+   "full flake",
+   "gray chips",
+   "wood stairs",
+   "garage door",
+   "finished floor",
+   "flake floor coating",
+   "residential"
+  ],
+  "filename": "garage-gray-full-flake-wood-stairs"
+ },
+ "id": "3ae4b7a8c96e",
+ "provider": "kimi",
+ "model": "moonshotai/kimi-k3",
+ "mode": "run",
+ "blind": false,
+ "at": "2026-09-22T10:52:18"
+}

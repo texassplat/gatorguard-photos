@@ -1,0 +1,46 @@
+{
+ "finish": "stop",
+ "usage": {
+  "input_tokens": 4727,
+  "output_tokens": 253,
+  "cost": 0.00827996
+ },
+ "served_by": "DigitalOcean",
+ "label": {
+  "alt_text": "Close-up of a tan, brown and black full flake coating on a step edge next to gray concrete.",
+  "area": "steps_or_stairs",
+  "branding_visible": false,
+  "color": "Sedona",
+  "color_confidence": "medium",
+  "color_description": "tan, brown and black chips, medium size",
+  "color_runner_up": "Chestnut",
+  "content": "floor_photo",
+  "faces_identifiable": false,
+  "filename": "full-flake-step-edge-close-up",
+  "issues": [],
+  "people": "none",
+  "privacy": [],
+  "quality": "3",
+  "setting": "unknown",
+  "shot_type": "close_up",
+  "system": "full_flake",
+  "tags": [
+   "full flake",
+   "step edge",
+   "stem wall",
+   "tan chips",
+   "brown chips",
+   "black chips",
+   "concrete edge",
+   "close up"
+  ],
+  "title": "Close-up of flake coated step edge",
+  "website_ready": false
+ },
+ "id": "da81c909d4e4",
+ "provider": "kimi",
+ "model": "moonshotai/kimi-k3",
+ "mode": "run",
+ "blind": false,
+ "at": "2026-09-22T10:52:51"
+}

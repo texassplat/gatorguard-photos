@@ -1,0 +1,49 @@
+{
+ "finish": "stop",
+ "usage": {
+  "input_tokens": 5056,
+  "output_tokens": 271,
+  "cost": 0.0161037
+ },
+ "served_by": "Together",
+ "label": {
+  "content": "marketing_graphic",
+  "area": "garage",
+  "setting": "residential",
+  "system": "full_flake",
+  "color": "Silver Butte",
+  "color_confidence": "low",
+  "color_runner_up": "Stone Rowe",
+  "color_description": "gray, white and black chips, medium size",
+  "shot_type": "graphic",
+  "people": "none",
+  "faces_identifiable": false,
+  "privacy": [],
+  "branding_visible": false,
+  "quality": "3",
+  "issues": [
+   "text_overlay"
+  ],
+  "website_ready": false,
+  "title": "Garage flake floor with 50 percent off ad",
+  "alt_text": "Garage with gray flake floor and large 50 percent off holiday pricing text overlay",
+  "tags": [
+   "garage",
+   "full flake",
+   "gray flakes",
+   "ad",
+   "text overlay",
+   "holiday sale",
+   "brick walls",
+   "open garage door",
+   "facebook ad"
+  ],
+  "filename": "garage-flake-floor-50-off-ad"
+ },
+ "id": "d48dc99cef1b",
+ "provider": "kimi",
+ "model": "moonshotai/kimi-k3",
+ "mode": "run",
+ "blind": false,
+ "at": "2026-09-22T10:49:48"
+}

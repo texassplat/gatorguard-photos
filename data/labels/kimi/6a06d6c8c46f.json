@@ -1,0 +1,48 @@
+{
+ "finish": "stop",
+ "usage": {
+  "input_tokens": 5036,
+  "output_tokens": 252,
+  "cost": 0.00905496
+ },
+ "served_by": "DigitalOcean",
+ "label": {
+  "alt_text": "GatorGuard Concrete Coatings Facebook ad offering 25% off floor coatings over a gray full flake garage floor image",
+  "area": "garage",
+  "branding_visible": true,
+  "color": "Granite",
+  "color_confidence": "medium",
+  "color_description": "gray, white and black chips",
+  "color_runner_up": "Silver Butte",
+  "content": "marketing_graphic",
+  "faces_identifiable": false,
+  "filename": "gatoguard-25-percent-off-ad",
+  "issues": [
+   "text_overlay",
+   "low_resolution"
+  ],
+  "people": "none",
+  "privacy": [],
+  "quality": "3",
+  "setting": "residential",
+  "shot_type": "graphic",
+  "system": "full_flake",
+  "tags": [
+   "facebook ad",
+   "marketing graphic",
+   "25 percent off",
+   "alligator mascot",
+   "gray flake floor",
+   "promotion",
+   "gatoguard logo"
+  ],
+  "title": "GatorGuard 25 percent off Facebook ad",
+  "website_ready": false
+ },
+ "id": "6a06d6c8c46f",
+ "provider": "kimi",
+ "model": "moonshotai/kimi-k3",
+ "mode": "run",
+ "blind": false,
+ "at": "2026-09-22T10:47:50"
+}

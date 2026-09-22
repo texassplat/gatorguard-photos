@@ -1,0 +1,47 @@
+{
+ "finish": "stop",
+ "usage": {
+  "input_tokens": 5055,
+  "output_tokens": 172,
+  "cost": 0.0146157
+ },
+ "served_by": "Together",
+ "label": {
+  "content": "marketing_graphic",
+  "area": "not_visible",
+  "setting": "unknown",
+  "system": "not_applicable",
+  "color": "not_applicable",
+  "color_confidence": "none",
+  "color_runner_up": "not_applicable",
+  "color_description": "",
+  "shot_type": "graphic",
+  "people": "none",
+  "faces_identifiable": false,
+  "privacy": [],
+  "branding_visible": true,
+  "quality": "3",
+  "issues": [
+   "dark",
+   "text_overlay"
+  ],
+  "website_ready": false,
+  "title": "GatorGuard Facebook ad with gator logo",
+  "alt_text": "GatorGuard Concrete Coatings ad graphic with green alligator logo and Contact text on black background",
+  "tags": [
+   "facebook ad",
+   "logo",
+   "alligator",
+   "branding",
+   "marketing graphic",
+   "contact"
+  ],
+  "filename": "gatorguard-facebook-ad-gator-logo"
+ },
+ "id": "060309f103ad",
+ "provider": "kimi",
+ "model": "moonshotai/kimi-k3",
+ "mode": "run",
+ "blind": false,
+ "at": "2026-09-22T10:49:02"
+}

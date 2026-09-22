@@ -1,0 +1,47 @@
+{
+ "finish": "stop",
+ "usage": {
+  "input_tokens": 5652,
+  "output_tokens": 216,
+  "cost": 0.0119016
+ },
+ "served_by": "Modal",
+ "label": {
+  "alt_text": "Driveway with Lifetime Warranty text overlay and GatorGuard trailer parked at suburban home",
+  "area": "driveway_or_walkway",
+  "branding_visible": true,
+  "color": "not_applicable",
+  "color_confidence": "none",
+  "color_description": "",
+  "color_runner_up": "not_applicable",
+  "content": "marketing_graphic",
+  "faces_identifiable": false,
+  "filename": "lifetime-warranty-driveway-ad-graphic",
+  "issues": [
+   "text_overlay"
+  ],
+  "people": "none",
+  "privacy": [],
+  "quality": "3",
+  "setting": "residential",
+  "shot_type": "graphic",
+  "system": "unknown",
+  "tags": [
+   "lifetime warranty",
+   "ad graphic",
+   "driveway",
+   "text overlay",
+   "gatorguard trailer",
+   "suburban home",
+   "google ads"
+  ],
+  "title": "Lifetime Warranty ad graphic over driveway photo",
+  "website_ready": false
+ },
+ "id": "3779bbe3ab9f",
+ "provider": "kimi",
+ "model": "moonshotai/kimi-k3",
+ "mode": "run",
+ "blind": false,
+ "at": "2026-09-22T10:53:15"
+}

@@ -1,0 +1,46 @@
+{
+ "finish": "stop",
+ "usage": {
+  "input_tokens": 5657,
+  "output_tokens": 203,
+  "cost": 0.01000396
+ },
+ "served_by": "DigitalOcean",
+ "label": {
+  "alt_text": "Home gym with cabinets and equipment behind Lifetime Warranty text overlay",
+  "area": "interior_room",
+  "branding_visible": false,
+  "color": "not_applicable",
+  "color_confidence": "none",
+  "color_description": "",
+  "color_runner_up": "not_applicable",
+  "content": "marketing_graphic",
+  "faces_identifiable": false,
+  "filename": "lifetime-warranty-home-gym-ad",
+  "issues": [
+   "text_overlay"
+  ],
+  "people": "none",
+  "privacy": [],
+  "quality": "2",
+  "setting": "residential",
+  "shot_type": "graphic",
+  "system": "unknown",
+  "tags": [
+   "home gym",
+   "lifetime warranty",
+   "ad graphic",
+   "cabinets",
+   "exercise equipment",
+   "text overlay"
+  ],
+  "title": "Lifetime warranty ad over home gym photo",
+  "website_ready": false
+ },
+ "id": "649654cd507e",
+ "provider": "kimi",
+ "model": "moonshotai/kimi-k3",
+ "mode": "run",
+ "blind": false,
+ "at": "2026-09-22T10:53:25"
+}

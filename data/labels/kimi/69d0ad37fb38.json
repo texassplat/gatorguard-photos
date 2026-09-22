@@ -1,0 +1,45 @@
+{
+ "finish": "stop",
+ "usage": {
+  "input_tokens": 5060,
+  "output_tokens": 172,
+  "cost": 0.00808016
+ },
+ "served_by": "DigitalOcean",
+ "label": {
+  "alt_text": "Facebook ad showing gray epoxy being poured with promo text overlay",
+  "area": "not_visible",
+  "branding_visible": true,
+  "color": "unknown",
+  "color_confidence": "none",
+  "color_description": "",
+  "color_runner_up": "not_applicable",
+  "content": "marketing_graphic",
+  "faces_identifiable": false,
+  "filename": "facebook-ad-epoxy-pouring-offer",
+  "issues": [
+   "text_overlay"
+  ],
+  "people": "background",
+  "privacy": [],
+  "quality": "2",
+  "setting": "unknown",
+  "shot_type": "graphic",
+  "system": "unknown",
+  "tags": [
+   "facebook ad",
+   "promo graphic",
+   "epoxy pouring",
+   "offer text",
+   "gray coating"
+  ],
+  "title": "Facebook ad with epoxy pouring offer text",
+  "website_ready": false
+ },
+ "id": "69d0ad37fb38",
+ "provider": "kimi",
+ "model": "moonshotai/kimi-k3",
+ "mode": "run",
+ "blind": false,
+ "at": "2026-09-22T10:50:07"
+}

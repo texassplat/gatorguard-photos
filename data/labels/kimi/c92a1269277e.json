@@ -1,0 +1,50 @@
+{
+ "finish": "stop",
+ "usage": {
+  "input_tokens": 5061,
+  "output_tokens": 221,
+  "cost": 0.00871726
+ },
+ "served_by": "DigitalOcean",
+ "label": {
+  "alt_text": "A smiling man in a blue plaid shirt standing in a garage with white cabinets, with text overlay reading AND KEEP YOUR WIFE HAPPY.",
+  "area": "garage",
+  "branding_visible": false,
+  "color": "not_applicable",
+  "color_confidence": "none",
+  "color_description": "",
+  "color_runner_up": "not_applicable",
+  "content": "people_or_team",
+  "faces_identifiable": true,
+  "filename": "man-in-garage-ad-text-overlay",
+  "issues": [
+   "text_overlay"
+  ],
+  "people": "prominent",
+  "privacy": [
+   "customer_face"
+  ],
+  "quality": "3",
+  "setting": "residential",
+  "shot_type": "other",
+  "system": "not_applicable",
+  "tags": [
+   "facebook ad",
+   "man in garage",
+   "text overlay",
+   "plaid shirt",
+   "cabinets",
+   "workbench",
+   "social media",
+   "actor"
+  ],
+  "title": "Man in garage with ad text overlay",
+  "website_ready": false
+ },
+ "id": "c92a1269277e",
+ "provider": "kimi",
+ "model": "moonshotai/kimi-k3",
+ "mode": "run",
+ "blind": false,
+ "at": "2026-09-22T10:49:14"
+}

@@ -1,0 +1,49 @@
+{
+ "finish": "stop",
+ "usage": {
+  "input_tokens": 5073,
+  "output_tokens": 277,
+  "cost": 0.00947306
+ },
+ "served_by": "DigitalOcean",
+ "label": {
+  "alt_text": "GatorGuard social ad montage showing full broadcast flake floors, mascot character, and company trailer",
+  "area": "garage",
+  "branding_visible": true,
+  "color": "unknown",
+  "color_confidence": "none",
+  "color_description": "gray and black mixed chips on one floor, other floors too dark or blurry to read",
+  "color_runner_up": "not_applicable",
+  "content": "other",
+  "faces_identifiable": false,
+  "filename": "gatorguard-ad-montage-flake-floors",
+  "issues": [
+   "text_overlay",
+   "blurry"
+  ],
+  "people": "none",
+  "privacy": [],
+  "quality": "2",
+  "setting": "residential",
+  "shot_type": "other",
+  "system": "full_flake",
+  "tags": [
+   "facebook ad",
+   "video montage",
+   "full flake",
+   "garage floor",
+   "company trailer",
+   "mascot",
+   "broadcast flake",
+   "text overlay"
+  ],
+  "title": "Social ad montage of flake floor installs",
+  "website_ready": false
+ },
+ "id": "f810bb621210",
+ "provider": "kimi",
+ "model": "moonshotai/kimi-k3",
+ "mode": "run",
+ "blind": false,
+ "at": "2026-09-22T10:48:59"
+}

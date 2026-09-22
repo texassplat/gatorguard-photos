@@ -1,0 +1,50 @@
+{
+ "finish": "stop",
+ "usage": {
+  "input_tokens": 5662,
+  "output_tokens": 437,
+  "cost": 0.01304701
+ },
+ "served_by": "DigitalOcean",
+ "label": {
+  "alt_text": "Four GatorGuard scenes: porch flake floor, garage with Porsche, patio flake floor, and crew coating a floor.",
+  "area": "garage",
+  "branding_visible": true,
+  "color": "unknown",
+  "color_confidence": "none",
+  "color_description": "multiple floors shown: tan and brown flakes, gray flakes, plus a solid light coating in progress",
+  "color_runner_up": "not_applicable",
+  "content": "floor_photo",
+  "faces_identifiable": false,
+  "filename": "gatorguard-flake-floors-and-crew-video",
+  "issues": [
+   "text_overlay"
+  ],
+  "people": "background",
+  "privacy": [],
+  "quality": "3",
+  "setting": "residential",
+  "shot_type": "finished",
+  "system": "full_flake",
+  "tags": [
+   "full flake",
+   "garage",
+   "patio",
+   "porch",
+   "porsche",
+   "logo inlay",
+   "crew working",
+   "facebook ad video",
+   "tan brown flakes",
+   "gray flakes"
+  ],
+  "title": "Video montage of coated garage and patio floors",
+  "website_ready": false
+ },
+ "id": "af64f6cc23fc",
+ "provider": "kimi",
+ "model": "moonshotai/kimi-k3",
+ "mode": "run",
+ "blind": false,
+ "at": "2026-09-22T10:48:01"
+}

@@ -1,0 +1,48 @@
+{
+ "finish": "stop",
+ "usage": {
+  "input_tokens": 4649,
+  "output_tokens": 222,
+  "cost": 0.0141234
+ },
+ "served_by": "Together",
+ "label": {
+  "content": "before_after_composite",
+  "area": "garage",
+  "setting": "residential",
+  "system": "full_flake",
+  "color": "Granite",
+  "color_confidence": "medium",
+  "color_runner_up": "Stone Rowe",
+  "color_description": "gray, white and black chips, medium size",
+  "shot_type": "before_after",
+  "people": "none",
+  "faces_identifiable": false,
+  "privacy": [],
+  "branding_visible": false,
+  "quality": "3",
+  "issues": [
+   "text_overlay"
+  ],
+  "website_ready": false,
+  "title": "Garage floor before and after gray flake coating",
+  "alt_text": "Before and after split image of a cracked garage floor and a gray full flake garage floor coating",
+  "tags": [
+   "before and after",
+   "garage floor",
+   "full flake",
+   "gray chips",
+   "cracked concrete",
+   "facebook ad",
+   "gray flake floor",
+   "coated garage"
+  ],
+  "filename": "garage-before-after-gray-flake-floor"
+ },
+ "id": "1555808712fe",
+ "provider": "kimi",
+ "model": "moonshotai/kimi-k3",
+ "mode": "run",
+ "blind": false,
+ "at": "2026-09-22T10:48:56"
+}

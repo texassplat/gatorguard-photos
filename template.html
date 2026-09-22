@@ -149,7 +149,8 @@ const FACETS = [
   {k:'set', label:'Setting', get:d => d.set, name:v => v[0].toUpperCase() + v.slice(1)},
   {k:'mk', label:'Market', get:d => d.mk},
   {k:'yr', label:'Year', get:d => d.yr},
-  {k:'top', label:'Drive folder', get:d => d.top},
+  {k:'ads', label:'Ad account', get:d => d.ads, multi:true},
+  {k:'top', label:'Folder', get:d => d.top},
 ];
 const TOGGLES = [
   {k:'ready', label:'Website-ready', test:d => d.ready === true},
@@ -203,7 +204,8 @@ let view = [], shown = 0, cur = -1;
 
 function haystack(d) {
   return d._h ||= [d.title, d.alt, d.tags.join(' '), d.col, d.coll, d.aic, d.cd, d.p.join(' '), d.mk,
-    nice('area', d.area), nice('sys', d.sys), nice('shot', d.shot), d.yr].join(' ').toLowerCase();
+    nice('area', d.area), nice('sys', d.sys), nice('shot', d.shot), d.yr,
+    d.asrc.map(a => a[1]).join(' '), d.camp.map(i => META.campaigns[i]).join(' ')].join(' ').toLowerCase();
 }
 function matches(d, skip) {
   if (state.q) { for (const w of state.q.split(/\s+/)) if (!haystack(d).includes(w)) return false; }
@@ -313,6 +315,16 @@ async function copyImage(d, btn) {
   } catch (e) { copyText(abs(d.m), 'Browser blocked image copy; link'); }
 }
 
+const isAd = d => META.adFolders.includes(d.top);
+function adInfo(d) {
+  if (!d.ads.length) return '';
+  const out = d.asrc.map(([pf, name, link]) => `${esc(pf)}: ${link ? `<a href="${esc(link)}" target="_blank" rel="noopener">${esc(name)}</a>` : esc(name)}`);
+  if (d.acount > d.asrc.length) out.push(`<small>and ${d.acount - d.asrc.length} more copies</small>`);
+  const c = d.camp.map(i => META.campaigns[i]);
+  out.push(`<small>${c.length ? 'Campaigns: ' + esc(c.slice(0, 6).join('; ')) + (c.length > 6 ? `; and ${c.length - 6} more` : '') : 'No campaign found using it'}</small>`);
+  return out.join('<br>');
+}
+
 function open(i) {
   cur = i; const d = view[i];
   const media = $('#media');
@@ -346,9 +358,10 @@ function open(i) {
       ${row('Quality', d.q ? d.q + ' / 5' + (d.iss.length ? ' <small>(' + esc(d.iss.join(', ')) + ')</small>' : '') : '')}
       ${row('Privacy', d.priv.length || d.face ? '<span style="color:var(--warn)">' + esc([...d.priv, d.face ? 'recognisable face' : ''].filter(Boolean).join(', ')) + '</span>' : '')}
       ${row('Tags', esc(d.tags.join(', ')))}
-      ${row('Labels', d.by ? 'AI (' + esc(d.by.split('/').pop()) + ') plus Drive folder names' : 'Drive folder names only')}
+      ${row('Ads', adInfo(d))}
+      ${row('Labels', (d.by ? 'AI (' + esc(d.by.split('/').pop()) + ') plus ' : '') + (isAd(d) ? 'the ad account' : 'Drive folder names') + (d.by ? '' : ' only'))}
       ${row('Size', d.w ? `${d.w}×${d.h}, ${d.mb} MB original` + (d.dur ? `, ${Math.round(d.dur)}s` : '') : '')}
-      ${row('Original', d.p.map(esc).join('<br>') + `<br><a href="${META.drive}" target="_blank" rel="noopener">Open the Drive folder</a>`)}
+      ${row('Original', d.p.map(esc).join('<br>') + (isAd(d) ? `<br><small>Downloaded from the ad account ${esc(META.adsFetched || '')}; not in the Drive folder</small>` : `<br><a href="${META.drive}" target="_blank" rel="noopener">Open the Drive folder</a>`))}
     </dl>
     ${document.body.classList.contains('editing') ? editForm(d) : (d.edited ? '<div class="hint">Edited here. Turn on <b>Edit labels</b> to change it.</div>' : '')}
     ${sims.length ? `<div style="color:var(--mut)">Near-duplicates</div><div class="sims">${sims.map(s => `<img src="${s.t}" data-id="${s.id}" title="${esc(s.p[0])}">`).join('')}</div>` : ''}
@@ -508,7 +521,7 @@ $('#ovclear').onclick = () => {
 };
 $('#sort').onchange = () => { state.sort = $('#sort').value; apply(); };
 $('#reset').onclick = () => { state.q = ''; $('#q').value = ''; state.f = {}; state.t = {}; apply(); };
-$('#hint').innerHTML = `Click a picture for details. <b>Copy image</b> pastes straight into a doc, email or Canva; <b>Download</b> saves a 1600px web copy with a descriptive file name. Full-size originals are in the <a href="${META.drive}" target="_blank" rel="noopener">ALL GG PHOTOS Drive folder</a> at the path shown in each picture's details.` +
+$('#hint').innerHTML = `Click a picture for details. <b>Copy image</b> pastes straight into a doc, email or Canva; <b>Download</b> saves a 1600px web copy with a descriptive file name. Full-size originals are in the <a href="${META.drive}" target="_blank" rel="noopener">ALL GG PHOTOS Drive folder</a> at the path shown in each picture's details. Pictures and videos from GatorGuard's Google Ads and Facebook ad accounts are here too (filter <b>Ad account</b>); where an ad reused a library photo, that photo is marked instead of added twice.` +
   (META.labelled < META.total ? ` <b>${META.total - META.labelled} items are not AI-labelled yet</b>, so for those the filters only know what the Drive folder names say.` : ' Colors marked <span class="chip g">?</span> are AI matches; the rest come from staff folders.');
 DATA.forEach(applyOv);
 refreshEditUi();

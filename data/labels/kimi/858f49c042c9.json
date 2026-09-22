@@ -1,0 +1,45 @@
+{
+ "finish": "stop",
+ "usage": {
+  "input_tokens": 5101,
+  "output_tokens": 215,
+  "cost": 0.00874156
+ },
+ "served_by": "DigitalOcean",
+ "label": {
+  "alt_text": "Light gray full flake garage floor with coated stem wall, interior corner view",
+  "area": "garage",
+  "branding_visible": false,
+  "color": "unknown",
+  "color_confidence": "low",
+  "color_description": "light gray, white and tan chips, fine to medium size",
+  "color_runner_up": "Lunar",
+  "content": "floor_photo",
+  "faces_identifiable": false,
+  "filename": "gray-full-flake-garage-stem-wall",
+  "issues": [],
+  "people": "none",
+  "privacy": [],
+  "quality": "4",
+  "setting": "residential",
+  "shot_type": "finished",
+  "system": "full_flake",
+  "tags": [
+   "full flake",
+   "garage floor",
+   "gray chips",
+   "stem wall",
+   "finished floor",
+   "light gray",
+   "epoxy garage floor"
+  ],
+  "title": "Light gray full flake garage floor with stem wall",
+  "website_ready": true
+ },
+ "id": "858f49c042c9",
+ "provider": "kimi",
+ "model": "moonshotai/kimi-k3",
+ "mode": "run",
+ "blind": false,
+ "at": "2026-09-22T10:52:02"
+}

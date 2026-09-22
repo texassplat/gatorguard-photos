@@ -11,8 +11,18 @@ WORK = ROOT / "work"           # not published: labelling inputs, caches
 SITE = ROOT / "docs"           # published by GitHub Pages
 SRC = Path(os.environ.get("GG_PHOTOS_SRC", Path.home() / "Desktop/GatorGuard/photos/ALL GG PHOTOS"))
 DRIVE_FOLDER = "https://drive.google.com/drive/folders/1clmfBvB8T7fjUeJ5VA_deRzeleH6H0oQ"
+# Unique Google Ads and Facebook ad images and videos, filed by tools/ads.py. Inventory paths
+# that start with one of these folder names live here instead of in SRC.
+ADS_SRC = Path(os.environ.get("GG_ADS_SRC", Path.home() / "Desktop/GatorGuard/photos/Ad assets"))
+AD_FOLDERS = {"google": "Google Ads", "facebook": "Facebook Ads"}
 
-PHOTO_EXT = {".jpg", ".jpeg", ".png", ".heic", ".webp", ".psd"}
+
+def source_path(rel):
+    """The original file for an inventory path."""
+    return (ADS_SRC if Path(rel).parts[0] in AD_FOLDERS.values() else SRC) / rel
+
+
+PHOTO_EXT = {".jpg", ".jpeg", ".png", ".heic", ".webp", ".psd", ".gif"}
 VIDEO_EXT = {".mp4", ".mov"}
 DOC_EXT = {".pdf"}
 SKIP_EXT = {".lrf", ".srt", ".ds_store"}  # DJI proxy clips, drone telemetry, macOS junk
@@ -119,6 +129,8 @@ FOLDER_FACTS = {
     "Birdeye Assets": {"tags": ["Birdeye asset"]},
     "NFL Vikings": {"tags": ["NFL Vikings"]},
     "Gesse LA Job 2-2024": {"tags": ["Gesse LA job 2024"], "market": "Outside markets"},
+    "Google Ads": {"tags": ["Google Ads"]},
+    "Facebook Ads": {"tags": ["Facebook ad"]},
 }
 
 # Stage folders inside the Gesse LA job.

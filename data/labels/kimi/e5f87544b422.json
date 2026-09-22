@@ -1,0 +1,46 @@
+{
+ "finish": "stop",
+ "usage": {
+  "input_tokens": 5652,
+  "output_tokens": 244,
+  "cost": 0.01052216
+ },
+ "served_by": "DigitalOcean",
+ "label": {
+  "alt_text": "A blue sports car parked on a glossy dark gray metallic garage floor.",
+  "area": "garage",
+  "branding_visible": false,
+  "color": "Charcoal",
+  "color_confidence": "medium",
+  "color_description": "dark gray and black metallic swirl, reflective",
+  "color_runner_up": "Gray",
+  "content": "floor_photo",
+  "faces_identifiable": false,
+  "filename": "blue-mustang-dark-metallic-garage-floor",
+  "issues": [],
+  "people": "none",
+  "privacy": [],
+  "quality": "5",
+  "setting": "residential",
+  "shot_type": "finished",
+  "system": "metallic",
+  "tags": [
+   "garage floor",
+   "metallic epoxy",
+   "dark gray",
+   "reflective floor",
+   "sports car",
+   "mustang",
+   "finished floor",
+   "garage"
+  ],
+  "title": "Blue sports car on dark metallic garage floor",
+  "website_ready": true
+ },
+ "id": "e5f87544b422",
+ "provider": "kimi",
+ "model": "moonshotai/kimi-k3",
+ "mode": "run",
+ "blind": false,
+ "at": "2026-09-22T10:50:07"
+}

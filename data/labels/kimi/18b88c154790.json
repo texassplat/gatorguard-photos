@@ -1,0 +1,46 @@
+{
+ "finish": "stop",
+ "usage": {
+  "input_tokens": 5122,
+  "output_tokens": 213,
+  "cost": 0.018561
+ },
+ "served_by": "Modal",
+ "label": {
+  "alt_text": "Worker rolling clear coat over blue, gray and white full flake garage floor coating",
+  "area": "garage",
+  "branding_visible": false,
+  "color": "Pacific Coast",
+  "color_confidence": "medium",
+  "color_description": "blue, gray, white and black chips, medium size",
+  "color_runner_up": "Cobalt",
+  "content": "floor_photo",
+  "faces_identifiable": true,
+  "filename": "crew-rolling-clear-coat-blue-flake",
+  "issues": [],
+  "people": "prominent",
+  "privacy": [],
+  "quality": "4",
+  "setting": "residential",
+  "shot_type": "in_progress",
+  "system": "full_flake",
+  "tags": [
+   "full flake",
+   "clear coat rolling",
+   "blue gray chips",
+   "crew working",
+   "garage floor",
+   "in progress",
+   "roller",
+   "flake floor"
+  ],
+  "title": "Crew member rolling clear coat over blue flake floor",
+  "website_ready": true
+ },
+ "id": "18b88c154790",
+ "provider": "kimi",
+ "model": "moonshotai/kimi-k3",
+ "mode": "run",
+ "blind": false,
+ "at": "2026-09-22T10:53:03"
+}

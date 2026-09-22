@@ -1,0 +1,50 @@
+{
+ "finish": "stop",
+ "usage": {
+  "input_tokens": 5071,
+  "output_tokens": 206,
+  "cost": 0.0151629
+ },
+ "served_by": "Together",
+ "label": {
+  "content": "before_after_composite",
+  "area": "garage",
+  "setting": "residential",
+  "system": "full_flake",
+  "color": "unknown",
+  "color_confidence": "low",
+  "color_runner_up": "unknown",
+  "color_description": "gray speckled flake floors shown in after panels, mix of gray, white and black chips",
+  "shot_type": "before_after",
+  "people": "none",
+  "faces_identifiable": false,
+  "privacy": [],
+  "branding_visible": true,
+  "quality": "3",
+  "issues": [
+   "text_overlay",
+   "low_resolution"
+  ],
+  "website_ready": false,
+  "title": "Branded before and after concrete coating ad",
+  "alt_text": "Four before and after panels of garage and patio concrete coating in a GatorGuard Facebook ad layout",
+  "tags": [
+   "facebook ad",
+   "before and after",
+   "garage floor",
+   "full flake",
+   "gray flake",
+   "stamped concrete",
+   "branded graphic",
+   "quote button",
+   "video ad"
+  ],
+  "filename": "gatorguard-before-after-facebook-ad"
+ },
+ "id": "4106747fa3a7",
+ "provider": "kimi",
+ "model": "moonshotai/kimi-k3",
+ "mode": "run",
+ "blind": false,
+ "at": "2026-09-22T10:48:28"
+}

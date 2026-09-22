@@ -1,0 +1,48 @@
+{
+ "finish": "stop",
+ "usage": {
+  "input_tokens": 5061,
+  "output_tokens": 279,
+  "cost": 0.00946836
+ },
+ "served_by": "DigitalOcean",
+ "label": {
+  "alt_text": "GatorGuard ad showing a garage floor before as bare concrete and after with gray full flake coating",
+  "area": "garage",
+  "branding_visible": true,
+  "color": "unknown",
+  "color_confidence": "low",
+  "color_description": "gray and white chips, small to medium size",
+  "color_runner_up": "Infinity",
+  "content": "before_after_composite",
+  "faces_identifiable": false,
+  "filename": "garage-before-after-ad-graphic",
+  "issues": [
+   "text_overlay"
+  ],
+  "people": "none",
+  "privacy": [],
+  "quality": "3",
+  "setting": "residential",
+  "shot_type": "before_after",
+  "system": "full_flake",
+  "tags": [
+   "facebook ad",
+   "before after",
+   "garage floor",
+   "full flake",
+   "gray chips",
+   "garage interior",
+   "marketing",
+   "comparison"
+  ],
+  "title": "Before and after garage floor ad graphic",
+  "website_ready": false
+ },
+ "id": "0afd461847e9",
+ "provider": "kimi",
+ "model": "moonshotai/kimi-k3",
+ "mode": "run",
+ "blind": false,
+ "at": "2026-09-22T10:49:09"
+}

@@ -1,0 +1,47 @@
+{
+ "finish": "stop",
+ "usage": {
+  "input_tokens": 5648,
+  "output_tokens": 230,
+  "cost": 0.01137276
+ },
+ "served_by": "Phala",
+ "label": {
+  "alt_text": "Finished basement living room with gray marbled metallic epoxy floor, sectional sofa, and pub table",
+  "area": "basement",
+  "branding_visible": false,
+  "color": "Gray",
+  "color_confidence": "medium",
+  "color_description": "light to medium gray marbled metallic with white swirls, high gloss",
+  "color_runner_up": "Quartzite",
+  "content": "floor_photo",
+  "faces_identifiable": false,
+  "filename": "basement-gray-metallic-floor-living-room",
+  "issues": [],
+  "people": "none",
+  "privacy": [],
+  "quality": "5",
+  "setting": "residential",
+  "shot_type": "finished",
+  "system": "metallic",
+  "tags": [
+   "basement",
+   "metallic epoxy",
+   "gray metallic",
+   "marbled floor",
+   "living room",
+   "sectional sofa",
+   "high gloss",
+   "finished floor",
+   "facebook ad"
+  ],
+  "title": "Basement living room with gray metallic epoxy floor",
+  "website_ready": true
+ },
+ "id": "d65cb3900859",
+ "provider": "kimi",
+ "model": "moonshotai/kimi-k3",
+ "mode": "run",
+ "blind": false,
+ "at": "2026-09-22T10:49:44"
+}

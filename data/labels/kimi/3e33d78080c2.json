@@ -1,0 +1,47 @@
+{
+ "finish": "stop",
+ "usage": {
+  "input_tokens": 5651,
+  "output_tokens": 275,
+  "cost": 0.0127836
+ },
+ "served_by": "Modal",
+ "label": {
+  "alt_text": "Large space with gray metallic epoxy floor with bright blue marbled swirls, pallet wood walls and overhead doors",
+  "area": "commercial_or_industrial",
+  "branding_visible": false,
+  "color": "Gray",
+  "color_confidence": "low",
+  "color_description": "gray and silver marbled metallic with bold bright blue swirls",
+  "color_runner_up": "Charcoal",
+  "content": "floor_photo",
+  "faces_identifiable": false,
+  "filename": "gray-blue-metallic-epoxy-floor",
+  "issues": [],
+  "people": "none",
+  "privacy": [],
+  "quality": "5",
+  "setting": "commercial",
+  "shot_type": "finished",
+  "system": "metallic",
+  "tags": [
+   "metallic epoxy",
+   "gray floor",
+   "blue swirls",
+   "marbled",
+   "high gloss",
+   "wood pallet wall",
+   "overhead doors",
+   "commercial floor",
+   "liquid art"
+  ],
+  "title": "Gray metallic epoxy floor with blue swirls",
+  "website_ready": true
+ },
+ "id": "3e33d78080c2",
+ "provider": "kimi",
+ "model": "moonshotai/kimi-k3",
+ "mode": "run",
+ "blind": false,
+ "at": "2026-09-22T10:53:38"
+}

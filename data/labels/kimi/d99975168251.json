@@ -1,0 +1,50 @@
+{
+ "finish": "stop",
+ "usage": {
+  "input_tokens": 5413,
+  "output_tokens": 206,
+  "cost": 0.00942061
+ },
+ "served_by": "DigitalOcean",
+ "label": {
+  "alt_text": "Before and after video showing garage bare concrete and finished gray full flake floor with on-screen text.",
+  "area": "garage",
+  "branding_visible": true,
+  "color": "unknown",
+  "color_confidence": "low",
+  "color_description": "dark gray and black chips, fine size",
+  "color_runner_up": "Black Canyon",
+  "content": "before_after_composite",
+  "faces_identifiable": false,
+  "filename": "garage-before-after-full-flake-ad-video",
+  "issues": [
+   "text_overlay",
+   "low_resolution",
+   "blurry"
+  ],
+  "people": "none",
+  "privacy": [],
+  "quality": "3",
+  "setting": "residential",
+  "shot_type": "before_after",
+  "system": "full_flake",
+  "tags": [
+   "before and after",
+   "full flake",
+   "garage",
+   "garage door",
+   "dark gray chips",
+   "facebook ad",
+   "epoxy floor",
+   "branded graphic"
+  ],
+  "title": "Garage before and after full flake ad video",
+  "website_ready": false
+ },
+ "id": "d99975168251",
+ "provider": "kimi",
+ "model": "moonshotai/kimi-k3",
+ "mode": "run",
+ "blind": false,
+ "at": "2026-09-22T10:47:22"
+}

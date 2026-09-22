@@ -1,0 +1,48 @@
+{
+ "finish": "stop",
+ "usage": {
+  "input_tokens": 5655,
+  "output_tokens": 284,
+  "cost": 0.01104781
+ },
+ "served_by": "DigitalOcean",
+ "label": {
+  "alt_text": "Before and after ad showing a garage floor going from stained bare concrete to a brown full flake coated floor.",
+  "area": "garage",
+  "branding_visible": true,
+  "color": "Sedona",
+  "color_confidence": "medium",
+  "color_description": "brown, tan and red-brown chips, medium size",
+  "color_runner_up": "Chestnut with Rust Red",
+  "content": "before_after_composite",
+  "faces_identifiable": false,
+  "filename": "garage-makeover-before-after-ad",
+  "issues": [
+   "text_overlay"
+  ],
+  "people": "none",
+  "privacy": [],
+  "quality": "3",
+  "setting": "residential",
+  "shot_type": "before_after",
+  "system": "full_flake",
+  "tags": [
+   "before after",
+   "garage",
+   "facebook ad",
+   "full flake",
+   "brown chips",
+   "bare concrete",
+   "louvered doors",
+   "composite graphic"
+  ],
+  "title": "Before and after garage makeover ad",
+  "website_ready": false
+ },
+ "id": "7fbbb59dda62",
+ "provider": "kimi",
+ "model": "moonshotai/kimi-k3",
+ "mode": "run",
+ "blind": false,
+ "at": "2026-09-22T10:47:11"
+}

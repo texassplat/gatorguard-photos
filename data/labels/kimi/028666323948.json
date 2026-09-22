@@ -1,0 +1,48 @@
+{
+ "finish": "stop",
+ "usage": {
+  "input_tokens": 5315,
+  "output_tokens": 231,
+  "cost": 0.01941
+ },
+ "served_by": "Modal",
+ "label": {
+  "alt_text": "Gray swirled metallic epoxy floor with glossy finish in a room with white baseboards, metallic floor coating",
+  "area": "not_visible",
+  "branding_visible": false,
+  "color": "Gray",
+  "color_confidence": "medium",
+  "color_description": "gray and light silver marbled metallic swirls, no chips",
+  "color_runner_up": "Quartzite",
+  "content": "floor_photo",
+  "faces_identifiable": false,
+  "filename": "gray-metallic-epoxy-floor-swirl",
+  "issues": [
+   "blurry"
+  ],
+  "people": "none",
+  "privacy": [],
+  "quality": "3",
+  "setting": "unknown",
+  "shot_type": "finished",
+  "system": "metallic",
+  "tags": [
+   "metallic epoxy",
+   "gray floor",
+   "swirl pattern",
+   "marbled",
+   "glossy",
+   "reflective",
+   "interior floor",
+   "liquid art"
+  ],
+  "title": "Gray metallic epoxy floor with soft swirls",
+  "website_ready": false
+ },
+ "id": "028666323948",
+ "provider": "kimi",
+ "model": "moonshotai/kimi-k3",
+ "mode": "run",
+ "blind": false,
+ "at": "2026-09-22T10:53:44"
+}

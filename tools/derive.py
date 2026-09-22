@@ -24,7 +24,7 @@ from pathlib import Path
 from PIL import Image, ImageOps
 from pillow_heif import register_heif_opener
 
-from common import SITE, SRC, WORK, load_json, DATA
+from common import DATA, SITE, WORK, load_json, source_path
 
 register_heif_opener()
 Image.MAX_IMAGE_PIXELS = None
@@ -79,7 +79,7 @@ def save_set(im, it, force, web=True):
 
 
 def do_photo(it, force):
-    src = SRC / it["paths"][0]
+    src = source_path(it["paths"][0])
     with Image.open(src) as im:
         im.load()
         im = ImageOps.exif_transpose(im)
@@ -93,7 +93,7 @@ def run(cmd):
 
 
 def do_video(it, force):
-    src = SRC / it["paths"][0]
+    src = source_path(it["paths"][0])
     iid, dur = it["id"], max(it.get("duration") or 0, 1)
     vp = V / f"{iid}.mp4"
     long_edge = "scale='if(gt(iw,ih),854,-2)':'if(gt(iw,ih),-2,854)'"
@@ -125,7 +125,7 @@ def do_video(it, force):
 
 
 def do_doc(it, force):
-    src = SRC / it["paths"][0]
+    src = source_path(it["paths"][0])
     iid = it["id"]
     with tempfile.TemporaryDirectory() as tmp:
         run(["pdftoppm", "-jpeg", "-f", "1", "-l", "1", "-scale-to", "1600", str(src), f"{tmp}/p"])

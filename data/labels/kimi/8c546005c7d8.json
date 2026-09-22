@@ -1,0 +1,49 @@
+{
+ "finish": "stop",
+ "usage": {
+  "input_tokens": 5651,
+  "output_tokens": 378,
+  "cost": 0.0158361
+ },
+ "served_by": "Phala",
+ "label": {
+  "alt_text": "Split screen ad comparing dull and glossy sealed stamped concrete patio with stone fire pit",
+  "area": "patio_or_porch",
+  "branding_visible": true,
+  "color": "unknown",
+  "color_confidence": "low",
+  "color_description": "brown wet-look sealer over stamped concrete, no chips",
+  "color_runner_up": "not_applicable",
+  "content": "before_after_composite",
+  "faces_identifiable": false,
+  "filename": "before-after-stamped-patio-ad",
+  "issues": [
+   "text_overlay"
+  ],
+  "people": "none",
+  "privacy": [],
+  "quality": "3",
+  "setting": "residential",
+  "shot_type": "before_after",
+  "system": "stamped_concrete",
+  "tags": [
+   "before and after",
+   "stamped concrete",
+   "patio",
+   "fire pit",
+   "wet look sealer",
+   "facebook ad",
+   "comparison",
+   "outdoor kitchen",
+   "pool"
+  ],
+  "title": "Before and after stamped concrete patio ad",
+  "website_ready": false
+ },
+ "id": "8c546005c7d8",
+ "provider": "kimi",
+ "model": "moonshotai/kimi-k3",
+ "mode": "run",
+ "blind": false,
+ "at": "2026-09-22T10:47:04"
+}

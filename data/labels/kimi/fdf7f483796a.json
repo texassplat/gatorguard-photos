@@ -1,0 +1,48 @@
+{
+ "finish": "stop",
+ "usage": {
+  "input_tokens": 5405,
+  "output_tokens": 232,
+  "cost": 0.00973691
+ },
+ "served_by": "DigitalOcean",
+ "label": {
+  "alt_text": "Four-panel video ad with blue car on dark floor, gray flake close-up, garage with tan flake floor and living room with metallic floor",
+  "area": "garage",
+  "branding_visible": false,
+  "color": "unknown",
+  "color_confidence": "low",
+  "color_description": "dark glossy floor, gray white and black chips, tan brown and black chips, gray marbled metallic",
+  "color_runner_up": "unknown",
+  "content": "other",
+  "faces_identifiable": false,
+  "filename": "facebook-ad-garage-flake-metallic-collage",
+  "issues": [
+   "low_resolution"
+  ],
+  "people": "none",
+  "privacy": [],
+  "quality": "3",
+  "setting": "residential",
+  "shot_type": "finished",
+  "system": "full_flake",
+  "tags": [
+   "facebook ad",
+   "collage",
+   "garage floor",
+   "full flake",
+   "metallic floor",
+   "sports car",
+   "bicycles",
+   "living room"
+  ],
+  "title": "Ad collage of flake and metallic floors",
+  "website_ready": false
+ },
+ "id": "fdf7f483796a",
+ "provider": "kimi",
+ "model": "moonshotai/kimi-k3",
+ "mode": "run",
+ "blind": false,
+ "at": "2026-09-22T10:47:27"
+}

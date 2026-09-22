@@ -1,0 +1,47 @@
+{
+ "finish": "stop",
+ "usage": {
+  "input_tokens": 5397,
+  "output_tokens": 222,
+  "cost": 0.00958701
+ },
+ "served_by": "DigitalOcean",
+ "label": {
+  "alt_text": "Coated garage entry steps and landing in gray flake finish with Lifetime Warranty text overlay.",
+  "area": "steps_or_stairs",
+  "branding_visible": false,
+  "color": "unknown",
+  "color_confidence": "low",
+  "color_description": "gray and white flakes with black specks, fine to medium size",
+  "color_runner_up": "unknown",
+  "content": "marketing_graphic",
+  "faces_identifiable": false,
+  "filename": "gray-flake-steps-lifetime-warranty",
+  "issues": [
+   "text_overlay"
+  ],
+  "people": "none",
+  "privacy": [],
+  "quality": "3",
+  "setting": "residential",
+  "shot_type": "close_up",
+  "system": "full_flake",
+  "tags": [
+   "garage steps",
+   "entry steps",
+   "gray flake",
+   "full flake",
+   "lifetime warranty",
+   "text overlay",
+   "ad graphic"
+  ],
+  "title": "Gray flake coated garage steps with warranty text",
+  "website_ready": false
+ },
+ "id": "5adae2ca466c",
+ "provider": "kimi",
+ "model": "moonshotai/kimi-k3",
+ "mode": "run",
+ "blind": false,
+ "at": "2026-09-22T10:53:27"
+}

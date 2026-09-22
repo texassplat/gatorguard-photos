@@ -1,0 +1,47 @@
+{
+ "finish": "stop",
+ "usage": {
+  "input_tokens": 5055,
+  "output_tokens": 163,
+  "cost": 0.00942396
+ },
+ "served_by": "Phala",
+ "label": {
+  "alt_text": "GatorGuard Concrete Coatings logo with alligator mascot on black background with VIP waiting list button",
+  "area": "not_visible",
+  "branding_visible": true,
+  "color": "not_applicable",
+  "color_confidence": "none",
+  "color_description": "",
+  "color_runner_up": "not_applicable",
+  "content": "marketing_graphic",
+  "faces_identifiable": false,
+  "filename": "gatorguard-vip-waiting-list-ad",
+  "issues": [
+   "text_overlay"
+  ],
+  "people": "none",
+  "privacy": [],
+  "quality": "4",
+  "setting": "unknown",
+  "shot_type": "graphic",
+  "system": "not_applicable",
+  "tags": [
+   "logo",
+   "alligator mascot",
+   "facebook ad",
+   "vip waiting list",
+   "marketing graphic",
+   "brand",
+   "black background"
+  ],
+  "title": "GatorGuard VIP waiting list Facebook ad",
+  "website_ready": false
+ },
+ "id": "d9b3a7890df1",
+ "provider": "kimi",
+ "model": "moonshotai/kimi-k3",
+ "mode": "run",
+ "blind": false,
+ "at": "2026-09-22T10:49:50"
+}

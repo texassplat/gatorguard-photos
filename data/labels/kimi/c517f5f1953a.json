@@ -1,0 +1,48 @@
+{
+ "finish": "stop",
+ "usage": {
+  "input_tokens": 5651,
+  "output_tokens": 256,
+  "cost": 0.0176475
+ },
+ "served_by": "Together",
+ "label": {
+  "content": "before_after_composite",
+  "area": "garage",
+  "setting": "residential",
+  "system": "full_flake",
+  "color": "unknown",
+  "color_confidence": "low",
+  "color_runner_up": "Granite",
+  "color_description": "dark gray base with small gray, black and white chips in the after panel",
+  "shot_type": "before_after",
+  "people": "none",
+  "faces_identifiable": false,
+  "privacy": [],
+  "branding_visible": true,
+  "quality": "3",
+  "issues": [
+   "text_overlay"
+  ],
+  "website_ready": false,
+  "title": "Facebook ad with garage floor before and after",
+  "alt_text": "Facebook ad graphic showing a bare concrete garage floor before and a dark gray flake coated floor after",
+  "tags": [
+   "facebook ad",
+   "before and after",
+   "garage",
+   "full flake",
+   "gray chips",
+   "bare concrete",
+   "marketing graphic",
+   "free quote"
+  ],
+  "filename": "facebook-ad-garage-before-after-flake"
+ },
+ "id": "c517f5f1953a",
+ "provider": "kimi",
+ "model": "moonshotai/kimi-k3",
+ "mode": "run",
+ "blind": false,
+ "at": "2026-09-22T10:46:51"
+}

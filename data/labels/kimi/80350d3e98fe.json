@@ -1,0 +1,50 @@
+{
+ "finish": "stop",
+ "usage": {
+  "input_tokens": 5060,
+  "output_tokens": 255,
+  "cost": 0.00915501
+ },
+ "served_by": "DigitalOcean",
+ "label": {
+  "alt_text": "Screenshot of Facebook ad showing unfinished basement bare concrete floor labeled BEFORE with text about cracking and abrasions, GatorGuard mascot logo visible.",
+  "area": "basement",
+  "branding_visible": true,
+  "color": "not_applicable",
+  "color_confidence": "none",
+  "color_description": "",
+  "color_runner_up": "not_applicable",
+  "content": "marketing_graphic",
+  "faces_identifiable": false,
+  "filename": "facebook-ad-before-bare-concrete-basement",
+  "issues": [
+   "text_overlay",
+   "low_resolution"
+  ],
+  "people": "none",
+  "privacy": [],
+  "quality": "2",
+  "setting": "residential",
+  "shot_type": "before",
+  "system": "bare_concrete",
+  "tags": [
+   "bare concrete",
+   "before",
+   "basement",
+   "cracks",
+   "abrasions",
+   "unfinished framing",
+   "facebook ad",
+   "logo",
+   "text overlay"
+  ],
+  "title": "Facebook ad showing bare concrete basement before",
+  "website_ready": false
+ },
+ "id": "80350d3e98fe",
+ "provider": "kimi",
+ "model": "moonshotai/kimi-k3",
+ "mode": "run",
+ "blind": false,
+ "at": "2026-09-22T10:49:54"
+}

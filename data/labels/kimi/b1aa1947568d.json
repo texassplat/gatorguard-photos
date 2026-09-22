@@ -1,0 +1,49 @@
+{
+ "finish": "stop",
+ "usage": {
+  "input_tokens": 5659,
+  "output_tokens": 224,
+  "cost": 0.0120426
+ },
+ "served_by": "Modal",
+ "label": {
+  "alt_text": "Ad graphic collage with blue, white and black full flake garage floor and brown flake floor close up",
+  "area": "garage",
+  "branding_visible": true,
+  "color": "unknown",
+  "color_confidence": "none",
+  "color_description": "blue, white and black chips on one floor, brown and tan chips on another",
+  "color_runner_up": "Cobalt",
+  "content": "marketing_graphic",
+  "faces_identifiable": false,
+  "filename": "google-ads-flake-floor-product-graphic",
+  "issues": [
+   "text_overlay"
+  ],
+  "people": "none",
+  "privacy": [],
+  "quality": "3",
+  "setting": "unknown",
+  "shot_type": "graphic",
+  "system": "full_flake",
+  "tags": [
+   "google ads",
+   "marketing graphic",
+   "full flake",
+   "blue chips",
+   "brown chips",
+   "garage floor",
+   "text overlay",
+   "collage",
+   "product graphic"
+  ],
+  "title": "Ad collage with blue flake and brown flake floors",
+  "website_ready": false
+ },
+ "id": "b1aa1947568d",
+ "provider": "kimi",
+ "model": "moonshotai/kimi-k3",
+ "mode": "run",
+ "blind": false,
+ "at": "2026-09-22T10:54:10"
+}

@@ -1,0 +1,51 @@
+{
+ "finish": "stop",
+ "usage": {
+  "input_tokens": 5117,
+  "output_tokens": 177,
+  "cost": 0.018006
+ },
+ "served_by": "Chutes",
+ "label": {
+  "content": "marketing_graphic",
+  "area": "not_visible",
+  "setting": "unknown",
+  "system": "not_applicable",
+  "color": "not_applicable",
+  "color_confidence": "none",
+  "color_runner_up": "not_applicable",
+  "color_description": "",
+  "shot_type": "graphic",
+  "people": "prominent",
+  "faces_identifiable": true,
+  "privacy": [
+   "customer_face"
+  ],
+  "branding_visible": true,
+  "quality": "3",
+  "issues": [
+   "text_overlay"
+  ],
+  "website_ready": false,
+  "title": "White glove moving service ad with trailer and crew",
+  "alt_text": "Ad showing GatorGuard trailer, crew moving cabinets, and white glove service text overlays",
+  "tags": [
+   "google ads",
+   "trailer",
+   "crew",
+   "moving",
+   "white glove",
+   "marketing",
+   "video",
+   "gatorguard logo",
+   "moving service"
+  ],
+  "filename": "white-glove-moving-service-ad"
+ },
+ "id": "984d653f7410",
+ "provider": "kimi",
+ "model": "moonshotai/kimi-k3",
+ "mode": "run",
+ "blind": false,
+ "at": "2026-09-22T10:52:13"
+}

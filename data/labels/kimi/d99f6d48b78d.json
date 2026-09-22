@@ -1,0 +1,49 @@
+{
+ "finish": "stop",
+ "usage": {
+  "input_tokens": 5414,
+  "output_tokens": 223,
+  "cost": 0.00964331
+ },
+ "served_by": "DigitalOcean",
+ "label": {
+  "alt_text": "Facebook ad video frames showing garage and patio floor coatings with text overlays, one labeled Silver Butte",
+  "area": "not_visible",
+  "branding_visible": true,
+  "color": "Silver Butte",
+  "color_confidence": "high",
+  "color_description": "gray and white chips, small to medium size",
+  "color_runner_up": "unknown",
+  "content": "marketing_graphic",
+  "faces_identifiable": false,
+  "filename": "facebook-ad-video-floor-styles",
+  "issues": [
+   "text_overlay",
+   "low_resolution"
+  ],
+  "people": "none",
+  "privacy": [],
+  "quality": "2",
+  "setting": "unknown",
+  "shot_type": "graphic",
+  "system": "full_flake",
+  "tags": [
+   "facebook ad",
+   "video ad",
+   "silver butte",
+   "gray chips",
+   "text overlay",
+   "garage floor",
+   "patio floor",
+   "marketing"
+  ],
+  "title": "Facebook ad video showcasing floor styles",
+  "website_ready": false
+ },
+ "id": "d99f6d48b78d",
+ "provider": "kimi",
+ "model": "moonshotai/kimi-k3",
+ "mode": "run",
+ "blind": false,
+ "at": "2026-09-22T10:47:23"
+}

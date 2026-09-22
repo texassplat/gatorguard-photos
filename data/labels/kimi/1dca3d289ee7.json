@@ -1,0 +1,48 @@
+{
+ "finish": "stop",
+ "usage": {
+  "input_tokens": 5054,
+  "output_tokens": 176,
+  "cost": 0.0146727
+ },
+ "served_by": "Together",
+ "label": {
+  "content": "other",
+  "area": "not_visible",
+  "setting": "unknown",
+  "system": "unknown",
+  "color": "not_applicable",
+  "color_confidence": "none",
+  "color_runner_up": "not_applicable",
+  "color_description": "",
+  "shot_type": "in_progress",
+  "people": "none",
+  "faces_identifiable": false,
+  "privacy": [],
+  "branding_visible": false,
+  "quality": "2",
+  "issues": [
+   "text_overlay"
+  ],
+  "website_ready": false,
+  "title": "Mixing gray coating in a bucket",
+  "alt_text": "Drill mixer stirring light gray liquid coating in a white bucket during floor coating prep",
+  "tags": [
+   "mixing",
+   "coating",
+   "bucket",
+   "drill mixer",
+   "gray coating",
+   "in progress",
+   "prep",
+   "facebook ad"
+  ],
+  "filename": "mixing-gray-coating-bucket"
+ },
+ "id": "1dca3d289ee7",
+ "provider": "kimi",
+ "model": "moonshotai/kimi-k3",
+ "mode": "run",
+ "blind": false,
+ "at": "2026-09-22T10:49:38"
+}

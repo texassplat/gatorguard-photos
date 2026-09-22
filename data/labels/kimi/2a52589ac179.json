@@ -1,0 +1,46 @@
+{
+ "finish": "stop",
+ "usage": {
+  "input_tokens": 5692,
+  "output_tokens": 242,
+  "cost": 0.01159116
+ },
+ "served_by": "Phala",
+ "label": {
+  "alt_text": "Garage with tan full flake floor, coated stem walls and wooden stairs to entry door. Full flake garage floor coating.",
+  "area": "garage",
+  "branding_visible": false,
+  "color": "Ocotillo",
+  "color_confidence": "low",
+  "color_description": "tan base with brown, black and white chips, small to medium size",
+  "color_runner_up": "Chestnut",
+  "content": "floor_photo",
+  "faces_identifiable": false,
+  "filename": "garage-tan-full-flake-wooden-stairs",
+  "issues": [],
+  "people": "none",
+  "privacy": [],
+  "quality": "4",
+  "setting": "residential",
+  "shot_type": "finished",
+  "system": "full_flake",
+  "tags": [
+   "garage",
+   "full flake",
+   "tan chips",
+   "brown chips",
+   "stem wall",
+   "wooden stairs",
+   "entry door",
+   "finished floor"
+  ],
+  "title": "Garage with tan full flake floor and wooden stairs",
+  "website_ready": true
+ },
+ "id": "2a52589ac179",
+ "provider": "kimi",
+ "model": "moonshotai/kimi-k3",
+ "mode": "run",
+ "blind": false,
+ "at": "2026-09-22T10:51:51"
+}

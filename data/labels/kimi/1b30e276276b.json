@@ -1,0 +1,46 @@
+{
+ "finish": "stop",
+ "usage": {
+  "input_tokens": 5390,
+  "output_tokens": 239,
+  "cost": 0.0166149
+ },
+ "served_by": "Together",
+ "label": {
+  "content": "floor_photo",
+  "area": "garage",
+  "setting": "residential",
+  "system": "full_flake",
+  "color": "Gun Metal",
+  "color_confidence": "medium",
+  "color_runner_up": "Granite",
+  "color_description": "black, white and gray chips, medium size",
+  "shot_type": "finished",
+  "people": "none",
+  "faces_identifiable": false,
+  "privacy": [],
+  "branding_visible": false,
+  "quality": "4",
+  "issues": [],
+  "website_ready": true,
+  "title": "Garage with black and gray full flake floor",
+  "alt_text": "Glossy black, white and gray full flake garage floor with door in background, full flake garage floor coating",
+  "tags": [
+   "garage",
+   "full flake",
+   "black chips",
+   "gray chips",
+   "white chips",
+   "glossy floor",
+   "garage door",
+   "finished floor"
+  ],
+  "filename": "garage-black-gray-full-flake-floor"
+ },
+ "id": "1b30e276276b",
+ "provider": "kimi",
+ "model": "moonshotai/kimi-k3",
+ "mode": "run",
+ "blind": false,
+ "at": "2026-09-22T10:50:22"
+}

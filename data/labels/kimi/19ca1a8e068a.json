@@ -1,0 +1,48 @@
+{
+ "finish": "stop",
+ "usage": {
+  "input_tokens": 5379,
+  "output_tokens": 306,
+  "cost": 0.0124326
+ },
+ "served_by": "Modal",
+ "label": {
+  "alt_text": "Low angle view of a glossy gray full flake garage floor with black and white chips, full flake garage floor coating",
+  "area": "garage",
+  "branding_visible": false,
+  "color": "Granite",
+  "color_confidence": "medium",
+  "color_description": "gray, black and white chips, medium size, dark overall under low light",
+  "color_runner_up": "Stone Rowe",
+  "content": "floor_photo",
+  "faces_identifiable": false,
+  "filename": "glossy-gray-full-flake-garage-floor",
+  "issues": [
+   "dark"
+  ],
+  "people": "none",
+  "privacy": [],
+  "quality": "3",
+  "setting": "residential",
+  "shot_type": "finished",
+  "system": "full_flake",
+  "tags": [
+   "full flake",
+   "garage floor",
+   "gray chips",
+   "black and white chips",
+   "glossy finish",
+   "low angle",
+   "garage door",
+   "finished floor"
+  ],
+  "title": "Glossy gray full flake garage floor close view",
+  "website_ready": false
+ },
+ "id": "19ca1a8e068a",
+ "provider": "kimi",
+ "model": "moonshotai/kimi-k3",
+ "mode": "run",
+ "blind": false,
+ "at": "2026-09-22T10:54:16"
+}

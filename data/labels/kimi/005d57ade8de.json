@@ -1,0 +1,47 @@
+{
+ "finish": "stop",
+ "usage": {
+  "input_tokens": 5357,
+  "output_tokens": 255,
+  "cost": 0.016737
+ },
+ "served_by": "Together",
+ "label": {
+  "content": "floor_photo",
+  "area": "garage",
+  "setting": "residential",
+  "system": "full_flake",
+  "color": "Granite",
+  "color_confidence": "low",
+  "color_runner_up": "Silver Butte",
+  "color_description": "gray, white and black chips, small to medium size",
+  "shot_type": "finished",
+  "people": "none",
+  "faces_identifiable": false,
+  "privacy": [],
+  "branding_visible": false,
+  "quality": "4",
+  "issues": [],
+  "website_ready": true,
+  "title": "Empty garage with gray full flake floor",
+  "alt_text": "Empty residential garage with a gray full flake floor coating, white walls, windows and entry door",
+  "tags": [
+   "garage",
+   "full flake",
+   "gray chips",
+   "white walls",
+   "garage door opener",
+   "windows",
+   "finished floor",
+   "empty garage",
+   "glossy"
+  ],
+  "filename": "empty-garage-gray-full-flake-floor"
+ },
+ "id": "005d57ade8de",
+ "provider": "kimi",
+ "model": "moonshotai/kimi-k3",
+ "mode": "run",
+ "blind": false,
+ "at": "2026-09-22T10:51:44"
+}

@@ -1,0 +1,46 @@
+{
+ "finish": "stop",
+ "usage": {
+  "input_tokens": 5323,
+  "output_tokens": 262,
+  "cost": 0.0116046
+ },
+ "served_by": "Modal",
+ "label": {
+  "alt_text": "Gray stamped concrete pool deck with swimming pool, brick wall and black metal fence",
+  "area": "pool_deck",
+  "branding_visible": false,
+  "color": "not_applicable",
+  "color_confidence": "none",
+  "color_description": "no flakes, gray stamped stone pattern",
+  "color_runner_up": "not_applicable",
+  "content": "floor_photo",
+  "faces_identifiable": false,
+  "filename": "stamped-concrete-pool-deck-with-fence",
+  "issues": [],
+  "people": "none",
+  "privacy": [],
+  "quality": "4",
+  "setting": "residential",
+  "shot_type": "finished",
+  "system": "stamped_concrete",
+  "tags": [
+   "pool deck",
+   "stamped concrete",
+   "gray",
+   "swimming pool",
+   "outdoor",
+   "fence",
+   "stone pattern",
+   "finished"
+  ],
+  "title": "Gray stamped concrete pool deck",
+  "website_ready": true
+ },
+ "id": "bd3cffbb1e83",
+ "provider": "kimi",
+ "model": "moonshotai/kimi-k3",
+ "mode": "run",
+ "blind": false,
+ "at": "2026-09-22T10:54:00"
+}

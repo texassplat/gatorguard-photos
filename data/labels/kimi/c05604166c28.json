@@ -1,0 +1,48 @@
+{
+ "finish": "stop",
+ "usage": {
+  "input_tokens": 4647,
+  "output_tokens": 251,
+  "cost": 0.0145524
+ },
+ "served_by": "Together",
+ "label": {
+  "content": "before_after_composite",
+  "area": "garage",
+  "setting": "residential",
+  "system": "full_flake",
+  "color": "Granite",
+  "color_confidence": "low",
+  "color_runner_up": "Zircon",
+  "color_description": "gray, white and black chips, small to medium size",
+  "shot_type": "before_after",
+  "people": "none",
+  "faces_identifiable": false,
+  "privacy": [],
+  "branding_visible": false,
+  "quality": "3",
+  "issues": [
+   "text_overlay"
+  ],
+  "website_ready": false,
+  "title": "Garage before and after gray flake floor",
+  "alt_text": "Before and after of a garage floor: stained bare concrete on the left, gray full flake coating on the right",
+  "tags": [
+   "before and after",
+   "garage",
+   "full flake",
+   "gray chips",
+   "facebook ad",
+   "bare concrete",
+   "finished floor",
+   "split screen"
+  ],
+  "filename": "garage-before-after-gray-flake"
+ },
+ "id": "c05604166c28",
+ "provider": "kimi",
+ "model": "moonshotai/kimi-k3",
+ "mode": "run",
+ "blind": false,
+ "at": "2026-09-22T10:48:56"
+}

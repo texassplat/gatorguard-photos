@@ -1,0 +1,48 @@
+{
+ "finish": "stop",
+ "usage": {
+  "input_tokens": 4681,
+  "output_tokens": 246,
+  "cost": 0.00951006
+ },
+ "served_by": "Phala",
+ "label": {
+  "alt_text": "Garage with gray, black and white full flake epoxy floor, bikes hanging from ceiling, workbench and cabinets",
+  "area": "garage",
+  "branding_visible": false,
+  "color": "Granite",
+  "color_confidence": "medium",
+  "color_description": "gray base with black and white chips, medium size, speckled",
+  "color_runner_up": "Silver Butte",
+  "content": "floor_photo",
+  "faces_identifiable": false,
+  "filename": "garage-gray-full-flake-bikes-workbench",
+  "issues": [],
+  "people": "none",
+  "privacy": [],
+  "quality": "4",
+  "setting": "residential",
+  "shot_type": "finished",
+  "system": "full_flake",
+  "tags": [
+   "garage",
+   "full flake",
+   "gray flake",
+   "black and white chips",
+   "bikes",
+   "workbench",
+   "cabinets",
+   "tv",
+   "finished floor",
+   "garage floor coating"
+  ],
+  "title": "Garage with gray full flake floor and bikes",
+  "website_ready": true
+ },
+ "id": "e0f5716d58cb",
+ "provider": "kimi",
+ "model": "moonshotai/kimi-k3",
+ "mode": "run",
+ "blind": false,
+ "at": "2026-09-22T10:52:30"
+}

@@ -1,0 +1,45 @@
+{
+ "finish": "stop",
+ "usage": {
+  "input_tokens": 5657,
+  "output_tokens": 235,
+  "cost": 0.01041836
+ },
+ "served_by": "DigitalOcean",
+ "label": {
+  "alt_text": "Finished garage interior with a gray full flake floor coating, two overhead doors, and blue wall stripes.",
+  "area": "garage",
+  "branding_visible": false,
+  "color": "Granite",
+  "color_confidence": "medium",
+  "color_description": "gray, white and black chips, small to medium size",
+  "color_runner_up": "Callisto",
+  "content": "floor_photo",
+  "faces_identifiable": false,
+  "filename": "garage-gray-full-flake-two-doors",
+  "issues": [],
+  "people": "none",
+  "privacy": [],
+  "quality": "4",
+  "setting": "residential",
+  "shot_type": "finished",
+  "system": "full_flake",
+  "tags": [
+   "garage floor",
+   "full flake",
+   "gray chips",
+   "overhead doors",
+   "finished floor",
+   "reflective coating",
+   "garage interior"
+  ],
+  "title": "Garage with gray full flake floor",
+  "website_ready": true
+ },
+ "id": "4c561a8c993c",
+ "provider": "kimi",
+ "model": "moonshotai/kimi-k3",
+ "mode": "run",
+ "blind": false,
+ "at": "2026-09-22T10:52:59"
+}

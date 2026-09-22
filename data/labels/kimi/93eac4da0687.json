@@ -1,0 +1,48 @@
+{
+ "finish": "stop",
+ "usage": {
+  "input_tokens": 5066,
+  "output_tokens": 322,
+  "cost": 0.01111656
+ },
+ "served_by": "Phala",
+ "label": {
+  "alt_text": "Black and white flake coating on garage stem wall and floor near a white door, full flake floor coating",
+  "area": "garage",
+  "branding_visible": false,
+  "color": "Gun Metal",
+  "color_confidence": "low",
+  "color_description": "black base with white and gray chips, medium size",
+  "color_runner_up": "Black Canyon",
+  "content": "floor_photo",
+  "faces_identifiable": false,
+  "filename": "black-flake-stem-wall-and-floor",
+  "issues": [
+   "cluttered"
+  ],
+  "people": "none",
+  "privacy": [],
+  "quality": "3",
+  "setting": "residential",
+  "shot_type": "close_up",
+  "system": "full_flake",
+  "tags": [
+   "stem wall",
+   "black flakes",
+   "white chips",
+   "garage",
+   "door",
+   "full flake",
+   "floor edge",
+   "close up"
+  ],
+  "title": "Black flake stem wall beside white door",
+  "website_ready": false
+ },
+ "id": "93eac4da0687",
+ "provider": "kimi",
+ "model": "moonshotai/kimi-k3",
+ "mode": "run",
+ "blind": false,
+ "at": "2026-09-22T10:51:41"
+}

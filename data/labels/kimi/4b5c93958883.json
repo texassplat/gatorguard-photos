@@ -1,0 +1,48 @@
+{
+ "finish": "stop",
+ "usage": {
+  "input_tokens": 5652,
+  "output_tokens": 195,
+  "cost": 0.0167355
+ },
+ "served_by": "Together",
+ "label": {
+  "content": "floor_photo",
+  "area": "basement",
+  "setting": "residential",
+  "system": "metallic",
+  "color": "Charcoal",
+  "color_confidence": "medium",
+  "color_runner_up": "Gray",
+  "color_description": "dark gray and black metallic swirl, reflective marbled finish",
+  "shot_type": "finished",
+  "people": "none",
+  "faces_identifiable": false,
+  "privacy": [],
+  "branding_visible": false,
+  "quality": "4",
+  "issues": [
+   "cluttered"
+  ],
+  "website_ready": true,
+  "title": "Basement with dark gray metallic epoxy floor",
+  "alt_text": "Finished basement with dark gray metallic epoxy floor, leather recliner and wood entertainment center",
+  "tags": [
+   "basement",
+   "metallic epoxy",
+   "dark gray",
+   "swirl",
+   "recliner",
+   "entertainment center",
+   "finished floor",
+   "residential"
+  ],
+  "filename": "basement-dark-gray-metallic-floor"
+ },
+ "id": "4b5c93958883",
+ "provider": "kimi",
+ "model": "moonshotai/kimi-k3",
+ "mode": "run",
+ "blind": false,
+ "at": "2026-09-22T10:52:49"
+}

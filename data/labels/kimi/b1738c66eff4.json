@@ -1,0 +1,46 @@
+{
+ "finish": "stop",
+ "usage": {
+  "input_tokens": 5075,
+  "output_tokens": 253,
+  "cost": 0.00916736
+ },
+ "served_by": "DigitalOcean",
+ "label": {
+  "alt_text": "Wide commercial garage bay with a glossy light gray full flake floor, overhead doors and fluorescent lighting.",
+  "area": "commercial_or_industrial",
+  "branding_visible": false,
+  "color": "unknown",
+  "color_confidence": "low",
+  "color_description": "light gray base with gray and dark chips, small to medium size",
+  "color_runner_up": "unknown",
+  "content": "floor_photo",
+  "faces_identifiable": false,
+  "filename": "commercial-bay-light-gray-full-flake",
+  "issues": [],
+  "people": "background",
+  "privacy": [],
+  "quality": "4",
+  "setting": "commercial",
+  "shot_type": "finished",
+  "system": "full_flake",
+  "tags": [
+   "commercial bay",
+   "full flake floor",
+   "light gray chips",
+   "garage doors",
+   "workshop",
+   "glossy finish",
+   "overhead door",
+   "fluorescent lighting"
+  ],
+  "title": "Commercial bay with light gray full flake floor",
+  "website_ready": true
+ },
+ "id": "b1738c66eff4",
+ "provider": "kimi",
+ "model": "moonshotai/kimi-k3",
+ "mode": "run",
+ "blind": false,
+ "at": "2026-09-22T10:50:44"
+}

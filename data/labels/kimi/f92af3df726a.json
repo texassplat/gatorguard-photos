@@ -1,0 +1,48 @@
+{
+ "finish": "stop",
+ "usage": {
+  "input_tokens": 5652,
+  "output_tokens": 403,
+  "cost": 0.023001
+ },
+ "served_by": "Modal",
+ "label": {
+  "alt_text": "Driveway with wet-look sealed concrete and GatorGuard truck, Lifetime Warranty text overlay",
+  "area": "driveway_or_walkway",
+  "branding_visible": true,
+  "color": "not_applicable",
+  "color_confidence": "none",
+  "color_description": "clear glossy sealer over gray broom-finished concrete",
+  "color_runner_up": "not_applicable",
+  "content": "marketing_graphic",
+  "faces_identifiable": false,
+  "filename": "gatorguard-truck-driveway-lifetime-warranty-ad",
+  "issues": [
+   "text_overlay"
+  ],
+  "people": "none",
+  "privacy": [],
+  "quality": "3",
+  "setting": "residential",
+  "shot_type": "finished",
+  "system": "poly_enhance",
+  "tags": [
+   "driveway",
+   "wet look sealer",
+   "gatorguard truck",
+   "google ads",
+   "lifetime warranty",
+   "text overlay",
+   "suburban home",
+   "glossy concrete"
+  ],
+  "title": "Google ad with truck and sealed driveway",
+  "website_ready": false
+ },
+ "id": "f92af3df726a",
+ "provider": "kimi",
+ "model": "moonshotai/kimi-k3",
+ "mode": "run",
+ "blind": false,
+ "at": "2026-09-22T10:53:25"
+}

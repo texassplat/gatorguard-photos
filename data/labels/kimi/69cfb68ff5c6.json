@@ -1,0 +1,50 @@
+{
+ "finish": "stop",
+ "usage": {
+  "input_tokens": 5664,
+  "output_tokens": 256,
+  "cost": 0.01070816
+ },
+ "served_by": "DigitalOcean",
+ "label": {
+  "alt_text": "Driveway coated with tan full flake chips leading to a brick garage. full flake driveway coating",
+  "area": "driveway_or_walkway",
+  "branding_visible": false,
+  "color": "unknown",
+  "color_confidence": "low",
+  "color_description": "tan, brown and white chips, fine size",
+  "color_runner_up": "Willow",
+  "content": "floor_photo",
+  "faces_identifiable": false,
+  "filename": "full-flake-driveway-brick-garage",
+  "issues": [
+   "cluttered"
+  ],
+  "people": "none",
+  "privacy": [
+   "house_number"
+  ],
+  "quality": "4",
+  "setting": "residential",
+  "shot_type": "finished",
+  "system": "full_flake",
+  "tags": [
+   "driveway",
+   "full flake",
+   "tan chips",
+   "brick house",
+   "open garage",
+   "finished floor",
+   "exterior",
+   "residential"
+  ],
+  "title": "Full flake driveway in front of brick garage",
+  "website_ready": false
+ },
+ "id": "69cfb68ff5c6",
+ "provider": "kimi",
+ "model": "moonshotai/kimi-k3",
+ "mode": "run",
+ "blind": false,
+ "at": "2026-09-22T10:54:13"
+}

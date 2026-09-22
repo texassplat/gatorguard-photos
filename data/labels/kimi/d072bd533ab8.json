@@ -1,0 +1,46 @@
+{
+ "finish": "stop",
+ "usage": {
+  "input_tokens": 5077,
+  "output_tokens": 337,
+  "cost": 0.010143
+ },
+ "served_by": "InferenceNet",
+ "label": {
+  "website_ready": true,
+  "title": "Empty room with tan full flake floor",
+  "tags": [
+   "full flake",
+   "tan chips",
+   "beige floor",
+   "garage floor",
+   "wood wainscoting",
+   "pegboard wall",
+   "finished floor",
+   "glossy clear coat"
+  ],
+  "system": "full_flake",
+  "shot_type": "finished",
+  "setting": "residential",
+  "quality": "4",
+  "privacy": [],
+  "people": "none",
+  "issues": [],
+  "filename": "tan-full-flake-floor-wood-wainscot-room",
+  "faces_identifiable": false,
+  "content": "floor_photo",
+  "color_runner_up": "Willow",
+  "color_description": "light tan and cream chips with small black specks, fine to medium size",
+  "color_confidence": "low",
+  "color": "Ocotillo",
+  "branding_visible": false,
+  "area": "garage",
+  "alt_text": "Finished tan full flake floor in an empty room with wood wainscoting and pegboard wall, full flake garage floor coating"
+ },
+ "id": "d072bd533ab8",
+ "provider": "kimi",
+ "model": "moonshotai/kimi-k3",
+ "mode": "run",
+ "blind": false,
+ "at": "2026-09-22T10:54:31"
+}

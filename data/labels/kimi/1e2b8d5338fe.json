@@ -1,0 +1,48 @@
+{
+ "finish": "stop",
+ "usage": {
+  "input_tokens": 5078,
+  "output_tokens": 289,
+  "cost": 0.0112746
+ },
+ "served_by": "Modal",
+ "label": {
+  "alt_text": "Fire station apparatus bay with light gray full flake floor coating, fire truck and caution tape in background",
+  "area": "commercial_or_industrial",
+  "branding_visible": false,
+  "color": "unknown",
+  "color_confidence": "low",
+  "color_description": "light gray and white chips with small dark chips, fine to medium size",
+  "color_runner_up": "Silver Butte",
+  "content": "floor_photo",
+  "faces_identifiable": false,
+  "filename": "fire-station-bay-gray-flake-floor",
+  "issues": [
+   "cluttered"
+  ],
+  "people": "none",
+  "privacy": [],
+  "quality": "3",
+  "setting": "commercial",
+  "shot_type": "finished",
+  "system": "full_flake",
+  "tags": [
+   "fire station",
+   "commercial floor",
+   "full flake",
+   "gray chips",
+   "apparatus bay",
+   "fire truck",
+   "caution tape",
+   "expansion joint"
+  ],
+  "title": "Fire station bay with gray full flake floor",
+  "website_ready": false
+ },
+ "id": "1e2b8d5338fe",
+ "provider": "kimi",
+ "model": "moonshotai/kimi-k3",
+ "mode": "run",
+ "blind": false,
+ "at": "2026-09-22T10:54:32"
+}

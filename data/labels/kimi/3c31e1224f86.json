@@ -1,0 +1,48 @@
+{
+ "finish": "stop",
+ "usage": {
+  "input_tokens": 5360,
+  "output_tokens": 212,
+  "cost": 0.016101
+ },
+ "served_by": "Together",
+ "label": {
+  "content": "floor_photo",
+  "area": "patio_or_porch",
+  "setting": "residential",
+  "system": "full_flake",
+  "color": "unknown",
+  "color_confidence": "low",
+  "color_runner_up": "Granite",
+  "color_description": "light gray and white chips with small dark specks, small size",
+  "shot_type": "finished",
+  "people": "none",
+  "faces_identifiable": false,
+  "privacy": [],
+  "branding_visible": false,
+  "quality": "4",
+  "issues": [],
+  "website_ready": true,
+  "title": "Patio with light gray full flake floor",
+  "alt_text": "Outdoor patio with light gray speckled coated floor, seat wall and trees, full flake patio floor coating",
+  "tags": [
+   "patio",
+   "outdoor",
+   "full flake",
+   "gray chips",
+   "seat wall",
+   "retaining wall",
+   "backyard",
+   "trees",
+   "finished floor",
+   "control joints"
+  ],
+  "filename": "patio-light-gray-full-flake-floor"
+ },
+ "id": "3c31e1224f86",
+ "provider": "kimi",
+ "model": "moonshotai/kimi-k3",
+ "mode": "run",
+ "blind": false,
+ "at": "2026-09-22T10:50:31"
+}

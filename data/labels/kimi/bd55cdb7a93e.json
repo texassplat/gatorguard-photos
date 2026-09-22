@@ -1,0 +1,50 @@
+{
+ "finish": "stop",
+ "usage": {
+  "input_tokens": 5685,
+  "output_tokens": 322,
+  "cost": 0.01702974
+ },
+ "served_by": "Wafer",
+ "label": {
+  "content": "marketing_graphic",
+  "area": "not_visible",
+  "setting": "unknown",
+  "system": "not_applicable",
+  "color": "not_applicable",
+  "color_confidence": "none",
+  "color_runner_up": "not_applicable",
+  "color_description": "",
+  "shot_type": "graphic",
+  "people": "prominent",
+  "faces_identifiable": false,
+  "privacy": [],
+  "branding_visible": true,
+  "quality": "4",
+  "issues": [
+   "text_overlay"
+  ],
+  "website_ready": false,
+  "title": "Facebook ad with 20 percent off offer",
+  "alt_text": "GatorGuard Facebook ad graphic showing a hand holding a phone with a coated garage floor and 20 percent off offer text",
+  "tags": [
+   "facebook ad",
+   "marketing graphic",
+   "phone mockup",
+   "20 percent off",
+   "garage floor photo",
+   "financing offer",
+   "free quote",
+   "gator logo",
+   "hand holding phone",
+   "black background"
+  ],
+  "filename": "facebook-ad-twenty-percent-off-graphic"
+ },
+ "id": "bd55cdb7a93e",
+ "provider": "kimi",
+ "model": "moonshotai/kimi-k3",
+ "mode": "run",
+ "blind": false,
+ "at": "2026-09-22T10:46:38"
+}

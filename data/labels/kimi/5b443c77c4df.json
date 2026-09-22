@@ -1,0 +1,49 @@
+{
+ "finish": "stop",
+ "usage": {
+  "input_tokens": 5652,
+  "output_tokens": 304,
+  "cost": 0.01129916
+ },
+ "served_by": "DigitalOcean",
+ "label": {
+  "alt_text": "Side view of a silver Dodge Challenger parked in a finished garage with a light gray full flake floor and GatorGuard logo overlay.",
+  "area": "garage",
+  "branding_visible": true,
+  "color": "Lunar",
+  "color_confidence": "medium",
+  "color_description": "light gray and white chips with small dark gray chips, fine to medium size",
+  "color_runner_up": "Infinity",
+  "content": "floor_photo",
+  "faces_identifiable": false,
+  "filename": "silver-dodge-challenger-gray-flake-garage",
+  "issues": [
+   "text_overlay"
+  ],
+  "people": "none",
+  "privacy": [],
+  "quality": "4",
+  "setting": "residential",
+  "shot_type": "finished",
+  "system": "full_flake",
+  "tags": [
+   "garage",
+   "full flake",
+   "dodge challenger",
+   "silver car",
+   "light gray floor",
+   "open garage door",
+   "finished floor",
+   "facebook ad",
+   "sports car"
+  ],
+  "title": "Silver Challenger in garage with gray flake floor",
+  "website_ready": false
+ },
+ "id": "5b443c77c4df",
+ "provider": "kimi",
+ "model": "moonshotai/kimi-k3",
+ "mode": "run",
+ "blind": false,
+ "at": "2026-09-22T10:47:04"
+}

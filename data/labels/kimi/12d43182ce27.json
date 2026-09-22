@@ -1,0 +1,48 @@
+{
+ "finish": "stop",
+ "usage": {
+  "input_tokens": 5658,
+  "output_tokens": 309,
+  "cost": 0.01137921
+ },
+ "served_by": "DigitalOcean",
+ "label": {
+  "alt_text": "GatorGuard ad graphic with a gray full flake garage floor photo and benefit icons",
+  "area": "garage",
+  "branding_visible": true,
+  "color": "unknown",
+  "color_confidence": "low",
+  "color_description": "gray, white and black chips, small to medium size",
+  "color_runner_up": "Granite",
+  "content": "marketing_graphic",
+  "faces_identifiable": false,
+  "filename": "facebook-ad-why-choose-concrete-coatings",
+  "issues": [
+   "text_overlay"
+  ],
+  "people": "none",
+  "privacy": [],
+  "quality": "4",
+  "setting": "residential",
+  "shot_type": "graphic",
+  "system": "full_flake",
+  "tags": [
+   "facebook ad",
+   "marketing graphic",
+   "full flake",
+   "garage floor",
+   "gray chips",
+   "gator mascot",
+   "benefits list",
+   "get a free quote"
+  ],
+  "title": "Facebook ad graphic with gray flake garage floor",
+  "website_ready": false
+ },
+ "id": "12d43182ce27",
+ "provider": "kimi",
+ "model": "moonshotai/kimi-k3",
+ "mode": "run",
+ "blind": false,
+ "at": "2026-09-22T10:47:06"
+}

@@ -1,0 +1,48 @@
+{
+ "finish": "stop",
+ "usage": {
+  "input_tokens": 5652,
+  "output_tokens": 239,
+  "cost": 0.01045741
+ },
+ "served_by": "DigitalOcean",
+ "label": {
+  "alt_text": "Screened porch with a tan and brown speckled full flake floor, GatorGuard logo and 50% off ad overlay",
+  "area": "patio_or_porch",
+  "branding_visible": true,
+  "color": "unknown",
+  "color_confidence": "low",
+  "color_description": "tan, brown and black chips, small to medium size",
+  "color_runner_up": "Sedona",
+  "content": "marketing_graphic",
+  "faces_identifiable": false,
+  "filename": "screened-porch-flake-floor-ad",
+  "issues": [
+   "text_overlay"
+  ],
+  "people": "none",
+  "privacy": [],
+  "quality": "3",
+  "setting": "residential",
+  "shot_type": "finished",
+  "system": "full_flake",
+  "tags": [
+   "facebook ad",
+   "screened porch",
+   "full flake",
+   "tan brown chips",
+   "hanging plants",
+   "logo overlay",
+   "promotional graphic",
+   "finished floor"
+  ],
+  "title": "Screened porch full flake floor with ad overlay",
+  "website_ready": false
+ },
+ "id": "2188c1234baf",
+ "provider": "kimi",
+ "model": "moonshotai/kimi-k3",
+ "mode": "run",
+ "blind": false,
+ "at": "2026-09-22T10:46:53"
+}

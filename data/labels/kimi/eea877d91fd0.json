@@ -1,0 +1,50 @@
+{
+ "finish": "stop",
+ "usage": {
+  "input_tokens": 5658,
+  "output_tokens": 1490,
+  "cost": 0.02667316
+ },
+ "served_by": "DigitalOcean",
+ "label": {
+  "alt_text": "Before-and-after garage floor ad: dirty bare concrete on left, gray flake coating on right, with mascot and 15% off banner.",
+  "area": "garage",
+  "branding_visible": true,
+  "color": "unknown",
+  "color_confidence": "low",
+  "color_description": "after side is a gray base with light gray and white chips, fine to medium size; before side is stained bare concrete",
+  "color_runner_up": "Granite",
+  "content": "before_after_composite",
+  "faces_identifiable": false,
+  "filename": "before-after-garage-winter-promo-ad",
+  "issues": [
+   "text_overlay",
+   "wet_or_dirty"
+  ],
+  "people": "none",
+  "privacy": [],
+  "quality": "3",
+  "setting": "residential",
+  "shot_type": "before_after",
+  "system": "full_flake",
+  "tags": [
+   "facebook ad",
+   "before and after",
+   "garage floor",
+   "gray flake",
+   "full flake",
+   "winter promo",
+   "stained concrete",
+   "split screen",
+   "mascot"
+  ],
+  "title": "Before and after garage floor promo ad",
+  "website_ready": false
+ },
+ "id": "eea877d91fd0",
+ "provider": "kimi",
+ "model": "moonshotai/kimi-k3",
+ "mode": "run",
+ "blind": false,
+ "at": "2026-09-22T10:49:44"
+}

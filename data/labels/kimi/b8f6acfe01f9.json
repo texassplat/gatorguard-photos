@@ -1,0 +1,50 @@
+{
+ "finish": "stop",
+ "usage": {
+  "input_tokens": 5410,
+  "output_tokens": 225,
+  "cost": 0.00965901
+ },
+ "served_by": "DigitalOcean",
+ "label": {
+  "alt_text": "Promo video with text overlays showing bare concrete garage, then dark blue-gray flake floor in a room",
+  "area": "garage",
+  "branding_visible": true,
+  "color": "unknown",
+  "color_confidence": "low",
+  "color_description": "dark blue-gray and white chips, small to medium size, very dim lighting",
+  "color_runner_up": "unknown",
+  "content": "before_after_composite",
+  "faces_identifiable": false,
+  "filename": "4th-july-promo-before-after-flake",
+  "issues": [
+   "text_overlay",
+   "dark",
+   "low_resolution"
+  ],
+  "people": "none",
+  "privacy": [],
+  "quality": "3",
+  "setting": "residential",
+  "shot_type": "before_after",
+  "system": "full_flake",
+  "tags": [
+   "facebook ad",
+   "promo",
+   "before after",
+   "text overlay",
+   "dark flake floor",
+   "garage",
+   "bare concrete",
+   "logo"
+  ],
+  "title": "Promo video with before and dark flake after",
+  "website_ready": false
+ },
+ "id": "b8f6acfe01f9",
+ "provider": "kimi",
+ "model": "moonshotai/kimi-k3",
+ "mode": "run",
+ "blind": false,
+ "at": "2026-09-22T10:47:17"
+}

@@ -1,0 +1,46 @@
+{
+ "finish": "stop",
+ "usage": {
+  "input_tokens": 5589,
+  "output_tokens": 351,
+  "cost": 0.0137376
+ },
+ "served_by": "Modal",
+ "label": {
+  "alt_text": "Red sports car parked on a blue-gray full flake garage floor with cabinets in the background",
+  "area": "garage",
+  "branding_visible": false,
+  "color": "Pacific Coast",
+  "color_confidence": "low",
+  "color_description": "small blue, gray and white chips on a gray-blue base",
+  "color_runner_up": "Indigo",
+  "content": "floor_photo",
+  "faces_identifiable": false,
+  "filename": "red-car-blue-flake-garage-floor",
+  "issues": [],
+  "people": "none",
+  "privacy": [],
+  "quality": "4",
+  "setting": "residential",
+  "shot_type": "finished",
+  "system": "full_flake",
+  "tags": [
+   "garage",
+   "full flake",
+   "blue chips",
+   "gray chips",
+   "red car",
+   "sports car",
+   "garage cabinets",
+   "finished floor"
+  ],
+  "title": "Red sports car on blue-gray flake garage floor",
+  "website_ready": true
+ },
+ "id": "52ec86762f5d",
+ "provider": "kimi",
+ "model": "moonshotai/kimi-k3",
+ "mode": "run",
+ "blind": false,
+ "at": "2026-09-22T10:54:41"
+}

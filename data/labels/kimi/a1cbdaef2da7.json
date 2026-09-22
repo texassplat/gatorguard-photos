@@ -1,0 +1,50 @@
+{
+ "finish": "stop",
+ "usage": {
+  "input_tokens": 5649,
+  "output_tokens": 212,
+  "cost": 0.0199542
+ },
+ "served_by": "Together",
+ "label": {
+  "content": "floor_photo",
+  "area": "basement",
+  "setting": "residential",
+  "system": "metallic",
+  "color": "Cappuccino",
+  "color_confidence": "medium",
+  "color_runner_up": "Copper",
+  "color_description": "swirled brown and tan metallic epoxy, glossy marbled look",
+  "shot_type": "finished",
+  "people": "none",
+  "faces_identifiable": false,
+  "privacy": [],
+  "branding_visible": true,
+  "quality": "4",
+  "issues": [
+   "text_overlay"
+  ],
+  "website_ready": false,
+  "title": "Basement bar with brown metallic epoxy floor",
+  "alt_text": "Finished basement bar and game area with a brown marbled metallic epoxy floor and GatorGuard logo overlay",
+  "tags": [
+   "basement",
+   "metallic epoxy",
+   "brown metallic",
+   "wet bar",
+   "bar stools",
+   "stone wall",
+   "game table",
+   "facebook ad",
+   "logo overlay",
+   "glossy floor"
+  ],
+  "filename": "basement-bar-brown-metallic-floor-ad"
+ },
+ "id": "a1cbdaef2da7",
+ "provider": "kimi",
+ "model": "moonshotai/kimi-k3",
+ "mode": "run",
+ "blind": false,
+ "at": "2026-09-22T10:46:05"
+}

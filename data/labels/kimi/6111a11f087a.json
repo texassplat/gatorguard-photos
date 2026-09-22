@@ -1,0 +1,48 @@
+{
+ "finish": "stop",
+ "usage": {
+  "input_tokens": 5327,
+  "output_tokens": 175,
+  "cost": 0.013402375
+ },
+ "served_by": "Morph",
+ "label": {
+  "content": "floor_photo",
+  "area": "steps_or_stairs",
+  "setting": "residential",
+  "system": "full_flake",
+  "color": "Granite",
+  "color_confidence": "medium",
+  "color_runner_up": "Stone Rowe",
+  "color_description": "gray, white and black chips, small to medium size",
+  "shot_type": "finished",
+  "people": "none",
+  "faces_identifiable": false,
+  "privacy": [],
+  "branding_visible": false,
+  "quality": "4",
+  "issues": [
+   "text_overlay"
+  ],
+  "website_ready": false,
+  "title": "Gray flake coated garage steps with warranty text",
+  "alt_text": "Gray full flake coated garage entry steps and stem wall with Lifetime Warranty text overlay, full flake floor coating",
+  "tags": [
+   "garage steps",
+   "full flake",
+   "gray chips",
+   "stem wall",
+   "entry steps",
+   "warranty text overlay",
+   "finished floor",
+   "gray white black chips"
+  ],
+  "filename": "gray-flake-garage-steps-warranty-text"
+ },
+ "id": "6111a11f087a",
+ "provider": "kimi",
+ "model": "moonshotai/kimi-k3",
+ "mode": "run",
+ "blind": false,
+ "at": "2026-09-22T10:53:22"
+}

@@ -1,0 +1,48 @@
+{
+ "finish": "stop",
+ "usage": {
+  "input_tokens": 5065,
+  "output_tokens": 276,
+  "cost": 0.00943971
+ },
+ "served_by": "DigitalOcean",
+ "label": {
+  "alt_text": "Facebook ad for GatorGuard with Santa, green alligator logo, 50% off offer, and full flake floor clips",
+  "area": "not_visible",
+  "branding_visible": true,
+  "color": "unknown",
+  "color_confidence": "none",
+  "color_description": "gray and white chips briefly shown",
+  "color_runner_up": "unknown",
+  "content": "marketing_graphic",
+  "faces_identifiable": false,
+  "filename": "christmas-sale-ad-flake-floor",
+  "issues": [
+   "text_overlay"
+  ],
+  "people": "prominent",
+  "privacy": [],
+  "quality": "3",
+  "setting": "unknown",
+  "shot_type": "graphic",
+  "system": "full_flake",
+  "tags": [
+   "facebook ad",
+   "christmas sale",
+   "santa",
+   "gatorguard logo",
+   "50 percent off",
+   "full flake",
+   "holiday promo",
+   "gray chips"
+  ],
+  "title": "Christmas sale ad with flake floor clips",
+  "website_ready": false
+ },
+ "id": "676339fbf64f",
+ "provider": "kimi",
+ "model": "moonshotai/kimi-k3",
+ "mode": "run",
+ "blind": false,
+ "at": "2026-09-22T10:48:20"
+}

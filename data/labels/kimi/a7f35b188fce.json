@@ -1,0 +1,48 @@
+{
+ "finish": "stop",
+ "usage": {
+  "input_tokens": 5662,
+  "output_tokens": 303,
+  "cost": 0.01131171
+ },
+ "served_by": "DigitalOcean",
+ "label": {
+  "alt_text": "Montage of coated floors: motorcycle, stamped driveway, patio flake, and car in garage. Facebook ad video frames.",
+  "area": "other_exterior",
+  "branding_visible": true,
+  "color": "unknown",
+  "color_confidence": "none",
+  "color_description": "multiple floors: gray flake, stamped stone pattern, and solid gray",
+  "color_runner_up": "unknown",
+  "content": "marketing_graphic",
+  "faces_identifiable": false,
+  "filename": "gatoguard-ad-montage-vehicle-floors",
+  "issues": [
+   "text_overlay"
+  ],
+  "people": "none",
+  "privacy": [],
+  "quality": "3",
+  "setting": "unknown",
+  "shot_type": "finished",
+  "system": "unknown",
+  "tags": [
+   "motorcycle",
+   "car",
+   "stamped concrete driveway",
+   "patio flake",
+   "garage",
+   "gator logo",
+   "facebook ad",
+   "video montage"
+  ],
+  "title": "Ad montage of coated floors with vehicles",
+  "website_ready": false
+ },
+ "id": "a7f35b188fce",
+ "provider": "kimi",
+ "model": "moonshotai/kimi-k3",
+ "mode": "run",
+ "blind": false,
+ "at": "2026-09-22T10:47:53"
+}

@@ -1,0 +1,47 @@
+{
+ "finish": "stop",
+ "usage": {
+  "input_tokens": 5693,
+  "output_tokens": 240,
+  "cost": 0.01057491
+ },
+ "served_by": "DigitalOcean",
+ "label": {
+  "alt_text": "Covered entry porch with a tan, brown and black full flake coating outside a brick condo building. Full flake porch floor coating.",
+  "area": "patio_or_porch",
+  "branding_visible": false,
+  "color": "Chestnut",
+  "color_confidence": "medium",
+  "color_description": "tan, brown and black chips, small to medium size",
+  "color_runner_up": "Ocotillo",
+  "content": "floor_photo",
+  "faces_identifiable": false,
+  "filename": "tan-flake-porch-brick-entry",
+  "issues": [],
+  "people": "none",
+  "privacy": [],
+  "quality": "4",
+  "setting": "residential",
+  "shot_type": "finished",
+  "system": "full_flake",
+  "tags": [
+   "porch",
+   "entry",
+   "full flake",
+   "tan chips",
+   "brown chips",
+   "brick building",
+   "front door",
+   "metal railing",
+   "finished floor"
+  ],
+  "title": "Tan full flake coating on entry porch",
+  "website_ready": true
+ },
+ "id": "e92a6a5bd185",
+ "provider": "kimi",
+ "model": "moonshotai/kimi-k3",
+ "mode": "run",
+ "blind": false,
+ "at": "2026-09-22T10:52:09"
+}

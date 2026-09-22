@@ -1,0 +1,50 @@
+{
+ "finish": "stop",
+ "usage": {
+  "input_tokens": 5648,
+  "output_tokens": 271,
+  "cost": 0.0178662
+ },
+ "served_by": "Together",
+ "label": {
+  "content": "floor_photo",
+  "area": "patio_or_porch",
+  "setting": "residential",
+  "system": "full_flake",
+  "color": "unknown",
+  "color_confidence": "low",
+  "color_runner_up": "Stone Ridge",
+  "color_description": "gray, white, black and tan chips, medium size",
+  "shot_type": "finished",
+  "people": "none",
+  "faces_identifiable": false,
+  "privacy": [],
+  "branding_visible": true,
+  "quality": "4",
+  "issues": [
+   "text_overlay"
+  ],
+  "website_ready": false,
+  "title": "Covered patio with gray full flake floor",
+  "alt_text": "Covered residential patio with a glossy gray, white and tan full flake floor and garden view, full flake patio floor coating",
+  "tags": [
+   "patio",
+   "covered patio",
+   "full flake",
+   "gray chips",
+   "tan chips",
+   "glossy floor",
+   "outdoor living",
+   "facebook ad",
+   "logo overlay",
+   "garden view"
+  ],
+  "filename": "covered-patio-gray-full-flake-floor"
+ },
+ "id": "8f6d475dc1a2",
+ "provider": "kimi",
+ "model": "moonshotai/kimi-k3",
+ "mode": "run",
+ "blind": false,
+ "at": "2026-09-22T10:46:19"
+}

@@ -1,0 +1,47 @@
+{
+ "finish": "stop",
+ "usage": {
+  "input_tokens": 5066,
+  "output_tokens": 318,
+  "cost": 0.00998616
+ },
+ "served_by": "DigitalOcean",
+ "label": {
+  "alt_text": "Empty two-car garage with gray full flake epoxy floor, white walls and wall-mounted bikes",
+  "area": "garage",
+  "branding_visible": false,
+  "color": "Granite",
+  "color_confidence": "low",
+  "color_description": "gray, white and black chips, medium size",
+  "color_runner_up": "Callisto",
+  "content": "floor_photo",
+  "faces_identifiable": false,
+  "filename": "garage-gray-full-flake-floor",
+  "issues": [],
+  "people": "none",
+  "privacy": [],
+  "quality": "4",
+  "setting": "residential",
+  "shot_type": "finished",
+  "system": "full_flake",
+  "tags": [
+   "garage",
+   "full flake",
+   "gray chips",
+   "finished floor",
+   "empty garage",
+   "garage door",
+   "wall mounted bikes",
+   "white walls",
+   "two car garage"
+  ],
+  "title": "Empty garage with gray full flake floor",
+  "website_ready": true
+ },
+ "id": "be4210ed284c",
+ "provider": "kimi",
+ "model": "moonshotai/kimi-k3",
+ "mode": "run",
+ "blind": false,
+ "at": "2026-09-22T10:51:28"
+}

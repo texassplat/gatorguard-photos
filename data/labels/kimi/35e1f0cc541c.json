@@ -1,0 +1,48 @@
+{
+ "finish": "stop",
+ "usage": {
+  "input_tokens": 4650,
+  "output_tokens": 397,
+  "cost": 0.019905
+ },
+ "served_by": "Moonshot AI",
+ "label": {
+  "content": "marketing_graphic",
+  "area": "commercial_or_industrial",
+  "setting": "commercial",
+  "system": "full_flake",
+  "color": "unknown",
+  "color_confidence": "low",
+  "color_runner_up": "unknown",
+  "color_description": "gray chips, small size",
+  "shot_type": "finished",
+  "people": "none",
+  "faces_identifiable": false,
+  "privacy": [],
+  "branding_visible": false,
+  "quality": "4",
+  "issues": [
+   "text_overlay"
+  ],
+  "website_ready": false,
+  "title": "Two dogs on gray flake floor",
+  "alt_text": "Two golden retrievers in green bandanas sitting on a gray flake coated floor, dog daycare flooring",
+  "tags": [
+   "dogs",
+   "pet facility",
+   "dog daycare",
+   "gray flake",
+   "full flake",
+   "facebook ad",
+   "finished floor",
+   "indoor kennel"
+  ],
+  "filename": "dogs-gray-flake-floor-ad"
+ },
+ "id": "35e1f0cc541c",
+ "provider": "kimi",
+ "model": "moonshotai/kimi-k3",
+ "mode": "run",
+ "blind": false,
+ "at": "2026-09-22T10:50:07"
+}

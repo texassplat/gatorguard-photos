@@ -1,0 +1,50 @@
+{
+ "finish": "stop",
+ "usage": {
+  "input_tokens": 5657,
+  "output_tokens": 403,
+  "cost": 0.0198678
+ },
+ "served_by": "Together",
+ "label": {
+  "content": "floor_photo",
+  "area": "garage",
+  "setting": "residential",
+  "system": "full_flake",
+  "color": "unknown",
+  "color_confidence": "low",
+  "color_runner_up": "unknown",
+  "color_description": "montage: gray flake garage floor with logo inlay, tan flake sunroom floor, dark metallic basement floor, gray floor being coated",
+  "shot_type": "finished",
+  "people": "prominent",
+  "faces_identifiable": false,
+  "privacy": [],
+  "branding_visible": true,
+  "quality": "3",
+  "issues": [
+   "text_overlay"
+  ],
+  "website_ready": false,
+  "title": "Facebook ad montage of coated floors and crew",
+  "alt_text": "Four frame video montage: garage with Porsche and logo floor inlay, sunroom with tan flake floor, basement bar with metallic floor, crew applying coating",
+  "tags": [
+   "facebook ad",
+   "video montage",
+   "garage floor",
+   "full flake",
+   "metallic floor",
+   "logo inlay",
+   "porsche",
+   "basement bar",
+   "crew working",
+   "coating application"
+  ],
+  "filename": "facebook-ad-montage-coated-floors-crew"
+ },
+ "id": "9d7ba0a815df",
+ "provider": "kimi",
+ "model": "moonshotai/kimi-k3",
+ "mode": "run",
+ "blind": false,
+ "at": "2026-09-22T10:48:00"
+}

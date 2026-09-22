@@ -1,0 +1,49 @@
+{
+ "finish": "stop",
+ "usage": {
+  "input_tokens": 5418,
+  "output_tokens": 266,
+  "cost": 0.01021036
+ },
+ "served_by": "DigitalOcean",
+ "label": {
+  "alt_text": "Video clips of grinding, coating work, and a finished gray flake garage floor",
+  "area": "garage",
+  "branding_visible": true,
+  "color": "unknown",
+  "color_confidence": "low",
+  "color_description": "light gray chips with dark chips, fine to medium size",
+  "color_runner_up": "unknown",
+  "content": "other",
+  "faces_identifiable": false,
+  "filename": "garage-coating-process-and-finished-flake-floor-video",
+  "issues": [
+   "low_resolution",
+   "text_overlay"
+  ],
+  "people": "prominent",
+  "privacy": [],
+  "quality": "2",
+  "setting": "residential",
+  "shot_type": "other",
+  "system": "full_flake",
+  "tags": [
+   "garage floor",
+   "full flake",
+   "grinding",
+   "crew applying coating",
+   "video montage",
+   "gray chips",
+   "facebook ad",
+   "branded truck"
+  ],
+  "title": "Garage coating process and finished flake floor clips",
+  "website_ready": false
+ },
+ "id": "59ac9aae4001",
+ "provider": "kimi",
+ "model": "moonshotai/kimi-k3",
+ "mode": "run",
+ "blind": false,
+ "at": "2026-09-22T10:47:30"
+}

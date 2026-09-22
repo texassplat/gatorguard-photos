@@ -1,0 +1,48 @@
+{
+ "finish": "stop",
+ "usage": {
+  "input_tokens": 5315,
+  "output_tokens": 255,
+  "cost": 0.0114756
+ },
+ "served_by": "Modal",
+ "label": {
+  "alt_text": "Metallic epoxy floor with gray and blue marbled swirls in a large shop with wood walls",
+  "area": "commercial_or_industrial",
+  "branding_visible": false,
+  "color": "unknown",
+  "color_confidence": "low",
+  "color_description": "gray, black and silver metallic swirls with bold blue accents, high gloss",
+  "color_runner_up": "Denim",
+  "content": "floor_photo",
+  "faces_identifiable": false,
+  "filename": "gray-blue-metallic-floor-wood-walls",
+  "issues": [],
+  "people": "none",
+  "privacy": [],
+  "quality": "4",
+  "setting": "commercial",
+  "shot_type": "finished",
+  "system": "metallic",
+  "tags": [
+   "metallic epoxy",
+   "liquid art",
+   "gray metallic",
+   "blue accents",
+   "swirled floor",
+   "wood walls",
+   "large shop",
+   "overhead doors",
+   "reflective floor",
+   "finished"
+  ],
+  "title": "Gray and blue metallic floor in wood-walled shop",
+  "website_ready": true
+ },
+ "id": "433b9133ec4e",
+ "provider": "kimi",
+ "model": "moonshotai/kimi-k3",
+ "mode": "run",
+ "blind": false,
+ "at": "2026-09-22T10:53:39"
+}

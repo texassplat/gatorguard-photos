@@ -1,0 +1,46 @@
+{
+ "finish": "stop",
+ "usage": {
+  "input_tokens": 4518,
+  "output_tokens": 159,
+  "cost": 0.0076446
+ },
+ "served_by": "Modal",
+ "label": {
+  "alt_text": "GatorGuard Concrete Coatings logo with green alligator wrapped around a map of the United States",
+  "area": "not_visible",
+  "branding_visible": true,
+  "color": "not_applicable",
+  "color_confidence": "none",
+  "color_description": "",
+  "color_runner_up": "not_applicable",
+  "content": "logo_or_text_graphic",
+  "faces_identifiable": false,
+  "filename": "gatorguard-logo-alligator-us-map",
+  "issues": [],
+  "people": "none",
+  "privacy": [],
+  "quality": "4",
+  "setting": "unknown",
+  "shot_type": "graphic",
+  "system": "not_applicable",
+  "tags": [
+   "logo",
+   "branding",
+   "alligator",
+   "gator",
+   "us map",
+   "green",
+   "marketing graphic",
+   "google ads"
+  ],
+  "title": "GatorGuard logo with alligator and US map",
+  "website_ready": false
+ },
+ "id": "75b431d2a4c7",
+ "provider": "kimi",
+ "model": "moonshotai/kimi-k3",
+ "mode": "run",
+ "blind": false,
+ "at": "2026-09-22T10:54:35"
+}

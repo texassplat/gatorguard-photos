@@ -1,0 +1,50 @@
+{
+ "finish": "stop",
+ "usage": {
+  "input_tokens": 5056,
+  "output_tokens": 354,
+  "cost": 0.0173487
+ },
+ "served_by": "Together",
+ "label": {
+  "content": "marketing_graphic",
+  "area": "garage",
+  "setting": "residential",
+  "system": "full_flake",
+  "color": "unknown",
+  "color_confidence": "low",
+  "color_runner_up": "Granite",
+  "color_description": "gray, white and black chips, large size, shown in an inset preview swatch",
+  "shot_type": "graphic",
+  "people": "none",
+  "faces_identifiable": false,
+  "privacy": [],
+  "branding_visible": false,
+  "quality": "3",
+  "issues": [
+   "dark",
+   "text_overlay"
+  ],
+  "website_ready": false,
+  "title": "Ad graphic with flake preview over cracked garage floor",
+  "alt_text": "Ad graphic showing a cracked garage floor with an inset preview of gray, white and black full flake coating",
+  "tags": [
+   "facebook ad",
+   "graphic",
+   "before",
+   "cracked concrete",
+   "garage floor",
+   "full flake",
+   "gray chips",
+   "cursor",
+   "preview swatch"
+  ],
+  "filename": "ad-graphic-flake-preview-cracked-garage"
+ },
+ "id": "7623b8146ff4",
+ "provider": "kimi",
+ "model": "moonshotai/kimi-k3",
+ "mode": "run",
+ "blind": false,
+ "at": "2026-09-22T10:49:34"
+}

@@ -1,0 +1,50 @@
+{
+ "finish": "stop",
+ "usage": {
+  "input_tokens": 5399,
+  "output_tokens": 247,
+  "cost": 0.0167565
+ },
+ "served_by": "Together",
+ "label": {
+  "content": "marketing_graphic",
+  "area": "garage",
+  "setting": "residential",
+  "system": "full_flake",
+  "color": "unknown",
+  "color_confidence": "low",
+  "color_runner_up": "unknown",
+  "color_description": "mix of scenes: gray flake garage floor with Porsche logo inlay, tan and brown flake sunroom floor, brown metallic basement floor, crew coating a light gray floor",
+  "shot_type": "other",
+  "people": "prominent",
+  "faces_identifiable": false,
+  "privacy": [],
+  "branding_visible": true,
+  "quality": "3",
+  "issues": [
+   "text_overlay"
+  ],
+  "website_ready": false,
+  "title": "Four panel ad of coated floors and crew",
+  "alt_text": "Four panel video ad showing a flake garage floor with Porsche logo, sunroom flake floor, metallic basement floor, and crew applying coating",
+  "tags": [
+   "facebook ad",
+   "video montage",
+   "garage",
+   "porsche logo",
+   "flake floor",
+   "metallic floor",
+   "basement bar",
+   "crew working",
+   "sunroom",
+   "watermark"
+  ],
+  "filename": "four-panel-ad-floors-and-crew"
+ },
+ "id": "1d584a950566",
+ "provider": "kimi",
+ "model": "moonshotai/kimi-k3",
+ "mode": "run",
+ "blind": false,
+ "at": "2026-09-22T10:47:22"
+}

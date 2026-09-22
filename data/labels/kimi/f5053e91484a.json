@@ -1,0 +1,46 @@
+{
+ "finish": "stop",
+ "usage": {
+  "input_tokens": 5346,
+  "output_tokens": 269,
+  "cost": 0.01006561
+ },
+ "served_by": "DigitalOcean",
+ "label": {
+  "alt_text": "Close-up of tan and brown speckled flake floor at a corner near a metal garage door track",
+  "area": "garage",
+  "branding_visible": false,
+  "color": "Santana",
+  "color_confidence": "medium",
+  "color_description": "tan, brown, black and white chips, fine to medium size",
+  "color_runner_up": "Windermere",
+  "content": "floor_photo",
+  "faces_identifiable": false,
+  "filename": "flake-garage-floor-corner-door-track",
+  "issues": [],
+  "people": "none",
+  "privacy": [],
+  "quality": "3",
+  "setting": "residential",
+  "shot_type": "close_up",
+  "system": "full_flake",
+  "tags": [
+   "full flake",
+   "garage floor",
+   "tan chips",
+   "brown and black chips",
+   "corner detail",
+   "garage door track",
+   "speckled floor",
+   "epoxy coating"
+  ],
+  "title": "Flake floor corner near garage door track",
+  "website_ready": false
+ },
+ "id": "f5053e91484a",
+ "provider": "kimi",
+ "model": "moonshotai/kimi-k3",
+ "mode": "run",
+ "blind": false,
+ "at": "2026-09-22T10:50:54"
+}

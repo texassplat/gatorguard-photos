@@ -1,0 +1,50 @@
+{
+ "finish": "stop",
+ "usage": {
+  "input_tokens": 5409,
+  "output_tokens": 253,
+  "cost": 0.01001906
+ },
+ "served_by": "DigitalOcean",
+ "label": {
+  "alt_text": "GatorGuard holiday ad with customers at a garage, crew member, and 50% off end card",
+  "area": "garage",
+  "branding_visible": true,
+  "color": "unknown",
+  "color_confidence": "none",
+  "color_description": "",
+  "color_runner_up": "unknown",
+  "content": "marketing_graphic",
+  "faces_identifiable": true,
+  "filename": "gatorguard-holiday-ad-video",
+  "issues": [
+   "text_overlay",
+   "low_resolution"
+  ],
+  "people": "prominent",
+  "privacy": [
+   "customer_face"
+  ],
+  "quality": "2",
+  "setting": "residential",
+  "shot_type": "other",
+  "system": "unknown",
+  "tags": [
+   "facebook ad",
+   "promo video",
+   "holiday pricing",
+   "garage",
+   "crew member",
+   "logo end card",
+   "text overlay"
+  ],
+  "title": "GatorGuard holiday promo ad video",
+  "website_ready": false
+ },
+ "id": "9bcb60145b17",
+ "provider": "kimi",
+ "model": "moonshotai/kimi-k3",
+ "mode": "run",
+ "blind": false,
+ "at": "2026-09-22T10:47:18"
+}

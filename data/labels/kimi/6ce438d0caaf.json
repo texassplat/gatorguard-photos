@@ -1,0 +1,52 @@
+{
+ "finish": "stop",
+ "usage": {
+  "input_tokens": 5687,
+  "output_tokens": 268,
+  "cost": 0.021081
+ },
+ "served_by": "Chutes",
+ "label": {
+  "content": "marketing_graphic",
+  "area": "not_visible",
+  "setting": "residential",
+  "system": "full_flake",
+  "color": "unknown",
+  "color_confidence": "low",
+  "color_runner_up": "unknown",
+  "color_description": "mixed collage: tan and brown flake floors, one gray flake floor, one brown marbled metallic floor",
+  "shot_type": "graphic",
+  "people": "prominent",
+  "faces_identifiable": true,
+  "privacy": [
+   "customer_face"
+  ],
+  "branding_visible": true,
+  "quality": "3",
+  "issues": [
+   "text_overlay"
+  ],
+  "website_ready": false,
+  "title": "Facebook ad collage of finished coated floors",
+  "alt_text": "GatorGuard Facebook ad collage showing four coated garage and porch floors with logo, gator mascot, and get a free quote text",
+  "tags": [
+   "facebook ad",
+   "collage",
+   "full flake",
+   "garage floor",
+   "screened porch",
+   "metallic floor",
+   "text overlay",
+   "gator mascot",
+   "finished floor",
+   "ad graphic"
+  ],
+  "filename": "facebook-ad-collage-coated-floors"
+ },
+ "id": "6ce438d0caaf",
+ "provider": "kimi",
+ "model": "moonshotai/kimi-k3",
+ "mode": "run",
+ "blind": false,
+ "at": "2026-09-22T10:50:15"
+}

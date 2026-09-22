@@ -1,0 +1,47 @@
+{
+ "finish": "stop",
+ "usage": {
+  "input_tokens": 5025,
+  "output_tokens": 409,
+  "cost": 0.01106006
+ },
+ "served_by": "DigitalOcean",
+ "label": {
+  "alt_text": "GatorGuard Facebook ad with person in green costume on gray floor and headline A Floor That Is Tougher Than Bricks",
+  "area": "not_visible",
+  "branding_visible": true,
+  "color": "unknown",
+  "color_confidence": "low",
+  "color_description": "gray base with light and dark speckled chips",
+  "color_runner_up": "unknown",
+  "content": "marketing_graphic",
+  "faces_identifiable": false,
+  "filename": "gatorguard-tougher-than-bricks-facebook-ad",
+  "issues": [
+   "text_overlay"
+  ],
+  "people": "prominent",
+  "privacy": [],
+  "quality": "4",
+  "setting": "unknown",
+  "shot_type": "graphic",
+  "system": "full_flake",
+  "tags": [
+   "facebook ad",
+   "marketing graphic",
+   "green costume",
+   "tougher than bricks",
+   "gray flake floor",
+   "headline text",
+   "gatorguard logo"
+  ],
+  "title": "Facebook ad Tougher Than Bricks headline",
+  "website_ready": false
+ },
+ "id": "40ee3595dbd9",
+ "provider": "kimi",
+ "model": "moonshotai/kimi-k3",
+ "mode": "run",
+ "blind": false,
+ "at": "2026-09-22T10:50:29"
+}

@@ -1,0 +1,53 @@
+{
+ "finish": "stop",
+ "usage": {
+  "input_tokens": 5314,
+  "output_tokens": 271,
+  "cost": 0.01110186
+ },
+ "served_by": "Phala",
+ "label": {
+  "alt_text": "Two customers standing in a garage with a gray full flake floor, text overlay and GatorGuard logo, full flake garage floor coating",
+  "area": "garage",
+  "branding_visible": true,
+  "color": "Lunar",
+  "color_confidence": "low",
+  "color_description": "gray base with white, black and light gray chips, small size",
+  "color_runner_up": "Avalon",
+  "content": "marketing_graphic",
+  "faces_identifiable": true,
+  "filename": "garage-full-flake-raving-fans-ad",
+  "issues": [
+   "text_overlay",
+   "cluttered"
+  ],
+  "people": "prominent",
+  "privacy": [
+   "customer_face"
+  ],
+  "quality": "3",
+  "setting": "residential",
+  "shot_type": "graphic",
+  "system": "full_flake",
+  "tags": [
+   "garage",
+   "full flake",
+   "gray chips",
+   "facebook ad",
+   "customers",
+   "testimonial",
+   "text overlay",
+   "logo",
+   "storage shelves",
+   "finished floor"
+  ],
+  "title": "Happy customers in garage with gray flake floor",
+  "website_ready": false
+ },
+ "id": "ec82de1b0e38",
+ "provider": "kimi",
+ "model": "moonshotai/kimi-k3",
+ "mode": "run",
+ "blind": false,
+ "at": "2026-09-22T10:49:06"
+}

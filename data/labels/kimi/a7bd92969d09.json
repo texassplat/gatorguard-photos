@@ -1,0 +1,47 @@
+{
+ "finish": "stop",
+ "usage": {
+  "input_tokens": 4722,
+  "output_tokens": 192,
+  "cost": 0.0138843
+ },
+ "served_by": "Together",
+ "label": {
+  "content": "floor_photo",
+  "area": "patio_or_porch",
+  "setting": "residential",
+  "system": "stamped_concrete",
+  "color": "not_applicable",
+  "color_confidence": "none",
+  "color_runner_up": "not_applicable",
+  "color_description": "",
+  "shot_type": "finished",
+  "people": "none",
+  "faces_identifiable": false,
+  "privacy": [],
+  "branding_visible": false,
+  "quality": "4",
+  "issues": [],
+  "website_ready": true,
+  "title": "Glossy sealed stamped concrete patio with fire pit",
+  "alt_text": "Gray stamped concrete patio with glossy sealer, fire pit and pergola posts, sealed stamped concrete patio",
+  "tags": [
+   "stamped concrete",
+   "patio",
+   "glossy sealer",
+   "wet look",
+   "gray",
+   "fire pit",
+   "outdoor",
+   "backyard",
+   "finished floor"
+  ],
+  "filename": "glossy-stamped-concrete-patio-fire-pit"
+ },
+ "id": "a7bd92969d09",
+ "provider": "kimi",
+ "model": "moonshotai/kimi-k3",
+ "mode": "run",
+ "blind": false,
+ "at": "2026-09-22T10:52:39"
+}

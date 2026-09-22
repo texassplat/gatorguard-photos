@@ -1,0 +1,51 @@
+{
+ "finish": "stop",
+ "usage": {
+  "input_tokens": 5652,
+  "output_tokens": 211,
+  "cost": 0.01118166
+ },
+ "served_by": "Phala",
+ "label": {
+  "alt_text": "Sealed residential driveway and front walk with GatorGuard trailer and Lifetime Warranty text overlay",
+  "area": "driveway_or_walkway",
+  "branding_visible": true,
+  "color": "not_applicable",
+  "color_confidence": "none",
+  "color_description": "smooth gray concrete with glossy wet-look sealer, no chips visible",
+  "color_runner_up": "not_applicable",
+  "content": "marketing_graphic",
+  "faces_identifiable": false,
+  "filename": "lifetime-warranty-sealed-driveway-ad",
+  "issues": [
+   "text_overlay",
+   "heavy_filter"
+  ],
+  "people": "none",
+  "privacy": [],
+  "quality": "3",
+  "setting": "residential",
+  "shot_type": "graphic",
+  "system": "poly_enhance",
+  "tags": [
+   "driveway",
+   "sealed concrete",
+   "wet look sealer",
+   "warranty",
+   "google ads",
+   "trailer",
+   "text overlay",
+   "residential",
+   "curb appeal",
+   "walkway"
+  ],
+  "title": "Sealed driveway with Lifetime Warranty ad text",
+  "website_ready": false
+ },
+ "id": "af4a8135a30c",
+ "provider": "kimi",
+ "model": "moonshotai/kimi-k3",
+ "mode": "run",
+ "blind": false,
+ "at": "2026-09-22T10:53:11"
+}

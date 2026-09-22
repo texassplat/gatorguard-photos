@@ -1,0 +1,50 @@
+{
+ "finish": "stop",
+ "usage": {
+  "input_tokens": 5362,
+  "output_tokens": 331,
+  "cost": 0.01090931
+ },
+ "served_by": "DigitalOcean",
+ "label": {
+  "alt_text": "Basement workshop with light gray full flake floor, pegboard tool wall and sump pump. Full flake basement floor coating.",
+  "area": "basement",
+  "branding_visible": false,
+  "color": "Lunar",
+  "color_confidence": "low",
+  "color_description": "light gray, white and black chips, medium size",
+  "color_runner_up": "Aurora",
+  "content": "floor_photo",
+  "faces_identifiable": false,
+  "filename": "basement-workshop-gray-flake-floor",
+  "issues": [
+   "tilted",
+   "cluttered"
+  ],
+  "people": "none",
+  "privacy": [],
+  "quality": "3",
+  "setting": "residential",
+  "shot_type": "finished",
+  "system": "full_flake",
+  "tags": [
+   "basement",
+   "workshop",
+   "pegboard wall",
+   "sump pump",
+   "gray flake floor",
+   "full flake",
+   "tools",
+   "water heater",
+   "finished floor"
+  ],
+  "title": "Basement workshop with gray full flake floor",
+  "website_ready": false
+ },
+ "id": "affe33a255ff",
+ "provider": "kimi",
+ "model": "moonshotai/kimi-k3",
+ "mode": "run",
+ "blind": false,
+ "at": "2026-09-22T10:52:08"
+}

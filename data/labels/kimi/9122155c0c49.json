@@ -1,0 +1,46 @@
+{
+ "finish": "stop",
+ "usage": {
+  "input_tokens": 5292,
+  "output_tokens": 248,
+  "cost": 0.00965596
+ },
+ "served_by": "DigitalOcean",
+ "label": {
+  "alt_text": "Large commercial bay with gray full flake epoxy floor and overhead doors",
+  "area": "commercial_or_industrial",
+  "branding_visible": false,
+  "color": "Quartzite",
+  "color_confidence": "low",
+  "color_description": "fine gray and white chips over a gray base",
+  "color_runner_up": "Silverado",
+  "content": "floor_photo",
+  "faces_identifiable": false,
+  "filename": "commercial-bay-gray-full-flake-floor",
+  "issues": [],
+  "people": "background",
+  "privacy": [],
+  "quality": "4",
+  "setting": "commercial",
+  "shot_type": "finished",
+  "system": "full_flake",
+  "tags": [
+   "commercial floor",
+   "full flake",
+   "gray chips",
+   "warehouse",
+   "overhead doors",
+   "workshop",
+   "glossy floor",
+   "finished floor"
+  ],
+  "title": "Commercial bay with gray full flake floor",
+  "website_ready": true
+ },
+ "id": "9122155c0c49",
+ "provider": "kimi",
+ "model": "moonshotai/kimi-k3",
+ "mode": "run",
+ "blind": false,
+ "at": "2026-09-22T10:50:43"
+}

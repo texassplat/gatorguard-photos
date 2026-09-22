@@ -1,0 +1,50 @@
+{
+ "finish": "stop",
+ "usage": {
+  "input_tokens": 5092,
+  "output_tokens": 242,
+  "cost": 0.018906
+ },
+ "served_by": "Chutes",
+ "label": {
+  "content": "floor_photo",
+  "area": "pool_deck",
+  "setting": "residential",
+  "system": "poly_enhance",
+  "color": "not_applicable",
+  "color_confidence": "none",
+  "color_runner_up": "not_applicable",
+  "color_description": "brown stained concrete with a glossy wet-look sealer, no chips",
+  "shot_type": "finished",
+  "people": "none",
+  "faces_identifiable": false,
+  "privacy": [],
+  "branding_visible": false,
+  "quality": "3",
+  "issues": [
+   "text_overlay"
+  ],
+  "website_ready": false,
+  "title": "Brown sealed pool deck with stone fire pit",
+  "alt_text": "Brown sealed concrete pool deck with stone fire pit and pool, text overlay reading get priority booking",
+  "tags": [
+   "pool deck",
+   "sealed concrete",
+   "brown stain",
+   "wet look",
+   "fire pit",
+   "backyard",
+   "pool",
+   "facebook ad",
+   "text overlay",
+   "outdoor living"
+  ],
+  "filename": "brown-sealed-pool-deck-fire-pit-ad"
+ },
+ "id": "cccc9010e180",
+ "provider": "kimi",
+ "model": "moonshotai/kimi-k3",
+ "mode": "run",
+ "blind": false,
+ "at": "2026-09-22T10:49:14"
+}

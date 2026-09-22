@@ -1,0 +1,49 @@
+{
+ "finish": "stop",
+ "usage": {
+  "input_tokens": 5063,
+  "output_tokens": 226,
+  "cost": 0.00878711
+ },
+ "served_by": "DigitalOcean",
+ "label": {
+  "alt_text": "Garage with dark full flake floor and ad text reading TOUGHER THAN CROCODILE SKIN with gator graphic",
+  "area": "garage",
+  "branding_visible": true,
+  "color": "Gun Metal",
+  "color_confidence": "low",
+  "color_description": "dark gray chips with white and light gray chips, small to medium size",
+  "color_runner_up": "Galaxy",
+  "content": "marketing_graphic",
+  "faces_identifiable": false,
+  "filename": "facebook-ad-tougher-crocodile-skin-garage",
+  "issues": [
+   "text_overlay"
+  ],
+  "people": "none",
+  "privacy": [],
+  "quality": "3",
+  "setting": "residential",
+  "shot_type": "graphic",
+  "system": "full_flake",
+  "tags": [
+   "facebook ad",
+   "text overlay",
+   "garage",
+   "dark full flake",
+   "gray chips",
+   "unfinished drywall",
+   "marketing",
+   "gator graphic",
+   "full flake floor"
+  ],
+  "title": "Facebook ad over dark flake garage floor",
+  "website_ready": false
+ },
+ "id": "82f354d5a475",
+ "provider": "kimi",
+ "model": "moonshotai/kimi-k3",
+ "mode": "run",
+ "blind": false,
+ "at": "2026-09-22T10:49:23"
+}

@@ -1,0 +1,47 @@
+{
+ "finish": "stop",
+ "usage": {
+  "input_tokens": 5315,
+  "output_tokens": 310,
+  "cost": 0.0123006
+ },
+ "served_by": "Modal",
+ "label": {
+  "alt_text": "Blue and gray metallic epoxy floor with marbled swirls in a large garage with two overhead doors",
+  "area": "garage",
+  "branding_visible": false,
+  "color": "Sapphire",
+  "color_confidence": "medium",
+  "color_description": "blue metallic swirled with dark gray and charcoal tones, glossy",
+  "color_runner_up": "Denim",
+  "content": "floor_photo",
+  "faces_identifiable": false,
+  "filename": "blue-metallic-floor-large-garage",
+  "issues": [],
+  "people": "none",
+  "privacy": [],
+  "quality": "4",
+  "setting": "residential",
+  "shot_type": "finished",
+  "system": "metallic",
+  "tags": [
+   "metallic epoxy",
+   "blue metallic",
+   "swirled floor",
+   "garage",
+   "overhead doors",
+   "wood walls",
+   "glossy floor",
+   "large garage",
+   "reflective"
+  ],
+  "title": "Blue metallic epoxy floor in large garage",
+  "website_ready": true
+ },
+ "id": "f71a2c959c9d",
+ "provider": "kimi",
+ "model": "moonshotai/kimi-k3",
+ "mode": "run",
+ "blind": false,
+ "at": "2026-09-22T10:53:40"
+}

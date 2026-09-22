@@ -9333,6 +9333,3495 @@
   "added": "2026-09-17"
  },
  {
+  "kind": "photo",
+  "ext": ".jpg",
+  "bytes": 361378,
+  "sha1": "81ce9e182819afd9bde73b70bec6d86db1b26873",
+  "w": 1080,
+  "h": 1080,
+  "camera": null,
+  "phash": "9da0f14506ff60b5",
+  "id": "81ce9e182819",
+  "paths": [
+   "Facebook Ads/1 (2e15f6ac65).jpg"
+  ],
+  "folder": {
+   "tags": [
+    "Facebook ad"
+   ]
+  },
+  "added": "2026-09-22"
+ },
+ {
+  "kind": "photo",
+  "ext": ".jpg",
+  "bytes": 124047,
+  "sha1": "949876823f9361de89d186a2f4f5fdb5ad326d8b",
+  "w": 1080,
+  "h": 1080,
+  "camera": null,
+  "phash": "ada9e476122a3dc5",
+  "id": "949876823f93",
+  "paths": [
+   "Facebook Ads/1 (416bb56706).jpg"
+  ],
+  "folder": {
+   "tags": [
+    "Facebook ad"
+   ]
+  },
+  "added": "2026-09-22"
+ },
+ {
+  "kind": "photo",
+  "ext": ".jpg",
+  "bytes": 265853,
+  "sha1": "38d9e667410229bda69f12d8177e83a4892fe259",
+  "w": 1080,
+  "h": 1080,
+  "camera": null,
+  "phash": "ab24aa387d4af383",
+  "id": "38d9e6674102",
+  "paths": [
+   "Facebook Ads/1 Title.png_105 (a0f44000b1).jpg"
+  ],
+  "folder": {
+   "tags": [
+    "Facebook ad"
+   ]
+  },
+  "added": "2026-09-22"
+ },
+ {
+  "kind": "photo",
+  "ext": ".jpg",
+  "bytes": 250354,
+  "sha1": "d7c98f7cdcd2cdcd67188a496184f8c0e9cb03ca",
+  "w": 1080,
+  "h": 1080,
+  "camera": null,
+  "phash": "c686631edcf3c449",
+  "id": "d7c98f7cdcd2",
+  "paths": [
+   "Facebook Ads/1.png_105_105 (767ca2997e).jpg"
+  ],
+  "folder": {
+   "tags": [
+    "Facebook ad"
+   ]
+  },
+  "added": "2026-09-22"
+ },
+ {
+  "kind": "photo",
+  "ext": ".jpg",
+  "bytes": 154035,
+  "sha1": "a1cbdaef2da746140fca58946f3d086d2a331c0f",
+  "w": 1080,
+  "h": 1080,
+  "camera": null,
+  "phash": "9bd9e8642494d6a7",
+  "id": "a1cbdaef2da7",
+  "paths": [
+   "Facebook Ads/10 (29a9d19f38).jpg"
+  ],
+  "folder": {
+   "tags": [
+    "Facebook ad"
+   ]
+  },
+  "added": "2026-09-22"
+ },
+ {
+  "kind": "photo",
+  "ext": ".jpg",
+  "bytes": 262321,
+  "sha1": "334bfc847765aa1e09f8a58b2636c4dfc7990eba",
+  "w": 1080,
+  "h": 1080,
+  "camera": null,
+  "phash": "ed60c2cf16807d7c",
+  "id": "334bfc847765",
+  "paths": [
+   "Facebook Ads/10.png_105 (aa8d7e80b8).jpg"
+  ],
+  "folder": {
+   "tags": [
+    "Facebook ad"
+   ]
+  },
+  "added": "2026-09-22"
+ },
+ {
+  "kind": "photo",
+  "ext": ".jpg",
+  "bytes": 287079,
+  "sha1": "de8d68210a811dd34df6912a84f9dfcd2567fb22",
+  "w": 1080,
+  "h": 1080,
+  "camera": null,
+  "phash": "b120bce994bea3e2",
+  "id": "de8d68210a81",
+  "paths": [
+   "Facebook Ads/11 (b78675a30d).jpg"
+  ],
+  "folder": {
+   "tags": [
+    "Facebook ad"
+   ]
+  },
+  "added": "2026-09-22"
+ },
+ {
+  "kind": "photo",
+  "ext": ".jpg",
+  "bytes": 182886,
+  "sha1": "67aa4937b19b5b7f551628833585314bbb89b85d",
+  "w": 1080,
+  "h": 1080,
+  "camera": null,
+  "phash": "ccc800cb374f376e",
+  "id": "67aa4937b19b",
+  "paths": [
+   "Facebook Ads/11.png_105 (7d7132d64e).jpg"
+  ],
+  "folder": {
+   "tags": [
+    "Facebook ad"
+   ]
+  },
+  "added": "2026-09-22"
+ },
+ {
+  "kind": "photo",
+  "ext": ".jpg",
+  "bytes": 264791,
+  "sha1": "31930cb83f318b05baab8c1565e90f625c9ef9ad",
+  "w": 1080,
+  "h": 1080,
+  "camera": null,
+  "phash": "d29307e597132d69",
+  "id": "31930cb83f31",
+  "paths": [
+   "Facebook Ads/12 (f02726a2b4).jpg"
+  ],
+  "folder": {
+   "tags": [
+    "Facebook ad"
+   ]
+  },
+  "added": "2026-09-22"
+ },
+ {
+  "kind": "photo",
+  "ext": ".jpg",
+  "bytes": 140561,
+  "sha1": "cfec45388f0b5d033342e1c9fda666b9afbbcf3c",
+  "w": 1080,
+  "h": 1080,
+  "camera": null,
+  "phash": "854878976aca3e7a",
+  "id": "cfec45388f0b",
+  "paths": [
+   "Facebook Ads/12.png_105 (2f17d90754).jpg"
+  ],
+  "folder": {
+   "tags": [
+    "Facebook ad"
+   ]
+  },
+  "added": "2026-09-22"
+ },
+ {
+  "kind": "photo",
+  "ext": ".jpg",
+  "bytes": 164109,
+  "sha1": "7a7a023b3468fbd432180348b5db11eea8642489",
+  "w": 1080,
+  "h": 1080,
+  "camera": null,
+  "phash": "caca386694d1aebc",
+  "id": "7a7a023b3468",
+  "paths": [
+   "Facebook Ads/13 (1d0ebda11b).jpg"
+  ],
+  "folder": {
+   "tags": [
+    "Facebook ad"
+   ]
+  },
+  "added": "2026-09-22"
+ },
+ {
+  "kind": "photo",
+  "ext": ".jpg",
+  "bytes": 181309,
+  "sha1": "3c24167319122780787fcadfb3ac8a78438ae190",
+  "w": 1080,
+  "h": 1080,
+  "camera": null,
+  "phash": "9c345cb1af634b62",
+  "id": "3c2416731912",
+  "paths": [
+   "Facebook Ads/13.png_105 (8c49a30a7f).jpg"
+  ],
+  "folder": {
+   "tags": [
+    "Facebook ad"
+   ]
+  },
+  "added": "2026-09-22"
+ },
+ {
+  "kind": "photo",
+  "ext": ".jpg",
+  "bytes": 142296,
+  "sha1": "3b4f04f063e8a167c362ca9e0233f7aa78beaf94",
+  "w": 1080,
+  "h": 1080,
+  "camera": null,
+  "phash": "9c18f1a39317a3e6",
+  "id": "3b4f04f063e8",
+  "paths": [
+   "Facebook Ads/14 (26bbf2b931).jpg"
+  ],
+  "folder": {
+   "tags": [
+    "Facebook ad"
+   ]
+  },
+  "added": "2026-09-22"
+ },
+ {
+  "kind": "photo",
+  "ext": ".jpg",
+  "bytes": 123053,
+  "sha1": "db792325093b45b49d66d41d39c66548b9475bbe",
+  "w": 1080,
+  "h": 1080,
+  "camera": null,
+  "phash": "b777c707711c8864",
+  "id": "db792325093b",
+  "paths": [
+   "Facebook Ads/15 (7042a9c8f4).jpg"
+  ],
+  "folder": {
+   "tags": [
+    "Facebook ad"
+   ]
+  },
+  "added": "2026-09-22"
+ },
+ {
+  "kind": "photo",
+  "ext": ".jpg",
+  "bytes": 183042,
+  "sha1": "8bb0e0bfc69dc4ccfc72999830237f0475604e86",
+  "w": 1080,
+  "h": 1080,
+  "camera": null,
+  "phash": "c552758d3b1f30c6",
+  "id": "8bb0e0bfc69d",
+  "paths": [
+   "Facebook Ads/16 (2a5111f2ba).jpg"
+  ],
+  "folder": {
+   "tags": [
+    "Facebook ad"
+   ]
+  },
+  "added": "2026-09-22"
+ },
+ {
+  "kind": "photo",
+  "ext": ".jpg",
+  "bytes": 209743,
+  "sha1": "8f6d475dc1a2986c29817260bd94bb5668ff2290",
+  "w": 1080,
+  "h": 1080,
+  "camera": null,
+  "phash": "96757d2d612114de",
+  "id": "8f6d475dc1a2",
+  "paths": [
+   "Facebook Ads/16 (d8503b50fb).jpg"
+  ],
+  "folder": {
+   "tags": [
+    "Facebook ad"
+   ]
+  },
+  "added": "2026-09-22"
+ },
+ {
+  "kind": "photo",
+  "ext": ".jpg",
+  "bytes": 157314,
+  "sha1": "b7832925b40310d317f83a1859e272704976b71c",
+  "w": 1080,
+  "h": 1080,
+  "camera": null,
+  "phash": "c0f371e037963c78",
+  "id": "b7832925b403",
+  "paths": [
+   "Facebook Ads/17 (159a0651c9).jpg"
+  ],
+  "folder": {
+   "tags": [
+    "Facebook ad"
+   ]
+  },
+  "added": "2026-09-22"
+ },
+ {
+  "kind": "photo",
+  "ext": ".jpg",
+  "bytes": 160631,
+  "sha1": "0e0decef8499e639d3aa889015d141aa301d6f2c",
+  "w": 1080,
+  "h": 1080,
+  "camera": null,
+  "phash": "c4b432636f4f38e8",
+  "id": "0e0decef8499",
+  "paths": [
+   "Facebook Ads/18 (c296015a0e).jpg"
+  ],
+  "folder": {
+   "tags": [
+    "Facebook ad"
+   ]
+  },
+  "added": "2026-09-22"
+ },
+ {
+  "kind": "photo",
+  "ext": ".jpg",
+  "bytes": 157746,
+  "sha1": "857a13abeda69e8e9770bc473eddbf33341ecb43",
+  "w": 1080,
+  "h": 1080,
+  "camera": null,
+  "phash": "8bfd62934c8b1c72",
+  "id": "857a13abeda6",
+  "paths": [
+   "Facebook Ads/2 (4938e33295).jpg"
+  ],
+  "folder": {
+   "tags": [
+    "Facebook ad"
+   ]
+  },
+  "added": "2026-09-22"
+ },
+ {
+  "kind": "photo",
+  "ext": ".jpg",
+  "bytes": 264990,
+  "sha1": "b2417286b0c3af7af6c6e35655845b0b920a71c5",
+  "w": 1080,
+  "h": 1080,
+  "camera": null,
+  "phash": "9780894ae6f5703f",
+  "id": "b2417286b0c3",
+  "paths": [
+   "Facebook Ads/2 (bcbd7fe291).jpg"
+  ],
+  "folder": {
+   "tags": [
+    "Facebook ad"
+   ]
+  },
+  "added": "2026-09-22"
+ },
+ {
+  "kind": "photo",
+  "ext": ".jpg",
+  "bytes": 347095,
+  "sha1": "1187f7ec10be1369c891666ddefb6d20df5c1161",
+  "w": 1080,
+  "h": 1080,
+  "camera": null,
+  "phash": "fdb6d28978272489",
+  "id": "1187f7ec10be",
+  "paths": [
+   "Facebook Ads/2 Air Force (cce408b333).jpg"
+  ],
+  "folder": {
+   "tags": [
+    "Facebook ad"
+   ]
+  },
+  "added": "2026-09-22"
+ },
+ {
+  "kind": "photo",
+  "ext": ".jpg",
+  "bytes": 135395,
+  "sha1": "3032be9821492b757447d84e94e3f986133bea1c",
+  "w": 1080,
+  "h": 1080,
+  "camera": null,
+  "phash": "b5b37a486463671c",
+  "id": "3032be982149",
+  "paths": [
+   "Facebook Ads/2.png_105_105 (6d12cdef5d).jpg"
+  ],
+  "folder": {
+   "tags": [
+    "Facebook ad"
+   ]
+  },
+  "added": "2026-09-22"
+ },
+ {
+  "kind": "photo",
+  "ext": ".jpg",
+  "bytes": 176041,
+  "sha1": "d34eb30847ee43739795bbdc317c5ced4b0e8452",
+  "w": 1080,
+  "h": 1080,
+  "camera": null,
+  "phash": "913f32c86c3fcc68",
+  "id": "d34eb30847ee",
+  "paths": [
+   "Facebook Ads/25.png_105 (774326b653).jpg"
+  ],
+  "folder": {
+   "tags": [
+    "Facebook ad"
+   ]
+  },
+  "added": "2026-09-22"
+ },
+ {
+  "kind": "photo",
+  "ext": ".jpg",
+  "bytes": 163456,
+  "sha1": "d1a36533854a969e09da2db4c5c1761a389327a5",
+  "w": 1080,
+  "h": 1080,
+  "camera": null,
+  "phash": "d13f3fc8681acc70",
+  "id": "d1a36533854a",
+  "paths": [
+   "Facebook Ads/26.png_105 (0a4b99714a).jpg"
+  ],
+  "folder": {
+   "tags": [
+    "Facebook ad"
+   ]
+  },
+  "added": "2026-09-22"
+ },
+ {
+  "kind": "photo",
+  "ext": ".jpg",
+  "bytes": 261636,
+  "sha1": "29b83c2ff586787d32a820a2a055bcb77bfc3e01",
+  "w": 1080,
+  "h": 1080,
+  "camera": null,
+  "phash": "8d2131c2c636d6df",
+  "id": "29b83c2ff586",
+  "paths": [
+   "Facebook Ads/28.jpg_105 (b477a91b78).jpg"
+  ],
+  "folder": {
+   "tags": [
+    "Facebook ad"
+   ]
+  },
+  "added": "2026-09-22"
+ },
+ {
+  "kind": "photo",
+  "ext": ".jpg",
+  "bytes": 259311,
+  "sha1": "6526961ebc4b570269f990d583a03ee7e9e28c50",
+  "w": 1080,
+  "h": 1080,
+  "camera": null,
+  "phash": "ad2131c2c236d6df",
+  "id": "6526961ebc4b",
+  "paths": [
+   "Facebook Ads/28.jpg_105_105 (91056172ef).jpg"
+  ],
+  "folder": {
+   "tags": [
+    "Facebook ad"
+   ]
+  },
+  "added": "2026-09-22"
+ },
+ {
+  "kind": "photo",
+  "ext": ".jpg",
+  "bytes": 150196,
+  "sha1": "b6fbc039ffaa5bb651041beed4fb9b7329f8c794",
+  "w": 1080,
+  "h": 1080,
+  "camera": null,
+  "phash": "b0d52e6a2b5ee894",
+  "id": "b6fbc039ffaa",
+  "paths": [
+   "Facebook Ads/29 (4f0c60142c).jpg"
+  ],
+  "folder": {
+   "tags": [
+    "Facebook ad"
+   ]
+  },
+  "added": "2026-09-22",
+  "similar": [
+   "bd55cdb7a93e"
+  ]
+ },
+ {
+  "kind": "photo",
+  "ext": ".jpg",
+  "bytes": 154202,
+  "sha1": "bd55cdb7a93efcc7f619606b0b9f2a53876860d4",
+  "w": 1080,
+  "h": 1080,
+  "camera": null,
+  "phash": "b0d52e6a2b5ee894",
+  "id": "bd55cdb7a93e",
+  "paths": [
+   "Facebook Ads/29 (fbbb223bc1).jpg"
+  ],
+  "folder": {
+   "tags": [
+    "Facebook ad"
+   ]
+  },
+  "added": "2026-09-22",
+  "similar": [
+   "b6fbc039ffaa"
+  ]
+ },
+ {
+  "kind": "photo",
+  "ext": ".jpg",
+  "bytes": 186885,
+  "sha1": "fcb6c4776bc518848e156daac8b13fda0cc6f719",
+  "w": 1080,
+  "h": 1080,
+  "camera": null,
+  "phash": "d9f1f1440e3eb096",
+  "id": "fcb6c4776bc5",
+  "paths": [
+   "Facebook Ads/3 (1b9c880d71).jpg"
+  ],
+  "folder": {
+   "tags": [
+    "Facebook ad"
+   ]
+  },
+  "added": "2026-09-22"
+ },
+ {
+  "kind": "photo",
+  "ext": ".jpg",
+  "bytes": 387567,
+  "sha1": "ae454ffad8c7925615e7c2250e67fe65a8700d99",
+  "w": 1080,
+  "h": 1080,
+  "camera": null,
+  "phash": "f7e2d95a0099ca99",
+  "id": "ae454ffad8c7",
+  "paths": [
+   "Facebook Ads/3 (72151022c1).jpg"
+  ],
+  "folder": {
+   "tags": [
+    "Facebook ad"
+   ]
+  },
+  "added": "2026-09-22"
+ },
+ {
+  "kind": "photo",
+  "ext": ".jpg",
+  "bytes": 324319,
+  "sha1": "a1db92a690025545f5dc461d092969225bfba4fa",
+  "w": 1080,
+  "h": 1080,
+  "camera": null,
+  "phash": "bb9a61cd32928acd",
+  "id": "a1db92a69002",
+  "paths": [
+   "Facebook Ads/3 Army (80322efc72).jpg"
+  ],
+  "folder": {
+   "tags": [
+    "Facebook ad"
+   ]
+  },
+  "added": "2026-09-22"
+ },
+ {
+  "kind": "photo",
+  "ext": ".jpg",
+  "bytes": 146240,
+  "sha1": "002b92cf11b629e5a83f97b8746e7f6aa0adfe0b",
+  "w": 1080,
+  "h": 1080,
+  "camera": null,
+  "phash": "d4c07fb07a386c0f",
+  "id": "002b92cf11b6",
+  "paths": [
+   "Facebook Ads/3.png_105 (241783adee).jpg"
+  ],
+  "folder": {
+   "tags": [
+    "Facebook ad"
+   ]
+  },
+  "added": "2026-09-22"
+ },
+ {
+  "kind": "photo",
+  "ext": ".jpg",
+  "bytes": 203951,
+  "sha1": "03621a39b87bed04cd350d7207f59657639d3a44",
+  "w": 1080,
+  "h": 1080,
+  "camera": null,
+  "phash": "cc1453e58f076a6b",
+  "id": "03621a39b87b",
+  "paths": [
+   "Facebook Ads/30.jpg_105 (586366cdd2).jpg"
+  ],
+  "folder": {
+   "tags": [
+    "Facebook ad"
+   ]
+  },
+  "added": "2026-09-22",
+  "similar": [
+   "c3dc0aa72a82"
+  ]
+ },
+ {
+  "kind": "photo",
+  "ext": ".jpg",
+  "bytes": 199030,
+  "sha1": "5e49f8e0a17c408beb4df3055e723c3c49570861",
+  "w": 1080,
+  "h": 1080,
+  "camera": null,
+  "phash": "cc1553e58f066a6b",
+  "id": "5e49f8e0a17c",
+  "paths": [
+   "Facebook Ads/30.jpg_105_105 (65a961fa7d).jpg"
+  ],
+  "folder": {
+   "tags": [
+    "Facebook ad"
+   ]
+  },
+  "added": "2026-09-22"
+ },
+ {
+  "kind": "photo",
+  "ext": ".jpg",
+  "bytes": 177303,
+  "sha1": "c3dc0aa72a82a6dc099b1ff5b99df07ec732121b",
+  "w": 1080,
+  "h": 1080,
+  "camera": null,
+  "phash": "cc1453e58f076a6b",
+  "id": "c3dc0aa72a82",
+  "paths": [
+   "Facebook Ads/30.png_105_105 (e7d1e8b005).jpg"
+  ],
+  "folder": {
+   "tags": [
+    "Facebook ad"
+   ]
+  },
+  "added": "2026-09-22",
+  "similar": [
+   "03621a39b87b"
+  ]
+ },
+ {
+  "kind": "photo",
+  "ext": ".jpg",
+  "bytes": 278465,
+  "sha1": "d91f8f3c4f0587c431dec93f9b7fb6b67e2f9c28",
+  "w": 1080,
+  "h": 1080,
+  "camera": null,
+  "phash": "801b7f4b75c42597",
+  "id": "d91f8f3c4f05",
+  "paths": [
+   "Facebook Ads/36.png_105 (b2a3523b21).jpg"
+  ],
+  "folder": {
+   "tags": [
+    "Facebook ad"
+   ]
+  },
+  "added": "2026-09-22"
+ },
+ {
+  "kind": "photo",
+  "ext": ".jpg",
+  "bytes": 154749,
+  "sha1": "c46e1a77ab4031712162644b83ee0b6884829bf6",
+  "w": 1080,
+  "h": 1080,
+  "camera": null,
+  "phash": "c1176e66a1a3dc1b",
+  "id": "c46e1a77ab40",
+  "paths": [
+   "Facebook Ads/37.png_105 (188fe04795).jpg"
+  ],
+  "folder": {
+   "tags": [
+    "Facebook ad"
+   ]
+  },
+  "added": "2026-09-22"
+ },
+ {
+  "kind": "photo",
+  "ext": ".jpg",
+  "bytes": 212577,
+  "sha1": "9c44f0b48dfdb79fd0525d6bf8abb4f59b3702c0",
+  "w": 1080,
+  "h": 1080,
+  "camera": null,
+  "phash": "e2bc15d508976dd2",
+  "id": "9c44f0b48dfd",
+  "paths": [
+   "Facebook Ads/38.png_105 (b776eab603).jpg"
+  ],
+  "folder": {
+   "tags": [
+    "Facebook ad"
+   ]
+  },
+  "added": "2026-09-22"
+ },
+ {
+  "kind": "photo",
+  "ext": ".jpg",
+  "bytes": 542209,
+  "sha1": "2188c1234baf227e408ebc713237882a9d9d3267",
+  "w": 1080,
+  "h": 1080,
+  "camera": null,
+  "phash": "97c215e586916eb9",
+  "id": "2188c1234baf",
+  "paths": [
+   "Facebook Ads/4 (5006f16109).jpg"
+  ],
+  "folder": {
+   "tags": [
+    "Facebook ad"
+   ]
+  },
+  "added": "2026-09-22"
+ },
+ {
+  "kind": "photo",
+  "ext": ".jpg",
+  "bytes": 329370,
+  "sha1": "14cd84b288cc8b7cd26f747c8b87e197da4f0ea9",
+  "w": 1080,
+  "h": 1080,
+  "camera": null,
+  "phash": "ff9ea08cda8b888c",
+  "id": "14cd84b288cc",
+  "paths": [
+   "Facebook Ads/4 Coast Guard (e2ce3e3745).jpg"
+  ],
+  "folder": {
+   "tags": [
+    "Facebook ad"
+   ]
+  },
+  "added": "2026-09-22"
+ },
+ {
+  "kind": "photo",
+  "ext": ".jpg",
+  "bytes": 167138,
+  "sha1": "c517f5f1953a9bb93d7c46abe932f243bd825c09",
+  "w": 1080,
+  "h": 1080,
+  "camera": null,
+  "phash": "f015174265c27f97",
+  "id": "c517f5f1953a",
+  "paths": [
+   "Facebook Ads/4.png_105 (fae7f45944).jpg"
+  ],
+  "folder": {
+   "tags": [
+    "Facebook ad"
+   ]
+  },
+  "added": "2026-09-22"
+ },
+ {
+  "kind": "video",
+  "ext": ".mp4",
+  "bytes": 907192,
+  "sha1": "002c57db1c42890057d9a2ea7425d320fc2d5bdd",
+  "duration": 16.5,
+  "w": 360,
+  "h": 640,
+  "id": "002c57db1c42",
+  "paths": [
+   "Facebook Ads/4th july promo (1469771274451976).mp4"
+  ],
+  "folder": {
+   "tags": [
+    "Facebook ad"
+   ]
+  },
+  "added": "2026-09-22"
+ },
+ {
+  "kind": "photo",
+  "ext": ".jpg",
+  "bytes": 198892,
+  "sha1": "5f0ef4b709dcbbb77915f8787c36158be8f8fd83",
+  "w": 1080,
+  "h": 1080,
+  "camera": null,
+  "phash": "8686d9d1c1ca5e6e",
+  "id": "5f0ef4b709dc",
+  "paths": [
+   "Facebook Ads/5 (3373803f96).jpg"
+  ],
+  "folder": {
+   "tags": [
+    "Facebook ad"
+   ]
+  },
+  "added": "2026-09-22"
+ },
+ {
+  "kind": "photo",
+  "ext": ".jpg",
+  "bytes": 348554,
+  "sha1": "ebccf7d7b1149895b814122858213990b8c8c665",
+  "w": 1080,
+  "h": 1080,
+  "camera": null,
+  "phash": "ef9cb033dacc0839",
+  "id": "ebccf7d7b114",
+  "paths": [
+   "Facebook Ads/5 Navy (49281316b2).jpg"
+  ],
+  "folder": {
+   "tags": [
+    "Facebook ad"
+   ]
+  },
+  "added": "2026-09-22"
+ },
+ {
+  "kind": "photo",
+  "ext": ".jpg",
+  "bytes": 194771,
+  "sha1": "12d43182ce27fefa1d3af5b48a4a38c4f7429e5c",
+  "w": 1080,
+  "h": 1080,
+  "camera": null,
+  "phash": "c44f378da3cacae0",
+  "id": "12d43182ce27",
+  "paths": [
+   "Facebook Ads/5.png_105_105 (79f1bc3933).jpg"
+  ],
+  "folder": {
+   "tags": [
+    "Facebook ad"
+   ]
+  },
+  "added": "2026-09-22"
+ },
+ {
+  "kind": "photo",
+  "ext": ".jpg",
+  "bytes": 123068,
+  "sha1": "060ceab83a867ec946fded567b97c5793823246e",
+  "w": 1080,
+  "h": 1080,
+  "camera": null,
+  "phash": "ce833cd8076ca2bb",
+  "id": "060ceab83a86",
+  "paths": [
+   "Facebook Ads/6 (87328caaa7).jpg"
+  ],
+  "folder": {
+   "tags": [
+    "Facebook ad"
+   ]
+  },
+  "added": "2026-09-22"
+ },
+ {
+  "kind": "photo",
+  "ext": ".jpg",
+  "bytes": 224405,
+  "sha1": "8c546005c7d849dc79f70fe9e84637d0fd05911a",
+  "w": 1080,
+  "h": 1080,
+  "camera": null,
+  "phash": "c42f3b9b7ab42c81",
+  "id": "8c546005c7d8",
+  "paths": [
+   "Facebook Ads/6.png_105 (15fbe6c484).jpg"
+  ],
+  "folder": {
+   "tags": [
+    "Facebook ad"
+   ]
+  },
+  "added": "2026-09-22"
+ },
+ {
+  "kind": "photo",
+  "ext": ".jpg",
+  "bytes": 151895,
+  "sha1": "ab40690f4f96eb8c2e6f2ccdd85e80813dcce04c",
+  "w": 1080,
+  "h": 1080,
+  "camera": null,
+  "phash": "af81e6e6b67030b1",
+  "id": "ab40690f4f96",
+  "paths": [
+   "Facebook Ads/7 (f3ee1e0cc9).jpg"
+  ],
+  "folder": {
+   "tags": [
+    "Facebook ad"
+   ]
+  },
+  "added": "2026-09-22"
+ },
+ {
+  "kind": "photo",
+  "ext": ".jpg",
+  "bytes": 219086,
+  "sha1": "c27c47dd04672ba11e527b8b7fd1796a75572e95",
+  "w": 1080,
+  "h": 1080,
+  "camera": null,
+  "phash": "d79bca27682b8934",
+  "id": "c27c47dd0467",
+  "paths": [
+   "Facebook Ads/7.png_105 (0daeb6dc11).jpg"
+  ],
+  "folder": {
+   "tags": [
+    "Facebook ad"
+   ]
+  },
+  "added": "2026-09-22"
+ },
+ {
+  "kind": "photo",
+  "ext": ".jpg",
+  "bytes": 797789,
+  "sha1": "0116a9f6c839c111dd162a2345a068d6c94d562e",
+  "w": 2048,
+  "h": 2048,
+  "camera": null,
+  "phash": "c4cd1f5a2a9a2e6a",
+  "id": "0116a9f6c839",
+  "paths": [
+   "Facebook Ads/8 (1).jpg_105_105 (3f121273ee).jpg"
+  ],
+  "folder": {
+   "tags": [
+    "Facebook ad"
+   ]
+  },
+  "added": "2026-09-22"
+ },
+ {
+  "kind": "photo",
+  "ext": ".jpg",
+  "bytes": 134034,
+  "sha1": "5b443c77c4df099b4bb1d0495b2deee0471f1335",
+  "w": 1080,
+  "h": 1080,
+  "camera": null,
+  "phash": "a9b7d2497c463634",
+  "id": "5b443c77c4df",
+  "paths": [
+   "Facebook Ads/8 (9620e550ab).jpg"
+  ],
+  "folder": {
+   "tags": [
+    "Facebook ad"
+   ]
+  },
+  "added": "2026-09-22"
+ },
+ {
+  "kind": "photo",
+  "ext": ".jpg",
+  "bytes": 278191,
+  "sha1": "2e54b9896ebfde5e54d88864d07a14538d2a651a",
+  "w": 1080,
+  "h": 1080,
+  "camera": null,
+  "phash": "aa26b0e1b531b3b3",
+  "id": "2e54b9896ebf",
+  "paths": [
+   "Facebook Ads/9 (cbbf30e54b).jpg"
+  ],
+  "folder": {
+   "tags": [
+    "Facebook ad"
+   ]
+  },
+  "added": "2026-09-22"
+ },
+ {
+  "kind": "photo",
+  "ext": ".jpg",
+  "bytes": 264702,
+  "sha1": "7fbbb59dda62f4483efd940090b24ee135dce5fd",
+  "w": 1080,
+  "h": 1080,
+  "camera": null,
+  "phash": "c46e66e639991933",
+  "id": "7fbbb59dda62",
+  "paths": [
+   "Facebook Ads/9.png_105 (0171005d01).jpg"
+  ],
+  "folder": {
+   "tags": [
+    "Facebook ad"
+   ]
+  },
+  "added": "2026-09-22"
+ },
+ {
+  "kind": "video",
+  "ext": ".mp4",
+  "bytes": 246579,
+  "sha1": "1366d5e666e01a9967bffbe62844c0c7503d8cd6",
+  "duration": 10.0,
+  "w": 360,
+  "h": 450,
+  "id": "1366d5e666e0",
+  "paths": [
+   "Facebook Ads/Air Force (1118303236316846).mp4"
+  ],
+  "folder": {
+   "tags": [
+    "Facebook ad"
+   ]
+  },
+  "added": "2026-09-22"
+ },
+ {
+  "kind": "video",
+  "ext": ".mp4",
+  "bytes": 623058,
+  "sha1": "b8f6acfe01f97ab1ebe39480010637e17aff8db7",
+  "duration": 16.5,
+  "w": 360,
+  "h": 450,
+  "id": "b8f6acfe01f9",
+  "paths": [
+   "Facebook Ads/Auto_Cropped_AR_4_X_5_DCO_4th july promo (2199961820440841).mp4"
+  ],
+  "folder": {
+   "tags": [
+    "Facebook ad"
+   ]
+  },
+  "added": "2026-09-22"
+ },
+ {
+  "kind": "video",
+  "ext": ".mp4",
+  "bytes": 840108,
+  "sha1": "a194e21d61af484932db5c15c1b2fdd4fa6b3e5b",
+  "duration": 25.4,
+  "w": 360,
+  "h": 450,
+  "id": "a194e21d61af",
+  "paths": [
+   "Facebook Ads/Auto_Cropped_AR_4_X_5_DCO_GATOR GRAND RAPIDS V1 A (1726876921310506).mp4"
+  ],
+  "folder": {
+   "tags": [
+    "Facebook ad"
+   ]
+  },
+  "added": "2026-09-22"
+ },
+ {
+  "kind": "video",
+  "ext": ".mp4",
+  "bytes": 2457725,
+  "sha1": "d8c29f14f33479dccbefa38481844be946ecb64d",
+  "duration": 71.0,
+  "w": 360,
+  "h": 450,
+  "id": "d8c29f14f334",
+  "paths": [
+   "Facebook Ads/Auto_Cropped_AR_4_X_5_DCO_GATOR GUARD Differentiator Ad V4 (788144800423352).mp4"
+  ],
+  "folder": {
+   "tags": [
+    "Facebook ad"
+   ]
+  },
+  "added": "2026-09-22"
+ },
+ {
+  "kind": "video",
+  "ext": ".mp4",
+  "bytes": 1463672,
+  "sha1": "5eff9bf85209b870f96ee53d40e6be1c1cead156",
+  "duration": 32.2,
+  "w": 360,
+  "h": 450,
+  "id": "5eff9bf85209",
+  "paths": [
+   "Facebook Ads/Auto_Cropped_AR_4_X_5_DCO_GATOR XMAS V1 (668101669590098).mp4"
+  ],
+  "folder": {
+   "tags": [
+    "Facebook ad"
+   ]
+  },
+  "added": "2026-09-22"
+ },
+ {
+  "kind": "video",
+  "ext": ".mp4",
+  "bytes": 670044,
+  "sha1": "9bcb60145b174f345f442e3b50653ad55955c3ba",
+  "duration": 24.1,
+  "w": 360,
+  "h": 450,
+  "id": "9bcb60145b17",
+  "paths": [
+   "Facebook Ads/Auto_Cropped_AR_4_X_5_DCO_GATOR XMAS V2 (827062706769436).mp4"
+  ],
+  "folder": {
+   "tags": [
+    "Facebook ad"
+   ]
+  },
+  "added": "2026-09-22"
+ },
+ {
+  "kind": "video",
+  "ext": ".mp4",
+  "bytes": 1272797,
+  "sha1": "f63575c569fa2f022c5a0852f7546f5592319934",
+  "duration": 28.3,
+  "w": 360,
+  "h": 450,
+  "id": "f63575c569fa",
+  "paths": [
+   "Facebook Ads/Auto_Cropped_AR_4_X_5_DCO_GATOR XMAS V3 (864408659468797).mp4"
+  ],
+  "folder": {
+   "tags": [
+    "Facebook ad"
+   ]
+  },
+  "added": "2026-09-22"
+ },
+ {
+  "kind": "video",
+  "ext": ".mp4",
+  "bytes": 1056957,
+  "sha1": "5a133822225175d87e0de4c2f3f6966b1fc8bf28",
+  "duration": 29.2,
+  "w": 360,
+  "h": 450,
+  "id": "5a1338222251",
+  "paths": [
+   "Facebook Ads/Auto_Cropped_AR_4_X_5_DCO_Gator Guard  Happy Man Video May 12 (2429817854038151).mp4"
+  ],
+  "folder": {
+   "tags": [
+    "Facebook ad"
+   ]
+  },
+  "added": "2026-09-22"
+ },
+ {
+  "kind": "video",
+  "ext": ".mp4",
+  "bytes": 527834,
+  "sha1": "d99975168251ff9823ab1c4d30a5f2f8f1678ee5",
+  "duration": 20.2,
+  "w": 360,
+  "h": 450,
+  "id": "d99975168251",
+  "paths": [
+   "Facebook Ads/Auto_Cropped_AR_4_X_5_DCO_Gator Guard B&A Video Mar 6 (1078134681077746).mp4"
+  ],
+  "folder": {
+   "tags": [
+    "Facebook ad"
+   ]
+  },
+  "added": "2026-09-22"
+ },
+ {
+  "kind": "video",
+  "ext": ".mp4",
+  "bytes": 597561,
+  "sha1": "a35c34cd452cc5dd82e46f292729c35762f40567",
+  "duration": 16.8,
+  "w": 360,
+  "h": 450,
+  "id": "a35c34cd452c",
+  "paths": [
+   "Facebook Ads/Auto_Cropped_AR_4_X_5_DCO_Gator Guard_ Vid March 6th(2) (1) (675737318522273).mp4"
+  ],
+  "folder": {
+   "tags": [
+    "Facebook ad"
+   ]
+  },
+  "added": "2026-09-22"
+ },
+ {
+  "kind": "video",
+  "ext": ".mp4",
+  "bytes": 451814,
+  "sha1": "d99f6d48b78d49e252410ffb1ccc7e8bf1193d1c",
+  "duration": 18.0,
+  "w": 360,
+  "h": 450,
+  "id": "d99f6d48b78d",
+  "paths": [
+   "Facebook Ads/Auto_Cropped_AR_4_X_5_DCO_Gator Guard_ Vid Style July 8th (1120345346621007).mp4"
+  ],
+  "folder": {
+   "tags": [
+    "Facebook ad"
+   ]
+  },
+  "added": "2026-09-22"
+ },
+ {
+  "kind": "video",
+  "ext": ".mp4",
+  "bytes": 283285,
+  "sha1": "fdf7f483796a6354f1c2ef880c143c490631ab79",
+  "duration": 8.0,
+  "w": 360,
+  "h": 450,
+  "id": "fdf7f483796a",
+  "paths": [
+   "Facebook Ads/Auto_Cropped_AR_IG_4_X_5_ (25150953747837403).mp4"
+  ],
+  "folder": {
+   "tags": [
+    "Facebook ad"
+   ]
+  },
+  "added": "2026-09-22"
+ },
+ {
+  "kind": "video",
+  "ext": ".mp4",
+  "bytes": 127997,
+  "sha1": "1d584a950566c352394a8dc17e9ee181fde7d114",
+  "duration": 4.0,
+  "w": 360,
+  "h": 450,
+  "id": "1d584a950566",
+  "paths": [
+   "Facebook Ads/Auto_Cropped_AR_IG_4_X_5_ (655172886819550).mp4"
+  ],
+  "folder": {
+   "tags": [
+    "Facebook ad"
+   ]
+  },
+  "added": "2026-09-22"
+ },
+ {
+  "kind": "video",
+  "ext": ".mp4",
+  "bytes": 159897,
+  "sha1": "385f47ae2a6ee236bcee0a24c6eba6e8d0263f71",
+  "duration": 4.0,
+  "w": 360,
+  "h": 450,
+  "id": "385f47ae2a6e",
+  "paths": [
+   "Facebook Ads/Auto_Cropped_AR_IG_4_X_5_ (878997030349833).mp4"
+  ],
+  "folder": {
+   "tags": [
+    "Facebook ad"
+   ]
+  },
+  "added": "2026-09-22"
+ },
+ {
+  "kind": "video",
+  "ext": ".mp4",
+  "bytes": 7282833,
+  "sha1": "858442e5301b2f54a173eba0430451a89233352b",
+  "duration": 226.7,
+  "w": 360,
+  "h": 450,
+  "id": "858442e5301b",
+  "paths": [
+   "Facebook Ads/Auto_Cropped_AR_IG_4_X_5_V3_GG Indy Project v5 (1381402983648034).mp4"
+  ],
+  "folder": {
+   "tags": [
+    "Facebook ad"
+   ]
+  },
+  "added": "2026-09-22"
+ },
+ {
+  "kind": "video",
+  "ext": ".mp4",
+  "bytes": 2548845,
+  "sha1": "59ac9aae4001a55f1959ec647f2e002492bc7429",
+  "duration": 61.2,
+  "w": 360,
+  "h": 450,
+  "id": "59ac9aae4001",
+  "paths": [
+   "Facebook Ads/Auto_Cropped_AR_IG_4_X_5_V3_Gator Guard - Video edit 1 - 8 July (2163910797415553).mp4"
+  ],
+  "folder": {
+   "tags": [
+    "Facebook ad"
+   ]
+  },
+  "added": "2026-09-22"
+ },
+ {
+  "kind": "video",
+  "ext": ".mp4",
+  "bytes": 1107850,
+  "sha1": "4df8c61f83d263033a6de7e60b322338b16bc6c9",
+  "duration": 42.0,
+  "w": 356,
+  "h": 640,
+  "id": "4df8c61f83d2",
+  "paths": [
+   "Facebook Ads/Auto_Cropped_AR_IG_9_X_16_V3_GG Indy Homeowner Testimonial (2764401310700023).mp4"
+  ],
+  "folder": {
+   "tags": [
+    "Facebook ad"
+   ]
+  },
+  "added": "2026-09-22"
+ },
+ {
+  "kind": "video",
+  "ext": ".mp4",
+  "bytes": 6709611,
+  "sha1": "4da01e73084e59b5b3cfcaf946f5525a15193f49",
+  "duration": 226.7,
+  "w": 356,
+  "h": 640,
+  "id": "4da01e73084e",
+  "paths": [
+   "Facebook Ads/Auto_Cropped_AR_IG_9_X_16_V3_GG Indy Project v5 (852053027763719).mp4"
+  ],
+  "folder": {
+   "tags": [
+    "Facebook ad"
+   ]
+  },
+  "added": "2026-09-22"
+ },
+ {
+  "kind": "video",
+  "ext": ".mp4",
+  "bytes": 2255776,
+  "sha1": "1aa865b8d9ca3beb702bf1cfb96e30a40eed7e0d",
+  "duration": 61.2,
+  "w": 358,
+  "h": 640,
+  "id": "1aa865b8d9ca",
+  "paths": [
+   "Facebook Ads/Auto_Cropped_AR_IG_9_X_16_V3_Gator Guard - Video edit 1 - 8 July (723669190543694).mp4"
+  ],
+  "folder": {
+   "tags": [
+    "Facebook ad"
+   ]
+  },
+  "added": "2026-09-22"
+ },
+ {
+  "kind": "video",
+  "ext": ".mp4",
+  "bytes": 175269,
+  "sha1": "eef8711b2b0ed59b3dffb9dfefa95309d1f8bee5",
+  "duration": 12.5,
+  "w": 358,
+  "h": 640,
+  "id": "eef8711b2b0e",
+  "paths": [
+   "Facebook Ads/Auto_Cropped_AR_IG_9_X_16_V3_Gator Guard Video 1080 x 1080 b&a (2456784414694268).mp4"
+  ],
+  "folder": {
+   "tags": [
+    "Facebook ad"
+   ]
+  },
+  "added": "2026-09-22"
+ },
+ {
+  "kind": "video",
+  "ext": ".mp4",
+  "bytes": 1483959,
+  "sha1": "1cf803540d5568a1f83c427898a0c0f7f05156d3",
+  "duration": 42.0,
+  "w": 356,
+  "h": 640,
+  "id": "1cf803540d55",
+  "paths": [
+   "Facebook Ads/Auto_Cropped_AR_IG_9_X_16_V4_GG Indy Homeowner Testimonial (1219335486687219).mp4"
+  ],
+  "folder": {
+   "tags": [
+    "Facebook ad"
+   ]
+  },
+  "added": "2026-09-22"
+ },
+ {
+  "kind": "video",
+  "ext": ".mp4",
+  "bytes": 8475450,
+  "sha1": "001a53a42b3c03e22020a15817678e322b2f616e",
+  "duration": 226.7,
+  "w": 356,
+  "h": 640,
+  "id": "001a53a42b3c",
+  "paths": [
+   "Facebook Ads/Auto_Cropped_AR_IG_9_X_16_V4_GG Indy Project v5 (847994481213670).mp4"
+  ],
+  "folder": {
+   "tags": [
+    "Facebook ad"
+   ]
+  },
+  "added": "2026-09-22"
+ },
+ {
+  "kind": "video",
+  "ext": ".mp4",
+  "bytes": 2861410,
+  "sha1": "41e71047cc9c9fbd34dc50f4d3ff1b71dec8ce0b",
+  "duration": 61.2,
+  "w": 358,
+  "h": 640,
+  "id": "41e71047cc9c",
+  "paths": [
+   "Facebook Ads/Auto_Cropped_AR_IG_9_X_16_V4_Gator Guard - Video edit 1 - 8 July (1092778319508497).mp4"
+  ],
+  "folder": {
+   "tags": [
+    "Facebook ad"
+   ]
+  },
+  "added": "2026-09-22"
+ },
+ {
+  "kind": "video",
+  "ext": ".mp4",
+  "bytes": 180943,
+  "sha1": "12d28b8f0d9b1b8a496ae704138229fc7dd7a844",
+  "duration": 12.5,
+  "w": 358,
+  "h": 640,
+  "id": "12d28b8f0d9b",
+  "paths": [
+   "Facebook Ads/Auto_Cropped_AR_IG_9_X_16_V4_Gator Guard Video 1080 x 1080 b&a (1462548474920865).mp4"
+  ],
+  "folder": {
+   "tags": [
+    "Facebook ad"
+   ]
+  },
+  "added": "2026-09-22"
+ },
+ {
+  "kind": "photo",
+  "ext": ".jpg",
+  "bytes": 337957,
+  "sha1": "6a06d6c8c46ff752f6433a94c68adceb80d3bb25",
+  "w": 1200,
+  "h": 628,
+  "camera": null,
+  "phash": "c595a6cad29659b2",
+  "id": "6a06d6c8c46f",
+  "paths": [
+   "Facebook Ads/Facebook Socius Fall 2023 1200x628.jpg_105 (cfaf61cd69).jpg"
+  ],
+  "folder": {
+   "tags": [
+    "Facebook ad"
+   ]
+  },
+  "added": "2026-09-22"
+ },
+ {
+  "kind": "video",
+  "ext": ".mp4",
+  "bytes": 102982,
+  "sha1": "3bf8fb5f66771e2fbd45d3a4d95b42ec67dced1d",
+  "duration": 4.0,
+  "w": 426,
+  "h": 426,
+  "id": "3bf8fb5f6677",
+  "paths": [
+   "Facebook Ads/Facebook video 1369186186925576 (1369186186925576).mp4"
+  ],
+  "folder": {
+   "tags": [
+    "Facebook ad"
+   ]
+  },
+  "added": "2026-09-22"
+ },
+ {
+  "kind": "video",
+  "ext": ".mp4",
+  "bytes": 166279,
+  "sha1": "a7f35b188fcec3dc653a664d69b6b185d41f17dc",
+  "duration": 5.0,
+  "w": 426,
+  "h": 426,
+  "id": "a7f35b188fce",
+  "paths": [
+   "Facebook Ads/Facebook video 1431043373975956 (1431043373975956).mp4"
+  ],
+  "folder": {
+   "tags": [
+    "Facebook ad"
+   ]
+  },
+  "added": "2026-09-22"
+ },
+ {
+  "kind": "video",
+  "ext": ".mp4",
+  "bytes": 135252,
+  "sha1": "bcab57b82a552f3e10f3625bbec2ed3cbcdaa11e",
+  "duration": 4.0,
+  "w": 426,
+  "h": 426,
+  "id": "bcab57b82a55",
+  "paths": [
+   "Facebook Ads/Facebook video 1522348704879217 (1522348704879217).mp4"
+  ],
+  "folder": {
+   "tags": [
+    "Facebook ad"
+   ]
+  },
+  "added": "2026-09-22"
+ },
+ {
+  "kind": "video",
+  "ext": ".mp4",
+  "bytes": 775914,
+  "sha1": "9e8f42065dccdb7bb03307f90775ea0083fe05aa",
+  "duration": 5.0,
+  "w": 720,
+  "h": 720,
+  "id": "9e8f42065dcc",
+  "paths": [
+   "Facebook Ads/Facebook video 243804227947711 (243804227947711).mp4"
+  ],
+  "folder": {
+   "tags": [
+    "Facebook ad"
+   ]
+  },
+  "added": "2026-09-22"
+ },
+ {
+  "kind": "video",
+  "ext": ".mp4",
+  "bytes": 538891,
+  "sha1": "af64f6cc23fc7805da93c89da8e41340d46ec540",
+  "duration": 4.0,
+  "w": 720,
+  "h": 720,
+  "id": "af64f6cc23fc",
+  "paths": [
+   "Facebook Ads/Facebook video 3346531135596052 (3346531135596052).mp4"
+  ],
+  "folder": {
+   "tags": [
+    "Facebook ad"
+   ]
+  },
+  "added": "2026-09-22"
+ },
+ {
+  "kind": "video",
+  "ext": ".mp4",
+  "bytes": 634039,
+  "sha1": "a114aa3c556538520d60ff6f9ef1a1dbd3e41569",
+  "duration": 4.0,
+  "w": 720,
+  "h": 720,
+  "id": "a114aa3c5565",
+  "paths": [
+   "Facebook Ads/Facebook video 423873082975938 (423873082975938).mp4"
+  ],
+  "folder": {
+   "tags": [
+    "Facebook ad"
+   ]
+  },
+  "added": "2026-09-22"
+ },
+ {
+  "kind": "video",
+  "ext": ".mp4",
+  "bytes": 166897,
+  "sha1": "1f5baeac3c981534e9222139530328937ce2ca67",
+  "duration": 5.0,
+  "w": 426,
+  "h": 426,
+  "id": "1f5baeac3c98",
+  "paths": [
+   "Facebook Ads/Facebook video 495769478949833 (495769478949833).mp4"
+  ],
+  "folder": {
+   "tags": [
+    "Facebook ad"
+   ]
+  },
+  "added": "2026-09-22"
+ },
+ {
+  "kind": "video",
+  "ext": ".mp4",
+  "bytes": 644655,
+  "sha1": "50e42834c20b5d967682f2962d8aae9c4da87ba5",
+  "duration": 4.0,
+  "w": 720,
+  "h": 720,
+  "id": "50e42834c20b",
+  "paths": [
+   "Facebook Ads/Facebook video 5194541247306849 (5194541247306849).mp4"
+  ],
+  "folder": {
+   "tags": [
+    "Facebook ad"
+   ]
+  },
+  "added": "2026-09-22"
+ },
+ {
+  "kind": "video",
+  "ext": ".mp4",
+  "bytes": 389392,
+  "sha1": "9d7ba0a815df7ba3b90195ff898017cbe61ca111",
+  "duration": 4.0,
+  "w": 720,
+  "h": 720,
+  "id": "9d7ba0a815df",
+  "paths": [
+   "Facebook Ads/Facebook video 5478167068880832 (5478167068880832).mp4"
+  ],
+  "folder": {
+   "tags": [
+    "Facebook ad"
+   ]
+  },
+  "added": "2026-09-22"
+ },
+ {
+  "kind": "video",
+  "ext": ".mp4",
+  "bytes": 126844,
+  "sha1": "7d2798c33d4ca63967f5e809d4fbb3970ad868cd",
+  "duration": 4.0,
+  "w": 426,
+  "h": 426,
+  "id": "7d2798c33d4c",
+  "paths": [
+   "Facebook Ads/Facebook video 5751462744881016 (5751462744881016).mp4"
+  ],
+  "folder": {
+   "tags": [
+    "Facebook ad"
+   ]
+  },
+  "added": "2026-09-22"
+ },
+ {
+  "kind": "video",
+  "ext": ".mp4",
+  "bytes": 136697,
+  "sha1": "40e890b0a2f5f5106c5a4184a7bcd9258ca66844",
+  "duration": 4.0,
+  "w": 426,
+  "h": 426,
+  "id": "40e890b0a2f5",
+  "paths": [
+   "Facebook Ads/Facebook video 578211580584838 (578211580584838).mp4"
+  ],
+  "folder": {
+   "tags": [
+    "Facebook ad"
+   ]
+  },
+  "added": "2026-09-22"
+ },
+ {
+  "kind": "video",
+  "ext": ".mp4",
+  "bytes": 141191,
+  "sha1": "fe17ea96eef5694740c9c568103b4c9115afb6bc",
+  "duration": 4.0,
+  "w": 426,
+  "h": 426,
+  "id": "fe17ea96eef5",
+  "paths": [
+   "Facebook Ads/Facebook video 711322973304248 (711322973304248).mp4"
+  ],
+  "folder": {
+   "tags": [
+    "Facebook ad"
+   ]
+  },
+  "added": "2026-09-22"
+ },
+ {
+  "kind": "video",
+  "ext": ".mp4",
+  "bytes": 1105179,
+  "sha1": "f8a551c7d2c859ae221361a023226cd09497dcca",
+  "duration": 8.0,
+  "w": 720,
+  "h": 720,
+  "id": "f8a551c7d2c8",
+  "paths": [
+   "Facebook Ads/Facebook video 731496418745446 (731496418745446).mp4"
+  ],
+  "folder": {
+   "tags": [
+    "Facebook ad"
+   ]
+  },
+  "added": "2026-09-22"
+ },
+ {
+  "kind": "video",
+  "ext": ".mp4",
+  "bytes": 473208,
+  "sha1": "eeb2a7230a760c588e8674e2a5fe111c12641c18",
+  "duration": 12.2,
+  "w": 426,
+  "h": 222,
+  "id": "eeb2a7230a76",
+  "paths": [
+   "Facebook Ads/Facebook video 754953105745666 (754953105745666).mp4"
+  ],
+  "folder": {
+   "tags": [
+    "Facebook ad"
+   ]
+  },
+  "added": "2026-09-22"
+ },
+ {
+  "kind": "video",
+  "ext": ".mp4",
+  "bytes": 1094617,
+  "sha1": "281e64b171a84ac33d08760d7402d748cf56e0bf",
+  "duration": 8.0,
+  "w": 720,
+  "h": 720,
+  "id": "281e64b171a8",
+  "paths": [
+   "Facebook Ads/Facebook video 967129954669191 (967129954669191).mp4"
+  ],
+  "folder": {
+   "tags": [
+    "Facebook ad"
+   ]
+  },
+  "added": "2026-09-22"
+ },
+ {
+  "kind": "video",
+  "ext": ".mp4",
+  "bytes": 4997478,
+  "sha1": "200df7bd182ef0a5dcc36a43471779adcfb3af21",
+  "duration": 25.5,
+  "w": 720,
+  "h": 1280,
+  "id": "200df7bd182e",
+  "paths": [
+   "Facebook Ads/GATOR GRAND RAPIDS V1 A (1153255403001810).mp4"
+  ],
+  "folder": {
+   "tags": [
+    "Facebook ad"
+   ]
+  },
+  "added": "2026-09-22"
+ },
+ {
+  "kind": "video",
+  "ext": ".mp4",
+  "bytes": 3967894,
+  "sha1": "d0233036a863ba55af8f556a6d160af7128c4618",
+  "duration": 18.8,
+  "w": 720,
+  "h": 1280,
+  "id": "d0233036a863",
+  "paths": [
+   "Facebook Ads/GATOR GRAND RAPIDS V2 (1347578986895993).mp4"
+  ],
+  "folder": {
+   "tags": [
+    "Facebook ad"
+   ]
+  },
+  "added": "2026-09-22"
+ },
+ {
+  "kind": "video",
+  "ext": ".mp4",
+  "bytes": 5492707,
+  "sha1": "ae72e70d38986c0bd029e0dbcf42bee3620df42f",
+  "duration": 32.8,
+  "w": 720,
+  "h": 1280,
+  "id": "ae72e70d3898",
+  "paths": [
+   "Facebook Ads/GATOR GUARD AI V1 (1036930854971179).mp4"
+  ],
+  "folder": {
+   "tags": [
+    "Facebook ad"
+   ]
+  },
+  "added": "2026-09-22"
+ },
+ {
+  "kind": "video",
+  "ext": ".mp4",
+  "bytes": 12560760,
+  "sha1": "1fa5538d366fd3bf845e38e8d2d62c14b0f55efb",
+  "duration": 71.1,
+  "w": 720,
+  "h": 1280,
+  "id": "1fa5538d366f",
+  "paths": [
+   "Facebook Ads/GATOR GUARD Differentiator Ad V4 (1702994067071703).mp4"
+  ],
+  "folder": {
+   "tags": [
+    "Facebook ad"
+   ]
+  },
+  "added": "2026-09-22"
+ },
+ {
+  "kind": "video",
+  "ext": ".mp4",
+  "bytes": 2237913,
+  "sha1": "676339fbf64f10e398ded5d8057ef028c411fe14",
+  "duration": 32.2,
+  "w": 360,
+  "h": 640,
+  "id": "676339fbf64f",
+  "paths": [
+   "Facebook Ads/GATOR XMAS V1 (4127951577351060).mp4"
+  ],
+  "folder": {
+   "tags": [
+    "Facebook ad"
+   ]
+  },
+  "added": "2026-09-22"
+ },
+ {
+  "kind": "video",
+  "ext": ".mp4",
+  "bytes": 974253,
+  "sha1": "34327bbd0b1ec84134d2e276d35f71e7d9a3e505",
+  "duration": 24.1,
+  "w": 360,
+  "h": 640,
+  "id": "34327bbd0b1e",
+  "paths": [
+   "Facebook Ads/GATOR XMAS V2 (25210945991881178).mp4"
+  ],
+  "folder": {
+   "tags": [
+    "Facebook ad"
+   ]
+  },
+  "added": "2026-09-22"
+ },
+ {
+  "kind": "video",
+  "ext": ".mp4",
+  "bytes": 1778659,
+  "sha1": "8400eeb154ac859b5a8f4b4c95c9ad1c49613b05",
+  "duration": 28.3,
+  "w": 360,
+  "h": 640,
+  "id": "8400eeb154ac",
+  "paths": [
+   "Facebook Ads/GATOR XMAS V3 (1886403752760740).mp4"
+  ],
+  "folder": {
+   "tags": [
+    "Facebook ad"
+   ]
+  },
+  "added": "2026-09-22"
+ },
+ {
+  "kind": "video",
+  "ext": ".mp4",
+  "bytes": 7179052,
+  "sha1": "79a833cf365fbcb47ccc0f1b6049a253a7f5ab47",
+  "duration": 42.1,
+  "w": 1280,
+  "h": 674,
+  "id": "79a833cf365f",
+  "paths": [
+   "Facebook Ads/GG Indy Homeowner Testimonial (32942746588706741).mp4"
+  ],
+  "folder": {
+   "tags": [
+    "Facebook ad"
+   ]
+  },
+  "added": "2026-09-22"
+ },
+ {
+  "kind": "video",
+  "ext": ".mp4",
+  "bytes": 1551539,
+  "sha1": "de9639eedf8fa6b752f1676dd3cd3daf77580e58",
+  "duration": 29.2,
+  "w": 360,
+  "h": 640,
+  "id": "de9639eedf8f",
+  "paths": [
+   "Facebook Ads/Gator Guard  Happy Man Video May 12 (542669872234897).mp4"
+  ],
+  "folder": {
+   "tags": [
+    "Facebook ad"
+   ]
+  },
+  "added": "2026-09-22"
+ },
+ {
+  "kind": "video",
+  "ext": ".mp4",
+  "bytes": 362011,
+  "sha1": "d74cd5bd10149674b56931ea96d57f7da0d96d95",
+  "duration": 16.3,
+  "w": 360,
+  "h": 640,
+  "id": "d74cd5bd1014",
+  "paths": [
+   "Facebook Ads/Gator Guard  b&a  video 1080x1920 (1201677064736499).mp4"
+  ],
+  "folder": {
+   "tags": [
+    "Facebook ad"
+   ]
+  },
+  "added": "2026-09-22"
+ },
+ {
+  "kind": "video",
+  "ext": ".mp4",
+  "bytes": 3646406,
+  "sha1": "9a408dff4249fc345eff2270a5ab54450b7cb832",
+  "duration": 61.2,
+  "w": 640,
+  "h": 360,
+  "id": "9a408dff4249",
+  "paths": [
+   "Facebook Ads/Gator Guard - Video edit 1 - 8 July (660440667079337).mp4"
+  ],
+  "folder": {
+   "tags": [
+    "Facebook ad"
+   ]
+  },
+  "added": "2026-09-22"
+ },
+ {
+  "kind": "video",
+  "ext": ".mp4",
+  "bytes": 1956076,
+  "sha1": "d804b09bb02c0015345328f1e2ea9932066d5c33",
+  "duration": 61.3,
+  "w": 360,
+  "h": 640,
+  "id": "d804b09bb02c",
+  "paths": [
+   "Facebook Ads/Gator Guard - Video edit 1 - 8 July- vertical (769056615641441).mp4"
+  ],
+  "folder": {
+   "tags": [
+    "Facebook ad"
+   ]
+  },
+  "added": "2026-09-22"
+ },
+ {
+  "kind": "video",
+  "ext": ".mp4",
+  "bytes": 235390,
+  "sha1": "4106747fa3a7633f3da8792f4cb9b71e780e9898",
+  "duration": 12.5,
+  "w": 360,
+  "h": 640,
+  "id": "4106747fa3a7",
+  "paths": [
+   "Facebook Ads/Gator Guard 1080 x 1920 Hero Concrete Coatings b&a (1389629562094024).mp4"
+  ],
+  "folder": {
+   "tags": [
+    "Facebook ad"
+   ]
+  },
+  "added": "2026-09-22"
+ },
+ {
+  "kind": "video",
+  "ext": ".mp4",
+  "bytes": 1287484,
+  "sha1": "dd6699c5cadf61863dbe5c74aac162fefdedc055",
+  "duration": 22.6,
+  "w": 360,
+  "h": 640,
+  "id": "dd6699c5cadf",
+  "paths": [
+   "Facebook Ads/Gator Guard Process Video Mar 6 (719216757213675).mp4"
+  ],
+  "folder": {
+   "tags": [
+    "Facebook ad"
+   ]
+  },
+  "added": "2026-09-22"
+ },
+ {
+  "kind": "video",
+  "ext": ".mp4",
+  "bytes": 242395,
+  "sha1": "b781a13841dd7a32bc4df7678e02950fc810ab25",
+  "duration": 16.5,
+  "w": 360,
+  "h": 360,
+  "id": "b781a13841dd",
+  "paths": [
+   "Facebook Ads/Gator Guard b&a video 1080x1080 (1168438991634819).mp4"
+  ],
+  "folder": {
+   "tags": [
+    "Facebook ad"
+   ]
+  },
+  "added": "2026-09-22"
+ },
+ {
+  "kind": "video",
+  "ext": ".mp4",
+  "bytes": 1081827,
+  "sha1": "ecea66a26d911e93757f8877ac58cbfa8c5f87e6",
+  "duration": 15.3,
+  "w": 360,
+  "h": 640,
+  "id": "ecea66a26d91",
+  "paths": [
+   "Facebook Ads/Gator Guard_ Concrete Promo_ July 24th(2) (1301733114861741).mp4"
+  ],
+  "folder": {
+   "tags": [
+    "Facebook ad"
+   ]
+  },
+  "added": "2026-09-22"
+ },
+ {
+  "kind": "video",
+  "ext": ".mp4",
+  "bytes": 988906,
+  "sha1": "182746a4dbf1256651d698b827d2a200d02bd209",
+  "duration": 15.3,
+  "w": 360,
+  "h": 640,
+  "id": "182746a4dbf1",
+  "paths": [
+   "Facebook Ads/Gator Guard_ Concrete Promo_ July 24th(3) (1367909320968344).mp4"
+  ],
+  "folder": {
+   "tags": [
+    "Facebook ad"
+   ]
+  },
+  "added": "2026-09-22"
+ },
+ {
+  "kind": "video",
+  "ext": ".mp4",
+  "bytes": 768678,
+  "sha1": "9dbd3884cddb775128f512da5df7d486893a8767",
+  "duration": 16.5,
+  "w": 360,
+  "h": 640,
+  "id": "9dbd3884cddb",
+  "paths": [
+   "Facebook Ads/Gator Guard_ Vid Lock April 9th (1) (1510930946287647).mp4"
+  ],
+  "folder": {
+   "tags": [
+    "Facebook ad"
+   ]
+  },
+  "added": "2026-09-22"
+ },
+ {
+  "kind": "video",
+  "ext": ".mp4",
+  "bytes": 4166596,
+  "sha1": "f810bb621210f3286bd7c86fa1f6680322309e15",
+  "duration": 16.9,
+  "w": 720,
+  "h": 1280,
+  "id": "f810bb621210",
+  "paths": [
+   "Facebook Ads/Gator Guard_ Vid March 6th(2) (1) (665403812504138).mp4"
+  ],
+  "folder": {
+   "tags": [
+    "Facebook ad"
+   ]
+  },
+  "added": "2026-09-22"
+ },
+ {
+  "kind": "video",
+  "ext": ".mp4",
+  "bytes": 633398,
+  "sha1": "71277dca159ac67c02f04279b3939edebfa02e58",
+  "duration": 18.0,
+  "w": 360,
+  "h": 640,
+  "id": "71277dca159a",
+  "paths": [
+   "Facebook Ads/Gator Guard_ Vid Style July 8th (1236902184588883).mp4"
+  ],
+  "folder": {
+   "tags": [
+    "Facebook ad"
+   ]
+  },
+  "added": "2026-09-22"
+ },
+ {
+  "kind": "video",
+  "ext": ".mp4",
+  "bytes": 844442,
+  "sha1": "15dc8eb2e5bee2c603c5eae1f99de9737fc4a9a8",
+  "duration": 22.6,
+  "w": 360,
+  "h": 450,
+  "id": "15dc8eb2e5be",
+  "paths": [
+   "Facebook Ads/Get Free Quote - (1024228239560691).mp4"
+  ],
+  "folder": {
+   "tags": [
+    "Facebook ad"
+   ]
+  },
+  "added": "2026-09-22"
+ },
+ {
+  "kind": "video",
+  "ext": ".mp4",
+  "bytes": 692742,
+  "sha1": "16e448c99880786e5fc78e52d9910db75b38ee8b",
+  "duration": 15.3,
+  "w": 360,
+  "h": 450,
+  "id": "16e448c99880",
+  "paths": [
+   "Facebook Ads/Get Free Quote - (1387651358994143).mp4"
+  ],
+  "folder": {
+   "tags": [
+    "Facebook ad"
+   ]
+  },
+  "added": "2026-09-22"
+ },
+ {
+  "kind": "photo",
+  "ext": ".jpg",
+  "bytes": 325415,
+  "sha1": "989ce19704f533d4c37c0289e8b71359a989b5df",
+  "w": 1080,
+  "h": 1080,
+  "camera": null,
+  "phash": "919e62bd9f701e60",
+  "id": "989ce19704f5",
+  "paths": [
+   "Facebook Ads/Internal.png_105 (899b7641b1).jpg"
+  ],
+  "folder": {
+   "tags": [
+    "Facebook ad"
+   ]
+  },
+  "added": "2026-09-22"
+ },
+ {
+  "kind": "photo",
+  "ext": ".jpg",
+  "bytes": 138162,
+  "sha1": "1aa9da5ea37538206eaf818c20430f393cb807ca",
+  "w": 720,
+  "h": 720,
+  "camera": null,
+  "phash": "e4b6646c676849d9",
+  "id": "1aa9da5ea375",
+  "paths": [
+   "Facebook Ads/Page post 1382027098530431_1056329713173287 (1382027098).jpg"
+  ],
+  "folder": {
+   "tags": [
+    "Facebook ad"
+   ]
+  },
+  "added": "2026-09-22"
+ },
+ {
+  "kind": "photo",
+  "ext": ".jpg",
+  "bytes": 62742,
+  "sha1": "5a01e5ea5f49ac8e326438899471798730579fb0",
+  "w": 720,
+  "h": 720,
+  "camera": null,
+  "phash": "aba9382aad3c525e",
+  "id": "5a01e5ea5f49",
+  "paths": [
+   "Facebook Ads/Page post 1382027098530431_1085192210287037 (1382027098).jpg"
+  ],
+  "folder": {
+   "tags": [
+    "Facebook ad"
+   ]
+  },
+  "added": "2026-09-22"
+ },
+ {
+  "kind": "photo",
+  "ext": ".jpg",
+  "bytes": 98675,
+  "sha1": "3e2a49da3528262b0d5c1cf98988e3733137ba83",
+  "w": 720,
+  "h": 720,
+  "camera": null,
+  "phash": "8f51d08e6b9a5e4c",
+  "id": "3e2a49da3528",
+  "paths": [
+   "Facebook Ads/Page post 1382027098530431_605760478230215 (1382027098).jpg"
+  ],
+  "folder": {
+   "tags": [
+    "Facebook ad"
+   ]
+  },
+  "added": "2026-09-22"
+ },
+ {
+  "kind": "photo",
+  "ext": ".jpg",
+  "bytes": 69280,
+  "sha1": "b827af8221a541070aada9cfd4ecb88aa440f0ae",
+  "w": 720,
+  "h": 720,
+  "camera": null,
+  "phash": "c0e4166e791b3b1e",
+  "id": "b827af8221a5",
+  "paths": [
+   "Facebook Ads/Page post 1382027098530431_829723935833867 (1382027098).jpg"
+  ],
+  "folder": {
+   "tags": [
+    "Facebook ad"
+   ]
+  },
+  "added": "2026-09-22"
+ },
+ {
+  "kind": "photo",
+  "ext": ".jpg",
+  "bytes": 86017,
+  "sha1": "7350536b4c8c45256eaa012efddf49b220d3213c",
+  "w": 800,
+  "h": 419,
+  "camera": null,
+  "phash": "ddbb7a85d15a4884",
+  "id": "7350536b4c8c",
+  "paths": [
+   "Facebook Ads/Socius 1200x628-1.png_105 (ae09f685d8).jpg"
+  ],
+  "folder": {
+   "tags": [
+    "Facebook ad"
+   ]
+  },
+  "added": "2026-09-22"
+ },
+ {
+  "kind": "photo",
+  "ext": ".jpg",
+  "bytes": 1340277,
+  "sha1": "bb2c9d9c588e5798ccfd58e5e04d7e26045b1ce1",
+  "w": 1080,
+  "h": 1350,
+  "camera": null,
+  "phash": "d35c01fee11dc714",
+  "id": "bb2c9d9c588e",
+  "paths": [
+   "Facebook Ads/Winter Promo Facebook copy (cd917ec703).jpg"
+  ],
+  "folder": {
+   "tags": [
+    "Facebook ad"
+   ]
+  },
+  "added": "2026-09-22"
+ },
+ {
+  "kind": "photo",
+  "ext": ".jpg",
+  "bytes": 1104221,
+  "sha1": "eea877d91fd082ad2ea7a33fa466307582bfa43c",
+  "w": 1080,
+  "h": 1080,
+  "camera": null,
+  "phash": "d77401bee1147731",
+  "id": "eea877d91fd0",
+  "paths": [
+   "Facebook Ads/Winter Promo Facebook copy.jpg_105 (fc519d3bec).jpg"
+  ],
+  "folder": {
+   "tags": [
+    "Facebook ad"
+   ]
+  },
+  "added": "2026-09-22"
+ },
+ {
+  "kind": "photo",
+  "ext": ".jpg",
+  "bytes": 48076,
+  "sha1": "1555808712fe2b358a720b0fd0fc6efe3104a1a3",
+  "w": 526,
+  "h": 526,
+  "camera": null,
+  "phash": "d98d0f8c26e4c657",
+  "id": "1555808712fe",
+  "paths": [
+   "Facebook Ads/social media b&a 1.jpg_105_105 (42f553c35e).jpg"
+  ],
+  "folder": {
+   "tags": [
+    "Facebook ad"
+   ]
+  },
+  "added": "2026-09-22"
+ },
+ {
+  "kind": "photo",
+  "ext": ".jpg",
+  "bytes": 47797,
+  "sha1": "c05604166c28c77e3c01db98810f27de75a149e0",
+  "w": 526,
+  "h": 526,
+  "camera": null,
+  "phash": "d8a82ead27571746",
+  "id": "c05604166c28",
+  "paths": [
+   "Facebook Ads/social media b&a 2.jpg_105_105 (f788942372).jpg"
+  ],
+  "folder": {
+   "tags": [
+    "Facebook ad"
+   ]
+  },
+  "added": "2026-09-22"
+ },
+ {
+  "kind": "photo",
+  "ext": ".jpg",
+  "bytes": 71102,
+  "sha1": "23131e1563b5a0204cf298a13411b3d9f8786e41",
+  "w": 526,
+  "h": 526,
+  "camera": null,
+  "phash": "d9d262b96c2cac0f",
+  "id": "23131e1563b5",
+  "paths": [
+   "Facebook Ads/social media b&a 3.jpg_105_105 (00f47e94a5).jpg"
+  ],
+  "folder": {
+   "tags": [
+    "Facebook ad"
+   ]
+  },
+  "added": "2026-09-22"
+ },
+ {
+  "kind": "photo",
+  "ext": ".jpg",
+  "bytes": 174484,
+  "sha1": "0afd461847e976f9db106bbb7d9abdaac561a54d",
+  "w": 1080,
+  "h": 1920,
+  "camera": null,
+  "phash": "d10f6e9228bc6d2b",
+  "id": "0afd461847e9",
+  "paths": [
+   "Facebook Ads/untitled (006f3a8597).jpg"
+  ],
+  "folder": {
+   "tags": [
+    "Facebook ad"
+   ]
+  },
+  "added": "2026-09-22"
+ },
+ {
+  "kind": "photo",
+  "ext": ".jpg",
+  "bytes": 235742,
+  "sha1": "ec82de1b0e38232ca6dbbc912f1dc21ecf6b9fb9",
+  "w": 1170,
+  "h": 884,
+  "camera": null,
+  "phash": "d60bdd6497a3c149",
+  "id": "ec82de1b0e38",
+  "paths": [
+   "Facebook Ads/untitled (013c63d196).jpg"
+  ],
+  "folder": {
+   "tags": [
+    "Facebook ad"
+   ]
+  },
+  "added": "2026-09-22"
+ },
+ {
+  "kind": "photo",
+  "ext": ".jpg",
+  "bytes": 508237,
+  "sha1": "cccc9010e18035ed28f67015698acb6d8230180f",
+  "w": 1080,
+  "h": 1920,
+  "camera": null,
+  "phash": "bb3e6cc8899bb484",
+  "id": "cccc9010e180",
+  "paths": [
+   "Facebook Ads/untitled (069965210c).jpg"
+  ],
+  "folder": {
+   "tags": [
+    "Facebook ad"
+   ]
+  },
+  "added": "2026-09-22"
+ },
+ {
+  "kind": "photo",
+  "ext": ".jpg",
+  "bytes": 94916,
+  "sha1": "060309f103ad66f8f566ac94d8f73d2aa640f1d5",
+  "w": 1080,
+  "h": 1920,
+  "camera": null,
+  "phash": "82316dce33c9c6b3",
+  "id": "060309f103ad",
+  "paths": [
+   "Facebook Ads/untitled (0808cdd77e).jpg"
+  ],
+  "folder": {
+   "tags": [
+    "Facebook ad"
+   ]
+  },
+  "added": "2026-09-22"
+ },
+ {
+  "kind": "photo",
+  "ext": ".jpg",
+  "bytes": 108973,
+  "sha1": "c4a3005ee10acf9ded09fd45cf99043ac7124059",
+  "w": 1024,
+  "h": 1280,
+  "camera": null,
+  "phash": "ee3c03c3c32b39c6",
+  "id": "c4a3005ee10a",
+  "paths": [
+   "Facebook Ads/untitled (0d067cea9a).jpg"
+  ],
+  "folder": {
+   "tags": [
+    "Facebook ad"
+   ]
+  },
+  "added": "2026-09-22"
+ },
+ {
+  "kind": "photo",
+  "ext": ".jpg",
+  "bytes": 234954,
+  "sha1": "c583c61871b9731ed72ca78f6cad1cfdc5d206f1",
+  "w": 1080,
+  "h": 1080,
+  "camera": null,
+  "phash": "cc9613e5af072a4b",
+  "id": "c583c61871b9",
+  "paths": [
+   "Facebook Ads/untitled (145bb42e8f).jpg"
+  ],
+  "folder": {
+   "tags": [
+    "Facebook ad"
+   ]
+  },
+  "added": "2026-09-22"
+ },
+ {
+  "kind": "photo",
+  "ext": ".jpg",
+  "bytes": 165914,
+  "sha1": "c92a1269277e1b45db77417757189eab55ec2aaf",
+  "w": 1080,
+  "h": 1920,
+  "camera": null,
+  "phash": "eec20b78698d8cbc",
+  "id": "c92a1269277e",
+  "paths": [
+   "Facebook Ads/untitled (1546a040c5).jpg"
+  ],
+  "folder": {
+   "tags": [
+    "Facebook ad"
+   ]
+  },
+  "added": "2026-09-22"
+ },
+ {
+  "kind": "photo",
+  "ext": ".jpg",
+  "bytes": 500756,
+  "sha1": "82f354d5a475b559d5e6e1f07191f0f460992311",
+  "w": 1080,
+  "h": 1920,
+  "camera": null,
+  "phash": "f1bd46476b0b2117",
+  "id": "82f354d5a475",
+  "paths": [
+   "Facebook Ads/untitled (21c7b0cf4f).jpg"
+  ],
+  "folder": {
+   "tags": [
+    "Facebook ad"
+   ]
+  },
+  "added": "2026-09-22"
+ },
+ {
+  "kind": "photo",
+  "ext": ".jpg",
+  "bytes": 20739,
+  "sha1": "d546ae0d9c2d10bbb2afb2ef2fe03b8d01b559ca",
+  "w": 720,
+  "h": 1280,
+  "camera": null,
+  "phash": "9a9a65659a9a6565",
+  "id": "d546ae0d9c2d",
+  "paths": [
+   "Facebook Ads/untitled (2ac3e201ad).jpg"
+  ],
+  "folder": {
+   "tags": [
+    "Facebook ad"
+   ]
+  },
+  "added": "2026-09-22"
+ },
+ {
+  "kind": "photo",
+  "ext": ".jpg",
+  "bytes": 121490,
+  "sha1": "0d009fe565b3091fb9b8d391ef4e5cccf3aa9569",
+  "w": 768,
+  "h": 960,
+  "camera": null,
+  "phash": "8511b1c53d1b4f1f",
+  "id": "0d009fe565b3",
+  "paths": [
+   "Facebook Ads/untitled (2ec02d7747).jpg"
+  ],
+  "folder": {
+   "tags": [
+    "Facebook ad"
+   ]
+  },
+  "added": "2026-09-22"
+ },
+ {
+  "kind": "photo",
+  "ext": ".jpg",
+  "bytes": 182345,
+  "sha1": "189201e213125a6305c9adfcbfd05d90f3df148b",
+  "w": 1080,
+  "h": 1920,
+  "camera": null,
+  "phash": "916e4e9323917e9c",
+  "id": "189201e21312",
+  "paths": [
+   "Facebook Ads/untitled (30dedb2fc0).jpg"
+  ],
+  "folder": {
+   "tags": [
+    "Facebook ad"
+   ]
+  },
+  "added": "2026-09-22"
+ },
+ {
+  "kind": "photo",
+  "ext": ".jpg",
+  "bytes": 210427,
+  "sha1": "657de80bd67edadb453c84d9aa3aad2748b3b4ac",
+  "w": 1080,
+  "h": 1080,
+  "camera": null,
+  "phash": "d10f0eda6f9073b0",
+  "id": "657de80bd67e",
+  "paths": [
+   "Facebook Ads/untitled (3192abe365).jpg"
+  ],
+  "folder": {
+   "tags": [
+    "Facebook ad"
+   ]
+  },
+  "added": "2026-09-22"
+ },
+ {
+  "kind": "photo",
+  "ext": ".jpg",
+  "bytes": 199290,
+  "sha1": "1e6be5a947e3e743bfcef6409694b91e65248028",
+  "w": 1080,
+  "h": 1080,
+  "camera": null,
+  "phash": "f0c04e0f4f2db339",
+  "id": "1e6be5a947e3",
+  "paths": [
+   "Facebook Ads/untitled (3f31d03d26).jpg"
+  ],
+  "folder": {
+   "tags": [
+    "Facebook ad"
+   ]
+  },
+  "added": "2026-09-22"
+ },
+ {
+  "kind": "photo",
+  "ext": ".jpg",
+  "bytes": 272516,
+  "sha1": "63e4f1cb0aa8c369f4bf21b5808e832f9c60e46a",
+  "w": 1080,
+  "h": 1080,
+  "camera": null,
+  "phash": "f9bca5879c930394",
+  "id": "63e4f1cb0aa8",
+  "paths": [
+   "Facebook Ads/untitled (5435bc9170).jpg"
+  ],
+  "folder": {
+   "tags": [
+    "Facebook ad"
+   ]
+  },
+  "added": "2026-09-22"
+ },
+ {
+  "kind": "photo",
+  "ext": ".jpg",
+  "bytes": 61693,
+  "sha1": "47fd9bbef37796a613b4a1646bbd9df2486181b1",
+  "w": 1920,
+  "h": 1080,
+  "camera": null,
+  "phash": "f3f3069ef006e464",
+  "id": "47fd9bbef377",
+  "paths": [
+   "Facebook Ads/untitled (589e9c9fae).jpg"
+  ],
+  "folder": {
+   "tags": [
+    "Facebook ad"
+   ]
+  },
+  "added": "2026-09-22"
+ },
+ {
+  "kind": "photo",
+  "ext": ".jpg",
+  "bytes": 55770,
+  "sha1": "aca9ce441ce49446958fb0535c3a41323af26fcd",
+  "w": 1080,
+  "h": 1920,
+  "camera": null,
+  "phash": "964c693398cc67b3",
+  "id": "aca9ce441ce4",
+  "paths": [
+   "Facebook Ads/untitled (58b81f19a1).jpg"
+  ],
+  "folder": {
+   "tags": [
+    "Facebook ad"
+   ]
+  },
+  "added": "2026-09-22"
+ },
+ {
+  "kind": "photo",
+  "ext": ".jpg",
+  "bytes": 214649,
+  "sha1": "76e143bc0217e6c55c64f4ef2e1229b8f36e6760",
+  "w": 1920,
+  "h": 1080,
+  "camera": null,
+  "phash": "c40499ebd9b3f0d1",
+  "id": "76e143bc0217",
+  "paths": [
+   "Facebook Ads/untitled (5faa45f4d7).jpg"
+  ],
+  "folder": {
+   "tags": [
+    "Facebook ad"
+   ]
+  },
+  "added": "2026-09-22"
+ },
+ {
+  "kind": "photo",
+  "ext": ".jpg",
+  "bytes": 315938,
+  "sha1": "77ff5a00340d5b216cb42f7befe494066864200e",
+  "w": 1080,
+  "h": 1080,
+  "camera": null,
+  "phash": "ed68c2cf1c88357c",
+  "id": "77ff5a00340d",
+  "paths": [
+   "Facebook Ads/untitled (60cca0d1bf).jpg"
+  ],
+  "folder": {
+   "tags": [
+    "Facebook ad"
+   ]
+  },
+  "added": "2026-09-22"
+ },
+ {
+  "kind": "photo",
+  "ext": ".jpg",
+  "bytes": 39891,
+  "sha1": "7623b8146ff464db1a6a2aceee0d52d4f6cc0454",
+  "w": 720,
+  "h": 1280,
+  "camera": null,
+  "phash": "8f9630c974e6cb94",
+  "id": "7623b8146ff4",
+  "paths": [
+   "Facebook Ads/untitled (63d62bf1ad).jpg"
+  ],
+  "folder": {
+   "tags": [
+    "Facebook ad"
+   ]
+  },
+  "added": "2026-09-22"
+ },
+ {
+  "kind": "photo",
+  "ext": ".jpg",
+  "bytes": 133823,
+  "sha1": "13fa012556ed5b36e58ffefd66df6577d76e676e",
+  "w": 1080,
+  "h": 1920,
+  "camera": null,
+  "phash": "a9294bb1bc5e943c",
+  "id": "13fa012556ed",
+  "paths": [
+   "Facebook Ads/untitled (65c6960e09).jpg"
+  ],
+  "folder": {
+   "tags": [
+    "Facebook ad"
+   ]
+  },
+  "added": "2026-09-22"
+ },
+ {
+  "kind": "photo",
+  "ext": ".jpg",
+  "bytes": 88920,
+  "sha1": "c2c737e4a59ca05253f496d9184b178c221336c2",
+  "w": 720,
+  "h": 1280,
+  "camera": null,
+  "phash": "bcdccc3f46813827",
+  "id": "c2c737e4a59c",
+  "paths": [
+   "Facebook Ads/untitled (79c3c38c05).jpg"
+  ],
+  "folder": {
+   "tags": [
+    "Facebook ad"
+   ]
+  },
+  "added": "2026-09-22"
+ },
+ {
+  "kind": "photo",
+  "ext": ".jpg",
+  "bytes": 474662,
+  "sha1": "db5fb8b73e92d6a4aec2b57bc697e4b38d01d4c1",
+  "w": 1080,
+  "h": 1920,
+  "camera": null,
+  "phash": "d4c22dac2bb99cd2",
+  "id": "db5fb8b73e92",
+  "paths": [
+   "Facebook Ads/untitled (8105971ad4).jpg"
+  ],
+  "folder": {
+   "tags": [
+    "Facebook ad"
+   ]
+  },
+  "added": "2026-09-22"
+ },
+ {
+  "kind": "photo",
+  "ext": ".jpg",
+  "bytes": 33878,
+  "sha1": "9094fb76a180807ea737215aca00a8969bb70f4b",
+  "w": 1024,
+  "h": 1280,
+  "camera": null,
+  "phash": "80abff5506ab3a54",
+  "id": "9094fb76a180",
+  "paths": [
+   "Facebook Ads/untitled (81f1bddace).jpg"
+  ],
+  "folder": {
+   "tags": [
+    "Facebook ad"
+   ]
+  },
+  "added": "2026-09-22"
+ },
+ {
+  "kind": "photo",
+  "ext": ".jpg",
+  "bytes": 76340,
+  "sha1": "d772a7332aec52b4a1de36bb6e356dfc89ee9e6a",
+  "w": 1080,
+  "h": 1920,
+  "camera": null,
+  "phash": "c8f461899a5b6d66",
+  "id": "d772a7332aec",
+  "paths": [
+   "Facebook Ads/untitled (8288375702).jpg"
+  ],
+  "folder": {
+   "tags": [
+    "Facebook ad"
+   ]
+  },
+  "added": "2026-09-22"
+ },
+ {
+  "kind": "photo",
+  "ext": ".jpg",
+  "bytes": 128605,
+  "sha1": "1dca3d289ee72a196a4133e8261e0e99c010b0f9",
+  "w": 1080,
+  "h": 1920,
+  "camera": null,
+  "phash": "da6b2a249b9ac4e9",
+  "id": "1dca3d289ee7",
+  "paths": [
+   "Facebook Ads/untitled (83db752978).jpg"
+  ],
+  "folder": {
+   "tags": [
+    "Facebook ad"
+   ]
+  },
+  "added": "2026-09-22"
+ },
+ {
+  "kind": "photo",
+  "ext": ".jpg",
+  "bytes": 67690,
+  "sha1": "c4c3c9fb055e6f011cdb00b68e16609d668af8e3",
+  "w": 1024,
+  "h": 1280,
+  "camera": null,
+  "phash": "e04d9b30e6316ccf",
+  "id": "c4c3c9fb055e",
+  "paths": [
+   "Facebook Ads/untitled (9b81430ab5).jpg"
+  ],
+  "folder": {
+   "tags": [
+    "Facebook ad"
+   ]
+  },
+  "added": "2026-09-22"
+ },
+ {
+  "kind": "photo",
+  "ext": ".jpg",
+  "bytes": 96345,
+  "sha1": "d65cb39008590b9bb581ef2de86b52fa68be57f0",
+  "w": 1080,
+  "h": 1080,
+  "camera": null,
+  "phash": "8394e9ebd6380bcc",
+  "id": "d65cb3900859",
+  "paths": [
+   "Facebook Ads/untitled (a349990ab3).jpg"
+  ],
+  "folder": {
+   "tags": [
+    "Facebook ad"
+   ]
+  },
+  "added": "2026-09-22"
+ },
+ {
+  "kind": "photo",
+  "ext": ".jpg",
+  "bytes": 207204,
+  "sha1": "2d52dba5bbbad2ab325336ce9b6bf444de6a9c5c",
+  "w": 1980,
+  "h": 1044,
+  "camera": null,
+  "phash": "d0cca9b7bb81e886",
+  "id": "2d52dba5bbba",
+  "paths": [
+   "Facebook Ads/untitled (ad7073fbe5).jpg"
+  ],
+  "folder": {
+   "tags": [
+    "Facebook ad"
+   ]
+  },
+  "added": "2026-09-22"
+ },
+ {
+  "kind": "photo",
+  "ext": ".jpg",
+  "bytes": 324018,
+  "sha1": "900813619cc32f59ee3c06c92aa7402ca6caaa5a",
+  "w": 1080,
+  "h": 1080,
+  "camera": null,
+  "phash": "c46e76e4698d0f62",
+  "id": "900813619cc3",
+  "paths": [
+   "Facebook Ads/untitled (b2dff762be).jpg"
+  ],
+  "folder": {
+   "tags": [
+    "Facebook ad"
+   ]
+  },
+  "added": "2026-09-22"
+ },
+ {
+  "kind": "photo",
+  "ext": ".jpg",
+  "bytes": 120010,
+  "sha1": "e5f87544b4222a00307b44e74a1af2d47c4107ff",
+  "w": 1080,
+  "h": 1080,
+  "camera": null,
+  "phash": "a1daf8bcccc1cc4c",
+  "id": "e5f87544b422",
+  "paths": [
+   "Facebook Ads/untitled (b737524407).jpg"
+  ],
+  "folder": {
+   "tags": [
+    "Facebook ad"
+   ]
+  },
+  "added": "2026-09-22"
+ },
+ {
+  "kind": "photo",
+  "ext": ".jpg",
+  "bytes": 76598,
+  "sha1": "80350d3e98fe5ac1e21f793dc895c7033f03ce3e",
+  "w": 1080,
+  "h": 1920,
+  "camera": null,
+  "phash": "c517743b6b1b480f",
+  "id": "80350d3e98fe",
+  "paths": [
+   "Facebook Ads/untitled (b80023942b).jpg"
+  ],
+  "folder": {
+   "tags": [
+    "Facebook ad"
+   ]
+  },
+  "added": "2026-09-22"
+ },
+ {
+  "kind": "photo",
+  "ext": ".jpg",
+  "bytes": 288929,
+  "sha1": "d48dc99cef1b8422fe82b522ba8874c886258af1",
+  "w": 1080,
+  "h": 1920,
+  "camera": null,
+  "phash": "97d5a0e8286a93de",
+  "id": "d48dc99cef1b",
+  "paths": [
+   "Facebook Ads/untitled (bdc76e4ad5).jpg"
+  ],
+  "folder": {
+   "tags": [
+    "Facebook ad"
+   ]
+  },
+  "added": "2026-09-22"
+ },
+ {
+  "kind": "photo",
+  "ext": ".jpg",
+  "bytes": 54000,
+  "sha1": "d9b3a7890df127d422edbf0605bea2052b6aa309",
+  "w": 1080,
+  "h": 1920,
+  "camera": null,
+  "phash": "cfd4787898d0e84e",
+  "id": "d9b3a7890df1",
+  "paths": [
+   "Facebook Ads/untitled (bdecfc5fcc).jpg"
+  ],
+  "folder": {
+   "tags": [
+    "Facebook ad"
+   ]
+  },
+  "added": "2026-09-22"
+ },
+ {
+  "kind": "photo",
+  "ext": ".jpg",
+  "bytes": 147077,
+  "sha1": "cd2a15ebdd1ef685f14e0782a6de65b75e5ad159",
+  "w": 1080,
+  "h": 1920,
+  "camera": null,
+  "phash": "d43acd26384b2dd6",
+  "id": "cd2a15ebdd1e",
+  "paths": [
+   "Facebook Ads/untitled (be893b7c40).jpg"
+  ],
+  "folder": {
+   "tags": [
+    "Facebook ad"
+   ]
+  },
+  "added": "2026-09-22"
+ },
+ {
+  "kind": "photo",
+  "ext": ".jpg",
+  "bytes": 770050,
+  "sha1": "35e1f0cc541ceda9a5d34340b8b07b477a2dff3d",
+  "w": 3950,
+  "h": 1061,
+  "camera": null,
+  "phash": "d697936c1c91e319",
+  "id": "35e1f0cc541c",
+  "paths": [
+   "Facebook Ads/untitled (bf0f19a0ce).jpg"
+  ],
+  "folder": {
+   "tags": [
+    "Facebook ad"
+   ]
+  },
+  "added": "2026-09-22"
+ },
+ {
+  "kind": "photo",
+  "ext": ".jpg",
+  "bytes": 85739,
+  "sha1": "b24a3db4a254de0ced69e3bd95be114e813eb987",
+  "w": 1080,
+  "h": 1920,
+  "camera": null,
+  "phash": "d445c5a1a1b5e5e5",
+  "id": "b24a3db4a254",
+  "paths": [
+   "Facebook Ads/untitled (c273644c4f).jpg"
+  ],
+  "folder": {
+   "tags": [
+    "Facebook ad"
+   ]
+  },
+  "added": "2026-09-22"
+ },
+ {
+  "kind": "photo",
+  "ext": ".jpg",
+  "bytes": 55012,
+  "sha1": "585676682d815f713563f8e5fa486e8f9e5457c2",
+  "w": 1080,
+  "h": 1920,
+  "camera": null,
+  "phash": "e6e5490ddc991599",
+  "id": "585676682d81",
+  "paths": [
+   "Facebook Ads/untitled (c3b9799e1b).jpg"
+  ],
+  "folder": {
+   "tags": [
+    "Facebook ad"
+   ]
+  },
+  "added": "2026-09-22"
+ },
+ {
+  "kind": "photo",
+  "ext": ".jpg",
+  "bytes": 259088,
+  "sha1": "2adc48346566f9d299719e9eb9a9054c276e190e",
+  "w": 1080,
+  "h": 1920,
+  "camera": null,
+  "phash": "9131802e7ed7239f",
+  "id": "2adc48346566",
+  "paths": [
+   "Facebook Ads/untitled (c7e17b8d7b).jpg"
+  ],
+  "folder": {
+   "tags": [
+    "Facebook ad"
+   ]
+  },
+  "added": "2026-09-22"
+ },
+ {
+  "kind": "photo",
+  "ext": ".jpg",
+  "bytes": 43258,
+  "sha1": "1587ca908b5b36db73851bf1064459a6204531c0",
+  "w": 851,
+  "h": 315,
+  "camera": null,
+  "phash": "cd4f0a1ad5521fd1",
+  "id": "1587ca908b5b",
+  "paths": [
+   "Facebook Ads/untitled (d94db83dbf).jpg"
+  ],
+  "folder": {
+   "tags": [
+    "Facebook ad"
+   ]
+  },
+  "added": "2026-09-22"
+ },
+ {
+  "kind": "photo",
+  "ext": ".jpg",
+  "bytes": 100394,
+  "sha1": "69d0ad37fb38744d3e39e92cb75fbff05f6e920d",
+  "w": 720,
+  "h": 1280,
+  "camera": null,
+  "phash": "f66486a50d0bda6b",
+  "id": "69d0ad37fb38",
+  "paths": [
+   "Facebook Ads/untitled (dc25ebd38e).jpg"
+  ],
+  "folder": {
+   "tags": [
+    "Facebook ad"
+   ]
+  },
+  "added": "2026-09-22"
+ },
+ {
+  "kind": "photo",
+  "ext": ".jpg",
+  "bytes": 160955,
+  "sha1": "1c9d5c777bc11adcdbf3ee0d72fb5c713a0666ca",
+  "w": 1080,
+  "h": 1920,
+  "camera": null,
+  "phash": "cd1d20f3c1123ee7",
+  "id": "1c9d5c777bc1",
+  "paths": [
+   "Facebook Ads/untitled (e06c3de1c4).jpg"
+  ],
+  "folder": {
+   "tags": [
+    "Facebook ad"
+   ]
+  },
+  "added": "2026-09-22"
+ },
+ {
+  "kind": "photo",
+  "ext": ".jpg",
+  "bytes": 45469,
+  "sha1": "e8e8bad82d328b1acd8d54caddaf0e3b89d3207b",
+  "w": 1024,
+  "h": 1280,
+  "camera": null,
+  "phash": "ee0f9491333b4b70",
+  "id": "e8e8bad82d32",
+  "paths": [
+   "Facebook Ads/untitled (f10cbb867c).jpg"
+  ],
+  "folder": {
+   "tags": [
+    "Facebook ad"
+   ]
+  },
+  "added": "2026-09-22"
+ },
+ {
+  "kind": "photo",
+  "ext": ".jpg",
+  "bytes": 318040,
+  "sha1": "6ce438d0caafe88d467794e2118dca2810afca6f",
+  "w": 1080,
+  "h": 1080,
+  "camera": null,
+  "phash": "ed60c2cf1c90757c",
+  "id": "6ce438d0caaf",
+  "paths": [
+   "Facebook Ads/untitled (f175115e0c).jpg"
+  ],
+  "folder": {
+   "tags": [
+    "Facebook ad"
+   ]
+  },
+  "added": "2026-09-22"
+ },
+ {
+  "kind": "photo",
+  "ext": ".jpg",
+  "bytes": 291309,
+  "sha1": "1a98912ead14149c98fb90c954aebeb08b2a7bf9",
+  "w": 1080,
+  "h": 1920,
+  "camera": null,
+  "phash": "c517703b4a3b483f",
+  "id": "1a98912ead14",
+  "paths": [
+   "Facebook Ads/untitled (f856286c58).jpg"
+  ],
+  "folder": {
+   "tags": [
+    "Facebook ad"
+   ]
+  },
+  "added": "2026-09-22"
+ },
+ {
+  "kind": "photo",
+  "ext": ".jpg",
+  "bytes": 133036,
+  "sha1": "7c7f1cdd80d2025df58e5d5604d52e9aa545b187",
+  "w": 1080,
+  "h": 1080,
+  "camera": null,
+  "phash": "914e6c8c7c9d688f",
+  "id": "7c7f1cdd80d2",
+  "paths": [
+   "Facebook Ads/untitled (fdecfb8439).jpg"
+  ],
+  "folder": {
+   "tags": [
+    "Facebook ad"
+   ]
+  },
+  "added": "2026-09-22"
+ },
+ {
+  "kind": "photo",
+  "ext": ".jpg",
+  "bytes": 205922,
+  "sha1": "d8cafc095e74c70511765c784ba15a252c34d236",
+  "w": 1080,
+  "h": 1080,
+  "camera": null,
+  "phash": "b1c43f6c4b1ee116",
+  "id": "d8cafc095e74",
+  "paths": [
+   "Facebook Ads/untitled_105 (03d8d2c4b6).jpg"
+  ],
+  "folder": {
+   "tags": [
+    "Facebook ad"
+   ]
+  },
+  "added": "2026-09-22"
+ },
+ {
+  "kind": "photo",
+  "ext": ".jpg",
+  "bytes": 337797,
+  "sha1": "b309cf27a846eff527fb4943cbead694bc8d74d7",
+  "w": 1080,
+  "h": 1080,
+  "camera": null,
+  "phash": "f9bda5879c830790",
+  "id": "b309cf27a846",
+  "paths": [
+   "Facebook Ads/untitled_105 (25109547d3).jpg"
+  ],
+  "folder": {
+   "tags": [
+    "Facebook ad"
+   ]
+  },
+  "added": "2026-09-22"
+ },
+ {
+  "kind": "photo",
+  "ext": ".jpg",
+  "bytes": 303074,
+  "sha1": "970586b65fd9b6b39b4489474fcf27cd589bafb9",
+  "w": 1080,
+  "h": 1080,
+  "camera": null,
+  "phash": "c80f33d8ca9f6370",
+  "id": "970586b65fd9",
+  "paths": [
+   "Facebook Ads/untitled_105 (29ddd73e1c).jpg"
+  ],
+  "folder": {
+   "tags": [
+    "Facebook ad"
+   ]
+  },
+  "added": "2026-09-22"
+ },
+ {
+  "kind": "photo",
+  "ext": ".jpg",
+  "bytes": 85265,
+  "sha1": "d904dc9078946a0c324a8697622c4040d4cfe918",
+  "w": 1280,
+  "h": 720,
+  "camera": null,
+  "phash": "f3a64fd542596443",
+  "id": "d904dc907894",
+  "paths": [
+   "Facebook Ads/untitled_105 (69e900f642).jpg"
+  ],
+  "folder": {
+   "tags": [
+    "Facebook ad"
+   ]
+  },
+  "added": "2026-09-22"
+ },
+ {
+  "kind": "photo",
+  "ext": ".jpg",
+  "bytes": 596711,
+  "sha1": "40ee3595dbd91c9f531b4cf7a6dcb447f5bebd04",
+  "w": 1200,
+  "h": 627,
+  "camera": null,
+  "phash": "d024df3f63ad9142",
+  "id": "40ee3595dbd9",
+  "paths": [
+   "Facebook Ads/untitled_105 (dde48644f7).jpg"
+  ],
+  "folder": {
+   "tags": [
+    "Facebook ad"
+   ]
+  },
+  "added": "2026-09-22"
+ },
+ {
+  "kind": "video",
+  "ext": ".mp4",
+  "bytes": 746717,
+  "sha1": "92b73c6885b9d8ac6c574fb37621518ff2e48496",
+  "duration": 20.2,
+  "w": 360,
+  "h": 640,
+  "id": "92b73c6885b9",
+  "paths": [
+   "Facebook Ads/vid 2 (925542106371733).mp4"
+  ],
+  "folder": {
+   "tags": [
+    "Facebook ad"
+   ]
+  },
+  "added": "2026-09-22"
+ },
+ {
   "kind": "video",
   "ext": ".mp4",
   "bytes": 47415478,
@@ -20427,6 +23916,4570 @@
    "market": "Outside markets"
   },
   "added": "2026-09-17"
+ },
+ {
+  "kind": "photo",
+  "ext": ".jpg",
+  "bytes": 179463,
+  "sha1": "e0fd23a6a68c828822230bd075f664c030252301",
+  "w": 960,
+  "h": 448,
+  "date": "2022-02-21",
+  "camera": null,
+  "phash": "c2d031e6fdc1d0d3",
+  "id": "e0fd23a6a68c",
+  "paths": [
+   "Google Ads/#1 (130172063500).jpg"
+  ],
+  "folder": {
+   "tags": [
+    "Google Ads"
+   ]
+  },
+  "added": "2026-09-22"
+ },
+ {
+  "kind": "photo",
+  "ext": ".jpg",
+  "bytes": 469466,
+  "sha1": "41325afa54347b607af7444760a585a6f8fc8038",
+  "w": 1536,
+  "h": 1536,
+  "date": "2022-02-22",
+  "camera": null,
+  "phash": "bbb2442d4cd1e0bb",
+  "id": "41325afa5434",
+  "paths": [
+   "Google Ads/#2_1 (130172080195).jpg"
+  ],
+  "folder": {
+   "tags": [
+    "Google Ads"
+   ]
+  },
+  "added": "2026-09-22"
+ },
+ {
+  "kind": "photo",
+  "ext": ".jpg",
+  "bytes": 210736,
+  "sha1": "fa4187680c2ad2e6e31371ae24b74b6de520069d",
+  "w": 2048,
+  "h": 1075,
+  "date": "2022-02-22",
+  "camera": null,
+  "phash": "f28e69170fee0417",
+  "id": "fa4187680c2a",
+  "paths": [
+   "Google Ads/#2_1.91 (130211776875).jpg"
+  ],
+  "folder": {
+   "tags": [
+    "Google Ads"
+   ]
+  },
+  "added": "2026-09-22"
+ },
+ {
+  "kind": "photo",
+  "ext": ".jpg",
+  "bytes": 1378588,
+  "sha1": "f87e9ead28e93d8fe2ce070eccaa70b7fd02fae5",
+  "w": 4032,
+  "h": 2110,
+  "date": "2022-02-22",
+  "camera": null,
+  "phash": "c8c9583b764f605b",
+  "id": "f87e9ead28e9",
+  "paths": [
+   "Google Ads/#6_1.91 1 (130165413479).jpg"
+  ],
+  "folder": {
+   "tags": [
+    "Google Ads"
+   ]
+  },
+  "added": "2026-09-22"
+ },
+ {
+  "kind": "photo",
+  "ext": ".jpg",
+  "bytes": 1940179,
+  "sha1": "e580f072747a7c81978690addeb5b5fda97106e3",
+  "w": 4032,
+  "h": 2110,
+  "date": "2022-02-22",
+  "camera": null,
+  "phash": "cdc8c9cc2b519a75",
+  "id": "e580f072747a",
+  "paths": [
+   "Google Ads/#6_1.91 1 (407360765138).jpg"
+  ],
+  "folder": {
+   "tags": [
+    "Google Ads"
+   ]
+  },
+  "added": "2026-09-22"
+ },
+ {
+  "kind": "photo",
+  "ext": ".jpg",
+  "bytes": 995232,
+  "sha1": "1b30e276276bb43cfa0ca99ea06d36e833507441",
+  "w": 2419,
+  "h": 3024,
+  "date": "2022-02-22",
+  "camera": null,
+  "phash": "c9c9253e34c9d3d1",
+  "id": "1b30e276276b",
+  "paths": [
+   "Google Ads/#6_4 5 (130172550511).jpg"
+  ],
+  "folder": {
+   "tags": [
+    "Google Ads"
+   ]
+  },
+  "added": "2026-09-22"
+ },
+ {
+  "kind": "photo",
+  "ext": ".jpg",
+  "bytes": 1122294,
+  "sha1": "f8a88569f2445b0d92b6ccf46ed3b4a21062ded5",
+  "w": 2419,
+  "h": 3024,
+  "date": "2022-02-21",
+  "camera": null,
+  "phash": "b2131f16d4fc3531",
+  "id": "f8a88569f244",
+  "paths": [
+   "Google Ads/#8_0.8 (130212179154).jpg"
+  ],
+  "folder": {
+   "tags": [
+    "Google Ads"
+   ]
+  },
+  "added": "2026-09-22"
+ },
+ {
+  "kind": "photo",
+  "ext": ".jpg",
+  "bytes": 1744167,
+  "sha1": "ab006a436dae86cd9a311639a428d60ea1b41d78",
+  "w": 4032,
+  "h": 2117,
+  "date": "2022-02-21",
+  "camera": null,
+  "phash": "ea1dc46e7b94d0a1",
+  "id": "ab006a436dae",
+  "paths": [
+   "Google Ads/#99_1.91 (130172463193).jpg"
+  ],
+  "folder": {
+   "tags": [
+    "Google Ads"
+   ]
+  },
+  "added": "2026-09-22"
+ },
+ {
+  "kind": "photo",
+  "ext": ".jpg",
+  "bytes": 554700,
+  "sha1": "3c31e1224f861e741fa936e3f19d690b5241fe1a",
+  "w": 1125,
+  "h": 1500,
+  "camera": null,
+  "phash": "de1ebcd5d582a282",
+  "id": "3c31e1224f86",
+  "paths": [
+   "Google Ads/08E594D2_F1EF_4752_8A83_03C1C9B733AC_51a84d1d-ea76-4ced-8cc9-ebcfb6012d9f (326915985729).jpg"
+  ],
+  "folder": {
+   "tags": [
+    "Google Ads"
+   ]
+  },
+  "added": "2026-09-22"
+ },
+ {
+  "kind": "photo",
+  "ext": ".jpg",
+  "bytes": 359133,
+  "sha1": "70c97aa29439b6bcb92761ea6ac0bc00c86e0e01",
+  "w": 843,
+  "h": 1500,
+  "camera": null,
+  "phash": "9f3fbf889884b484",
+  "id": "70c97aa29439",
+  "paths": [
+   "Google Ads/08E594D2_F1EF_4752_8A83_03C1C9B733AC_51a84d1d-ea76-4ced-8cc9-ebcfb6012d9f_0.5625 (407412595516).jpg"
+  ],
+  "folder": {
+   "tags": [
+    "Google Ads"
+   ]
+  },
+  "added": "2026-09-22"
+ },
+ {
+  "kind": "photo",
+  "ext": ".jpg",
+  "bytes": 388616,
+  "sha1": "c9c03ad678ac6558ed3c366ce151a2bdfa4653dc",
+  "w": 1125,
+  "h": 1125,
+  "camera": null,
+  "phash": "d63e95d1a2820ded",
+  "id": "c9c03ad678ac",
+  "paths": [
+   "Google Ads/08E594D2_F1EF_4752_8A83_03C1C9B733AC_51a84d1d-ea76-4ced-8cc9-ebcfb6012d9f_1 (326915996310).jpg"
+  ],
+  "folder": {
+   "tags": [
+    "Google Ads"
+   ]
+  },
+  "added": "2026-09-22"
+ },
+ {
+  "kind": "photo",
+  "ext": ".jpg",
+  "bytes": 203838,
+  "sha1": "711dd7836af75ca8a60a53613e38087d586cb6b9",
+  "w": 1125,
+  "h": 589,
+  "camera": null,
+  "phash": "9ed58227edaae122",
+  "id": "711dd7836af7",
+  "paths": [
+   "Google Ads/08E594D2_F1EF_4752_8A83_03C1C9B733AC_51a84d1d-ea76-4ced-8cc9-ebcfb6012d9f_1.9108 (407412597532).jpg"
+  ],
+  "folder": {
+   "tags": [
+    "Google Ads"
+   ]
+  },
+  "added": "2026-09-22"
+ },
+ {
+  "kind": "photo",
+  "ext": ".jpg",
+  "bytes": 247238,
+  "sha1": "9419d490a5391a1ba77dcc0bf1e750d90d4a1e7d",
+  "w": 1125,
+  "h": 591,
+  "camera": null,
+  "phash": "aaa854527ad5459f",
+  "id": "9419d490a539",
+  "paths": [
+   "Google Ads/19A200C5_1E08_4AFA_A48F_2D5C82305504_59764e4b-98f5-43ad-8e84-958de6e5b6cd_1.9108 (326782380674).jpg"
+  ],
+  "folder": {
+   "tags": [
+    "Google Ads"
+   ]
+  },
+  "added": "2026-09-22"
+ },
+ {
+  "kind": "photo",
+  "ext": ".jpg",
+  "bytes": 182354,
+  "sha1": "9122155c0c493c493317ff2a9cec23dbb7525355",
+  "w": 844,
+  "h": 844,
+  "camera": null,
+  "phash": "e0eb448e0e706de7",
+  "id": "9122155c0c49",
+  "paths": [
+   "Google Ads/2590E6A3_CE2D_45D3_A8B4_7AB3F5008D6A_f16b7633-6cb3-45c6-b32f-c695a4d72158_1 (326916411930).jpg"
+  ],
+  "folder": {
+   "tags": [
+    "Google Ads"
+   ]
+  },
+  "added": "2026-09-22"
+ },
+ {
+  "kind": "photo",
+  "ext": ".jpg",
+  "bytes": 135928,
+  "sha1": "b1738c66eff4164dba102796dedabcd4df44e6a8",
+  "w": 1125,
+  "h": 591,
+  "camera": null,
+  "phash": "f421865a78b1b3e9",
+  "id": "b1738c66eff4",
+  "paths": [
+   "Google Ads/2590E6A3_CE2D_45D3_A8B4_7AB3F5008D6A_f16b7633-6cb3-45c6-b32f-c695a4d72158_1.9108 (326783372729).jpg"
+  ],
+  "folder": {
+   "tags": [
+    "Google Ads"
+   ]
+  },
+  "added": "2026-09-22"
+ },
+ {
+  "kind": "photo",
+  "ext": ".jpg",
+  "bytes": 85416,
+  "sha1": "d41f04ea0e81765b07906e34bbeab6f8ee620e00",
+  "w": 1080,
+  "h": 607,
+  "camera": null,
+  "phash": "c3c3ec3573331919",
+  "id": "d41f04ea0e81",
+  "paths": [
+   "Google Ads/26485ec2-7e46-446b-a538-b4764b84fe6d_6_ind (326915735862).jpg"
+  ],
+  "folder": {
+   "tags": [
+    "Google Ads"
+   ]
+  },
+  "added": "2026-09-22"
+ },
+ {
+  "kind": "photo",
+  "ext": ".jpg",
+  "bytes": 261906,
+  "sha1": "ee47ecc8fd0bc2b2289d3720f7e7578565322e46",
+  "w": 1125,
+  "h": 1129,
+  "camera": null,
+  "phash": "9d91b44e9360b85f",
+  "id": "ee47ecc8fd0b",
+  "paths": [
+   "Google Ads/28030951_500A_48C0_A722_E1EEFC3B5F57_e3c6fe03-c2c8-4a03-acda-0ced38664b55_1 (326863478491).jpg"
+  ],
+  "folder": {
+   "tags": [
+    "Google Ads"
+   ]
+  },
+  "added": "2026-09-22"
+ },
+ {
+  "kind": "photo",
+  "ext": ".jpg",
+  "bytes": 111136,
+  "sha1": "fe8771a8b6dd0ad8dff4015aa43f82fe94000281",
+  "w": 1125,
+  "h": 585,
+  "camera": null,
+  "phash": "959d83b0ee605b9a",
+  "id": "fe8771a8b6dd",
+  "paths": [
+   "Google Ads/28030951_500A_48C0_A722_E1EEFC3B5F57_e3c6fe03-c2c8-4a03-acda-0ced38664b55_1.9108 (326782346204).jpg"
+  ],
+  "folder": {
+   "tags": [
+    "Google Ads"
+   ]
+  },
+  "added": "2026-09-22"
+ },
+ {
+  "kind": "photo",
+  "ext": ".jpg",
+  "bytes": 132150,
+  "sha1": "cda08ea015dd840c4c5ddc2ab778be7aee2a3bec",
+  "w": 1080,
+  "h": 607,
+  "camera": null,
+  "phash": "d0583437f7c7cb80",
+  "id": "cda08ea015dd",
+  "paths": [
+   "Google Ads/2BBCF765_1A9C_4800_A3CC_6090191C000C_12c7aa8b-f793-4f78-aadb-748ebd899563 (326915996844).jpg"
+  ],
+  "folder": {
+   "tags": [
+    "Google Ads"
+   ]
+  },
+  "added": "2026-09-22"
+ },
+ {
+  "kind": "photo",
+  "ext": ".jpg",
+  "bytes": 82072,
+  "sha1": "cbd5ca201bfe05052150fdaea2433ea4e3e0ee65",
+  "w": 604,
+  "h": 607,
+  "camera": null,
+  "phash": "fa3e161645c5c1d9",
+  "id": "cbd5ca201bfe",
+  "paths": [
+   "Google Ads/2BBCF765_1A9C_4800_A3CC_6090191C000C_12c7aa8b-f793-4f78-aadb-748ebd899563_1 (326864055115).jpg"
+  ],
+  "folder": {
+   "tags": [
+    "Google Ads"
+   ]
+  },
+  "added": "2026-09-22"
+ },
+ {
+  "kind": "photo",
+  "ext": ".jpg",
+  "bytes": 86844,
+  "sha1": "4374e9c61da6655b42c4cbf24e4c4b3303c9ee8e",
+  "w": 1080,
+  "h": 607,
+  "camera": null,
+  "phash": "abaa42daca959696",
+  "id": "4374e9c61da6",
+  "paths": [
+   "Google Ads/322927fd-a748-49c6-9347-41e1f6e770c5_10_ind (326863829539).jpg"
+  ],
+  "folder": {
+   "tags": [
+    "Google Ads"
+   ]
+  },
+  "added": "2026-09-22"
+ },
+ {
+  "kind": "photo",
+  "ext": ".jpg",
+  "bytes": 89771,
+  "sha1": "2a9486f7048cad90629869915b6ced039692508e",
+  "w": 604,
+  "h": 607,
+  "camera": null,
+  "phash": "ea7ad2d2d2c18595",
+  "id": "2a9486f7048c",
+  "paths": [
+   "Google Ads/322927fd-a748-49c6-9347-41e1f6e770c5_10_ind_1 (326782599491).jpg"
+  ],
+  "folder": {
+   "tags": [
+    "Google Ads"
+   ]
+  },
+  "added": "2026-09-22"
+ },
+ {
+  "kind": "photo",
+  "ext": ".jpg",
+  "bytes": 433374,
+  "sha1": "f5053e91484a73b92f3b4a568aad435a1e211ece",
+  "w": 963,
+  "h": 1285,
+  "camera": null,
+  "phash": "a59265ce29966b4d",
+  "id": "f5053e91484a",
+  "paths": [
+   "Google Ads/34da7dcc-59b2-44a8-9365-4c0fde6d7b6b_11_dfet (326783157728).jpg"
+  ],
+  "folder": {
+   "tags": [
+    "Google Ads"
+   ]
+  },
+  "added": "2026-09-22"
+ },
+ {
+  "kind": "photo",
+  "ext": ".jpg",
+  "bytes": 345981,
+  "sha1": "863ae734d37c7f7b8e950cb9beb2e94258957905",
+  "w": 963,
+  "h": 964,
+  "camera": null,
+  "phash": "a596619db24db24d",
+  "id": "863ae734d37c",
+  "paths": [
+   "Google Ads/34da7dcc-59b2-44a8-9365-4c0fde6d7b6b_11_dfet_1 (326864297347).jpg"
+  ],
+  "folder": {
+   "tags": [
+    "Google Ads"
+   ]
+  },
+  "added": "2026-09-22"
+ },
+ {
+  "kind": "photo",
+  "ext": ".jpg",
+  "bytes": 193518,
+  "sha1": "c1e6e9e3721b72e9812be3656a6e19d863a0e3ae",
+  "w": 963,
+  "h": 501,
+  "camera": null,
+  "phash": "95a647f5e405e1f0",
+  "id": "c1e6e9e3721b",
+  "paths": [
+   "Google Ads/34da7dcc-59b2-44a8-9365-4c0fde6d7b6b_11_dfet_1.9108 (326864297329).jpg"
+  ],
+  "folder": {
+   "tags": [
+    "Google Ads"
+   ]
+  },
+  "added": "2026-09-22"
+ },
+ {
+  "kind": "photo",
+  "ext": ".jpg",
+  "bytes": 235934,
+  "sha1": "10b704b5d7f0e05c48006e677e96c619a6b36e4b",
+  "w": 844,
+  "h": 844,
+  "camera": null,
+  "phash": "df87829198cceea4",
+  "id": "10b704b5d7f0",
+  "paths": [
+   "Google Ads/3559EB7B_B8C9_4404_89AF_44BAED05679F_3cea9e64-9a1f-422b-a65a-233c460e9be8_1 (326782346201).jpg"
+  ],
+  "folder": {
+   "tags": [
+    "Google Ads"
+   ]
+  },
+  "added": "2026-09-22"
+ },
+ {
+  "kind": "photo",
+  "ext": ".jpg",
+  "bytes": 212961,
+  "sha1": "a9f88284d78858c7be09b0883d269dacf02f2dfd",
+  "w": 1125,
+  "h": 591,
+  "camera": null,
+  "phash": "c7a098cee7b1981e",
+  "id": "a9f88284d788",
+  "paths": [
+   "Google Ads/3559EB7B_B8C9_4404_89AF_44BAED05679F_3cea9e64-9a1f-422b-a65a-233c460e9be8_1.9108 (326915427732).jpg"
+  ],
+  "folder": {
+   "tags": [
+    "Google Ads"
+   ]
+  },
+  "added": "2026-09-22"
+ },
+ {
+  "kind": "photo",
+  "ext": ".jpg",
+  "bytes": 132145,
+  "sha1": "19320d65bf95a43479c606cf5dff2a8dbf3292dd",
+  "w": 748,
+  "h": 748,
+  "camera": null,
+  "phash": "f3e34c4e5b713034",
+  "id": "19320d65bf95",
+  "paths": [
+   "Google Ads/3634416E_EEE1_4567_8073_B721DD629043_1efc61db-c7ad-4cb4-ae9c-dd4baf352b2c (326916950355).jpg"
+  ],
+  "folder": {
+   "tags": [
+    "Google Ads"
+   ]
+  },
+  "added": "2026-09-22"
+ },
+ {
+  "kind": "photo",
+  "ext": ".jpg",
+  "bytes": 165721,
+  "sha1": "b165a25d19624ff394e8f921bb37a0198dca9048",
+  "w": 844,
+  "h": 844,
+  "camera": null,
+  "phash": "81c2f6e45f432fb0",
+  "id": "b165a25d1962",
+  "paths": [
+   "Google Ads/454AE0F0_8B47_4258_AF53_E7C3F3791115_49457064-c190-4754-8c97-a4c47a6370d3_1 (326916948513).jpg"
+  ],
+  "folder": {
+   "tags": [
+    "Google Ads"
+   ]
+  },
+  "added": "2026-09-22"
+ },
+ {
+  "kind": "photo",
+  "ext": ".jpg",
+  "bytes": 146123,
+  "sha1": "396f8e8aae30dc69b76522bcc0438c75f96c7b90",
+  "w": 1125,
+  "h": 591,
+  "camera": null,
+  "phash": "82ede4582ba7d54a",
+  "id": "396f8e8aae30",
+  "paths": [
+   "Google Ads/454AE0F0_8B47_4258_AF53_E7C3F3791115_49457064-c190-4754-8c97-a4c47a6370d3_1.9108 (326865088531).jpg"
+  ],
+  "folder": {
+   "tags": [
+    "Google Ads"
+   ]
+  },
+  "added": "2026-09-22"
+ },
+ {
+  "kind": "photo",
+  "ext": ".jpg",
+  "bytes": 236605,
+  "sha1": "8087e56b6f2d848ec1f27e2dcf3ef1b7d9a5ba54",
+  "w": 1080,
+  "h": 607,
+  "camera": null,
+  "phash": "9c786323e746c68e",
+  "id": "8087e56b6f2d",
+  "paths": [
+   "Google Ads/53EB51C3_78CB_4AFA_BED1_C15E2ADC61A9_39e85da3-6fd3-455f-8a8b-a0136a51fc89 (326782785047).jpg"
+  ],
+  "folder": {
+   "tags": [
+    "Google Ads"
+   ]
+  },
+  "added": "2026-09-22"
+ },
+ {
+  "kind": "photo",
+  "ext": ".jpg",
+  "bytes": 147343,
+  "sha1": "fd870d748eebc0f21329fae312df25220311f00c",
+  "w": 605,
+  "h": 607,
+  "camera": null,
+  "phash": "c0403d3d3df0f2f1",
+  "id": "fd870d748eeb",
+  "paths": [
+   "Google Ads/53EB51C3_78CB_4AFA_BED1_C15E2ADC61A9_39e85da3-6fd3-455f-8a8b-a0136a51fc89_1 (326863967491).jpg"
+  ],
+  "folder": {
+   "tags": [
+    "Google Ads"
+   ]
+  },
+  "added": "2026-09-22"
+ },
+ {
+  "kind": "photo",
+  "ext": ".jpg",
+  "bytes": 459115,
+  "sha1": "a20737713cfd3bb2e58c5cb44715d096822dc3c2",
+  "w": 1014,
+  "h": 1353,
+  "camera": null,
+  "phash": "b8f554800fbf6a68",
+  "id": "a20737713cfd",
+  "paths": [
+   "Google Ads/54342fd6-e437-4963-8456-cb065ec2193c_9_det (326783072804).jpg"
+  ],
+  "folder": {
+   "tags": [
+    "Google Ads"
+   ]
+  },
+  "added": "2026-09-22"
+ },
+ {
+  "kind": "photo",
+  "ext": ".jpg",
+  "bytes": 258546,
+  "sha1": "cef305b9308e5e93cde5a71e8cb946e1d83955a4",
+  "w": 1014,
+  "h": 1015,
+  "camera": null,
+  "phash": "b8f5008f7e6860cf",
+  "id": "cef305b9308e",
+  "paths": [
+   "Google Ads/54342fd6-e437-4963-8456-cb065ec2193c_9_det_1 (394234044360).jpg"
+  ],
+  "folder": {
+   "tags": [
+    "Google Ads"
+   ]
+  },
+  "added": "2026-09-22"
+ },
+ {
+  "kind": "photo",
+  "ext": ".jpg",
+  "bytes": 191409,
+  "sha1": "2e716ac2f5a966124a1cd32678e28d9d52719a9d",
+  "w": 607,
+  "h": 1080,
+  "camera": null,
+  "phash": "a1257fca48887df2",
+  "id": "2e716ac2f5a9",
+  "paths": [
+   "Google Ads/5E5F1D93_1841_4B01_9A56_234457C443E1_4c12f7f9-d182-4275-87a1-02b03cea4c09 (326864081248).jpg"
+  ],
+  "folder": {
+   "tags": [
+    "Google Ads"
+   ]
+  },
+  "added": "2026-09-22"
+ },
+ {
+  "kind": "photo",
+  "ext": ".jpg",
+  "bytes": 82942,
+  "sha1": "71c7b5a70b255393407314f0a6f6337d1b487561",
+  "w": 607,
+  "h": 605,
+  "camera": null,
+  "phash": "a17f4aad77003d46",
+  "id": "71c7b5a70b25",
+  "paths": [
+   "Google Ads/5E5F1D93_1841_4B01_9A56_234457C443E1_4c12f7f9-d182-4275-87a1-02b03cea4c09_1 (326915996079).jpg"
+  ],
+  "folder": {
+   "tags": [
+    "Google Ads"
+   ]
+  },
+  "added": "2026-09-22"
+ },
+ {
+  "kind": "photo",
+  "ext": ".jpg",
+  "bytes": 129026,
+  "sha1": "4fad83159aab42d65c0f4851aca67534bc890c22",
+  "w": 1080,
+  "h": 607,
+  "camera": null,
+  "phash": "eaeac5858c594b93",
+  "id": "4fad83159aab",
+  "paths": [
+   "Google Ads/5c173346-82ed-4eaa-be0b-a00bd6a388a8_1_det (326783174951).jpg"
+  ],
+  "folder": {
+   "tags": [
+    "Google Ads"
+   ]
+  },
+  "added": "2026-09-22"
+ },
+ {
+  "kind": "photo",
+  "ext": ".jpg",
+  "bytes": 121499,
+  "sha1": "102a0ae07118646f5f8a5796ded022d034713ee4",
+  "w": 604,
+  "h": 607,
+  "camera": null,
+  "phash": "f878b6a6c44d4999",
+  "id": "102a0ae07118",
+  "paths": [
+   "Google Ads/5c173346-82ed-4eaa-be0b-a00bd6a388a8_1_det_1 (326783180720).jpg"
+  ],
+  "folder": {
+   "tags": [
+    "Google Ads"
+   ]
+  },
+  "added": "2026-09-22"
+ },
+ {
+  "kind": "photo",
+  "ext": ".jpg",
+  "bytes": 251062,
+  "sha1": "f4675bbb0e1d675272d5c273dd14cc7bbbe82733",
+  "w": 1125,
+  "h": 591,
+  "camera": null,
+  "phash": "f3b2faf0f0e0c083",
+  "id": "f4675bbb0e1d",
+  "paths": [
+   "Google Ads/60C1595D_D817_4D14_BF59_3BC422F95DE9_0921b8ab-1c50-4de8-9bc7-b820885ab3d0_1.9108 (326916954792).jpg"
+  ],
+  "folder": {
+   "tags": [
+    "Google Ads"
+   ]
+  },
+  "added": "2026-09-22"
+ },
+ {
+  "kind": "photo",
+  "ext": ".jpg",
+  "bytes": 461569,
+  "sha1": "6b2527167181d3e6dc99dd2fb2e7cf02e63905c1",
+  "w": 1014,
+  "h": 1353,
+  "camera": null,
+  "phash": "8e5e5331b1f18ea8",
+  "id": "6b2527167181",
+  "paths": [
+   "Google Ads/61491524-0384-4293-a03e-c83d25cb33db_2_ind (326782641401).jpg"
+  ],
+  "folder": {
+   "tags": [
+    "Google Ads"
+   ]
+  },
+  "added": "2026-09-22"
+ },
+ {
+  "kind": "photo",
+  "ext": ".jpg",
+  "bytes": 180699,
+  "sha1": "6444f36618f60874f9ffb6048385cdaec6951168",
+  "w": 1125,
+  "h": 591,
+  "camera": null,
+  "phash": "8fc6c085862d7d79",
+  "id": "6444f36618f6",
+  "paths": [
+   "Google Ads/62AA52C5_DD84_4433_AF11_3CEC22E9E604_c3f64cc5-4cde-4a13-8295-69997e7004c0_1.9108 (326915414622).jpg"
+  ],
+  "folder": {
+   "tags": [
+    "Google Ads"
+   ]
+  },
+  "added": "2026-09-22"
+ },
+ {
+  "kind": "photo",
+  "ext": ".jpg",
+  "bytes": 180668,
+  "sha1": "ce061d2ecf17967786c6dcedc436b93d58d15660",
+  "w": 1125,
+  "h": 591,
+  "camera": null,
+  "phash": "c1c713071d874f1f",
+  "id": "ce061d2ecf17",
+  "paths": [
+   "Google Ads/646265D3_7D23_4D59_8986_E297E06C0465_7c26d915-4533-4aac-8e5a-78e601aa433f_1.9108 (326916389715).jpg"
+  ],
+  "folder": {
+   "tags": [
+    "Google Ads"
+   ]
+  },
+  "added": "2026-09-22"
+ },
+ {
+  "kind": "photo",
+  "ext": ".jpg",
+  "bytes": 258729,
+  "sha1": "ba6066d037a6489323d13b27c95f0958dd5d2ab8",
+  "w": 1125,
+  "h": 844,
+  "camera": null,
+  "phash": "d95d1195f46c6ca8",
+  "id": "ba6066d037a6",
+  "paths": [
+   "Google Ads/64e218b7-b11c-4f22-858c-1d1f346a1770_6_det (326864264020).jpg"
+  ],
+  "folder": {
+   "tags": [
+    "Google Ads"
+   ]
+  },
+  "added": "2026-09-22"
+ },
+ {
+  "kind": "photo",
+  "ext": ".jpg",
+  "bytes": 177821,
+  "sha1": "7d7eeb1cc95668b98c6545e54a131b5cca843b81",
+  "w": 1125,
+  "h": 591,
+  "camera": null,
+  "phash": "dd5991f46ca88a5a",
+  "id": "7d7eeb1cc956",
+  "paths": [
+   "Google Ads/64e218b7-b11c-4f22-858c-1d1f346a1770_6_det_1.9108 (326783175251).jpg"
+  ],
+  "folder": {
+   "tags": [
+    "Google Ads"
+   ]
+  },
+  "added": "2026-09-22"
+ },
+ {
+  "kind": "photo",
+  "ext": ".jpg",
+  "bytes": 137997,
+  "sha1": "9c6ee7fdbadf8b9e05383ddfc0db5e3ef3732160",
+  "w": 1080,
+  "h": 607,
+  "camera": null,
+  "phash": "c48fb095d9c8cce6",
+  "id": "9c6ee7fdbadf",
+  "paths": [
+   "Google Ads/6561326D_AF38_4C70_A9C6_291A0AB474CA_f177c482-b4fd-4336-b7be-d33b345553b8 (326915878104).jpg"
+  ],
+  "folder": {
+   "tags": [
+    "Google Ads"
+   ]
+  },
+  "added": "2026-09-22"
+ },
+ {
+  "kind": "photo",
+  "ext": ".jpg",
+  "bytes": 113275,
+  "sha1": "be4210ed284c8ed501463cd764f645f4299690e9",
+  "w": 1125,
+  "h": 591,
+  "camera": null,
+  "phash": "f6d169a08627c70f",
+  "id": "be4210ed284c",
+  "paths": [
+   "Google Ads/6754750E_D7DA_48EC_A923_76B967F87F58_1cc896f7-2578-4566-8548-51dfb384bbec_1.9108 (326783999267).jpg"
+  ],
+  "folder": {
+   "tags": [
+    "Google Ads"
+   ]
+  },
+  "added": "2026-09-22"
+ },
+ {
+  "kind": "photo",
+  "ext": ".jpg",
+  "bytes": 137082,
+  "sha1": "89517e2cf9b3e1156398600e91a9cc6143d9d86a",
+  "w": 1080,
+  "h": 607,
+  "camera": null,
+  "phash": "8a293bf5e18c191f",
+  "id": "89517e2cf9b3",
+  "paths": [
+   "Google Ads/786d631b-5d67-40ba-8311-ad77fab223d2_5_ind (326782632476).jpg"
+  ],
+  "folder": {
+   "tags": [
+    "Google Ads"
+   ]
+  },
+  "added": "2026-09-22"
+ },
+ {
+  "kind": "photo",
+  "ext": ".jpg",
+  "bytes": 161011,
+  "sha1": "e644e16c6bed2f786a567e6f560ea16e3b8dd07d",
+  "w": 1080,
+  "h": 813,
+  "camera": null,
+  "phash": "c62af1f115858eec",
+  "id": "e644e16c6bed",
+  "paths": [
+   "Google Ads/843cc6c8-a68b-4b60-8da2-570886c72e98_4_ind (326782632479).jpg"
+  ],
+  "folder": {
+   "tags": [
+    "Google Ads"
+   ]
+  },
+  "added": "2026-09-22"
+ },
+ {
+  "kind": "photo",
+  "ext": ".jpg",
+  "bytes": 104522,
+  "sha1": "3e4a9a9e22812e058a93792a597480b6aa555048",
+  "w": 1080,
+  "h": 569,
+  "camera": null,
+  "phash": "cea2f10584ecf8ba",
+  "id": "3e4a9a9e2281",
+  "paths": [
+   "Google Ads/843cc6c8-a68b-4b60-8da2-570886c72e98_4_ind_1.9108 (326782621253).jpg"
+  ],
+  "folder": {
+   "tags": [
+    "Google Ads"
+   ]
+  },
+  "added": "2026-09-22"
+ },
+ {
+  "kind": "photo",
+  "ext": ".jpg",
+  "bytes": 237303,
+  "sha1": "4bd64cd2b50649c4181f05bd9afdefcdd8f23fb8",
+  "w": 1125,
+  "h": 844,
+  "camera": null,
+  "phash": "febe8fd083d880c2",
+  "id": "4bd64cd2b506",
+  "paths": [
+   "Google Ads/8b8d4dec-93ea-477f-8810-ab4eb3e54e5e_10_det (326783171165).jpg"
+  ],
+  "folder": {
+   "tags": [
+    "Google Ads"
+   ]
+  },
+  "added": "2026-09-22"
+ },
+ {
+  "kind": "photo",
+  "ext": ".jpg",
+  "bytes": 182129,
+  "sha1": "a9a30832f26c56a023ccdd4f223e38463ab241bc",
+  "w": 1125,
+  "h": 591,
+  "camera": null,
+  "phash": "febec681d982d1c0",
+  "id": "a9a30832f26c",
+  "paths": [
+   "Google Ads/8b8d4dec-93ea-477f-8810-ab4eb3e54e5e_10_det_1.9108 (326783173298).jpg"
+  ],
+  "folder": {
+   "tags": [
+    "Google Ads"
+   ]
+  },
+  "added": "2026-09-22"
+ },
+ {
+  "kind": "photo",
+  "ext": ".jpg",
+  "bytes": 132016,
+  "sha1": "cc320531b3ab847bd42e0a0724ad18b538df6572",
+  "w": 1080,
+  "h": 607,
+  "camera": null,
+  "phash": "d9eca692d9d94a60",
+  "id": "cc320531b3ab",
+  "paths": [
+   "Google Ads/90FEB951_B8BE_499F_AD45_E24B7BAF8E6F_d63cb347-2100-47a3-8d1d-ad1e286ca3a3 (326863954153).jpg"
+  ],
+  "folder": {
+   "tags": [
+    "Google Ads"
+   ]
+  },
+  "added": "2026-09-22"
+ },
+ {
+  "kind": "photo",
+  "ext": ".jpg",
+  "bytes": 171340,
+  "sha1": "bbd92cfcc06ef6f0b52a70f0a2b263cd1320b633",
+  "w": 675,
+  "h": 844,
+  "camera": null,
+  "phash": "f6b2174b450a25f3",
+  "id": "bbd92cfcc06e",
+  "paths": [
+   "Google Ads/935FCF9C_AEB6_4F5D_ACF0_1035437E2041_421b6696-f699-40b4-8d7d-b7a75baefca4_0.8 (407412554023).jpg"
+  ],
+  "folder": {
+   "tags": [
+    "Google Ads"
+   ]
+  },
+  "added": "2026-09-22"
+ },
+ {
+  "kind": "photo",
+  "ext": ".jpg",
+  "bytes": 215052,
+  "sha1": "81adf605237543f8f999d8e32c227ea0f6849170",
+  "w": 844,
+  "h": 844,
+  "camera": null,
+  "phash": "fbb12b2e491515d1",
+  "id": "81adf6052375",
+  "paths": [
+   "Google Ads/935FCF9C_AEB6_4F5D_ACF0_1035437E2041_421b6696-f699-40b4-8d7d-b7a75baefca4_1 (326784009491).jpg"
+  ],
+  "folder": {
+   "tags": [
+    "Google Ads"
+   ]
+  },
+  "added": "2026-09-22"
+ },
+ {
+  "kind": "photo",
+  "ext": ".jpg",
+  "bytes": 141572,
+  "sha1": "baef3c53928fbecb4363dde545a7e93ed4478fbf",
+  "w": 1125,
+  "h": 591,
+  "camera": null,
+  "phash": "fa9c35014afaa535",
+  "id": "baef3c53928f",
+  "paths": [
+   "Google Ads/935FCF9C_AEB6_4F5D_ACF0_1035437E2041_421b6696-f699-40b4-8d7d-b7a75baefca4_1.9108 (407412512767).jpg"
+  ],
+  "folder": {
+   "tags": [
+    "Google Ads"
+   ]
+  },
+  "added": "2026-09-22"
+ },
+ {
+  "kind": "photo",
+  "ext": ".jpg",
+  "bytes": 129155,
+  "sha1": "579c65ee121022bce156213622379754423ae91a",
+  "w": 1080,
+  "h": 607,
+  "camera": null,
+  "phash": "aadec48bbfb06444",
+  "id": "579c65ee1210",
+  "paths": [
+   "Google Ads/984caa92-9c87-4039-9b4e-1286d9e68f27_9_ind (326863829536).jpg"
+  ],
+  "folder": {
+   "tags": [
+    "Google Ads"
+   ]
+  },
+  "added": "2026-09-22"
+ },
+ {
+  "kind": "photo",
+  "ext": ".jpg",
+  "bytes": 315906,
+  "sha1": "181d14f15056b7aa46a4333fb2df05e1415beff9",
+  "w": 1125,
+  "h": 1125,
+  "camera": null,
+  "phash": "b6d4893b62ee0a5a",
+  "id": "181d14f15056",
+  "paths": [
+   "Google Ads/9C1E0009_FDF0_4E47_B0FE_DBA0474A5F09_00647304-ef5c-43f7-b87c-0167d451def8_1 (326782380947).jpg"
+  ],
+  "folder": {
+   "tags": [
+    "Google Ads"
+   ]
+  },
+  "added": "2026-09-22"
+ },
+ {
+  "kind": "photo",
+  "ext": ".jpg",
+  "bytes": 74822,
+  "sha1": "93eac4da06870a26d7ff10fd5eb08a2c6b32753b",
+  "w": 1125,
+  "h": 589,
+  "camera": null,
+  "phash": "f4992ace51e5b8a2",
+  "id": "93eac4da0687",
+  "paths": [
+   "Google Ads/9C1E0009_FDF0_4E47_B0FE_DBA0474A5F09_00647304-ef5c-43f7-b87c-0167d451def8_1.9108 (326863463266).jpg"
+  ],
+  "folder": {
+   "tags": [
+    "Google Ads"
+   ]
+  },
+  "added": "2026-09-22"
+ },
+ {
+  "kind": "photo",
+  "ext": ".jpg",
+  "bytes": 332292,
+  "sha1": "8efcd9e587607030dccf5ca3d347011f14a9cd7f",
+  "w": 1440,
+  "h": 1080,
+  "camera": null,
+  "phash": "d91226595f7c4969",
+  "id": "8efcd9e58760",
+  "paths": [
+   "Google Ads/9c060327-b979-469b-9f5f-7629cce2a93b_2_det (326864266132).jpg"
+  ],
+  "folder": {
+   "tags": [
+    "Google Ads"
+   ]
+  },
+  "added": "2026-09-22"
+ },
+ {
+  "kind": "photo",
+  "ext": ".jpg",
+  "bytes": 162293,
+  "sha1": "ed380150250c26ab2fa73bce50ca7bd86646e3fe",
+  "w": 1125,
+  "h": 1500,
+  "camera": null,
+  "phash": "e5cb394ab1b6a41a",
+  "id": "ed380150250c",
+  "paths": [
+   "Google Ads/B350C55D_2F0A_4D5B_AE09_2AE6F8D6551B_02b41fa7-e05c-49fd-8e29-859d9e7981de (326916835470).jpg"
+  ],
+  "folder": {
+   "tags": [
+    "Google Ads"
+   ]
+  },
+  "added": "2026-09-22"
+ },
+ {
+  "kind": "photo",
+  "ext": ".jpg",
+  "bytes": 102428,
+  "sha1": "8d4c91ef3da23d0afd6885752d79ceb9dc992993",
+  "w": 1125,
+  "h": 1125,
+  "camera": null,
+  "phash": "e5d90ab7b6981ca2",
+  "id": "8d4c91ef3da2",
+  "paths": [
+   "Google Ads/B350C55D_2F0A_4D5B_AE09_2AE6F8D6551B_02b41fa7-e05c-49fd-8e29-859d9e7981de_1 (326864967058).jpg"
+  ],
+  "folder": {
+   "tags": [
+    "Google Ads"
+   ]
+  },
+  "added": "2026-09-22"
+ },
+ {
+  "kind": "photo",
+  "ext": ".jpg",
+  "bytes": 126358,
+  "sha1": "d63e94148e7de4fbb8157f6ed2d189b84976afde",
+  "w": 1125,
+  "h": 1125,
+  "camera": null,
+  "phash": "e5c5b948485d65ea",
+  "id": "d63e94148e7d",
+  "paths": [
+   "Google Ads/B350C55D_2F0A_4D5B_AE09_2AE6F8D6551B_02b41fa7-e05c-49fd-8e29-859d9e7981de_1 1 (326864924935).jpg"
+  ],
+  "folder": {
+   "tags": [
+    "Google Ads"
+   ]
+  },
+  "added": "2026-09-22"
+ },
+ {
+  "kind": "photo",
+  "ext": ".jpg",
+  "bytes": 40985,
+  "sha1": "f7cc7d20f49b726696d5bfed72f0b62e439a8139",
+  "w": 1125,
+  "h": 589,
+  "camera": null,
+  "phash": "e54bb698b632b641",
+  "id": "f7cc7d20f49b",
+  "paths": [
+   "Google Ads/B350C55D_2F0A_4D5B_AE09_2AE6F8D6551B_02b41fa7-e05c-49fd-8e29-859d9e7981de_1.9108 (326783856713).jpg"
+  ],
+  "folder": {
+   "tags": [
+    "Google Ads"
+   ]
+  },
+  "added": "2026-09-22"
+ },
+ {
+  "kind": "photo",
+  "ext": ".jpg",
+  "bytes": 430531,
+  "sha1": "005d57ade8de2baaffcbd15f79e34337bb77da89",
+  "w": 1125,
+  "h": 1500,
+  "camera": null,
+  "phash": "f89854f5212b5f68",
+  "id": "005d57ade8de",
+  "paths": [
+   "Google Ads/B88B9AB0_2810_4F44_87D9_28D55BDA1F52_c45e5590-be22-4f76-9129-76640dc6521b (326783848757).jpg"
+  ],
+  "folder": {
+   "tags": [
+    "Google Ads"
+   ]
+  },
+  "added": "2026-09-22"
+ },
+ {
+  "kind": "photo",
+  "ext": ".jpg",
+  "bytes": 241899,
+  "sha1": "8fb90ab16a1bb79298f44423728b8284d0cd9b5a",
+  "w": 1125,
+  "h": 1125,
+  "camera": null,
+  "phash": "f898f5212b6b60b3",
+  "id": "8fb90ab16a1b",
+  "paths": [
+   "Google Ads/B88B9AB0_2810_4F44_87D9_28D55BDA1F52_c45e5590-be22-4f76-9129-76640dc6521b_1 (326864974969).jpg"
+  ],
+  "folder": {
+   "tags": [
+    "Google Ads"
+   ]
+  },
+  "added": "2026-09-22"
+ },
+ {
+  "kind": "photo",
+  "ext": ".jpg",
+  "bytes": 546193,
+  "sha1": "55999d6021e6dfd0d21aa2a408e6551b6f9c9525",
+  "w": 1125,
+  "h": 1500,
+  "camera": null,
+  "phash": "e6a09b9b5b0626e6",
+  "id": "55999d6021e6",
+  "paths": [
+   "Google Ads/BAE990AD_936D_48D6_9BBA_10B04965878E_1714a11d-1694-46af-acaf-bb5cf57f66e4 (326864963545).jpg"
+  ],
+  "folder": {
+   "tags": [
+    "Google Ads"
+   ]
+  },
+  "added": "2026-09-22"
+ },
+ {
+  "kind": "photo",
+  "ext": ".jpg",
+  "bytes": 338979,
+  "sha1": "2a52589ac1795ca09b582a902ff01a1ed7f52f8f",
+  "w": 1125,
+  "h": 1125,
+  "camera": null,
+  "phash": "e680995906a6ff59",
+  "id": "2a52589ac179",
+  "paths": [
+   "Google Ads/BAE990AD_936D_48D6_9BBA_10B04965878E_1714a11d-1694-46af-acaf-bb5cf57f66e4_1 (326864962939).jpg"
+  ],
+  "folder": {
+   "tags": [
+    "Google Ads"
+   ]
+  },
+  "added": "2026-09-22"
+ },
+ {
+  "kind": "photo",
+  "ext": ".jpg",
+  "bytes": 141085,
+  "sha1": "5ef0e174e65b5da8b4d811a580296d8fad00b9e6",
+  "w": 1125,
+  "h": 591,
+  "camera": null,
+  "phash": "85367868e4a8979f",
+  "id": "5ef0e174e65b",
+  "paths": [
+   "Google Ads/BAF3DA59_432F_46AD_8F20_CEBEEDC1BA7D_595b5f78-e01e-43fd-9511-ed66c0a26512_1.9108 (326783972267).jpg"
+  ],
+  "folder": {
+   "tags": [
+    "Google Ads"
+   ]
+  },
+  "added": "2026-09-22"
+ },
+ {
+  "kind": "photo",
+  "ext": ".jpg",
+  "bytes": 285919,
+  "sha1": "5f7fd1d08061635f8e06694375238582ce229624",
+  "w": 843,
+  "h": 1500,
+  "camera": null,
+  "phash": "f8bc9e0761e93e80",
+  "id": "5f7fd1d08061",
+  "paths": [
+   "Google Ads/BB5CE105_7A66_4EA7_9E0F_5FCB7FF77BF3_21da768d-eeb5-4cb9-ae85-b4b94dbd30a1_0.5625 (394002695546).jpg"
+  ],
+  "folder": {
+   "tags": [
+    "Google Ads"
+   ]
+  },
+  "added": "2026-09-22"
+ },
+ {
+  "kind": "photo",
+  "ext": ".jpg",
+  "bytes": 272486,
+  "sha1": "c070254a7c47f06abbc89c11c0a7e8e44f92c459",
+  "w": 1125,
+  "h": 1125,
+  "camera": null,
+  "phash": "f0bc8f46a00ad77c",
+  "id": "c070254a7c47",
+  "paths": [
+   "Google Ads/BB5CE105_7A66_4EA7_9E0F_5FCB7FF77BF3_21da768d-eeb5-4cb9-ae85-b4b94dbd30a1_1 (394002701195).jpg"
+  ],
+  "folder": {
+   "tags": [
+    "Google Ads"
+   ]
+  },
+  "added": "2026-09-22"
+ },
+ {
+  "kind": "photo",
+  "ext": ".jpg",
+  "bytes": 178609,
+  "sha1": "858f49c042c9b33107d4fac4307c1d3252cff286",
+  "w": 1080,
+  "h": 607,
+  "camera": null,
+  "phash": "e3f7e0c28e8c9899",
+  "id": "858f49c042c9",
+  "paths": [
+   "Google Ads/BE3AA52A_BB2F_4F84_AF7A_030CF57E8D69_07e281c9-905d-4867-806d-de0c877457be (326864006029).jpg"
+  ],
+  "folder": {
+   "tags": [
+    "Google Ads"
+   ]
+  },
+  "added": "2026-09-22"
+ },
+ {
+  "kind": "photo",
+  "ext": ".jpg",
+  "bytes": 104878,
+  "sha1": "7cba7a670fc55a269a3635460a54ed470e90827f",
+  "w": 605,
+  "h": 607,
+  "camera": null,
+  "phash": "e68626bef6f68480",
+  "id": "7cba7a670fc5",
+  "paths": [
+   "Google Ads/BE3AA52A_BB2F_4F84_AF7A_030CF57E8D69_07e281c9-905d-4867-806d-de0c877457be_1 (326864004532).jpg"
+  ],
+  "folder": {
+   "tags": [
+    "Google Ads"
+   ]
+  },
+  "added": "2026-09-22"
+ },
+ {
+  "kind": "photo",
+  "ext": ".jpg",
+  "bytes": 165972,
+  "sha1": "d0417573a41301eed02ac5e7421ac8c4cd64c4d8",
+  "w": 1125,
+  "h": 591,
+  "camera": null,
+  "phash": "ee3918da7b9c4246",
+  "id": "d0417573a413",
+  "paths": [
+   "Google Ads/C7738EB2_A00B_488F_9365_92C823F370AA_f9d49961-5e80-4d28-aef2-df369c14220a_1.9108 (326916948507).jpg"
+  ],
+  "folder": {
+   "tags": [
+    "Google Ads"
+   ]
+  },
+  "added": "2026-09-22"
+ },
+ {
+  "kind": "photo",
+  "ext": ".jpg",
+  "bytes": 626564,
+  "sha1": "affe33a255ff82886daa9547ac5f3e32e725b1e5",
+  "w": 1125,
+  "h": 1500,
+  "camera": null,
+  "phash": "dabd39a28b8a928d",
+  "id": "affe33a255ff",
+  "paths": [
+   "Google Ads/C84F740C_EA23_42A7_B104_70DAB10E3ED2_afd5bdcb-452d-4bb2-83fd-34e3de859c0f (326864963548).jpg"
+  ],
+  "folder": {
+   "tags": [
+    "Google Ads"
+   ]
+  },
+  "added": "2026-09-22"
+ },
+ {
+  "kind": "photo",
+  "ext": ".jpg",
+  "bytes": 481879,
+  "sha1": "a54cf667c768ac2956f4bdc7241214a61d14060b",
+  "w": 1125,
+  "h": 1125,
+  "camera": null,
+  "phash": "da3da08b9a87c9b1",
+  "id": "a54cf667c768",
+  "paths": [
+   "Google Ads/C84F740C_EA23_42A7_B104_70DAB10E3ED2_afd5bdcb-452d-4bb2-83fd-34e3de859c0f_1 (326783856731).jpg"
+  ],
+  "folder": {
+   "tags": [
+    "Google Ads"
+   ]
+  },
+  "added": "2026-09-22"
+ },
+ {
+  "kind": "photo",
+  "ext": ".jpg",
+  "bytes": 248128,
+  "sha1": "bfe4accd4bb420def68686da71bc810d1e18b4fc",
+  "w": 1125,
+  "h": 589,
+  "camera": null,
+  "phash": "da0d5b7215aa5a56",
+  "id": "bfe4accd4bb4",
+  "paths": [
+   "Google Ads/C84F740C_EA23_42A7_B104_70DAB10E3ED2_afd5bdcb-452d-4bb2-83fd-34e3de859c0f_1.9108 (326864963923).jpg"
+  ],
+  "folder": {
+   "tags": [
+    "Google Ads"
+   ]
+  },
+  "added": "2026-09-22"
+ },
+ {
+  "kind": "photo",
+  "ext": ".jpg",
+  "bytes": 592568,
+  "sha1": "ff18c534591c3218b43f4ad1b98fd5bd7abe30ae",
+  "w": 1125,
+  "h": 1500,
+  "camera": null,
+  "phash": "8f4f69ab919290ab",
+  "id": "ff18c534591c",
+  "paths": [
+   "Google Ads/C97B2595_D96B_4A90_9170_B07376069628_433e135b-caed-4966-85e5-e0df0415e1cb (326864959981).jpg"
+  ],
+  "folder": {
+   "tags": [
+    "Google Ads"
+   ]
+  },
+  "added": "2026-09-22"
+ },
+ {
+  "kind": "photo",
+  "ext": ".jpg",
+  "bytes": 388873,
+  "sha1": "e92a6a5bd185d472de63a8c3ca05fd69efc9a53c",
+  "w": 1125,
+  "h": 1125,
+  "camera": null,
+  "phash": "8f6be99390a37232",
+  "id": "e92a6a5bd185",
+  "paths": [
+   "Google Ads/C97B2595_D96B_4A90_9170_B07376069628_433e135b-caed-4966-85e5-e0df0415e1cb_1 (326864967043).jpg"
+  ],
+  "folder": {
+   "tags": [
+    "Google Ads"
+   ]
+  },
+  "added": "2026-09-22"
+ },
+ {
+  "kind": "photo",
+  "ext": ".jpg",
+  "bytes": 147891,
+  "sha1": "fade1767a908d2d16cdc3326b7e413beb8d36ecf",
+  "w": 1125,
+  "h": 589,
+  "camera": null,
+  "phash": "8f6b926297926669",
+  "id": "fade1767a908",
+  "paths": [
+   "Google Ads/C97B2595_D96B_4A90_9170_B07376069628_433e135b-caed-4966-85e5-e0df0415e1cb_1.9108 (326864963887).jpg"
+  ],
+  "folder": {
+   "tags": [
+    "Google Ads"
+   ]
+  },
+  "added": "2026-09-22"
+ },
+ {
+  "kind": "photo",
+  "ext": ".jpg",
+  "bytes": 177886,
+  "sha1": "d529610dfeecc57890503fd9165ca134325db045",
+  "w": 844,
+  "h": 844,
+  "camera": null,
+  "phash": "dd5cc181033f7ccc",
+  "id": "d529610dfeec",
+  "paths": [
+   "Google Ads/D053EC6C_8B97_4160_9F0F_93E240577103_1351035f-d253-4ace-ae09-e77864d403a2_1 (326783973905).jpg"
+  ],
+  "folder": {
+   "tags": [
+    "Google Ads"
+   ]
+  },
+  "added": "2026-09-22"
+ },
+ {
+  "kind": "photo",
+  "ext": ".jpg",
+  "bytes": 125004,
+  "sha1": "094cd8b247c13fe052c061ab2c4dd632c92d8640",
+  "w": 1125,
+  "h": 591,
+  "camera": null,
+  "phash": "f9c18e7c611f9891",
+  "id": "094cd8b247c1",
+  "paths": [
+   "Google Ads/D053EC6C_8B97_4160_9F0F_93E240577103_1351035f-d253-4ace-ae09-e77864d403a2_1.9108 (326916954810).jpg"
+  ],
+  "folder": {
+   "tags": [
+    "Google Ads"
+   ]
+  },
+  "added": "2026-09-22"
+ },
+ {
+  "kind": "video",
+  "ext": ".mp4",
+  "bytes": 11892804,
+  "sha1": "984d653f7410179667251b220128f763cea79628",
+  "duration": 31.2,
+  "w": 1920,
+  "h": 1080,
+  "id": "984d653f7410",
+  "paths": [
+   "Google Ads/DON T WAIT TILL SPRING!  Our White Glove Treatment means you don't lift a finger (3eSvO8e8l0o).mp4"
+  ],
+  "folder": {
+   "tags": [
+    "Google Ads"
+   ]
+  },
+  "added": "2026-09-22"
+ },
+ {
+  "kind": "photo",
+  "ext": ".jpg",
+  "bytes": 554970,
+  "sha1": "e09caa0dd44309b6b4927a6d37cd768620d4c96f",
+  "w": 1125,
+  "h": 1500,
+  "camera": null,
+  "phash": "86a078a4d699f9e5",
+  "id": "e09caa0dd443",
+  "paths": [
+   "Google Ads/E4DED65A_0123_4993_B528_9A62FD3EB22F_9c89db82-f7e6-42b1-ab57-6059d30acc2c (326916838278).jpg"
+  ],
+  "folder": {
+   "tags": [
+    "Google Ads"
+   ]
+  },
+  "added": "2026-09-22"
+ },
+ {
+  "kind": "photo",
+  "ext": ".jpg",
+  "bytes": 395089,
+  "sha1": "33f2d64366c8675af6b8c8377431ad753d2fa92f",
+  "w": 1125,
+  "h": 1125,
+  "camera": null,
+  "phash": "84e8e48079e1e7af",
+  "id": "33f2d64366c8",
+  "paths": [
+   "Google Ads/E4DED65A_0123_4993_B528_9A62FD3EB22F_9c89db82-f7e6-42b1-ab57-6059d30acc2c_1 (326783856806).jpg"
+  ],
+  "folder": {
+   "tags": [
+    "Google Ads"
+   ]
+  },
+  "added": "2026-09-22"
+ },
+ {
+  "kind": "photo",
+  "ext": ".jpg",
+  "bytes": 280548,
+  "sha1": "2ff6639ff25068ebe998f901f51dad1c22d36d0f",
+  "w": 1125,
+  "h": 589,
+  "camera": null,
+  "phash": "861858f6767a7878",
+  "id": "2ff6639ff250",
+  "paths": [
+   "Google Ads/E4DED65A_0123_4993_B528_9A62FD3EB22F_9c89db82-f7e6-42b1-ab57-6059d30acc2c_1.9108 (326864963944).jpg"
+  ],
+  "folder": {
+   "tags": [
+    "Google Ads"
+   ]
+  },
+  "added": "2026-09-22"
+ },
+ {
+  "kind": "video",
+  "ext": ".mp4",
+  "bytes": 1450447,
+  "sha1": "885ad7ea384a24f5897f5121468f41d2f891e370",
+  "duration": 15.2,
+  "w": 1080,
+  "h": 1080,
+  "id": "885ad7ea384a",
+  "paths": [
+   "Google Ads/Expanding ripples video (fdHF3fy7TDU).mp4"
+  ],
+  "folder": {
+   "tags": [
+    "Google Ads"
+   ]
+  },
+  "added": "2026-09-22"
+ },
+ {
+  "kind": "photo",
+  "ext": ".jpg",
+  "bytes": 432983,
+  "sha1": "3ae4b7a8c96e90f886772bed5e5a80f2455645c3",
+  "w": 1125,
+  "h": 1500,
+  "camera": null,
+  "phash": "fcf4874178b09347",
+  "id": "3ae4b7a8c96e",
+  "paths": [
+   "Google Ads/F8FCDD55_E7EF_4A37_A9C6_D709C65281CA_493612e2-8df2-4831-9616-28d64e0fddbd (326916838284).jpg"
+  ],
+  "folder": {
+   "tags": [
+    "Google Ads"
+   ]
+  },
+  "added": "2026-09-22"
+ },
+ {
+  "kind": "photo",
+  "ext": ".jpg",
+  "bytes": 233351,
+  "sha1": "547a9945c85eaf54130fd5cb13ff31d3dbc27090",
+  "w": 1125,
+  "h": 1125,
+  "camera": null,
+  "phash": "fcc707799147e091",
+  "id": "547a9945c85e",
+  "paths": [
+   "Google Ads/F8FCDD55_E7EF_4A37_A9C6_D709C65281CA_493612e2-8df2-4831-9616-28d64e0fddbd_1 (326916838872).jpg"
+  ],
+  "folder": {
+   "tags": [
+    "Google Ads"
+   ]
+  },
+  "added": "2026-09-22"
+ },
+ {
+  "kind": "photo",
+  "ext": ".jpg",
+  "bytes": 350557,
+  "sha1": "02c5215faa65d77c4809123ab4b05ff1ac708d18",
+  "w": 1125,
+  "h": 1125,
+  "camera": null,
+  "phash": "f8f8878707476ce0",
+  "id": "02c5215faa65",
+  "paths": [
+   "Google Ads/F8FCDD55_E7EF_4A37_A9C6_D709C65281CA_493612e2-8df2-4831-9616-28d64e0fddbd_1 1 (326783871941).jpg"
+  ],
+  "folder": {
+   "tags": [
+    "Google Ads"
+   ]
+  },
+  "added": "2026-09-22"
+ },
+ {
+  "kind": "photo",
+  "ext": ".jpg",
+  "bytes": 55088,
+  "sha1": "8b3480be3a0f425a5b77acced5401502efd43e5e",
+  "w": 1125,
+  "h": 589,
+  "camera": null,
+  "phash": "fc45d1c391c8f938",
+  "id": "8b3480be3a0f",
+  "paths": [
+   "Google Ads/F8FCDD55_E7EF_4A37_A9C6_D709C65281CA_493612e2-8df2-4831-9616-28d64e0fddbd_1.9108 (326916838842).jpg"
+  ],
+  "folder": {
+   "tags": [
+    "Google Ads"
+   ]
+  },
+  "added": "2026-09-22"
+ },
+ {
+  "kind": "video",
+  "ext": ".mp4",
+  "bytes": 45221594,
+  "sha1": "a1dcf9d85e08b6ebb9dcb3d846d0e6d9aa6f96af",
+  "duration": 118.1,
+  "w": 1920,
+  "h": 1080,
+  "id": "a1dcf9d85e08",
+  "paths": [
+   "Google Ads/Garage Floor Transformation - GatorGuard Concrete Coatings (bJWEr6prt3w).mp4"
+  ],
+  "folder": {
+   "tags": [
+    "Google Ads"
+   ]
+  },
+  "added": "2026-09-22"
+ },
+ {
+  "kind": "photo",
+  "ext": ".jpg",
+  "bytes": 167244,
+  "sha1": "8a3ce74a92c6e332410dcc86881aa33fe51cd378",
+  "w": 696,
+  "h": 696,
+  "camera": null,
+  "phash": "d25eb3312fadc0e0",
+  "id": "8a3ce74a92c6",
+  "paths": [
+   "Google Ads/Google Ads image 156777856771 (156777856771).jpg"
+  ],
+  "folder": {
+   "tags": [
+    "Google Ads"
+   ]
+  },
+  "added": "2026-09-22"
+ },
+ {
+  "kind": "photo",
+  "ext": ".jpg",
+  "bytes": 119334,
+  "sha1": "4ecb8535404d976168a3d56b10b371f798102012",
+  "w": 576,
+  "h": 576,
+  "camera": null,
+  "phash": "ca89c59115bbf1e2",
+  "id": "4ecb8535404d",
+  "paths": [
+   "Google Ads/Google Ads image 156777856774 (156777856774).jpg"
+  ],
+  "folder": {
+   "tags": [
+    "Google Ads"
+   ]
+  },
+  "added": "2026-09-22"
+ },
+ {
+  "kind": "photo",
+  "ext": ".jpg",
+  "bytes": 118200,
+  "sha1": "e0f5716d58cbfaaeaf9824a15edbe13a1525bc56",
+  "w": 540,
+  "h": 540,
+  "camera": null,
+  "phash": "8101fdfd0d9dd541",
+  "id": "e0f5716d58cb",
+  "paths": [
+   "Google Ads/Google Ads image 156777856780 (156777856780).jpg"
+  ],
+  "folder": {
+   "tags": [
+    "Google Ads"
+   ]
+  },
+  "added": "2026-09-22"
+ },
+ {
+  "kind": "photo",
+  "ext": ".jpg",
+  "bytes": 65703,
+  "sha1": "0e33d7b6e980ce0350b2124a44e702c141b5e53a",
+  "w": 456,
+  "h": 456,
+  "camera": null,
+  "phash": "f9cbd61cb884a64c",
+  "id": "0e33d7b6e980",
+  "paths": [
+   "Google Ads/Google Ads image 156777856783 (156777856783).jpg"
+  ],
+  "folder": {
+   "tags": [
+    "Google Ads"
+   ]
+  },
+  "added": "2026-09-22"
+ },
+ {
+  "kind": "photo",
+  "ext": ".jpg",
+  "bytes": 138790,
+  "sha1": "8bbda2da66328f8f66de9638e15f0319890778a3",
+  "w": 576,
+  "h": 576,
+  "camera": null,
+  "phash": "a5253696568fa393",
+  "id": "8bbda2da6632",
+  "paths": [
+   "Google Ads/Google Ads image 156777856792 (156777856792).jpg"
+  ],
+  "folder": {
+   "tags": [
+    "Google Ads"
+   ]
+  },
+  "added": "2026-09-22"
+ },
+ {
+  "kind": "photo",
+  "ext": ".jpg",
+  "bytes": 137709,
+  "sha1": "6ea2522de6bc24b4c086518e1e56aa194cdfc8e9",
+  "w": 584,
+  "h": 584,
+  "camera": null,
+  "phash": "a66465e5e7d2d250",
+  "id": "6ea2522de6bc",
+  "paths": [
+   "Google Ads/Google Ads image 156777856795 (156777856795).jpg"
+  ],
+  "folder": {
+   "tags": [
+    "Google Ads"
+   ]
+  },
+  "added": "2026-09-22"
+ },
+ {
+  "kind": "photo",
+  "ext": ".jpg",
+  "bytes": 62603,
+  "sha1": "49313be329213a3997a7d8c06cc31a5e4a1ea007",
+  "w": 346,
+  "h": 346,
+  "camera": null,
+  "phash": "f4a42435c5ddf930",
+  "id": "49313be32921",
+  "paths": [
+   "Google Ads/Google Ads image 156777856798 (156777856798).jpg"
+  ],
+  "folder": {
+   "tags": [
+    "Google Ads"
+   ]
+  },
+  "added": "2026-09-22"
+ },
+ {
+  "kind": "photo",
+  "ext": ".jpg",
+  "bytes": 28082,
+  "sha1": "bee864dcb409fdfd60f01eab8db41d2541bad872",
+  "w": 456,
+  "h": 456,
+  "camera": null,
+  "phash": "d0aa2a362a1a7e7b",
+  "id": "bee864dcb409",
+  "paths": [
+   "Google Ads/Google Ads image 156777856804 (156777856804).jpg"
+  ],
+  "folder": {
+   "tags": [
+    "Google Ads"
+   ]
+  },
+  "added": "2026-09-22"
+ },
+ {
+  "kind": "photo",
+  "ext": ".jpg",
+  "bytes": 145427,
+  "sha1": "c3e7b72feb3ed270d94ce197c5d1f463a654573c",
+  "w": 548,
+  "h": 548,
+  "camera": null,
+  "phash": "d09332f2ca933c3d",
+  "id": "c3e7b72feb3e",
+  "paths": [
+   "Google Ads/Google Ads image 156777856807 (156777856807).jpg"
+  ],
+  "folder": {
+   "tags": [
+    "Google Ads"
+   ]
+  },
+  "added": "2026-09-22"
+ },
+ {
+  "kind": "photo",
+  "ext": ".jpg",
+  "bytes": 90718,
+  "sha1": "3390e244d0c8c5c152fe33c21cf5e10244e00bcc",
+  "w": 548,
+  "h": 548,
+  "camera": null,
+  "phash": "a5ad4a786165cdc6",
+  "id": "3390e244d0c8",
+  "paths": [
+   "Google Ads/Google Ads image 156777856810 (156777856810).jpg"
+  ],
+  "folder": {
+   "tags": [
+    "Google Ads"
+   ]
+  },
+  "added": "2026-09-22"
+ },
+ {
+  "kind": "photo",
+  "ext": ".jpg",
+  "bytes": 187238,
+  "sha1": "ce4d261b27ed93cdc9886b44816520890ffc5509",
+  "w": 779,
+  "h": 779,
+  "camera": null,
+  "phash": "d586f4893bee1870",
+  "id": "ce4d261b27ed",
+  "paths": [
+   "Google Ads/Google Ads image 156777856819 (156777856819).jpg"
+  ],
+  "folder": {
+   "tags": [
+    "Google Ads"
+   ]
+  },
+  "added": "2026-09-22"
+ },
+ {
+  "kind": "photo",
+  "ext": ".jpg",
+  "bytes": 138155,
+  "sha1": "37244c773b53f802cdacf58e279b9d2d2c7801c4",
+  "w": 576,
+  "h": 576,
+  "camera": null,
+  "phash": "9d99b3b8b038785a",
+  "id": "37244c773b53",
+  "paths": [
+   "Google Ads/Google Ads image 156777856822 (156777856822).jpg"
+  ],
+  "folder": {
+   "tags": [
+    "Google Ads"
+   ]
+  },
+  "added": "2026-09-22"
+ },
+ {
+  "kind": "photo",
+  "ext": ".jpg",
+  "bytes": 104367,
+  "sha1": "84823413c87421e5bea0d61dd1478960bbc157e3",
+  "w": 597,
+  "h": 597,
+  "camera": null,
+  "phash": "c077df8989e4b498",
+  "id": "84823413c874",
+  "paths": [
+   "Google Ads/Google Ads image 156777856825 (156777856825).jpg"
+  ],
+  "folder": {
+   "tags": [
+    "Google Ads"
+   ]
+  },
+  "added": "2026-09-22"
+ },
+ {
+  "kind": "photo",
+  "ext": ".jpg",
+  "bytes": 164731,
+  "sha1": "a7bd92969d097ec546fa5a990d6c4fee9039a856",
+  "w": 585,
+  "h": 585,
+  "camera": null,
+  "phash": "b162467e5d5d2e24",
+  "id": "a7bd92969d09",
+  "paths": [
+   "Google Ads/Google Ads image 162780928847 (162780928847).jpg"
+  ],
+  "folder": {
+   "tags": [
+    "Google Ads"
+   ]
+  },
+  "added": "2026-09-22"
+ },
+ {
+  "kind": "photo",
+  "ext": ".jpg",
+  "bytes": 116164,
+  "sha1": "5d629a6cf00b296247bba05d46a79ec06f6d5419",
+  "w": 584,
+  "h": 584,
+  "camera": null,
+  "phash": "a365fbd2252d1b18",
+  "id": "5d629a6cf00b",
+  "paths": [
+   "Google Ads/Google Ads image 162780928850 (162780928850).jpg"
+  ],
+  "folder": {
+   "tags": [
+    "Google Ads"
+   ]
+  },
+  "added": "2026-09-22"
+ },
+ {
+  "kind": "photo",
+  "ext": ".jpg",
+  "bytes": 87077,
+  "sha1": "ea75a4cf9d54c75c4ffc0091cf6485035a59c3e2",
+  "w": 584,
+  "h": 584,
+  "camera": null,
+  "phash": "c07829bd8fc5c2dc",
+  "id": "ea75a4cf9d54",
+  "paths": [
+   "Google Ads/Google Ads image 162780928853 (162780928853).jpg"
+  ],
+  "folder": {
+   "tags": [
+    "Google Ads"
+   ]
+  },
+  "added": "2026-09-22"
+ },
+ {
+  "kind": "photo",
+  "ext": ".jpg",
+  "bytes": 117330,
+  "sha1": "e0bae1b129d6b75c5eca07a3ff916b156b7ad062",
+  "w": 576,
+  "h": 576,
+  "camera": null,
+  "phash": "d5f143030c1f3cf9",
+  "id": "e0bae1b129d6",
+  "paths": [
+   "Google Ads/Google Ads image 163325278272 (163325278272).jpg"
+  ],
+  "folder": {
+   "tags": [
+    "Google Ads"
+   ]
+  },
+  "added": "2026-09-22"
+ },
+ {
+  "kind": "photo",
+  "ext": ".jpg",
+  "bytes": 102112,
+  "sha1": "e15c2814441ea9c9de488fe8d6c2df7b7b7d1444",
+  "w": 584,
+  "h": 584,
+  "camera": null,
+  "phash": "91b641dab5a992c7",
+  "id": "e15c2814441e",
+  "paths": [
+   "Google Ads/Google Ads image 167907950452 (167907950452).jpg"
+  ],
+  "folder": {
+   "tags": [
+    "Google Ads"
+   ]
+  },
+  "added": "2026-09-22"
+ },
+ {
+  "kind": "photo",
+  "ext": ".jpg",
+  "bytes": 211230,
+  "sha1": "da81c909d4e4db1a3cf75e5b6cf4c056fbca7114",
+  "w": 584,
+  "h": 584,
+  "camera": null,
+  "phash": "be61877bc03ec035",
+  "id": "da81c909d4e4",
+  "paths": [
+   "Google Ads/Google Ads image 168815029332 (168815029332).jpg"
+  ],
+  "folder": {
+   "tags": [
+    "Google Ads"
+   ]
+  },
+  "added": "2026-09-22"
+ },
+ {
+  "kind": "photo",
+  "ext": ".jpg",
+  "bytes": 156792,
+  "sha1": "4b5c93958883c9e279ce88fba2f6654163293463",
+  "w": 1106,
+  "h": 1106,
+  "camera": null,
+  "phash": "e8aed8900f33db13",
+  "id": "4b5c93958883",
+  "paths": [
+   "Google Ads/Google Ads image 169620638907 (169620638907).jpg"
+  ],
+  "folder": {
+   "tags": [
+    "Google Ads"
+   ]
+  },
+  "added": "2026-09-22"
+ },
+ {
+  "kind": "photo",
+  "ext": ".jpg",
+  "bytes": 3288239,
+  "sha1": "0a1a6a9e250cfbfbc16105a148a1be59fa4fcc8e",
+  "w": 3065,
+  "h": 3065,
+  "camera": null,
+  "phash": "b1f90d0e6bb99146",
+  "id": "0a1a6a9e250c",
+  "paths": [
+   "Google Ads/Google Ads image 169620638910 (169620638910).jpg"
+  ],
+  "folder": {
+   "tags": [
+    "Google Ads"
+   ]
+  },
+  "added": "2026-09-22"
+ },
+ {
+  "kind": "photo",
+  "ext": ".jpg",
+  "bytes": 2567368,
+  "sha1": "4c561a8c993cbd3109ea7d1ed7942c32173dba21",
+  "w": 3065,
+  "h": 3065,
+  "camera": null,
+  "phash": "bcad065a411675f9",
+  "id": "4c561a8c993c",
+  "paths": [
+   "Google Ads/Google Ads image 169620638913 (169620638913).jpg"
+  ],
+  "folder": {
+   "tags": [
+    "Google Ads"
+   ]
+  },
+  "added": "2026-09-22"
+ },
+ {
+  "kind": "photo",
+  "ext": ".jpg",
+  "bytes": 2782153,
+  "sha1": "af4b30e7bb47e66334befb5cbe09e997e0e9ba34",
+  "w": 3065,
+  "h": 3065,
+  "camera": null,
+  "phash": "8bcb7088cb898f8f",
+  "id": "af4b30e7bb47",
+  "paths": [
+   "Google Ads/Google Ads image 169620638916 (169620638916).jpg"
+  ],
+  "folder": {
+   "tags": [
+    "Google Ads"
+   ]
+  },
+  "added": "2026-09-22"
+ },
+ {
+  "kind": "photo",
+  "ext": ".jpg",
+  "bytes": 2879945,
+  "sha1": "b46181df5b030dc6bd4286cbc6a3340fdccf1a2c",
+  "w": 3065,
+  "h": 3065,
+  "camera": null,
+  "phash": "baf2c58d8d2953c1",
+  "id": "b46181df5b03",
+  "paths": [
+   "Google Ads/Google Ads image 169620638919 (169620638919).jpg"
+  ],
+  "folder": {
+   "tags": [
+    "Google Ads"
+   ]
+  },
+  "added": "2026-09-22"
+ },
+ {
+  "kind": "photo",
+  "ext": ".jpg",
+  "bytes": 86375,
+  "sha1": "ce561a496820e18fd4c5a83165d77e80c6c86d14",
+  "w": 585,
+  "h": 585,
+  "camera": null,
+  "phash": "9980e7ce98bab0b3",
+  "id": "ce561a496820",
+  "paths": [
+   "Google Ads/Google Ads image 175858305529 (175858305529).jpg"
+  ],
+  "folder": {
+   "tags": [
+    "Google Ads"
+   ]
+  },
+  "added": "2026-09-22"
+ },
+ {
+  "kind": "photo",
+  "ext": ".jpg",
+  "bytes": 119756,
+  "sha1": "0376d2a1ac9d5d6381f276b0d4aa59a5c14a0658",
+  "w": 584,
+  "h": 584,
+  "camera": null,
+  "phash": "c50525455757dbaa",
+  "id": "0376d2a1ac9d",
+  "paths": [
+   "Google Ads/Google Ads image 175858305532 (175858305532).jpg"
+  ],
+  "folder": {
+   "tags": [
+    "Google Ads"
+   ]
+  },
+  "added": "2026-09-22"
+ },
+ {
+  "kind": "photo",
+  "ext": ".jpg",
+  "bytes": 79143,
+  "sha1": "7aab745e83f641391e1b314728805bafeed3a72f",
+  "w": 576,
+  "h": 576,
+  "camera": null,
+  "phash": "cad929296dc98b2b",
+  "id": "7aab745e83f6",
+  "paths": [
+   "Google Ads/Google Ads image 175858305538 (175858305538).jpg"
+  ],
+  "folder": {
+   "tags": [
+    "Google Ads"
+   ]
+  },
+  "added": "2026-09-22"
+ },
+ {
+  "kind": "photo",
+  "ext": ".jpg",
+  "bytes": 3016021,
+  "sha1": "f4bdae090091afa8fde7d9643805f2cdabed6497",
+  "w": 3065,
+  "h": 3065,
+  "camera": null,
+  "phash": "c5c142fcf8fc460b",
+  "id": "f4bdae090091",
+  "paths": [
+   "Google Ads/Google Ads image 204374184461 (204374184461).jpg"
+  ],
+  "folder": {
+   "tags": [
+    "Google Ads"
+   ]
+  },
+  "added": "2026-09-22"
+ },
+ {
+  "kind": "photo",
+  "ext": ".jpg",
+  "bytes": 191542,
+  "sha1": "18b88c1547903b19c666a22681d888bb7f010ac4",
+  "w": 786,
+  "h": 786,
+  "camera": null,
+  "phash": "9c9e6be0dcf1a4c0",
+  "id": "18b88c154790",
+  "paths": [
+   "Google Ads/Google Ads image 321608320811 (321608320811).jpg"
+  ],
+  "folder": {
+   "tags": [
+    "Google Ads"
+   ]
+  },
+  "added": "2026-09-22"
+ },
+ {
+  "kind": "photo",
+  "ext": ".png",
+  "bytes": 302937,
+  "sha1": "af3ffead19a8348260811536f692cff3542a12c8",
+  "w": 640,
+  "h": 640,
+  "camera": null,
+  "phash": "91c4ee3ba5e15986",
+  "id": "af3ffead19a8",
+  "paths": [
+   "Google Ads/Google Ads image 321608320814 (321608320814).png"
+  ],
+  "folder": {
+   "tags": [
+    "Google Ads"
+   ]
+  },
+  "added": "2026-09-22"
+ },
+ {
+  "kind": "photo",
+  "ext": ".jpg",
+  "bytes": 197336,
+  "sha1": "17a640e3335d364ae7edf464b0f4926b54f277bb",
+  "w": 764,
+  "h": 764,
+  "camera": null,
+  "phash": "95c59b1b6662ae98",
+  "id": "17a640e3335d",
+  "paths": [
+   "Google Ads/Google Ads image 321608320817 (321608320817).jpg"
+  ],
+  "folder": {
+   "tags": [
+    "Google Ads"
+   ]
+  },
+  "added": "2026-09-22"
+ },
+ {
+  "kind": "photo",
+  "ext": ".jpg",
+  "bytes": 202821,
+  "sha1": "e31e42cf9a5b49a144675fed185a5f62f01029f4",
+  "w": 772,
+  "h": 772,
+  "camera": null,
+  "phash": "eded843868c9475c",
+  "id": "e31e42cf9a5b",
+  "paths": [
+   "Google Ads/Google Ads image 321608320820 (321608320820).jpg"
+  ],
+  "folder": {
+   "tags": [
+    "Google Ads"
+   ]
+  },
+  "added": "2026-09-22"
+ },
+ {
+  "kind": "photo",
+  "ext": ".jpg",
+  "bytes": 146288,
+  "sha1": "af4a8135a30c2b4232d41db001004504a76e4aa9",
+  "w": 1080,
+  "h": 1080,
+  "camera": null,
+  "phash": "c2d534266f3b81b6",
+  "id": "af4a8135a30c",
+  "paths": [
+   "Google Ads/Google Ads image 394063921241 (394063921241).jpg"
+  ],
+  "folder": {
+   "tags": [
+    "Google Ads"
+   ]
+  },
+  "added": "2026-09-22"
+ },
+ {
+  "kind": "photo",
+  "ext": ".jpg",
+  "bytes": 282349,
+  "sha1": "9a7586ac2ceaf81e68500d23832ecd35c7395a39",
+  "w": 1200,
+  "h": 1500,
+  "camera": null,
+  "phash": "cc11b16e5fb36432",
+  "id": "9a7586ac2cea",
+  "paths": [
+   "Google Ads/Google Ads image 394063925648 (394063925648).jpg"
+  ],
+  "folder": {
+   "tags": [
+    "Google Ads"
+   ]
+  },
+  "added": "2026-09-22"
+ },
+ {
+  "kind": "photo",
+  "ext": ".jpg",
+  "bytes": 138261,
+  "sha1": "2ff63c8f0ba79995ea6d8710077a57c4335125dc",
+  "w": 1080,
+  "h": 1080,
+  "camera": null,
+  "phash": "c3f534a26fc10b87",
+  "id": "2ff63c8f0ba7",
+  "paths": [
+   "Google Ads/Google Ads image 394063939160 (394063939160).jpg"
+  ],
+  "folder": {
+   "tags": [
+    "Google Ads"
+   ]
+  },
+  "added": "2026-09-22"
+ },
+ {
+  "kind": "photo",
+  "ext": ".jpg",
+  "bytes": 128140,
+  "sha1": "dfd8fef1cbc1587b4f828ac402ff69dfa8d9c5bd",
+  "w": 1080,
+  "h": 1080,
+  "camera": null,
+  "phash": "92bf15082ac2cfd7",
+  "id": "dfd8fef1cbc1",
+  "paths": [
+   "Google Ads/Google Ads image 394063948718 (394063948718).jpg"
+  ],
+  "folder": {
+   "tags": [
+    "Google Ads"
+   ]
+  },
+  "added": "2026-09-22"
+ },
+ {
+  "kind": "photo",
+  "ext": ".jpg",
+  "bytes": 120895,
+  "sha1": "13c19b0c6f9e4b86cb6b960f68ae98ff350596f1",
+  "w": 1080,
+  "h": 1080,
+  "camera": null,
+  "phash": "a04bdb64cf72720b",
+  "id": "13c19b0c6f9e",
+  "paths": [
+   "Google Ads/Google Ads image 394063952036 (394063952036).jpg"
+  ],
+  "folder": {
+   "tags": [
+    "Google Ads"
+   ]
+  },
+  "added": "2026-09-22"
+ },
+ {
+  "kind": "photo",
+  "ext": ".jpg",
+  "bytes": 105855,
+  "sha1": "ec0dafa074e76c68f1a15bfdaf17b4876342bc10",
+  "w": 1356,
+  "h": 708,
+  "camera": null,
+  "phash": "c9bb1e1c3d8c1c1e",
+  "id": "ec0dafa074e7",
+  "paths": [
+   "Google Ads/Google Ads image 394063958384 (394063958384).jpg"
+  ],
+  "folder": {
+   "tags": [
+    "Google Ads"
+   ]
+  },
+  "added": "2026-09-22"
+ },
+ {
+  "kind": "photo",
+  "ext": ".jpg",
+  "bytes": 107123,
+  "sha1": "27432ac074f2bf507f26f7fe9516f48ff7f37bbb",
+  "w": 1356,
+  "h": 708,
+  "camera": null,
+  "phash": "9dbb1a1c3c9c4e4a",
+  "id": "27432ac074f2",
+  "paths": [
+   "Google Ads/Google Ads image 394063960130 (394063960130).jpg"
+  ],
+  "folder": {
+   "tags": [
+    "Google Ads"
+   ]
+  },
+  "added": "2026-09-22"
+ },
+ {
+  "kind": "photo",
+  "ext": ".jpg",
+  "bytes": 192681,
+  "sha1": "ad68cb685d2c23461c496fa6b6384a66dfc7b0bf",
+  "w": 1356,
+  "h": 708,
+  "camera": null,
+  "phash": "80af3fd82fc03c36",
+  "id": "ad68cb685d2c",
+  "paths": [
+   "Google Ads/Google Ads image 394063960238 (394063960238).jpg"
+  ],
+  "folder": {
+   "tags": [
+    "Google Ads"
+   ]
+  },
+  "added": "2026-09-22"
+ },
+ {
+  "kind": "photo",
+  "ext": ".jpg",
+  "bytes": 192069,
+  "sha1": "902aa089e4ac47b0634a33d6dea7d85a3ba955bb",
+  "w": 1356,
+  "h": 708,
+  "camera": null,
+  "phash": "95b863877895636a",
+  "id": "902aa089e4ac",
+  "paths": [
+   "Google Ads/Google Ads image 394063960325 (394063960325).jpg"
+  ],
+  "folder": {
+   "tags": [
+    "Google Ads"
+   ]
+  },
+  "added": "2026-09-22"
+ },
+ {
+  "kind": "photo",
+  "ext": ".jpg",
+  "bytes": 221611,
+  "sha1": "004ac6071a1297b7008500f094c44c3dc735cadb",
+  "w": 1356,
+  "h": 708,
+  "camera": null,
+  "phash": "859a78d6789c6a6a",
+  "id": "004ac6071a12",
+  "paths": [
+   "Google Ads/Google Ads image 394063962212 (394063962212).jpg"
+  ],
+  "folder": {
+   "tags": [
+    "Google Ads"
+   ]
+  },
+  "added": "2026-09-22"
+ },
+ {
+  "kind": "photo",
+  "ext": ".jpg",
+  "bytes": 144494,
+  "sha1": "3779bbe3ab9f575bd4f6c7929b2ec7e7e40babb9",
+  "w": 1080,
+  "h": 1080,
+  "camera": null,
+  "phash": "c7d534606a2b83f6",
+  "id": "3779bbe3ab9f",
+  "paths": [
+   "Google Ads/Google Ads image 394151621917 (394151621917).jpg"
+  ],
+  "folder": {
+   "tags": [
+    "Google Ads"
+   ]
+  },
+  "added": "2026-09-22"
+ },
+ {
+  "kind": "photo",
+  "ext": ".jpg",
+  "bytes": 93248,
+  "sha1": "929d98ad6d77ea572cdaf8d4728b8cde97ec710b",
+  "w": 1080,
+  "h": 1080,
+  "camera": null,
+  "phash": "95b8d2c4cee37283",
+  "id": "929d98ad6d77",
+  "paths": [
+   "Google Ads/Google Ads image 394151632954 (394151632954).jpg"
+  ],
+  "folder": {
+   "tags": [
+    "Google Ads"
+   ]
+  },
+  "added": "2026-09-22"
+ },
+ {
+  "kind": "photo",
+  "ext": ".jpg",
+  "bytes": 92842,
+  "sha1": "2177b735b15ff86bdf001d1a3ddb5db522d804f7",
+  "w": 1080,
+  "h": 1080,
+  "camera": null,
+  "phash": "80bddac0cfe263c3",
+  "id": "2177b735b15f",
+  "paths": [
+   "Google Ads/Google Ads image 394151633350 (394151633350).jpg"
+  ],
+  "folder": {
+   "tags": [
+    "Google Ads"
+   ]
+  },
+  "added": "2026-09-22"
+ },
+ {
+  "kind": "photo",
+  "ext": ".jpg",
+  "bytes": 131026,
+  "sha1": "57da16f0aaf5d8f06f7b9bfda2da2f0467234e32",
+  "w": 1080,
+  "h": 1080,
+  "camera": null,
+  "phash": "d6fa33952fa5c0c0",
+  "id": "57da16f0aaf5",
+  "paths": [
+   "Google Ads/Google Ads image 394151633836 (394151633836).jpg"
+  ],
+  "folder": {
+   "tags": [
+    "Google Ads"
+   ]
+  },
+  "added": "2026-09-22"
+ },
+ {
+  "kind": "photo",
+  "ext": ".jpg",
+  "bytes": 148406,
+  "sha1": "fbd80007bcca6328498888aa8faad0fbb1708af9",
+  "w": 1080,
+  "h": 1080,
+  "camera": null,
+  "phash": "d248ad373f3dc062",
+  "id": "fbd80007bcca",
+  "paths": [
+   "Google Ads/Google Ads image 394151634166 (394151634166).jpg"
+  ],
+  "folder": {
+   "tags": [
+    "Google Ads"
+   ]
+  },
+  "added": "2026-09-22"
+ },
+ {
+  "kind": "photo",
+  "ext": ".jpg",
+  "bytes": 248228,
+  "sha1": "6111a11f087ac00dd2de58ae41d24a2aff3c2b03",
+  "w": 1200,
+  "h": 1500,
+  "camera": null,
+  "phash": "959d31de579130b4",
+  "id": "6111a11f087a",
+  "paths": [
+   "Google Ads/Google Ads image 394151634430 (394151634430).jpg"
+  ],
+  "folder": {
+   "tags": [
+    "Google Ads"
+   ]
+  },
+  "added": "2026-09-22"
+ },
+ {
+  "kind": "photo",
+  "ext": ".jpg",
+  "bytes": 149046,
+  "sha1": "6d12edab0e05d3a66bf3beb7051992f5d94a0aa5",
+  "w": 1080,
+  "h": 1080,
+  "camera": null,
+  "phash": "d71ca97a6b2dc062",
+  "id": "6d12edab0e05",
+  "paths": [
+   "Google Ads/Google Ads image 394151643295 (394151643295).jpg"
+  ],
+  "folder": {
+   "tags": [
+    "Google Ads"
+   ]
+  },
+  "added": "2026-09-22"
+ },
+ {
+  "kind": "photo",
+  "ext": ".jpg",
+  "bytes": 131412,
+  "sha1": "649654cd507efb58ecc97ee6f6e792a206007394",
+  "w": 1080,
+  "h": 1080,
+  "camera": null,
+  "phash": "d2fe31b32fa5c0c0",
+  "id": "649654cd507e",
+  "paths": [
+   "Google Ads/Google Ads image 394151643685 (394151643685).jpg"
+  ],
+  "folder": {
+   "tags": [
+    "Google Ads"
+   ]
+  },
+  "added": "2026-09-22"
+ },
+ {
+  "kind": "photo",
+  "ext": ".jpg",
+  "bytes": 250140,
+  "sha1": "5adae2ca466ce1b0498f33b0df46b625dd4cc094",
+  "w": 1200,
+  "h": 1500,
+  "camera": null,
+  "phash": "959931dc5f9130bc",
+  "id": "5adae2ca466c",
+  "paths": [
+   "Google Ads/Google Ads image 394151643889 (394151643889).jpg"
+  ],
+  "folder": {
+   "tags": [
+    "Google Ads"
+   ]
+  },
+  "added": "2026-09-22"
+ },
+ {
+  "kind": "photo",
+  "ext": ".jpg",
+  "bytes": 184091,
+  "sha1": "1920d04619f5048d880e8ed73144778d41373d5f",
+  "w": 765,
+  "h": 1359,
+  "camera": null,
+  "phash": "c78d9d63dc9c2701",
+  "id": "1920d04619f5",
+  "paths": [
+   "Google Ads/Google Ads image 394241342295 (394241342295).jpg"
+  ],
+  "folder": {
+   "tags": [
+    "Google Ads"
+   ]
+  },
+  "added": "2026-09-22"
+ },
+ {
+  "kind": "photo",
+  "ext": ".jpg",
+  "bytes": 138650,
+  "sha1": "f92af3df726a45e3ab8a2d58a532c8cd7984e80b",
+  "w": 1080,
+  "h": 1080,
+  "camera": null,
+  "phash": "c7f535a46ac30987",
+  "id": "f92af3df726a",
+  "paths": [
+   "Google Ads/Google Ads image 394241933205 (394241933205).jpg"
+  ],
+  "folder": {
+   "tags": [
+    "Google Ads"
+   ]
+  },
+  "added": "2026-09-22"
+ },
+ {
+  "kind": "photo",
+  "ext": ".jpg",
+  "bytes": 127485,
+  "sha1": "2fdc94acc998061b869c685aec281b93e19822d3",
+  "w": 1080,
+  "h": 1080,
+  "camera": null,
+  "phash": "93b3150c2ac3cfd5",
+  "id": "2fdc94acc998",
+  "paths": [
+   "Google Ads/Google Ads image 394241934177 (394241934177).jpg"
+  ],
+  "folder": {
+   "tags": [
+    "Google Ads"
+   ]
+  },
+  "added": "2026-09-22"
+ },
+ {
+  "kind": "photo",
+  "ext": ".jpg",
+  "bytes": 138645,
+  "sha1": "266d3c680f6b3e4a9571aca3b452adecb5781911",
+  "w": 1080,
+  "h": 1080,
+  "camera": null,
+  "phash": "d81715682ae3c7d3",
+  "id": "266d3c680f6b",
+  "paths": [
+   "Google Ads/Google Ads image 394241940867 (394241940867).jpg"
+  ],
+  "folder": {
+   "tags": [
+    "Google Ads"
+   ]
+  },
+  "added": "2026-09-22"
+ },
+ {
+  "kind": "photo",
+  "ext": ".jpg",
+  "bytes": 119533,
+  "sha1": "6c342f9ad759d7c9f9d837db5b3ec640a10f1857",
+  "w": 1080,
+  "h": 1080,
+  "camera": null,
+  "phash": "a41fda60cf62664b",
+  "id": "6c342f9ad759",
+  "paths": [
+   "Google Ads/Google Ads image 394241941323 (394241941323).jpg"
+  ],
+  "folder": {
+   "tags": [
+    "Google Ads"
+   ]
+  },
+  "added": "2026-09-22"
+ },
+ {
+  "kind": "photo",
+  "ext": ".jpg",
+  "bytes": 139181,
+  "sha1": "ee35cfcf5153b65f02066fce48bf3181b2018cbc",
+  "w": 1080,
+  "h": 1080,
+  "camera": null,
+  "phash": "c813152c3ae2d6df",
+  "id": "ee35cfcf5153",
+  "paths": [
+   "Google Ads/Google Ads image 394241942622 (394241942622).jpg"
+  ],
+  "folder": {
+   "tags": [
+    "Google Ads"
+   ]
+  },
+  "added": "2026-09-22"
+ },
+ {
+  "kind": "photo",
+  "ext": ".jpg",
+  "bytes": 278681,
+  "sha1": "3a4ba892e0a0d2bac55b597739259f15c7b04ef7",
+  "w": 1200,
+  "h": 1500,
+  "camera": null,
+  "phash": "cc15b16c5bb3606e",
+  "id": "3a4ba892e0a0",
+  "paths": [
+   "Google Ads/Google Ads image 394241955258 (394241955258).jpg"
+  ],
+  "folder": {
+   "tags": [
+    "Google Ads"
+   ]
+  },
+  "added": "2026-09-22"
+ },
+ {
+  "kind": "photo",
+  "ext": ".jpg",
+  "bytes": 222693,
+  "sha1": "e89adaf5708b9de374fbdfecdfc85b734fbfc5fe",
+  "w": 1356,
+  "h": 708,
+  "camera": null,
+  "phash": "c09e3ad03fc87c36",
+  "id": "e89adaf5708b",
+  "paths": [
+   "Google Ads/Google Ads image 394241963079 (394241963079).jpg"
+  ],
+  "folder": {
+   "tags": [
+    "Google Ads"
+   ]
+  },
+  "added": "2026-09-22"
+ },
+ {
+  "kind": "photo",
+  "ext": ".jpg",
+  "bytes": 198696,
+  "sha1": "7416d0147bb34e9c17fd826f9bb32465c3f3f915",
+  "w": 632,
+  "h": 1124,
+  "camera": null,
+  "phash": "feff8781014958d8",
+  "id": "7416d0147bb3",
+  "paths": [
+   "Google Ads/Google Ads image 394339802566 (394339802566).jpg"
+  ],
+  "folder": {
+   "tags": [
+    "Google Ads"
+   ]
+  },
+  "added": "2026-09-22"
+ },
+ {
+  "kind": "photo",
+  "ext": ".jpg",
+  "bytes": 127137,
+  "sha1": "29f2c2990337f63f267903119e7c4a8530fc4f85",
+  "w": 632,
+  "h": 1124,
+  "camera": null,
+  "phash": "fd9a88a6b15a2533",
+  "id": "29f2c2990337",
+  "paths": [
+   "Google Ads/Google Ads image 396588775617 (396588775617).jpg"
+  ],
+  "folder": {
+   "tags": [
+    "Google Ads"
+   ]
+  },
+  "added": "2026-09-22"
+ },
+ {
+  "kind": "video",
+  "ext": ".mp4",
+  "bytes": 10051270,
+  "sha1": "044df3047f716927c80acc85675152183f5b48ce",
+  "duration": 19.1,
+  "w": 1080,
+  "h": 1920,
+  "id": "044df3047f71",
+  "paths": [
+   "Google Ads/Hey homeowners, thinking of a 1-day polyurea concrete coating system  Watch this (9nni_-vfP1E).mp4"
+  ],
+  "folder": {
+   "tags": [
+    "Google Ads"
+   ]
+  },
+  "added": "2026-09-22"
+ },
+ {
+  "kind": "photo",
+  "ext": ".jpg",
+  "bytes": 1405590,
+  "sha1": "9b9eb8493383a697a98657ca71270cbf7b945444",
+  "w": 3024,
+  "h": 2778,
+  "camera": null,
+  "phash": "eb3333c20e0e6c6e",
+  "id": "9b9eb8493383",
+  "paths": [
+   "Google Ads/IMG_0571 (178252058149).jpg"
+  ],
+  "folder": {
+   "tags": [
+    "Google Ads"
+   ]
+  },
+  "added": "2026-09-22"
+ },
+ {
+  "kind": "photo",
+  "ext": ".jpg",
+  "bytes": 529401,
+  "sha1": "f6652b600871909cdc58e2fb1dcda1245271cf3d",
+  "w": 3024,
+  "h": 1583,
+  "camera": null,
+  "phash": "f3334e0e6607ce4c",
+  "id": "f6652b600871",
+  "paths": [
+   "Google Ads/IMG_0571_1.9108 (178241889993).jpg"
+  ],
+  "folder": {
+   "tags": [
+    "Google Ads"
+   ]
+  },
+  "added": "2026-09-22"
+ },
+ {
+  "kind": "photo",
+  "ext": ".jpg",
+  "bytes": 2338950,
+  "sha1": "504bd75d93e909fd1e35aec6c33ae7565e7ce552",
+  "w": 3024,
+  "h": 3491,
+  "camera": null,
+  "phash": "80f834f41dc70f67",
+  "id": "504bd75d93e9",
+  "paths": [
+   "Google Ads/IMG_0572 (178241879319).jpg"
+  ],
+  "folder": {
+   "tags": [
+    "Google Ads"
+   ]
+  },
+  "added": "2026-09-22"
+ },
+ {
+  "kind": "photo",
+  "ext": ".jpg",
+  "bytes": 490193,
+  "sha1": "059934b37f17175cbe566bccfc6a850531f8c027",
+  "w": 3024,
+  "h": 1583,
+  "camera": null,
+  "phash": "883070d4cf5f3df0",
+  "id": "059934b37f17",
+  "paths": [
+   "Google Ads/IMG_0572_1.9108 (178215238445).jpg"
+  ],
+  "folder": {
+   "tags": [
+    "Google Ads"
+   ]
+  },
+  "added": "2026-09-22"
+ },
+ {
+  "kind": "photo",
+  "ext": ".jpg",
+  "bytes": 759750,
+  "sha1": "433b9133ec4ef2d2f9e5f97bd7f2b6cc670a70e9",
+  "w": 2048,
+  "h": 1536,
+  "camera": null,
+  "phash": "b5b55925303167da",
+  "id": "433b9133ec4e",
+  "paths": [
+   "Google Ads/IMG_0573 (178252058032).jpg"
+  ],
+  "folder": {
+   "tags": [
+    "Google Ads"
+   ]
+  },
+  "added": "2026-09-22"
+ },
+ {
+  "kind": "photo",
+  "ext": ".jpg",
+  "bytes": 468625,
+  "sha1": "3e33d78080c26a4e091d1110d0cf5f3e457a0a91",
+  "w": 1536,
+  "h": 1536,
+  "camera": null,
+  "phash": "aa26734c2b664fd1",
+  "id": "3e33d78080c2",
+  "paths": [
+   "Google Ads/IMG_0573_1 (178215238460).jpg"
+  ],
+  "folder": {
+   "tags": [
+    "Google Ads"
+   ]
+  },
+  "added": "2026-09-22"
+ },
+ {
+  "kind": "photo",
+  "ext": ".jpg",
+  "bytes": 354565,
+  "sha1": "5ad3529c65245392210a5dcee6fc9652792d8067",
+  "w": 2048,
+  "h": 1075,
+  "camera": null,
+  "phash": "b535253477ca6658",
+  "id": "5ad3529c6524",
+  "paths": [
+   "Google Ads/IMG_0573_1.9108 (326783363957).jpg"
+  ],
+  "folder": {
+   "tags": [
+    "Google Ads"
+   ]
+  },
+  "added": "2026-09-22"
+ },
+ {
+  "kind": "photo",
+  "ext": ".jpg",
+  "bytes": 700593,
+  "sha1": "f71a2c959c9d0707fbe579d89a12b91da2c837c6",
+  "w": 1536,
+  "h": 2048,
+  "camera": null,
+  "phash": "c3bdd5831d7a2249",
+  "id": "f71a2c959c9d",
+  "paths": [
+   "Google Ads/IMG_0574 (178252060183).jpg"
+  ],
+  "folder": {
+   "tags": [
+    "Google Ads"
+   ]
+  },
+  "added": "2026-09-22"
+ },
+ {
+  "kind": "photo",
+  "ext": ".jpg",
+  "bytes": 369667,
+  "sha1": "031409da2db64dbd751b553644663212bbaa076e",
+  "w": 1536,
+  "h": 1536,
+  "camera": null,
+  "phash": "c3bdc51d720b1d07",
+  "id": "031409da2db6",
+  "paths": [
+   "Google Ads/IMG_0574_1 (178252107061).jpg"
+  ],
+  "folder": {
+   "tags": [
+    "Google Ads"
+   ]
+  },
+  "added": "2026-09-22"
+ },
+ {
+  "kind": "photo",
+  "ext": ".jpg",
+  "bytes": 2060212,
+  "sha1": "ff6ab66cd14510bd80cbe3d1f5c1c5b61d779dab",
+  "w": 4032,
+  "h": 3024,
+  "camera": null,
+  "phash": "fc86851e116ba63d",
+  "id": "ff6ab66cd145",
+  "paths": [
+   "Google Ads/IMG_0575 (178215191441).jpg"
+  ],
+  "folder": {
+   "tags": [
+    "Google Ads"
+   ]
+  },
+  "added": "2026-09-22"
+ },
+ {
+  "kind": "photo",
+  "ext": ".jpg",
+  "bytes": 816477,
+  "sha1": "e1a9d45a13429d176e6868155e6ee419a16b8bd8",
+  "w": 4032,
+  "h": 2117,
+  "camera": null,
+  "phash": "fcc6a1eea51c9458",
+  "id": "e1a9d45a1342",
+  "paths": [
+   "Google Ads/IMG_0575_1.9108 (178215242129).jpg"
+  ],
+  "folder": {
+   "tags": [
+    "Google Ads"
+   ]
+  },
+  "added": "2026-09-22"
+ },
+ {
+  "kind": "photo",
+  "ext": ".jpg",
+  "bytes": 189189,
+  "sha1": "3e88065cc1f9c9d6852c66e2ed548413bf44c2f6",
+  "w": 2048,
+  "h": 1536,
+  "camera": null,
+  "phash": "daf4e181828fbba4",
+  "id": "3e88065cc1f9",
+  "paths": [
+   "Google Ads/IMG_0576 (178215216086).jpg"
+  ],
+  "folder": {
+   "tags": [
+    "Google Ads"
+   ]
+  },
+  "added": "2026-09-22"
+ },
+ {
+  "kind": "photo",
+  "ext": ".jpg",
+  "bytes": 135889,
+  "sha1": "42bdd7ec66ee338d5fc0b99dce6b60bc95cf99a3",
+  "w": 1536,
+  "h": 1536,
+  "camera": null,
+  "phash": "d9f2fef8f0a080a2",
+  "id": "42bdd7ec66ee",
+  "paths": [
+   "Google Ads/IMG_0576_1 (178252070941).jpg"
+  ],
+  "folder": {
+   "tags": [
+    "Google Ads"
+   ]
+  },
+  "added": "2026-09-22"
+ },
+ {
+  "kind": "photo",
+  "ext": ".jpg",
+  "bytes": 251871,
+  "sha1": "02866632394841ef2e056dc558671322dedcdfa3",
+  "w": 1536,
+  "h": 2048,
+  "camera": null,
+  "phash": "9fff02e8bb8080cd",
+  "id": "028666323948",
+  "paths": [
+   "Google Ads/IMG_0577 (178252060141).jpg"
+  ],
+  "folder": {
+   "tags": [
+    "Google Ads"
+   ]
+  },
+  "added": "2026-09-22"
+ },
+ {
+  "kind": "photo",
+  "ext": ".jpg",
+  "bytes": 90247,
+  "sha1": "fc69d159466fa608cbc788292b21eb84b4c6e000",
+  "w": 1536,
+  "h": 1536,
+  "camera": null,
+  "phash": "ffff20e980c981c4",
+  "id": "fc69d159466f",
+  "paths": [
+   "Google Ads/IMG_0577_1 (178252089349).jpg"
+  ],
+  "folder": {
+   "tags": [
+    "Google Ads"
+   ]
+  },
+  "added": "2026-09-22"
+ },
+ {
+  "kind": "photo",
+  "ext": ".jpg",
+  "bytes": 71245,
+  "sha1": "d804fb3b17737efb7347a6215f90810dbb4c1ece",
+  "w": 1536,
+  "h": 804,
+  "camera": null,
+  "phash": "dfd702c9306f80b6",
+  "id": "d804fb3b1773",
+  "paths": [
+   "Google Ads/IMG_0577_1.9108 (178252088278).jpg"
+  ],
+  "folder": {
+   "tags": [
+    "Google Ads"
+   ]
+  },
+  "added": "2026-09-22"
+ },
+ {
+  "kind": "photo",
+  "ext": ".jpg",
+  "bytes": 3153555,
+  "sha1": "e805f0c47a36f1c9c9c749219d0452b10423b68e",
+  "w": 3024,
+  "h": 4032,
+  "camera": null,
+  "phash": "993c60e356b85d9c",
+  "id": "e805f0c47a36",
+  "paths": [
+   "Google Ads/IMG_0578 (178252061446).jpg"
+  ],
+  "folder": {
+   "tags": [
+    "Google Ads"
+   ]
+  },
+  "added": "2026-09-22"
+ },
+ {
+  "kind": "photo",
+  "ext": ".jpg",
+  "bytes": 1301785,
+  "sha1": "edc30400afab57e1b5c63042aed5465b5150e040",
+  "w": 3024,
+  "h": 3024,
+  "camera": null,
+  "phash": "9b5f0dab052227ae",
+  "id": "edc30400afab",
+  "paths": [
+   "Google Ads/IMG_0578_1 (178252080040).jpg"
+  ],
+  "folder": {
+   "tags": [
+    "Google Ads"
+   ]
+  },
+  "added": "2026-09-22"
+ },
+ {
+  "kind": "photo",
+  "ext": ".jpg",
+  "bytes": 603627,
+  "sha1": "e0bc56ff4abadc67519eb145794ff9be75b8e85a",
+  "w": 3024,
+  "h": 1583,
+  "camera": null,
+  "phash": "dc1c9d506a6c636b",
+  "id": "e0bc56ff4aba",
+  "paths": [
+   "Google Ads/IMG_0578_1.9108 (178215243353).jpg"
+  ],
+  "folder": {
+   "tags": [
+    "Google Ads"
+   ]
+  },
+  "added": "2026-09-22"
+ },
+ {
+  "kind": "photo",
+  "ext": ".jpg",
+  "bytes": 2821596,
+  "sha1": "8498d3069811e2fd1285c6aa0ae31a3c2a4986b0",
+  "w": 3024,
+  "h": 4032,
+  "camera": null,
+  "phash": "93d36b2d3d1d5064",
+  "id": "8498d3069811",
+  "paths": [
+   "Google Ads/IMG_0579 (178215217901).jpg"
+  ],
+  "folder": {
+   "tags": [
+    "Google Ads"
+   ]
+  },
+  "added": "2026-09-22"
+ },
+ {
+  "kind": "photo",
+  "ext": ".jpg",
+  "bytes": 1572012,
+  "sha1": "b8b7743ec5e79dfc8f00a9a9680a09c26395c1a9",
+  "w": 3024,
+  "h": 3024,
+  "camera": null,
+  "phash": "93f32e1d594065bc",
+  "id": "b8b7743ec5e7",
+  "paths": [
+   "Google Ads/IMG_0579_1 (178241890155).jpg"
+  ],
+  "folder": {
+   "tags": [
+    "Google Ads"
+   ]
+  },
+  "added": "2026-09-22"
+ },
+ {
+  "kind": "photo",
+  "ext": ".jpg",
+  "bytes": 717109,
+  "sha1": "f8cb084a67f275c84414fba552b00c20ccc9a7c9",
+  "w": 3024,
+  "h": 1583,
+  "camera": null,
+  "phash": "922759653c3e5c69",
+  "id": "f8cb084a67f2",
+  "paths": [
+   "Google Ads/IMG_0579_1.9108 (178241897796).jpg"
+  ],
+  "folder": {
+   "tags": [
+    "Google Ads"
+   ]
+  },
+  "added": "2026-09-22"
+ },
+ {
+  "kind": "photo",
+  "ext": ".jpg",
+  "bytes": 2396436,
+  "sha1": "5732a3041c726cfc110ab88597f8d14077b904b9",
+  "w": 3024,
+  "h": 4032,
+  "camera": null,
+  "phash": "fad2351f595b0a22",
+  "id": "5732a3041c72",
+  "paths": [
+   "Google Ads/IMG_0580 (178241880396).jpg"
+  ],
+  "folder": {
+   "tags": [
+    "Google Ads"
+   ]
+  },
+  "added": "2026-09-22"
+ },
+ {
+  "kind": "photo",
+  "ext": ".jpg",
+  "bytes": 1203667,
+  "sha1": "8f8856c3cbaaca50484020603f171dbc48586850",
+  "w": 3024,
+  "h": 3024,
+  "camera": null,
+  "phash": "d2951d5b4b022f6b",
+  "id": "8f8856c3cbaa",
+  "paths": [
+   "Google Ads/IMG_0580_1 (178215248675).jpg"
+  ],
+  "folder": {
+   "tags": [
+    "Google Ads"
+   ]
+  },
+  "added": "2026-09-22"
+ },
+ {
+  "kind": "photo",
+  "ext": ".jpg",
+  "bytes": 405854,
+  "sha1": "68d8daecded384d8b6ee90fa461226ac110ca22a",
+  "w": 3024,
+  "h": 1583,
+  "camera": null,
+  "phash": "d2b535519435615f",
+  "id": "68d8daecded3",
+  "paths": [
+   "Google Ads/IMG_0580_1.9108 (178215248630).jpg"
+  ],
+  "folder": {
+   "tags": [
+    "Google Ads"
+   ]
+  },
+  "added": "2026-09-22"
+ },
+ {
+  "kind": "video",
+  "ext": ".mp4",
+  "bytes": 80805918,
+  "sha1": "80509029cad6b90e59d38939ad19f49b56befee2",
+  "duration": 63.9,
+  "w": 3840,
+  "h": 2160,
+  "id": "80509029cad6",
+  "paths": [
+   "Google Ads/Meet GatorGuard - Garage Floor and home interior coatings (TaoswAjeqRg).mp4"
+  ],
+  "folder": {
+   "tags": [
+    "Google Ads"
+   ]
+  },
+  "added": "2026-09-22"
+ },
+ {
+  "kind": "photo",
+  "ext": ".jpg",
+  "bytes": 2072211,
+  "sha1": "0ecb931765608c9200e970b708cfd34fbf096804",
+  "w": 4000,
+  "h": 1868,
+  "date": "2022-04-08",
+  "camera": null,
+  "phash": "a6e6664e6e263495",
+  "id": "0ecb93176560",
+  "paths": [
+   "Google Ads/Photo Apr 08, 11 30 42 AM (130172070757).jpg"
+  ],
+  "folder": {
+   "tags": [
+    "Google Ads"
+   ]
+  },
+  "added": "2026-09-22"
+ },
+ {
+  "kind": "photo",
+  "ext": ".jpg",
+  "bytes": 740546,
+  "sha1": "ed903f1ee620e4f2888cac634e6e4b58ba99a9d2",
+  "w": 1880,
+  "h": 1868,
+  "date": "2022-04-08",
+  "camera": null,
+  "phash": "b575757363313282",
+  "id": "ed903f1ee620",
+  "paths": [
+   "Google Ads/Photo Apr 08, 11 30 42 AM_1 (130164917837).jpg"
+  ],
+  "folder": {
+   "tags": [
+    "Google Ads"
+   ]
+  },
+  "added": "2026-09-22"
+ },
+ {
+  "kind": "photo",
+  "ext": ".jpg",
+  "bytes": 1568739,
+  "sha1": "68f615081d182fcab1d3ef4074bdd085da2ef512",
+  "w": 4000,
+  "h": 1868,
+  "date": "2022-04-08",
+  "camera": null,
+  "phash": "bf94c0a634eba4e2",
+  "id": "68f615081d18",
+  "paths": [
+   "Google Ads/Photo Apr 08, 11 30 49 AM (130172070661).jpg"
+  ],
+  "folder": {
+   "tags": [
+    "Google Ads"
+   ]
+  },
+  "added": "2026-09-22"
+ },
+ {
+  "kind": "photo",
+  "ext": ".jpg",
+  "bytes": 513198,
+  "sha1": "41903ee3fbe75790cc7b7a3d607ab5de283b681b",
+  "w": 1868,
+  "h": 1868,
+  "date": "2022-04-08",
+  "camera": null,
+  "phash": "8d80d72132dce2fd",
+  "id": "41903ee3fbe7",
+  "paths": [
+   "Google Ads/Photo Apr 08, 11 30 49 AM_1 (130164914159).jpg"
+  ],
+  "folder": {
+   "tags": [
+    "Google Ads"
+   ]
+  },
+  "added": "2026-09-22"
+ },
+ {
+  "kind": "photo",
+  "ext": ".jpg",
+  "bytes": 608540,
+  "sha1": "9f2e34897a7ba452b50289f5b4419899f1c25dc3",
+  "w": 1868,
+  "h": 1868,
+  "date": "2022-04-08",
+  "camera": null,
+  "phash": "b4cfc28987fc92a4",
+  "id": "9f2e34897a7b",
+  "paths": [
+   "Google Ads/Photo Apr 08, 11 30 49 AM_1 1 (150794445789).jpg"
+  ],
+  "folder": {
+   "tags": [
+    "Google Ads"
+   ]
+  },
+  "added": "2026-09-22"
+ },
+ {
+  "kind": "photo",
+  "ext": ".jpg",
+  "bytes": 844790,
+  "sha1": "bd3cffbb1e83ce2f6657fe1e2b2d3086464c4e6b",
+  "w": 2048,
+  "h": 1536,
+  "camera": null,
+  "phash": "dd0d495a121636f7",
+  "id": "bd3cffbb1e83",
+  "paths": [
+   "Google Ads/Photo Mar 15, 4 38 12 PM (130172072488).jpg"
+  ],
+  "folder": {
+   "tags": [
+    "Google Ads"
+   ]
+  },
+  "added": "2026-09-22"
+ },
+ {
+  "kind": "photo",
+  "ext": ".jpg",
+  "bytes": 436789,
+  "sha1": "393bb75e434c452e6e317f3d963cc13e1bcde1b5",
+  "w": 1536,
+  "h": 1536,
+  "camera": null,
+  "phash": "96161735252d2ded",
+  "id": "393bb75e434c",
+  "paths": [
+   "Google Ads/Photo Mar 15, 4 38 12 PM_1 (130172064721).jpg"
+  ],
+  "folder": {
+   "tags": [
+    "Google Ads"
+   ]
+  },
+  "added": "2026-09-22"
+ },
+ {
+  "kind": "photo",
+  "ext": ".jpg",
+  "bytes": 427482,
+  "sha1": "982f38fd1152c74d417210587168eb523a5d191d",
+  "w": 2048,
+  "h": 1075,
+  "camera": null,
+  "phash": "cd095a1236f7f8a4",
+  "id": "982f38fd1152",
+  "paths": [
+   "Google Ads/Photo Mar 15, 4 38 12 PM_1.91 (130211768253).jpg"
+  ],
+  "folder": {
+   "tags": [
+    "Google Ads"
+   ]
+  },
+  "added": "2026-09-22"
+ },
+ {
+  "kind": "photo",
+  "ext": ".jpg",
+  "bytes": 878359,
+  "sha1": "e4b548c19cfd1f90788984494ea687faa5f5da62",
+  "w": 2048,
+  "h": 1536,
+  "camera": null,
+  "phash": "91416f3f3d647470",
+  "id": "e4b548c19cfd",
+  "paths": [
+   "Google Ads/Photo Mar 15, 4 38 18 PM (130172058364).jpg"
+  ],
+  "folder": {
+   "tags": [
+    "Google Ads"
+   ]
+  },
+  "added": "2026-09-22"
+ },
+ {
+  "kind": "photo",
+  "ext": ".jpg",
+  "bytes": 430857,
+  "sha1": "73915506a220e39f0c3fe9d4bf568e660df3475e",
+  "w": 2048,
+  "h": 1075,
+  "camera": null,
+  "phash": "914f3f3c74303359",
+  "id": "73915506a220",
+  "paths": [
+   "Google Ads/Photo Mar 15, 4 38 18 PM_1.91 (130164903830).jpg"
+  ],
+  "folder": {
+   "tags": [
+    "Google Ads"
+   ]
+  },
+  "added": "2026-09-22"
+ },
+ {
+  "kind": "photo",
+  "ext": ".jpg",
+  "bytes": 541503,
+  "sha1": "b1e322f4a92b3d2e2440d120e8bf6f203acbd4d3",
+  "w": 2048,
+  "h": 1536,
+  "camera": null,
+  "phash": "c7d6328375058fb2",
+  "id": "b1e322f4a92b",
+  "paths": [
+   "Google Ads/Photo Mar 15, 4 38 36 PM (130164902987).jpg"
+  ],
+  "folder": {
+   "tags": [
+    "Google Ads"
+   ]
+  },
+  "added": "2026-09-22"
+ },
+ {
+  "kind": "photo",
+  "ext": ".jpg",
+  "bytes": 249617,
+  "sha1": "19aa0eb3283a7574378943e209a8ea4ce27f38a9",
+  "w": 2048,
+  "h": 1075,
+  "camera": null,
+  "phash": "cf9232650f8266f9",
+  "id": "19aa0eb3283a",
+  "paths": [
+   "Google Ads/Photo Mar 15, 4 38 36 PM_1.91 (130172079742).jpg"
+  ],
+  "folder": {
+   "tags": [
+    "Google Ads"
+   ]
+  },
+  "added": "2026-09-22"
+ },
+ {
+  "kind": "photo",
+  "ext": ".jpg",
+  "bytes": 668294,
+  "sha1": "69cfb68ff5c62c865e6cc6a964069df360805fbf",
+  "w": 1536,
+  "h": 1536,
+  "camera": null,
+  "phash": "c1666dbc9e9cb061",
+  "id": "69cfb68ff5c6",
+  "paths": [
+   "Google Ads/Photo Mar 15, 4 39 20 PM_1 (130164913931).jpg"
+  ],
+  "folder": {
+   "tags": [
+    "Google Ads"
+   ]
+  },
+  "added": "2026-09-22"
+ },
+ {
+  "kind": "photo",
+  "ext": ".jpg",
+  "bytes": 287020,
+  "sha1": "ef0ccc3f940473ed65b8b31768feaf494f4b002b",
+  "w": 1536,
+  "h": 804,
+  "camera": null,
+  "phash": "c3ed9c30e1dfc181",
+  "id": "ef0ccc3f9404",
+  "paths": [
+   "Google Ads/Photo Mar 15, 4 39 20 PM_1.91 (130164880190).jpg"
+  ],
+  "folder": {
+   "tags": [
+    "Google Ads"
+   ]
+  },
+  "added": "2026-09-22"
+ },
+ {
+  "kind": "photo",
+  "ext": ".jpg",
+  "bytes": 3437198,
+  "sha1": "43d7e181dadbcc76f0cfdb63137ff9f5421b5282",
+  "w": 4032,
+  "h": 3024,
+  "camera": null,
+  "phash": "a3b83816587c6cde",
+  "id": "43d7e181dadb",
+  "paths": [
+   "Google Ads/Photo Mar 24, 4 03 31 PM (130172073106).jpg"
+  ],
+  "folder": {
+   "tags": [
+    "Google Ads"
+   ]
+  },
+  "added": "2026-09-22"
+ },
+ {
+  "kind": "photo",
+  "ext": ".jpg",
+  "bytes": 1163955,
+  "sha1": "15bb93409183370315f905be6ac8532f2f8a4d96",
+  "w": 4032,
+  "h": 2117,
+  "camera": null,
+  "phash": "a3b8145874fe6ac3",
+  "id": "15bb93409183",
+  "paths": [
+   "Google Ads/Photo Mar 24, 4 03 31 PM_1.91 (130164911096).jpg"
+  ],
+  "folder": {
+   "tags": [
+    "Google Ads"
+   ]
+  },
+  "added": "2026-09-22"
+ },
+ {
+  "kind": "photo",
+  "ext": ".jpg",
+  "bytes": 3189556,
+  "sha1": "38beaf9f1baf9df8d33295df8c076cf1be1724f1",
+  "w": 4032,
+  "h": 3024,
+  "camera": null,
+  "phash": "81c1f8e855fa305f",
+  "id": "38beaf9f1baf",
+  "paths": [
+   "Google Ads/Photo Mar 24, 4 03 36 PM (130172074975).jpg"
+  ],
+  "folder": {
+   "tags": [
+    "Google Ads"
+   ]
+  },
+  "added": "2026-09-22"
+ },
+ {
+  "kind": "photo",
+  "ext": ".jpg",
+  "bytes": 1487396,
+  "sha1": "fa5298701cb07a55c7b16eec9dd7f35ae99da134",
+  "w": 3024,
+  "h": 3024,
+  "camera": null,
+  "phash": "bced0d88d40f1759",
+  "id": "fa5298701cb0",
+  "paths": [
+   "Google Ads/Photo Mar 24, 4 03 36 PM_1 (130211768985).jpg"
+  ],
+  "folder": {
+   "tags": [
+    "Google Ads"
+   ]
+  },
+  "added": "2026-09-22"
+ },
+ {
+  "kind": "video",
+  "ext": ".mp4",
+  "bytes": 43656222,
+  "sha1": "d52ee6e992c0a4b9e82090897f88751f66d4da6f",
+  "duration": 63.9,
+  "w": 1920,
+  "h": 1920,
+  "id": "d52ee6e992c0",
+  "paths": [
+   "Google Ads/Square  Meet GatorGuard - Garage Floor and home interior coatings (utpMDpyMok8).mp4"
+  ],
+  "folder": {
+   "tags": [
+    "Google Ads"
+   ]
+  },
+  "added": "2026-09-22"
+ },
+ {
+  "kind": "video",
+  "ext": ".mp4",
+  "bytes": 14265500,
+  "sha1": "b1aa1947568df02038ee1d6db5f26ccdd5d1d3d8",
+  "duration": 48.7,
+  "w": 1742,
+  "h": 1742,
+  "id": "b1aa1947568d",
+  "paths": [
+   "Google Ads/Square  What products to use on your garage floor (jdYAJ38xHyI).mp4"
+  ],
+  "folder": {
+   "tags": [
+    "Google Ads"
+   ]
+  },
+  "added": "2026-09-22"
+ },
+ {
+  "kind": "video",
+  "ext": ".mp4",
+  "bytes": 1579288,
+  "sha1": "c82d1bc231c5780ce408c9cbbb3bfd9241f1bc2d",
+  "duration": 15.2,
+  "w": 1080,
+  "h": 1920,
+  "id": "c82d1bc231c5",
+  "paths": [
+   "Google Ads/Vertical  Expanding ripples video (QQhoER4H_cw).mp4"
+  ],
+  "folder": {
+   "tags": [
+    "Google Ads"
+   ]
+  },
+  "added": "2026-09-22"
+ },
+ {
+  "kind": "photo",
+  "ext": ".png",
+  "bytes": 8199311,
+  "sha1": "76a09ddf3e014beeac4f80a3b05a8859a2d1cd02",
+  "w": 3840,
+  "h": 2160,
+  "camera": null,
+  "phash": "a9bb1a1c1c8ccecb",
+  "id": "76a09ddf3e01",
+  "paths": [
+   "Google Ads/Website image - 2024-07-16 08 32 06.042 (150749207740).png"
+  ],
+  "folder": {
+   "tags": [
+    "Google Ads"
+   ]
+  },
+  "added": "2026-09-22"
+ },
+ {
+  "kind": "photo",
+  "ext": ".png",
+  "bytes": 3708209,
+  "sha1": "3e367a1ef853f8d0b8336ff7a2904e6fc8ab089a",
+  "w": 1728,
+  "h": 2160,
+  "camera": null,
+  "phash": "df93844e0ecac4d3",
+  "id": "3e367a1ef853",
+  "paths": [
+   "Google Ads/Website image - 2024-07-16 08 32 06.042_4 5 (150796980408).png"
+  ],
+  "folder": {
+   "tags": [
+    "Google Ads"
+   ]
+  },
+  "added": "2026-09-22"
+ },
+ {
+  "kind": "photo",
+  "ext": ".png",
+  "bytes": 900740,
+  "sha1": "3e85edc6d756406086dcb15bc417c63d1ae25fad",
+  "w": 608,
+  "h": 608,
+  "camera": null,
+  "phash": "aa8d494a68db5bca",
+  "id": "3e85edc6d756",
+  "paths": [
+   "Google Ads/Website image - 2024-08-05 13 57 49.346 (3) (155308281607).png"
+  ],
+  "folder": {
+   "tags": [
+    "Google Ads"
+   ]
+  },
+  "added": "2026-09-22"
+ },
+ {
+  "kind": "photo",
+  "ext": ".png",
+  "bytes": 795549,
+  "sha1": "19ca1a8e068a6b2a6b9da6101663f8c2a103839d",
+  "w": 912,
+  "h": 912,
+  "camera": null,
+  "phash": "cfeb243422c9cad3",
+  "id": "19ca1a8e068a",
+  "paths": [
+   "Google Ads/Website image - 2024-09-04 09 52 58 (168822995976).png"
+  ],
+  "folder": {
+   "tags": [
+    "Google Ads"
+   ]
+  },
+  "added": "2026-09-22"
+ },
+ {
+  "kind": "photo",
+  "ext": ".png",
+  "bytes": 550711,
+  "sha1": "fa2aeecc7bb5eb0fb2eee8da0172b01cb89f5a20",
+  "w": 708,
+  "h": 708,
+  "camera": null,
+  "phash": "b1e9aea4d34342bc",
+  "id": "fa2aeecc7bb5",
+  "paths": [
+   "Google Ads/Website image - 2024-09-04 09 52 58.164 (1) (168822995988).png"
+  ],
+  "folder": {
+   "tags": [
+    "Google Ads"
+   ]
+  },
+  "added": "2026-09-22"
+ },
+ {
+  "kind": "video",
+  "ext": ".mp4",
+  "bytes": 7743434,
+  "sha1": "48c7cef26b826e07873ae5936222759485f36ddd",
+  "duration": 48.6,
+  "w": 1920,
+  "h": 1080,
+  "id": "48c7cef26b82",
+  "paths": [
+   "Google Ads/What products to use on your garage floor (BgjmYxDEQs0).mp4"
+  ],
+  "folder": {
+   "tags": [
+    "Google Ads"
+   ]
+  },
+  "added": "2026-09-22"
+ },
+ {
+  "kind": "photo",
+  "ext": ".jpg",
+  "bytes": 332275,
+  "sha1": "44b9427826d57f764126e5747aa76e9f9448f0f8",
+  "w": 1125,
+  "h": 844,
+  "camera": null,
+  "phash": "91d07c7f1f574058",
+  "id": "44b9427826d5",
+  "paths": [
+   "Google Ads/a1888217-6bbb-4e15-9661-b5d1e12dbe24_8_det (326864266135).jpg"
+  ],
+  "folder": {
+   "tags": [
+    "Google Ads"
+   ]
+  },
+  "added": "2026-09-22"
+ },
+ {
+  "kind": "photo",
+  "ext": ".jpg",
+  "bytes": 244836,
+  "sha1": "db859e59990c003be5f97a692562e562fb72bcfd",
+  "w": 1125,
+  "h": 591,
+  "camera": null,
+  "phash": "91747f5f7458484a",
+  "id": "db859e59990c",
+  "paths": [
+   "Google Ads/a1888217-6bbb-4e15-9661-b5d1e12dbe24_8_det_1.9108 (326783170865).jpg"
+  ],
+  "folder": {
+   "tags": [
+    "Google Ads"
+   ]
+  },
+  "added": "2026-09-22"
+ },
+ {
+  "kind": "photo",
+  "ext": ".jpg",
+  "bytes": 106480,
+  "sha1": "d072bd533ab8f85a5b7f67a28ae57ec20091051d",
+  "w": 1080,
+  "h": 607,
+  "camera": null,
+  "phash": "8666667979dc4646",
+  "id": "d072bd533ab8",
+  "paths": [
+   "Google Ads/a1bff4c7-d574-4e85-af5d-64a5764818e0_8_ind (326863825582).jpg"
+  ],
+  "folder": {
+   "tags": [
+    "Google Ads"
+   ]
+  },
+  "added": "2026-09-22"
+ },
+ {
+  "kind": "photo",
+  "ext": ".jpg",
+  "bytes": 99191,
+  "sha1": "d31ab3f7cab602ba56cd76363adeab9fd0e983fe",
+  "w": 605,
+  "h": 607,
+  "camera": null,
+  "phash": "b87c7c414f407c7c",
+  "id": "d31ab3f7cab6",
+  "paths": [
+   "Google Ads/a1bff4c7-d574-4e85-af5d-64a5764818e0_8_ind_1 (326863825810).jpg"
+  ],
+  "folder": {
+   "tags": [
+    "Google Ads"
+   ]
+  },
+  "added": "2026-09-22"
+ },
+ {
+  "kind": "photo",
+  "ext": ".jpg",
+  "bytes": 455432,
+  "sha1": "bb7266800b1b117d2ba1e3a529aaf87ba8868641",
+  "w": 1125,
+  "h": 1500,
+  "camera": null,
+  "phash": "fbb0998ca2d2ea29",
+  "id": "bb7266800b1b",
+  "paths": [
+   "Google Ads/ad3bc691-a184-4c04-af14-a79f4439f9e9_7_det (326864266189).jpg"
+  ],
+  "folder": {
+   "tags": [
+    "Google Ads"
+   ]
+  },
+  "added": "2026-09-22"
+ },
+ {
+  "kind": "photo",
+  "ext": ".jpg",
+  "bytes": 281644,
+  "sha1": "3714bd507597d0b8f3b950bd0a0c68f67e042636",
+  "w": 843,
+  "h": 1500,
+  "camera": null,
+  "phash": "f3b89a8ca1b6d348",
+  "id": "3714bd507597",
+  "paths": [
+   "Google Ads/ad3bc691-a184-4c04-af14-a79f4439f9e9_7_det_0.5625 (394091285107).jpg"
+  ],
+  "folder": {
+   "tags": [
+    "Google Ads"
+   ]
+  },
+  "added": "2026-09-22"
+ },
+ {
+  "kind": "photo",
+  "ext": ".jpg",
+  "bytes": 367132,
+  "sha1": "21ce7970eb1ed1fbf1ad64c28b6af3d71876f884",
+  "w": 1125,
+  "h": 1125,
+  "camera": null,
+  "phash": "fb918da6d2a9542a",
+  "id": "21ce7970eb1e",
+  "paths": [
+   "Google Ads/ad3bc691-a184-4c04-af14-a79f4439f9e9_7_det_1 (394091267095).jpg"
+  ],
+  "folder": {
+   "tags": [
+    "Google Ads"
+   ]
+  },
+  "added": "2026-09-22"
+ },
+ {
+  "kind": "photo",
+  "ext": ".jpg",
+  "bytes": 128866,
+  "sha1": "c72e7048428e3310cddd3887d1210db00497d7f1",
+  "w": 1125,
+  "h": 589,
+  "camera": null,
+  "phash": "f98cbb6c06d1f0b0",
+  "id": "c72e7048428e",
+  "paths": [
+   "Google Ads/ad3bc691-a184-4c04-af14-a79f4439f9e9_7_det_1.9108 (394091141173).jpg"
+  ],
+  "folder": {
+   "tags": [
+    "Google Ads"
+   ]
+  },
+  "added": "2026-09-22"
+ },
+ {
+  "kind": "photo",
+  "ext": ".jpg",
+  "bytes": 516786,
+  "sha1": "e33e819c4deab0d282deef7407cd2ced5a1c386b",
+  "w": 1014,
+  "h": 1353,
+  "camera": null,
+  "phash": "8989494b6bc98d9f",
+  "id": "e33e819c4dea",
+  "paths": [
+   "Google Ads/bb77a420-b215-4fbf-998a-0648efb7cd0d_3_ind (326782641398).jpg"
+  ],
+  "folder": {
+   "tags": [
+    "Google Ads"
+   ]
+  },
+  "added": "2026-09-22"
+ },
+ {
+  "kind": "photo",
+  "ext": ".jpg",
+  "bytes": 135108,
+  "sha1": "a78e7fb9217072a9b40bf4ae718edd0fc1fc831f",
+  "w": 1080,
+  "h": 607,
+  "camera": null,
+  "phash": "fabda0801c5e4eec",
+  "id": "a78e7fb92170",
+  "paths": [
+   "Google Ads/d9ccbb74-2065-4ca8-8a79-17cae33570e3_7_ind (326915730504).jpg"
+  ],
+  "folder": {
+   "tags": [
+    "Google Ads"
+   ]
+  },
+  "added": "2026-09-22"
+ },
+ {
+  "kind": "photo",
+  "ext": ".jpg",
+  "bytes": 124991,
+  "sha1": "1e2b8d5338fe556265100e776b1a1472373d5e3b",
+  "w": 1080,
+  "h": 607,
+  "camera": null,
+  "phash": "ca0a1e1e1e5cd6f4",
+  "id": "1e2b8d5338fe",
+  "paths": [
+   "Google Ads/eabb5326-0ad2-4b27-bcb0-8dd092bb4f9d_3_det (326916189846).jpg"
+  ],
+  "folder": {
+   "tags": [
+    "Google Ads"
+   ]
+  },
+  "added": "2026-09-22"
+ },
+ {
+  "kind": "photo",
+  "ext": ".jpg",
+  "bytes": 117736,
+  "sha1": "a3200d6bf64f2e652284d05189fab0b3f946fa5d",
+  "w": 605,
+  "h": 607,
+  "camera": null,
+  "phash": "c9494d4d64cc9eb6",
+  "id": "a3200d6bf64f",
+  "paths": [
+   "Google Ads/eabb5326-0ad2-4b27-bcb0-8dd092bb4f9d_3_det_1 (326783143763).jpg"
+  ],
+  "folder": {
+   "tags": [
+    "Google Ads"
+   ]
+  },
+  "added": "2026-09-22"
+ },
+ {
+  "kind": "photo",
+  "ext": ".jpg",
+  "bytes": 288886,
+  "sha1": "275508978debbf81b6f561a390463e6a9d77ea07",
+  "w": 1440,
+  "h": 1080,
+  "camera": null,
+  "phash": "d9d9a19001175f5f",
+  "id": "275508978deb",
+  "paths": [
+   "Google Ads/f1b51fc6-d31c-4c0a-98c0-b4d4efef3de1__3_det (326916189900).jpg"
+  ],
+  "folder": {
+   "tags": [
+    "Google Ads"
+   ]
+  },
+  "added": "2026-09-22"
+ },
+ {
+  "kind": "photo",
+  "ext": ".jpg",
+  "bytes": 223194,
+  "sha1": "2cce7bd74bd68f0d9f0cd56143ddc27e1c7bb8c2",
+  "w": 1440,
+  "h": 756,
+  "camera": null,
+  "phash": "d9d981031f5f5878",
+  "id": "2cce7bd74bd6",
+  "paths": [
+   "Google Ads/f1b51fc6-d31c-4c0a-98c0-b4d4efef3de1__3_det_1.9108 (326783143769).jpg"
+  ],
+  "folder": {
+   "tags": [
+    "Google Ads"
+   ]
+  },
+  "added": "2026-09-22"
+ },
+ {
+  "kind": "photo",
+  "ext": ".jpg",
+  "bytes": 27762,
+  "sha1": "75b431d2a4c7dc2a02b3d46df45f34601e99250a",
+  "w": 400,
+  "h": 400,
+  "camera": null,
+  "phash": "b92ec2999cd0e16d",
+  "id": "75b431d2a4c7",
+  "paths": [
+   "Google Ads/twitter.com mygatorguard.com 2022-11-01 17 45 53 (60619485999).jpg"
+  ],
+  "folder": {
+   "tags": [
+    "Google Ads"
+   ]
+  },
+  "added": "2026-09-22"
+ },
+ {
+  "kind": "photo",
+  "ext": ".jpg",
+  "bytes": 224781,
+  "sha1": "7c29cfb001a6761219c81f116ef3bba16f9f4f93",
+  "w": 1500,
+  "h": 500,
+  "camera": null,
+  "phash": "9a9a4b1f4b5334b4",
+  "id": "7c29cfb001a6",
+  "paths": [
+   "Google Ads/twitter.com mygatorguard.com 2022-11-01 17 47 00 (60567435733).jpg"
+  ],
+  "folder": {
+   "tags": [
+    "Google Ads"
+   ]
+  },
+  "added": "2026-09-22"
+ },
+ {
+  "kind": "photo",
+  "ext": ".jpg",
+  "bytes": 59369,
+  "sha1": "1873e63800827ecb5d8ba51aa6af203e9063c91d",
+  "w": 500,
+  "h": 500,
+  "camera": null,
+  "phash": "bcbdce86c2d86207",
+  "id": "1873e6380082",
+  "paths": [
+   "Google Ads/twitter.com mygatorguard_1.com 2022-11-01 17 47 00 (60569724986).jpg"
+  ],
+  "folder": {
+   "tags": [
+    "Google Ads"
+   ]
+  },
+  "added": "2026-09-22"
+ },
+ {
+  "kind": "photo",
+  "ext": ".jpg",
+  "bytes": 373413,
+  "sha1": "161b8e20af6aea061071740f661e3bfaea31780e",
+  "w": 1920,
+  "h": 1000,
+  "camera": null,
+  "phash": "9b5ad4c2e2e161ad",
+  "id": "161b8e20af6a",
+  "paths": [
+   "Google Ads/unknown 2022-11-01 17 44 27 (2) (60567314152).jpg"
+  ],
+  "folder": {
+   "tags": [
+    "Google Ads"
+   ]
+  },
+  "added": "2026-09-22"
+ },
+ {
+  "kind": "photo",
+  "ext": ".jpg",
+  "bytes": 130539,
+  "sha1": "e07d6b80244786fda513f35cadfb82a2d64e2d7f",
+  "w": 806,
+  "h": 1000,
+  "camera": null,
+  "phash": "b48cdae7c1717168",
+  "id": "e07d6b802447",
+  "paths": [
+   "Google Ads/unknown 2022-11-01 17 44 27 (2)_0.8 (407535393546).jpg"
+  ],
+  "folder": {
+   "tags": [
+    "Google Ads"
+   ]
+  },
+  "added": "2026-09-22"
+ },
+ {
+  "kind": "photo",
+  "ext": ".jpg",
+  "bytes": 160854,
+  "sha1": "52ec86762f5d14961aeeabc8654553a88f13726b",
+  "w": 998,
+  "h": 1000,
+  "camera": null,
+  "phash": "a099dae4cfe2624b",
+  "id": "52ec86762f5d",
+  "paths": [
+   "Google Ads/unknown 2022-11-01 17 44 27 (2)_1 (407360413943).jpg"
+  ],
+  "folder": {
+   "tags": [
+    "Google Ads"
+   ]
+  },
+  "added": "2026-09-22"
+ },
+ {
+  "kind": "photo",
+  "ext": ".jpg",
+  "bytes": 22351,
+  "sha1": "6a8a2d29a59b0e2f6cab7121758a5ee949b28eb7",
+  "w": 572,
+  "h": 572,
+  "camera": null,
+  "phash": "aaad95d4ca6a2d25",
+  "id": "6a8a2d29a59b",
+  "paths": [
+   "Google Ads/unknown 2022-11-01 17 44 36_1 1 (60619410468).jpg"
+  ],
+  "folder": {
+   "tags": [
+    "Google Ads"
+   ]
+  },
+  "added": "2026-09-22"
+ },
+ {
+  "kind": "photo",
+  "ext": ".jpg",
+  "bytes": 83594,
+  "sha1": "ce6285bc0ad7f58da8e455abca8a8121064bbe21",
+  "w": 1000,
+  "h": 523,
+  "camera": null,
+  "phash": "caaa27545758d9a9",
+  "id": "ce6285bc0ad7",
+  "paths": [
+   "Google Ads/unknown 2022-11-01 17 44 53_1.91 1 (60619433121).jpg"
+  ],
+  "folder": {
+   "tags": [
+    "Google Ads"
+   ]
+  },
+  "added": "2026-09-22"
  },
  {
   "kind": "photo",

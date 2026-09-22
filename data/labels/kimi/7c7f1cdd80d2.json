@@ -1,0 +1,48 @@
+{
+ "finish": "stop",
+ "usage": {
+  "input_tokens": 5648,
+  "output_tokens": 219,
+  "cost": 0.0170862
+ },
+ "served_by": "Together",
+ "label": {
+  "content": "before_after_composite",
+  "area": "garage",
+  "setting": "residential",
+  "system": "full_flake",
+  "color": "unknown",
+  "color_confidence": "low",
+  "color_runner_up": "Avalon",
+  "color_description": "light gray base with white, gray and black chips, small to medium size",
+  "shot_type": "before_after",
+  "people": "none",
+  "faces_identifiable": false,
+  "privacy": [],
+  "branding_visible": true,
+  "quality": "3",
+  "issues": [
+   "text_overlay"
+  ],
+  "website_ready": false,
+  "title": "Before and after garage floor coating ad",
+  "alt_text": "Split image of stained bare concrete and a finished gray flake garage floor with GatorGuard logo and free quote text",
+  "tags": [
+   "before and after",
+   "garage floor",
+   "full flake",
+   "gray chips",
+   "facebook ad",
+   "bare concrete",
+   "coated floor",
+   "marketing"
+  ],
+  "filename": "garage-floor-before-after-ad"
+ },
+ "id": "7c7f1cdd80d2",
+ "provider": "kimi",
+ "model": "moonshotai/kimi-k3",
+ "mode": "run",
+ "blind": false,
+ "at": "2026-09-22T10:50:11"
+}

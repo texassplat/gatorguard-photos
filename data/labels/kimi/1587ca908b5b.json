@@ -1,0 +1,48 @@
+{
+ "finish": "stop",
+ "usage": {
+  "input_tokens": 4654,
+  "output_tokens": 211,
+  "cost": 0.00754991
+ },
+ "served_by": "DigitalOcean",
+ "label": {
+  "alt_text": "Finished gray flake garage floor with Garages text and GatorGuard gator graphic overlay",
+  "area": "garage",
+  "branding_visible": true,
+  "color": "unknown",
+  "color_confidence": "low",
+  "color_description": "gray, white and black chips, small to medium size",
+  "color_runner_up": "Granite",
+  "content": "marketing_graphic",
+  "faces_identifiable": false,
+  "filename": "garage-floor-ad-garages-text",
+  "issues": [
+   "text_overlay"
+  ],
+  "people": "none",
+  "privacy": [],
+  "quality": "3",
+  "setting": "residential",
+  "shot_type": "graphic",
+  "system": "full_flake",
+  "tags": [
+   "garage",
+   "full flake",
+   "gray chips",
+   "facebook ad",
+   "text overlay",
+   "gator graphic",
+   "finished floor",
+   "garage door"
+  ],
+  "title": "Gray flake garage floor with Garages text",
+  "website_ready": false
+ },
+ "id": "1587ca908b5b",
+ "provider": "kimi",
+ "model": "moonshotai/kimi-k3",
+ "mode": "run",
+ "blind": false,
+ "at": "2026-09-22T10:50:12"
+}

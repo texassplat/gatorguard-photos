@@ -1,0 +1,46 @@
+{
+ "finish": "stop",
+ "usage": {
+  "input_tokens": 5059,
+  "output_tokens": 419,
+  "cost": 0.0131676
+ },
+ "served_by": "Modal",
+ "label": {
+  "alt_text": "Close-up of a gray, white and black full flake floor with coated stem wall in a garage",
+  "area": "garage",
+  "branding_visible": false,
+  "color": "Stone Rowe",
+  "color_confidence": "low",
+  "color_description": "gray, white and black chips, medium size, with some silver flecks",
+  "color_runner_up": "Silverado",
+  "content": "floor_photo",
+  "faces_identifiable": false,
+  "filename": "gray-flake-floor-stem-wall-close-up",
+  "issues": [],
+  "people": "none",
+  "privacy": [],
+  "quality": "4",
+  "setting": "residential",
+  "shot_type": "close_up",
+  "system": "full_flake",
+  "tags": [
+   "full flake",
+   "garage floor",
+   "stem wall",
+   "close up",
+   "gray chips",
+   "white chips",
+   "black chips",
+   "coated floor"
+  ],
+  "title": "Close-up of gray full flake floor and stem wall",
+  "website_ready": false
+ },
+ "id": "29f2c2990337",
+ "provider": "kimi",
+ "model": "moonshotai/kimi-k3",
+ "mode": "run",
+ "blind": false,
+ "at": "2026-09-22T10:53:35"
+}

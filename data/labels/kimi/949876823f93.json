@@ -1,0 +1,45 @@
+{
+ "finish": "stop",
+ "usage": {
+  "input_tokens": 5646,
+  "output_tokens": 163,
+  "cost": 0.0192129
+ },
+ "served_by": "Together",
+ "label": {
+  "content": "logo_or_text_graphic",
+  "area": "not_visible",
+  "setting": "unknown",
+  "system": "not_applicable",
+  "color": "not_applicable",
+  "color_confidence": "none",
+  "color_runner_up": "not_applicable",
+  "color_description": "",
+  "shot_type": "graphic",
+  "people": "none",
+  "faces_identifiable": false,
+  "privacy": [],
+  "branding_visible": true,
+  "quality": "4",
+  "issues": [],
+  "website_ready": false,
+  "title": "GatorGuard Move Out Move In logo graphic",
+  "alt_text": "GatorGuard Concrete Coatings logo with alligator mascot and Move Out Move In badge",
+  "tags": [
+   "logo",
+   "branding",
+   "alligator mascot",
+   "move out move in",
+   "graphic",
+   "facebook ad",
+   "marketing"
+  ],
+  "filename": "gatoguard-move-out-move-in-logo"
+ },
+ "id": "949876823f93",
+ "provider": "kimi",
+ "model": "moonshotai/kimi-k3",
+ "mode": "run",
+ "blind": false,
+ "at": "2026-09-22T10:46:04"
+}

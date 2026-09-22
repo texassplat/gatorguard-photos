@@ -1,0 +1,49 @@
+{
+ "finish": "stop",
+ "usage": {
+  "input_tokens": 5078,
+  "output_tokens": 1582,
+  "cost": 0.02638556
+ },
+ "served_by": "DigitalOcean",
+ "label": {
+  "alt_text": "Video clips show a worker pouring white coating, a crew member carrying a bucket, and a gray garage floor coating ad.",
+  "area": "garage",
+  "branding_visible": false,
+  "color": "unknown",
+  "color_confidence": "none",
+  "color_description": "flat gray floor shown without visible chips",
+  "color_runner_up": "unknown",
+  "content": "people_or_team",
+  "faces_identifiable": true,
+  "filename": "crew-pouring-coating-garage-ad",
+  "issues": [],
+  "people": "prominent",
+  "privacy": [
+   "customer_face"
+  ],
+  "quality": "3",
+  "setting": "residential",
+  "shot_type": "crew_working",
+  "system": "unknown",
+  "tags": [
+   "video",
+   "garage",
+   "crew working",
+   "pouring coating",
+   "bucket",
+   "gray floor",
+   "facebook ad",
+   "residential",
+   "in progress"
+  ],
+  "title": "Crew pouring coating in garage ad video",
+  "website_ready": false
+ },
+ "id": "001a53a42b3c",
+ "provider": "kimi",
+ "model": "moonshotai/kimi-k3",
+ "mode": "run",
+ "blind": false,
+ "at": "2026-09-22T10:49:03"
+}

@@ -1,0 +1,48 @@
+{
+ "finish": "stop",
+ "usage": {
+  "input_tokens": 5084,
+  "output_tokens": 252,
+  "cost": 0.00917736
+ },
+ "served_by": "DigitalOcean",
+ "label": {
+  "alt_text": "Ad video showing garage coating work, crew truck outside home, and finished gray flake garage floor.",
+  "area": "garage",
+  "branding_visible": true,
+  "color": "unknown",
+  "color_confidence": "none",
+  "color_description": "gray and dark chips, mixed sizes, seen only in snippet of finished floor",
+  "color_runner_up": "unknown",
+  "content": "floor_photo",
+  "faces_identifiable": false,
+  "filename": "garage-coating-ad-video-day-two",
+  "issues": [
+   "text_overlay",
+   "blurry",
+   "heavy_filter"
+  ],
+  "people": "prominent",
+  "privacy": [],
+  "quality": "2",
+  "setting": "residential",
+  "shot_type": "in_progress",
+  "system": "full_flake",
+  "tags": [
+   "garage floor coating",
+   "in progress",
+   "gatorguard truck",
+   "gray flake floor",
+   "residential garage",
+   "facebook ad video"
+  ],
+  "title": "Garage coating ad video with crew and truck",
+  "website_ready": false
+ },
+ "id": "1aa865b8d9ca",
+ "provider": "kimi",
+ "model": "moonshotai/kimi-k3",
+ "mode": "run",
+ "blind": false,
+ "at": "2026-09-22T10:47:35"
+}

@@ -1,0 +1,47 @@
+{
+ "finish": "stop",
+ "usage": {
+  "input_tokens": 4686,
+  "output_tokens": 313,
+  "cost": 0.018753
+ },
+ "served_by": "Parasail",
+ "label": {
+  "content": "floor_photo",
+  "area": "basement",
+  "setting": "residential",
+  "system": "full_flake",
+  "color": "Black Canyon",
+  "color_confidence": "medium",
+  "color_runner_up": "Galaxy",
+  "color_description": "small dense black, gray, white and tan chips on a dark base, glossy finish",
+  "shot_type": "finished",
+  "people": "none",
+  "faces_identifiable": false,
+  "privacy": [],
+  "branding_visible": false,
+  "quality": "4",
+  "issues": [],
+  "website_ready": true,
+  "title": "Finished basement with dark full flake floor",
+  "alt_text": "Finished basement with glossy dark full flake epoxy floor, wood staircase and French doors, full flake basement floor coating",
+  "tags": [
+   "basement",
+   "full flake",
+   "dark flake floor",
+   "black gray white chips",
+   "glossy floor",
+   "staircase",
+   "french doors",
+   "finished floor",
+   "residential"
+  ],
+  "filename": "basement-dark-full-flake-floor"
+ },
+ "id": "3390e244d0c8",
+ "provider": "kimi",
+ "model": "moonshotai/kimi-k3",
+ "mode": "run",
+ "blind": false,
+ "at": "2026-09-22T10:52:34"
+}

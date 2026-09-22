@@ -1,0 +1,48 @@
+{
+ "finish": "stop",
+ "usage": {
+  "input_tokens": 5323,
+  "output_tokens": 216,
+  "cost": 0.0109146
+ },
+ "served_by": "Modal",
+ "label": {
+  "alt_text": "Spacious residential garage with gray full flake epoxy floor, two garage doors and blue wall stripes",
+  "area": "garage",
+  "branding_visible": false,
+  "color": "Granite",
+  "color_confidence": "medium",
+  "color_description": "gray base with black, white and gray chips, small to medium size",
+  "color_runner_up": "Infinity",
+  "content": "floor_photo",
+  "faces_identifiable": false,
+  "filename": "large-garage-gray-full-flake-floor",
+  "issues": [],
+  "people": "none",
+  "privacy": [],
+  "quality": "5",
+  "setting": "residential",
+  "shot_type": "finished",
+  "system": "full_flake",
+  "tags": [
+   "garage",
+   "full flake",
+   "gray floor",
+   "gray black white chips",
+   "two car garage",
+   "garage doors",
+   "epoxy floor",
+   "glossy",
+   "finished floor",
+   "blue wall stripe"
+  ],
+  "title": "Large garage with gray full flake floor",
+  "website_ready": true
+ },
+ "id": "43d7e181dadb",
+ "provider": "kimi",
+ "model": "moonshotai/kimi-k3",
+ "mode": "run",
+ "blind": false,
+ "at": "2026-09-22T10:54:06"
+}

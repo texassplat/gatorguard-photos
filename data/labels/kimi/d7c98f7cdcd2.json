@@ -1,0 +1,49 @@
+{
+ "finish": "stop",
+ "usage": {
+  "input_tokens": 5657,
+  "output_tokens": 212,
+  "cost": 0.01012051
+ },
+ "served_by": "DigitalOcean",
+ "label": {
+  "alt_text": "Facebook ad collage showing gray flake garage floors, a Porsche, in-progress work, and GatorGuard logo with Tough Concrete Floors text",
+  "area": "garage",
+  "branding_visible": true,
+  "color": "unknown",
+  "color_confidence": "low",
+  "color_description": "gray, white and black chips, fine to medium size",
+  "color_runner_up": "unknown",
+  "content": "marketing_graphic",
+  "faces_identifiable": false,
+  "filename": "facebook-ad-tough-concrete-floors-collage",
+  "issues": [
+   "text_overlay"
+  ],
+  "people": "background",
+  "privacy": [],
+  "quality": "3",
+  "setting": "residential",
+  "shot_type": "graphic",
+  "system": "full_flake",
+  "tags": [
+   "facebook ad",
+   "collage",
+   "garage",
+   "full flake",
+   "gray chips",
+   "porsche",
+   "logo graphic",
+   "tough concrete floors",
+   "car on floor"
+  ],
+  "title": "Facebook ad collage of gray flake garage floors",
+  "website_ready": false
+ },
+ "id": "d7c98f7cdcd2",
+ "provider": "kimi",
+ "model": "moonshotai/kimi-k3",
+ "mode": "run",
+ "blind": false,
+ "at": "2026-09-22T10:46:11"
+}

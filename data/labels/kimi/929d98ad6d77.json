@@ -1,0 +1,49 @@
+{
+ "finish": "stop",
+ "usage": {
+  "input_tokens": 5652,
+  "output_tokens": 197,
+  "cost": 0.0167655
+ },
+ "served_by": "Together",
+ "label": {
+  "content": "marketing_graphic",
+  "area": "garage",
+  "setting": "residential",
+  "system": "full_flake",
+  "color": "unknown",
+  "color_confidence": "low",
+  "color_runner_up": "unknown",
+  "color_description": "gray, white and black chips, small to medium size",
+  "shot_type": "graphic",
+  "people": "none",
+  "faces_identifiable": false,
+  "privacy": [],
+  "branding_visible": false,
+  "quality": "3",
+  "issues": [
+   "text_overlay"
+  ],
+  "website_ready": false,
+  "title": "Red Dodge Charger on gray flake garage floor",
+  "alt_text": "Red Dodge Charger parked on a gray full flake garage floor with Lifetime Warranty text overlay",
+  "tags": [
+   "garage",
+   "full flake",
+   "gray chips",
+   "red car",
+   "dodge charger",
+   "cabinets",
+   "text overlay",
+   "google ads",
+   "finished floor"
+  ],
+  "filename": "red-charger-gray-flake-garage-ad"
+ },
+ "id": "929d98ad6d77",
+ "provider": "kimi",
+ "model": "moonshotai/kimi-k3",
+ "mode": "run",
+ "blind": false,
+ "at": "2026-09-22T10:53:16"
+}

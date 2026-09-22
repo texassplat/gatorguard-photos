@@ -1,0 +1,47 @@
+{
+ "finish": "stop",
+ "usage": {
+  "input_tokens": 4953,
+  "output_tokens": 203,
+  "cost": 0.0096096
+ },
+ "served_by": "Modal",
+ "label": {
+  "alt_text": "Finished garage floor with tan, brown and black flake coating and a coated step ledge; full flake garage floor coating",
+  "area": "garage",
+  "branding_visible": false,
+  "color": "Santana",
+  "color_confidence": "medium",
+  "color_description": "tan, brown, black and cream chips, small to medium size, warm sandy blend",
+  "color_runner_up": "Chestnut",
+  "content": "floor_photo",
+  "faces_identifiable": false,
+  "filename": "garage-tan-full-flake-floor",
+  "issues": [],
+  "people": "none",
+  "privacy": [],
+  "quality": "4",
+  "setting": "residential",
+  "shot_type": "finished",
+  "system": "full_flake",
+  "tags": [
+   "garage",
+   "full flake",
+   "tan chips",
+   "brown chips",
+   "glossy",
+   "finished floor",
+   "step ledge",
+   "wall shelf",
+   "recycle bin"
+  ],
+  "title": "Garage with tan full flake floor",
+  "website_ready": true
+ },
+ "id": "0ecb93176560",
+ "provider": "kimi",
+ "model": "moonshotai/kimi-k3",
+ "mode": "run",
+ "blind": false,
+ "at": "2026-09-22T10:53:56"
+}

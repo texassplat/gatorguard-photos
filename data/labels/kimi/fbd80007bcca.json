@@ -1,0 +1,48 @@
+{
+ "finish": "stop",
+ "usage": {
+  "input_tokens": 5652,
+  "output_tokens": 225,
+  "cost": 0.020331
+ },
+ "served_by": "Modal",
+ "label": {
+  "alt_text": "Home gym with weight equipment on a light speckled full flake floor with Lifetime Warranty text overlay",
+  "area": "interior_room",
+  "branding_visible": false,
+  "color": "unknown",
+  "color_confidence": "low",
+  "color_description": "light tan and gray chips with white, small to medium size",
+  "color_runner_up": "Ocotillo",
+  "content": "marketing_graphic",
+  "faces_identifiable": false,
+  "filename": "home-gym-flake-floor-lifetime-warranty",
+  "issues": [
+   "text_overlay"
+  ],
+  "people": "none",
+  "privacy": [],
+  "quality": "3",
+  "setting": "residential",
+  "shot_type": "graphic",
+  "system": "full_flake",
+  "tags": [
+   "home gym",
+   "full flake",
+   "light tan chips",
+   "gym equipment",
+   "cabinets",
+   "text overlay",
+   "finished floor",
+   "google ads"
+  ],
+  "title": "Home gym with light flake floor and warranty text",
+  "website_ready": false
+ },
+ "id": "fbd80007bcca",
+ "provider": "kimi",
+ "model": "moonshotai/kimi-k3",
+ "mode": "run",
+ "blind": false,
+ "at": "2026-09-22T10:53:19"
+}

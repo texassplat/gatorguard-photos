@@ -1,8 +1,10 @@
 # GatorGuard Photo Library
 
-A searchable gallery of GatorGuard's "ALL GG PHOTOS" Google Drive folder, published with
-GitHub Pages from `docs/`. It holds web-size copies (1600px), thumbnails and short video
-previews; the full-size originals stay in Drive, and every item shows its Drive path.
+A searchable gallery of GatorGuard's "ALL GG PHOTOS" Google Drive folder plus the unique
+images and videos from its Google Ads and Facebook ad accounts, published with GitHub
+Pages from `docs/`. It holds web-size copies (1600px), thumbnails and short video
+previews; the full-size originals stay in Drive (ad assets: in the local `Ad assets`
+folder, see the end of this file), and every item shows its original path.
 
 Drive folder (shared by John Chambers with marketing@blueglassinsights.com, 2026-02-25):
 https://drive.google.com/drive/folders/1clmfBvB8T7fjUeJ5VA_deRzeleH6H0oQ
@@ -73,5 +75,40 @@ for that provider reaches the figure given. `tools/refsheet.py` rebuilds the col
 reference sheet the model compares against (from the live /system-samples swatches).
 Keys come from `~/Projects/.env.local` (`OPENROUTER_API_KEY`, `ANTHROPIC_API_KEY`).
 
-Setup: `python3 -m venv .venv && .venv/bin/pip install pillow pillow-heif imagehash numpy anthropic openai`,
+Setup: `python3 -m venv .venv && .venv/bin/pip install pillow pillow-heif imagehash numpy anthropic openai requests yt-dlp opencv-python-headless`,
 plus `ffmpeg` and `pdftoppm` on the PATH.
+
+## Ad images and videos (Google Ads and Facebook)
+
+`tools/ads.py` pulls every image and video from GatorGuard's ad accounts, drops the
+duplicates and files the unique ones in `~/Desktop/GatorGuard/photos/Ad assets/`
+(`Google Ads/` and `Facebook Ads/`), which `scan.py` reads alongside the Drive export:
+
+```bash
+.venv/bin/python tools/ads.py fetch     # list and download everything -> work/ads/raw/
+.venv/bin/python tools/ads.py dedupe    # drop copies -> Ad assets/, data/ads.json
+# then scan, derive, label and build as above
+```
+
+- **Google Ads** (CID 584-488-9150): every image and YouTube video asset, with the
+  campaigns each is linked to. Shared BGI Google token plus `GOOGLE_ADS_DEVELOPER_TOKEN`
+  (from `~/Projects/gator-tools/.env.local`); YouTube videos come down with `yt-dlp`.
+- **Facebook** (ad account `act_4524560357645375`): the account's ad image and ad video
+  libraries, plus the GatorGuard Page videos and posts its ads use. Needs
+  `FACEBOOK_ADS_TOKEN` (a user token, read from `~/Projects/ameritech-wordpress/.env.local`
+  when it is not in `~/Projects/.env.local`); the Page's own token, which Page videos
+  need, is looked up with it.
+- **Duplicates are dropped**: identical files, the same picture resized or re-encoded,
+  crops of the same picture (the automatic square, portrait and vertical
+  versions Google and Meta make), the same video uploaded again, and anything already in
+  the Drive library. Look-alikes are lined up (OpenCV feature matching) and compared block
+  by block, so a version with different text, an added logo or a different floor stays as
+  its own item, linked as a near-duplicate. The most complete, largest copy of each group
+  is kept. Icons, blank images and Google's "stock image unavailable" placeholder are
+  skipped. `data/ads.json` lists what was kept, what was dropped and why, and which library
+  photos ran as ads; the gallery's **Ad account** filter covers both.
+- **Unused AI-generated Google images are set aside**, not added: unnamed uploads that no
+  campaign uses. In September 2026 that was about 125 images of made-up people in made-up
+  garages, road crews and Google logos. They sit in
+  `Ad assets/Google Ads - AI-generated, never used/`; `ads.py dedupe --include-generated`
+  adds them, tagged "AI-generated" and never marked website-ready.

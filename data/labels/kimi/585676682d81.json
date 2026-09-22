@@ -1,0 +1,51 @@
+{
+ "finish": "stop",
+ "usage": {
+  "input_tokens": 5063,
+  "output_tokens": 235,
+  "cost": 0.00890366
+ },
+ "served_by": "DigitalOcean",
+ "label": {
+  "alt_text": "Crew member in respirator rolling clear coat over flake floor with LASTING text sticker",
+  "area": "garage",
+  "branding_visible": true,
+  "color": "unknown",
+  "color_confidence": "none",
+  "color_description": "gray and white chips with some tan, small to medium size",
+  "color_runner_up": "unknown",
+  "content": "floor_photo",
+  "faces_identifiable": true,
+  "filename": "crew-rolling-flake-floor-lasting-text",
+  "issues": [
+   "text_overlay"
+  ],
+  "people": "prominent",
+  "privacy": [
+   "customer_face"
+  ],
+  "quality": "3",
+  "setting": "residential",
+  "shot_type": "crew_working",
+  "system": "full_flake",
+  "tags": [
+   "crew working",
+   "rolling clear coat",
+   "flake floor",
+   "respirator",
+   "garage",
+   "in progress",
+   "gray chips",
+   "text overlay",
+   "facebook ad"
+  ],
+  "title": "Crew member rolling coating on flake floor",
+  "website_ready": false
+ },
+ "id": "585676682d81",
+ "provider": "kimi",
+ "model": "moonshotai/kimi-k3",
+ "mode": "run",
+ "blind": false,
+ "at": "2026-09-22T10:50:07"
+}

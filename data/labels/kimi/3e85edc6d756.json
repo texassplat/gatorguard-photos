@@ -1,0 +1,46 @@
+{
+ "finish": "stop",
+ "usage": {
+  "input_tokens": 4779,
+  "output_tokens": 251,
+  "cost": 0.0098076
+ },
+ "served_by": "Modal",
+ "label": {
+  "alt_text": "Glossy full flake floor with tan, gray and blue gray chips beside a stone wall in a finished interior space",
+  "area": "interior_room",
+  "branding_visible": false,
+  "color": "Bedford",
+  "color_confidence": "medium",
+  "color_description": "tan, beige, gray and blue gray chips with small black specks, medium size",
+  "color_runner_up": "Shalestone",
+  "content": "floor_photo",
+  "faces_identifiable": false,
+  "filename": "full-flake-floor-tan-gray-chips-stone-wall",
+  "issues": [],
+  "people": "none",
+  "privacy": [],
+  "quality": "4",
+  "setting": "residential",
+  "shot_type": "finished",
+  "system": "full_flake",
+  "tags": [
+   "full flake",
+   "interior floor",
+   "tan chips",
+   "gray chips",
+   "blue gray chips",
+   "stone wall",
+   "glossy finish",
+   "finished floor"
+  ],
+  "title": "Full flake floor with stone accent wall",
+  "website_ready": true
+ },
+ "id": "3e85edc6d756",
+ "provider": "kimi",
+ "model": "moonshotai/kimi-k3",
+ "mode": "run",
+ "blind": false,
+ "at": "2026-09-22T10:54:17"
+}

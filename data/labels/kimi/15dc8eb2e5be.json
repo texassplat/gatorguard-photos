@@ -1,0 +1,48 @@
+{
+ "finish": "stop",
+ "usage": {
+  "input_tokens": 5391,
+  "output_tokens": 190,
+  "cost": 0.0158829
+ },
+ "served_by": "Together",
+ "label": {
+  "content": "marketing_graphic",
+  "area": "not_visible",
+  "setting": "unknown",
+  "system": "not_applicable",
+  "color": "not_applicable",
+  "color_confidence": "none",
+  "color_runner_up": "not_applicable",
+  "color_description": "",
+  "shot_type": "graphic",
+  "people": "prominent",
+  "faces_identifiable": false,
+  "privacy": [],
+  "branding_visible": true,
+  "quality": "2",
+  "issues": [
+   "low_resolution",
+   "text_overlay"
+  ],
+  "website_ready": false,
+  "title": "Facebook ad video with base coat clip",
+  "alt_text": "GatorGuard Facebook ad video showing base coat application clip, countdown numbers and gator logo",
+  "tags": [
+   "facebook ad",
+   "video ad",
+   "base coat",
+   "coating application",
+   "logo",
+   "countdown",
+   "social media"
+  ],
+  "filename": "facebook-ad-base-coat-video"
+ },
+ "id": "15dc8eb2e5be",
+ "provider": "kimi",
+ "model": "moonshotai/kimi-k3",
+ "mode": "run",
+ "blind": false,
+ "at": "2026-09-22T10:48:43"
+}

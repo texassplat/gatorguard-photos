@@ -1,0 +1,47 @@
+{
+ "finish": "stop",
+ "usage": {
+  "input_tokens": 5100,
+  "output_tokens": 249,
+  "cost": 0.01042146
+ },
+ "served_by": "Phala",
+ "label": {
+  "alt_text": "Brick entry landing with a tan full flake floor coating and black metal railing",
+  "area": "patio_or_porch",
+  "branding_visible": false,
+  "color": "Ocotillo",
+  "color_confidence": "medium",
+  "color_description": "tan base with small brown, black and cream chips",
+  "color_runner_up": "Santana",
+  "content": "floor_photo",
+  "faces_identifiable": false,
+  "filename": "brick-entry-tan-full-flake-floor",
+  "issues": [],
+  "people": "none",
+  "privacy": [],
+  "quality": "4",
+  "setting": "residential",
+  "shot_type": "finished",
+  "system": "full_flake",
+  "tags": [
+   "full flake",
+   "porch",
+   "entry",
+   "brick walls",
+   "metal railing",
+   "tan chips",
+   "brown chips",
+   "finished floor",
+   "residential"
+  ],
+  "title": "Brick entry landing with tan full flake floor",
+  "website_ready": true
+ },
+ "id": "8087e56b6f2d",
+ "provider": "kimi",
+ "model": "moonshotai/kimi-k3",
+ "mode": "run",
+ "blind": false,
+ "at": "2026-09-22T10:51:03"
+}

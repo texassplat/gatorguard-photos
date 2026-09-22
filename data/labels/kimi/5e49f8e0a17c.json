@@ -1,0 +1,48 @@
+{
+ "finish": "stop",
+ "usage": {
+  "input_tokens": 5658,
+  "output_tokens": 186,
+  "cost": 0.00978636
+ },
+ "served_by": "DigitalOcean",
+ "label": {
+  "alt_text": "GatorGuard ad showing dirty garage floor before and gray full flake floor after, with bundle discount text",
+  "area": "garage",
+  "branding_visible": true,
+  "color": "unknown",
+  "color_confidence": "none",
+  "color_description": "gray and white speckled flake floor shown in ad frames",
+  "color_runner_up": "unknown",
+  "content": "before_after_composite",
+  "faces_identifiable": false,
+  "filename": "facebook-before-after-garage-ad",
+  "issues": [
+   "text_overlay"
+  ],
+  "people": "none",
+  "privacy": [],
+  "quality": "3",
+  "setting": "unknown",
+  "shot_type": "graphic",
+  "system": "full_flake",
+  "tags": [
+   "facebook ad",
+   "before and after",
+   "garage floor",
+   "full flake",
+   "gray chips",
+   "promotion",
+   "bundle discount",
+   "gatorguard logo"
+  ],
+  "title": "Facebook before and after garage promo graphic",
+  "website_ready": false
+ },
+ "id": "5e49f8e0a17c",
+ "provider": "kimi",
+ "model": "moonshotai/kimi-k3",
+ "mode": "run",
+ "blind": false,
+ "at": "2026-09-22T10:46:46"
+}

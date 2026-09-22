@@ -1,0 +1,49 @@
+{
+ "finish": "stop",
+ "usage": {
+  "input_tokens": 5065,
+  "output_tokens": 289,
+  "cost": 0.00960806
+ },
+ "served_by": "DigitalOcean",
+ "label": {
+  "alt_text": "Promo video showing dark flake garage floor and bare concrete before shot with sale text overlays",
+  "area": "garage",
+  "branding_visible": true,
+  "color": "unknown",
+  "color_confidence": "low",
+  "color_description": "very dark gray, black and blue gray chips, small size",
+  "color_runner_up": "Galaxy",
+  "content": "before_after_composite",
+  "faces_identifiable": false,
+  "filename": "fourth-july-promo-flake-floor-ad",
+  "issues": [
+   "text_overlay",
+   "dark"
+  ],
+  "people": "none",
+  "privacy": [],
+  "quality": "3",
+  "setting": "residential",
+  "shot_type": "before_after",
+  "system": "full_flake",
+  "tags": [
+   "full flake",
+   "garage floor",
+   "promo video",
+   "before and after",
+   "text overlay",
+   "dark chips",
+   "facebook ad",
+   "gatorguard logo"
+  ],
+  "title": "July promo video with dark flake floor",
+  "website_ready": false
+ },
+ "id": "002c57db1c42",
+ "provider": "kimi",
+ "model": "moonshotai/kimi-k3",
+ "mode": "run",
+ "blind": false,
+ "at": "2026-09-22T10:47:10"
+}

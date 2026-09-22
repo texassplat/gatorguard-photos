@@ -1,0 +1,46 @@
+{
+ "finish": "stop",
+ "usage": {
+  "input_tokens": 5659,
+  "output_tokens": 191,
+  "cost": 0.0115476
+ },
+ "served_by": "Modal",
+ "label": {
+  "alt_text": "Stamped concrete pool deck with gray sealed finish around a backyard swimming pool",
+  "area": "pool_deck",
+  "branding_visible": false,
+  "color": "not_applicable",
+  "color_confidence": "none",
+  "color_description": "gray stamped concrete with a sealed wet look, no chips",
+  "color_runner_up": "not_applicable",
+  "content": "floor_photo",
+  "faces_identifiable": false,
+  "filename": "stamped-concrete-pool-deck-sealed",
+  "issues": [],
+  "people": "none",
+  "privacy": [],
+  "quality": "4",
+  "setting": "residential",
+  "shot_type": "finished",
+  "system": "stamped_concrete",
+  "tags": [
+   "pool deck",
+   "stamped concrete",
+   "sealed concrete",
+   "gray",
+   "swimming pool",
+   "outdoor",
+   "finished",
+   "stone pattern"
+  ],
+  "title": "Stamped concrete pool deck with sealed finish",
+  "website_ready": true
+ },
+ "id": "393bb75e434c",
+ "provider": "kimi",
+ "model": "moonshotai/kimi-k3",
+ "mode": "run",
+ "blind": false,
+ "at": "2026-09-22T10:53:59"
+}

@@ -1,0 +1,46 @@
+{
+ "finish": "stop",
+ "usage": {
+  "input_tokens": 5335,
+  "output_tokens": 292,
+  "cost": 0.0120906
+ },
+ "served_by": "Modal",
+ "label": {
+  "alt_text": "Finished full flake garage style floor in gray, white and black chips with glossy clear coat, full flake floor coating",
+  "area": "basement",
+  "branding_visible": false,
+  "color": "Granite",
+  "color_confidence": "medium",
+  "color_description": "gray, white and black chips, small to medium size",
+  "color_runner_up": "Zircon",
+  "content": "floor_photo",
+  "faces_identifiable": false,
+  "filename": "gray-full-flake-basement-floor",
+  "issues": [],
+  "people": "none",
+  "privacy": [],
+  "quality": "4",
+  "setting": "residential",
+  "shot_type": "finished",
+  "system": "full_flake",
+  "tags": [
+   "full flake",
+   "gray flakes",
+   "basement floor",
+   "wood paneling",
+   "glossy",
+   "finished floor",
+   "gray white black chips",
+   "clear coat"
+  ],
+  "title": "Gray full flake floor in wood paneled room",
+  "website_ready": true
+ },
+ "id": "44b9427826d5",
+ "provider": "kimi",
+ "model": "moonshotai/kimi-k3",
+ "mode": "run",
+ "blind": false,
+ "at": "2026-09-22T10:54:21"
+}

@@ -1,0 +1,46 @@
+{
+ "finish": "stop",
+ "usage": {
+  "input_tokens": 5654,
+  "output_tokens": 277,
+  "cost": 0.01095461
+ },
+ "served_by": "DigitalOcean",
+ "label": {
+  "alt_text": "Screened porch with a glossy tan and brown flake floor, GatorGuard logo in corner",
+  "area": "patio_or_porch",
+  "branding_visible": true,
+  "color": "Stone Crest",
+  "color_confidence": "medium",
+  "color_description": "tan, brown and black chips with gray base, medium size",
+  "color_runner_up": "Granite",
+  "content": "floor_photo",
+  "faces_identifiable": false,
+  "filename": "screened-porch-flake-floor-logo",
+  "issues": [],
+  "people": "none",
+  "privacy": [],
+  "quality": "4",
+  "setting": "residential",
+  "shot_type": "finished",
+  "system": "full_flake",
+  "tags": [
+   "screened porch",
+   "full flake",
+   "tan brown black chips",
+   "logo overlay",
+   "hanging plants",
+   "residential",
+   "porch floor coating",
+   "facebook ad"
+  ],
+  "title": "Screened porch with tan flake floor",
+  "website_ready": false
+ },
+ "id": "31930cb83f31",
+ "provider": "kimi",
+ "model": "moonshotai/kimi-k3",
+ "mode": "run",
+ "blind": false,
+ "at": "2026-09-22T10:46:24"
+}

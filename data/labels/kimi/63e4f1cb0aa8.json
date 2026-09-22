@@ -1,0 +1,48 @@
+{
+ "finish": "stop",
+ "usage": {
+  "input_tokens": 5648,
+  "output_tokens": 284,
+  "cost": 0.0064548
+ },
+ "served_by": "InferenceNet",
+ "label": {
+  "website_ready": false,
+  "title": "Free upgrade July ad over blue gray flake floor",
+  "tags": [
+   "facebook ad",
+   "promotion",
+   "free upgrade",
+   "full flake",
+   "blue gray chips",
+   "gator logo",
+   "balloons",
+   "ad graphic"
+  ],
+  "system": "full_flake",
+  "shot_type": "graphic",
+  "setting": "unknown",
+  "quality": "3",
+  "privacy": [],
+  "people": "none",
+  "issues": [
+   "text_overlay"
+  ],
+  "filename": "free-upgrade-july-ad-flake-floor",
+  "faces_identifiable": false,
+  "content": "marketing_graphic",
+  "color_runner_up": "Pacific Coast",
+  "color_description": "small blue gray and white chips",
+  "color_confidence": "low",
+  "color": "Zircon",
+  "branding_visible": true,
+  "area": "not_visible",
+  "alt_text": "GatorGuard ad offering free upgrade on chip-style floors before July 31st over a blue gray full flake floor"
+ },
+ "id": "63e4f1cb0aa8",
+ "provider": "kimi",
+ "model": "moonshotai/kimi-k3",
+ "mode": "run",
+ "blind": false,
+ "at": "2026-09-22T10:49:33"
+}

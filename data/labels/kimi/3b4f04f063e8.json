@@ -1,0 +1,51 @@
+{
+ "finish": "stop",
+ "usage": {
+  "input_tokens": 5647,
+  "output_tokens": 193,
+  "cost": 0.0166932
+ },
+ "served_by": "Together",
+ "label": {
+  "content": "floor_photo",
+  "area": "driveway_or_walkway",
+  "setting": "residential",
+  "system": "poly_enhance",
+  "color": "not_applicable",
+  "color_confidence": "none",
+  "color_runner_up": "not_applicable",
+  "color_description": "",
+  "shot_type": "finished",
+  "people": "none",
+  "faces_identifiable": false,
+  "privacy": [
+   "house_number"
+  ],
+  "branding_visible": true,
+  "quality": "3",
+  "issues": [
+   "text_overlay"
+  ],
+  "website_ready": false,
+  "title": "Sealed paver driveway with logo overlay",
+  "alt_text": "Paver driveway with wet-look sealer in front of a garage, GatorGuard logo overlay",
+  "tags": [
+   "driveway",
+   "pavers",
+   "sealed",
+   "wet look",
+   "residential",
+   "garage door",
+   "facebook ad",
+   "logo overlay",
+   "exterior"
+  ],
+  "filename": "sealed-paver-driveway-logo-overlay"
+ },
+ "id": "3b4f04f063e8",
+ "provider": "kimi",
+ "model": "moonshotai/kimi-k3",
+ "mode": "run",
+ "blind": false,
+ "at": "2026-09-22T10:46:10"
+}

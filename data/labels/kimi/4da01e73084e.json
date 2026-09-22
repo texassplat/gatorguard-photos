@@ -1,0 +1,49 @@
+{
+ "finish": "stop",
+ "usage": {
+  "input_tokens": 5078,
+  "output_tokens": 251,
+  "cost": 0.00914911
+ },
+ "served_by": "DigitalOcean",
+ "label": {
+  "alt_text": "Crew mixes coating and speaks in a residential garage with a gray finished floor, video ad frames",
+  "area": "garage",
+  "branding_visible": true,
+  "color": "unknown",
+  "color_confidence": "low",
+  "color_description": "flat gray surface with no visible chips",
+  "color_runner_up": "Gray",
+  "content": "floor_photo",
+  "faces_identifiable": true,
+  "filename": "garage-floor-video-ad-with-presenter",
+  "issues": [
+   "blurry",
+   "low_resolution"
+  ],
+  "people": "prominent",
+  "privacy": [],
+  "quality": "2",
+  "setting": "residential",
+  "shot_type": "in_progress",
+  "system": "solid_color",
+  "tags": [
+   "garage",
+   "video ad",
+   "gray floor",
+   "crew working",
+   "presenter",
+   "pouring coating",
+   "solid color",
+   "facebook ad"
+  ],
+  "title": "Garage coating video ad with presenter and crew",
+  "website_ready": false
+ },
+ "id": "4da01e73084e",
+ "provider": "kimi",
+ "model": "moonshotai/kimi-k3",
+ "mode": "run",
+ "blind": false,
+ "at": "2026-09-22T10:47:43"
+}

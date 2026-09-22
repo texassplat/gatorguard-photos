@@ -1,0 +1,48 @@
+{
+ "finish": "stop",
+ "usage": {
+  "input_tokens": 5658,
+  "output_tokens": 237,
+  "cost": 0.01044681
+ },
+ "served_by": "DigitalOcean",
+ "label": {
+  "alt_text": "GatorGuard ad graphic showing three coated concrete floors labeled Gunmetal, Quarry and Stone Rowe",
+  "area": "not_visible",
+  "branding_visible": true,
+  "color": "not_applicable",
+  "color_confidence": "none",
+  "color_description": "",
+  "color_runner_up": "not_applicable",
+  "content": "marketing_graphic",
+  "faces_identifiable": false,
+  "filename": "facebook-ad-three-floor-styles",
+  "issues": [
+   "text_overlay"
+  ],
+  "people": "none",
+  "privacy": [],
+  "quality": "3",
+  "setting": "unknown",
+  "shot_type": "graphic",
+  "system": "full_flake",
+  "tags": [
+   "facebook ad",
+   "marketing graphic",
+   "full flake",
+   "garage",
+   "patio",
+   "dark gray flakes",
+   "tan flakes",
+   "get quote"
+  ],
+  "title": "Facebook ad with three flake floor styles",
+  "website_ready": false
+ },
+ "id": "3c2416731912",
+ "provider": "kimi",
+ "model": "moonshotai/kimi-k3",
+ "mode": "run",
+ "blind": false,
+ "at": "2026-09-22T10:46:17"
+}

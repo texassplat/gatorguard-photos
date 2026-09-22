@@ -1,0 +1,46 @@
+{
+ "finish": "stop",
+ "usage": {
+  "input_tokens": 5066,
+  "output_tokens": 224,
+  "cost": 0.00876886
+ },
+ "served_by": "DigitalOcean",
+ "label": {
+  "alt_text": "Building entry porch with tan and brown full flake floor coating, brick walls and metal railings",
+  "area": "patio_or_porch",
+  "branding_visible": false,
+  "color": "unknown",
+  "color_confidence": "low",
+  "color_description": "tan, brown, black and white chips, small to medium size",
+  "color_runner_up": "unknown",
+  "content": "floor_photo",
+  "faces_identifiable": false,
+  "filename": "brick-entry-porch-flake-floor",
+  "issues": [],
+  "people": "none",
+  "privacy": [],
+  "quality": "3",
+  "setting": "unknown",
+  "shot_type": "finished",
+  "system": "full_flake",
+  "tags": [
+   "entryway",
+   "porch",
+   "full flake",
+   "tan chips",
+   "brown chips",
+   "brick building",
+   "metal railing",
+   "finished floor"
+  ],
+  "title": "Entry porch with tan full flake floor",
+  "website_ready": false
+ },
+ "id": "fade1767a908",
+ "provider": "kimi",
+ "model": "moonshotai/kimi-k3",
+ "mode": "run",
+ "blind": false,
+ "at": "2026-09-22T10:52:15"
+}

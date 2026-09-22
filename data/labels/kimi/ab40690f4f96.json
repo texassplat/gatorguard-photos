@@ -1,0 +1,48 @@
+{
+ "finish": "stop",
+ "usage": {
+  "input_tokens": 5655,
+  "output_tokens": 255,
+  "cost": 0.01067226
+ },
+ "served_by": "DigitalOcean",
+ "label": {
+  "alt_text": "Two crew members roll clear coat over a tan flake floor in a large commercial showroom with open bays",
+  "area": "showroom_or_retail",
+  "branding_visible": true,
+  "color": "Sedona",
+  "color_confidence": "medium",
+  "color_description": "tan, brown and black chips, small chips",
+  "color_runner_up": "Santana",
+  "content": "floor_photo",
+  "faces_identifiable": false,
+  "filename": "crew-clearcoating-commercial-flake-floor",
+  "issues": [
+   "text_overlay"
+  ],
+  "people": "prominent",
+  "privacy": [],
+  "quality": "4",
+  "setting": "commercial",
+  "shot_type": "in_progress",
+  "system": "full_flake",
+  "tags": [
+   "commercial floor",
+   "crew working",
+   "clear coat",
+   "full flake",
+   "tan flakes",
+   "roller",
+   "showroom",
+   "gatorguard logo"
+  ],
+  "title": "Crew clearcoating commercial full flake floor",
+  "website_ready": false
+ },
+ "id": "ab40690f4f96",
+ "provider": "kimi",
+ "model": "moonshotai/kimi-k3",
+ "mode": "run",
+ "blind": false,
+ "at": "2026-09-22T10:47:07"
+}

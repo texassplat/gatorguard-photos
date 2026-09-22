@@ -1,0 +1,46 @@
+{
+ "finish": "stop",
+ "usage": {
+  "input_tokens": 5069,
+  "output_tokens": 223,
+  "cost": 0.00876356
+ },
+ "served_by": "DigitalOcean",
+ "label": {
+  "alt_text": "Gray full flake garage floor with red and tan chips at entry door, full flake garage floor coating",
+  "area": "garage",
+  "branding_visible": false,
+  "color": "Stone Crest",
+  "color_confidence": "medium",
+  "color_description": "gray base with mixed red, tan, brown and black chips, small to medium size",
+  "color_runner_up": "Pacific Coast",
+  "content": "floor_photo",
+  "faces_identifiable": false,
+  "filename": "garage-entry-gray-red-flake-floor",
+  "issues": [],
+  "people": "none",
+  "privacy": [],
+  "quality": "4",
+  "setting": "residential",
+  "shot_type": "finished",
+  "system": "full_flake",
+  "tags": [
+   "garage floor",
+   "full flake",
+   "gray flakes",
+   "red chips",
+   "entry door",
+   "stem wall",
+   "finished floor",
+   "flake coating"
+  ],
+  "title": "Garage entry with gray and red full flake floor",
+  "website_ready": true
+ },
+ "id": "396f8e8aae30",
+ "provider": "kimi",
+ "model": "moonshotai/kimi-k3",
+ "mode": "run",
+ "blind": false,
+ "at": "2026-09-22T10:51:09"
+}

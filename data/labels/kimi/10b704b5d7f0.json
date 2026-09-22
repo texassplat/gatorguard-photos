@@ -1,0 +1,45 @@
+{
+ "finish": "stop",
+ "usage": {
+  "input_tokens": 5322,
+  "output_tokens": 189,
+  "cost": 0.018801
+ },
+ "served_by": "Chutes",
+ "label": {
+  "content": "floor_photo",
+  "area": "not_visible",
+  "setting": "unknown",
+  "system": "full_flake",
+  "color": "Granite",
+  "color_confidence": "medium",
+  "color_runner_up": "Infinity",
+  "color_description": "gray, white and black chips, small to medium size",
+  "shot_type": "close_up",
+  "people": "none",
+  "faces_identifiable": false,
+  "privacy": [],
+  "branding_visible": false,
+  "quality": "4",
+  "issues": [],
+  "website_ready": false,
+  "title": "Gray flake floor with coated stem wall",
+  "alt_text": "Close up of a gray, white and black full flake garage floor coating continuing up the stem wall",
+  "tags": [
+   "full flake",
+   "gray chips",
+   "black and white chips",
+   "stem wall",
+   "close up",
+   "garage floor",
+   "flake floor coating"
+  ],
+  "filename": "gray-full-flake-floor-stem-wall"
+ },
+ "id": "10b704b5d7f0",
+ "provider": "kimi",
+ "model": "moonshotai/kimi-k3",
+ "mode": "run",
+ "blind": false,
+ "at": "2026-09-22T10:50:58"
+}

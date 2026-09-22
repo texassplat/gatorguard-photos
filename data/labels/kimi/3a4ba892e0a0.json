@@ -1,0 +1,48 @@
+{
+ "finish": "stop",
+ "usage": {
+  "input_tokens": 5397,
+  "output_tokens": 294,
+  "cost": 0.01051941
+ },
+ "served_by": "DigitalOcean",
+ "label": {
+  "alt_text": "Garage step and stem wall coated in gray, white and black full flake chips",
+  "area": "garage",
+  "branding_visible": false,
+  "color": "Silver Butte",
+  "color_confidence": "medium",
+  "color_description": "white, light gray and black chips, small to medium size",
+  "color_runner_up": "Granite",
+  "content": "marketing_graphic",
+  "faces_identifiable": false,
+  "filename": "lifetime-warranty-garage-step-flake",
+  "issues": [
+   "text_overlay"
+  ],
+  "people": "none",
+  "privacy": [],
+  "quality": "3",
+  "setting": "unknown",
+  "shot_type": "close_up",
+  "system": "full_flake",
+  "tags": [
+   "full flake",
+   "garage step",
+   "stem wall",
+   "gray white black chips",
+   "lifetime warranty text",
+   "close up",
+   "coated floor",
+   "edge detail"
+  ],
+  "title": "Coated garage step with lifetime warranty text",
+  "website_ready": false
+ },
+ "id": "3a4ba892e0a0",
+ "provider": "kimi",
+ "model": "moonshotai/kimi-k3",
+ "mode": "run",
+ "blind": false,
+ "at": "2026-09-22T10:53:37"
+}

@@ -1,0 +1,46 @@
+{
+ "finish": "stop",
+ "usage": {
+  "input_tokens": 4722,
+  "output_tokens": 398,
+  "cost": 0.01119216
+ },
+ "served_by": "Phala",
+ "label": {
+  "alt_text": "Low angle view of a glossy dark full flake coated floor beside a brick home, garage floor coating",
+  "area": "patio_or_porch",
+  "branding_visible": false,
+  "color": "unknown",
+  "color_confidence": "low",
+  "color_description": "black, gray, white and tan chips over a dark base, medium size",
+  "color_runner_up": "Gun Metal",
+  "content": "floor_photo",
+  "faces_identifiable": false,
+  "filename": "dark-full-flake-floor-brick-home",
+  "issues": [],
+  "people": "none",
+  "privacy": [],
+  "quality": "4",
+  "setting": "residential",
+  "shot_type": "finished",
+  "system": "full_flake",
+  "tags": [
+   "full flake",
+   "dark flake floor",
+   "black gray tan chips",
+   "glossy finish",
+   "brick house",
+   "garage door",
+   "low angle",
+   "residential"
+  ],
+  "title": "Dark full flake floor outside brick home",
+  "website_ready": true
+ },
+ "id": "37244c773b53",
+ "provider": "kimi",
+ "model": "moonshotai/kimi-k3",
+ "mode": "run",
+ "blind": false,
+ "at": "2026-09-22T10:52:46"
+}

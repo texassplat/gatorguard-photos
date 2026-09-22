@@ -1,0 +1,49 @@
+{
+ "finish": "stop",
+ "usage": {
+  "input_tokens": 5394,
+  "output_tokens": 217,
+  "cost": 0.019437
+ },
+ "served_by": "Parasail",
+ "label": {
+  "content": "before_after_composite",
+  "area": "garage",
+  "setting": "residential",
+  "system": "full_flake",
+  "color": "unknown",
+  "color_confidence": "low",
+  "color_runner_up": "unknown",
+  "color_description": "gray, black and white chips, small to medium size",
+  "shot_type": "before_after",
+  "people": "none",
+  "faces_identifiable": false,
+  "privacy": [],
+  "branding_visible": true,
+  "quality": "3",
+  "issues": [
+   "text_overlay"
+  ],
+  "website_ready": false,
+  "title": "Winter promo before and after gray flake ad",
+  "alt_text": "Before and after composite of garage floor going from stained concrete to gray full flake coating, with 15% off winter promo text",
+  "tags": [
+   "before and after",
+   "facebook ad",
+   "garage",
+   "full flake",
+   "gray chips",
+   "stained concrete",
+   "promo graphic",
+   "winter special",
+   "gator mascot"
+  ],
+  "filename": "winter-promo-before-after-flake-ad"
+ },
+ "id": "bb2c9d9c588e",
+ "provider": "kimi",
+ "model": "moonshotai/kimi-k3",
+ "mode": "run",
+ "blind": false,
+ "at": "2026-09-22T10:48:52"
+}

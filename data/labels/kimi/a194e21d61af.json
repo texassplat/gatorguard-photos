@@ -1,0 +1,49 @@
+{
+ "finish": "stop",
+ "usage": {
+  "input_tokens": 5414,
+  "output_tokens": 257,
+  "cost": 0.01008361
+ },
+ "served_by": "DigitalOcean",
+ "label": {
+  "alt_text": "Facebook ad video for GatorGuard Grand Rapids launch showing presenter, flake floor and logo",
+  "area": "not_visible",
+  "branding_visible": true,
+  "color": "not_applicable",
+  "color_confidence": "none",
+  "color_description": "",
+  "color_runner_up": "not_applicable",
+  "content": "marketing_graphic",
+  "faces_identifiable": true,
+  "filename": "grand-rapids-facebook-ad-video",
+  "issues": [
+   "text_overlay",
+   "low_resolution"
+  ],
+  "people": "prominent",
+  "privacy": [],
+  "quality": "3",
+  "setting": "unknown",
+  "shot_type": "graphic",
+  "system": "not_applicable",
+  "tags": [
+   "facebook ad",
+   "grand rapids",
+   "marketing video",
+   "megaphone presenter",
+   "text overlay",
+   "logo",
+   "launch announcement",
+   "gray flake floor"
+  ],
+  "title": "Grand Rapids launch Facebook ad video",
+  "website_ready": false
+ },
+ "id": "a194e21d61af",
+ "provider": "kimi",
+ "model": "moonshotai/kimi-k3",
+ "mode": "run",
+ "blind": false,
+ "at": "2026-09-22T10:47:16"
+}

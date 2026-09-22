@@ -1,0 +1,47 @@
+{
+ "finish": "stop",
+ "usage": {
+  "input_tokens": 5080,
+  "output_tokens": 227,
+  "cost": 0.00884341
+ },
+ "served_by": "DigitalOcean",
+ "label": {
+  "alt_text": "Homeowner greets a GatorGuard representative at front door; split screen with small GatorGuard logo whiteboard",
+  "area": "not_visible",
+  "branding_visible": true,
+  "color": "not_applicable",
+  "color_confidence": "none",
+  "color_description": "",
+  "color_runner_up": "not_applicable",
+  "content": "people_or_team",
+  "faces_identifiable": true,
+  "filename": "homeowner-testimonial-front-door-greeting",
+  "issues": [],
+  "people": "prominent",
+  "privacy": [
+   "customer_face"
+  ],
+  "quality": "3",
+  "setting": "residential",
+  "shot_type": "team_or_portrait",
+  "system": "not_applicable",
+  "tags": [
+   "testimonial",
+   "homeowners",
+   "front door",
+   "greeting",
+   "facebook ad",
+   "logo board",
+   "crew member"
+  ],
+  "title": "Homeowner testimonial greeting at front door",
+  "website_ready": true
+ },
+ "id": "1cf803540d55",
+ "provider": "kimi",
+ "model": "moonshotai/kimi-k3",
+ "mode": "run",
+ "blind": false,
+ "at": "2026-09-22T10:47:42"
+}

@@ -1,0 +1,48 @@
+{
+ "finish": "stop",
+ "usage": {
+  "input_tokens": 5656,
+  "output_tokens": 251,
+  "cost": 0.01062301
+ },
+ "served_by": "DigitalOcean",
+ "label": {
+  "alt_text": "Coast Guard emblem inlaid in a gray full flake floor, GatorGuard logo overlay",
+  "area": "not_visible",
+  "branding_visible": true,
+  "color": "unknown",
+  "color_confidence": "low",
+  "color_description": "gray, white and black chips with occasional blue chips",
+  "color_runner_up": "Pacific Coast",
+  "content": "marketing_graphic",
+  "faces_identifiable": false,
+  "filename": "coast-guard-emblem-full-flake-floor",
+  "issues": [
+   "text_overlay"
+  ],
+  "people": "none",
+  "privacy": [],
+  "quality": "3",
+  "setting": "unknown",
+  "shot_type": "close_up",
+  "system": "full_flake",
+  "tags": [
+   "full flake",
+   "coast guard",
+   "emblem inlay",
+   "gray chips",
+   "blue chips",
+   "logo",
+   "ad graphic",
+   "close up"
+  ],
+  "title": "Coast Guard emblem in gray full flake floor",
+  "website_ready": false
+ },
+ "id": "14cd84b288cc",
+ "provider": "kimi",
+ "model": "moonshotai/kimi-k3",
+ "mode": "run",
+ "blind": false,
+ "at": "2026-09-22T10:46:59"
+}

@@ -1,0 +1,48 @@
+{
+ "finish": "stop",
+ "usage": {
+  "input_tokens": 5656,
+  "output_tokens": 244,
+  "cost": 0.01053236
+ },
+ "served_by": "DigitalOcean",
+ "label": {
+  "alt_text": "Before and after garage floor ad graphic with dirty concrete and a light speckled flake coating",
+  "area": "garage",
+  "branding_visible": true,
+  "color": "unknown",
+  "color_confidence": "low",
+  "color_description": "light gray and white small chips",
+  "color_runner_up": "Lunar",
+  "content": "before_after_composite",
+  "faces_identifiable": false,
+  "filename": "before-after-garage-floor-ad-graphic",
+  "issues": [
+   "text_overlay"
+  ],
+  "people": "none",
+  "privacy": [],
+  "quality": "3",
+  "setting": "residential",
+  "shot_type": "before_after",
+  "system": "full_flake",
+  "tags": [
+   "facebook ad",
+   "before and after",
+   "garage floor",
+   "full flake",
+   "light gray chips",
+   "dirty concrete",
+   "free quote",
+   "marketing graphic"
+  ],
+  "title": "Before and after garage floor ad graphic",
+  "website_ready": false
+ },
+ "id": "cfec45388f0b",
+ "provider": "kimi",
+ "model": "moonshotai/kimi-k3",
+ "mode": "run",
+ "blind": false,
+ "at": "2026-09-22T10:46:18"
+}

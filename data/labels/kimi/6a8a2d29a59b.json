@@ -1,0 +1,48 @@
+{
+ "finish": "stop",
+ "usage": {
+  "input_tokens": 4738,
+  "output_tokens": 165,
+  "cost": 0.01585455
+ },
+ "served_by": "DeepInfra",
+ "label": {
+  "content": "vehicle_or_equipment",
+  "area": "garage",
+  "setting": "residential",
+  "system": "not_applicable",
+  "color": "not_applicable",
+  "color_confidence": "none",
+  "color_runner_up": "not_applicable",
+  "color_description": "",
+  "shot_type": "other",
+  "people": "none",
+  "faces_identifiable": false,
+  "privacy": [
+   "vehicle_interior"
+  ],
+  "branding_visible": false,
+  "quality": "2",
+  "issues": [
+   "dark"
+  ],
+  "website_ready": false,
+  "title": "Red muscle car parked in garage",
+  "alt_text": "Hood and windshield of a red car parked inside a garage, no floor coating visible",
+  "tags": [
+   "red car",
+   "muscle car",
+   "garage",
+   "vehicle",
+   "hood",
+   "windshield"
+  ],
+  "filename": "red-car-parked-in-garage"
+ },
+ "id": "6a8a2d29a59b",
+ "provider": "kimi",
+ "model": "moonshotai/kimi-k3",
+ "mode": "run",
+ "blind": false,
+ "at": "2026-09-22T10:54:58"
+}

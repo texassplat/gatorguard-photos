@@ -1,0 +1,46 @@
+{
+ "finish": "stop",
+ "usage": {
+  "input_tokens": 5339,
+  "output_tokens": 244,
+  "cost": 0.0098385
+ },
+ "served_by": "InferenceNet",
+ "label": {
+  "website_ready": true,
+  "title": "Red Dodge Charger on gray flake garage floor",
+  "tags": [
+   "garage",
+   "full flake",
+   "red car",
+   "gray chips",
+   "cabinets",
+   "finished floor",
+   "residential garage",
+   "garage floor coating"
+  ],
+  "system": "full_flake",
+  "shot_type": "finished",
+  "setting": "residential",
+  "quality": "4",
+  "privacy": [],
+  "people": "none",
+  "issues": [],
+  "filename": "red-charger-gray-flake-garage-floor",
+  "faces_identifiable": false,
+  "content": "floor_photo",
+  "color_runner_up": "Stone Rowe",
+  "color_description": "cool light gray chips with white, black and darker gray speckles, small size",
+  "color_confidence": "low",
+  "color": "unknown",
+  "branding_visible": false,
+  "area": "garage",
+  "alt_text": "Red Dodge Charger parked on a gray full flake garage floor coating near gray cabinets."
+ },
+ "id": "e07d6b802447",
+ "provider": "kimi",
+ "model": "moonshotai/kimi-k3",
+ "mode": "run",
+ "blind": false,
+ "at": "2026-09-22T10:54:47"
+}

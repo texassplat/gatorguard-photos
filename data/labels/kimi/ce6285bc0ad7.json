@@ -1,0 +1,48 @@
+{
+ "finish": "stop",
+ "usage": {
+  "input_tokens": 4984,
+  "output_tokens": 255,
+  "cost": 0.00896121
+ },
+ "served_by": "DigitalOcean",
+ "label": {
+  "alt_text": "Low angle close up of a tan and brown full flake coated floor with glossy finish",
+  "area": "interior_room",
+  "branding_visible": false,
+  "color": "Santana",
+  "color_confidence": "low",
+  "color_description": "tan, brown and cream chips, small to medium size",
+  "color_runner_up": "Chestnut",
+  "content": "floor_photo",
+  "faces_identifiable": false,
+  "filename": "low-angle-tan-flake-floor-close-up",
+  "issues": [
+   "wet_or_dirty"
+  ],
+  "people": "none",
+  "privacy": [],
+  "quality": "3",
+  "setting": "unknown",
+  "shot_type": "close_up",
+  "system": "full_flake",
+  "tags": [
+   "close up",
+   "full flake",
+   "glossy floor",
+   "tan chips",
+   "brown chips",
+   "low angle",
+   "wet look",
+   "interior floor"
+  ],
+  "title": "Low angle close up of tan full flake floor",
+  "website_ready": false
+ },
+ "id": "ce6285bc0ad7",
+ "provider": "kimi",
+ "model": "moonshotai/kimi-k3",
+ "mode": "run",
+ "blind": false,
+ "at": "2026-09-22T10:54:53"
+}

@@ -1,0 +1,49 @@
+{
+ "finish": "stop",
+ "usage": {
+  "input_tokens": 5649,
+  "output_tokens": 246,
+  "cost": 0.0204642
+ },
+ "served_by": "Together",
+ "label": {
+  "content": "marketing_graphic",
+  "area": "garage",
+  "setting": "residential",
+  "system": "full_flake",
+  "color": "unknown",
+  "color_confidence": "low",
+  "color_runner_up": "Granite",
+  "color_description": "gray, white and black chips, small to medium size",
+  "shot_type": "graphic",
+  "people": "none",
+  "faces_identifiable": false,
+  "privacy": [],
+  "branding_visible": true,
+  "quality": "3",
+  "issues": [
+   "text_overlay"
+  ],
+  "website_ready": false,
+  "title": "Facebook ad with gray flake garage and Porsche",
+  "alt_text": "Garage with gray full flake floor, silver Porsche and crest design, with GatorGuard ad text overlay",
+  "tags": [
+   "facebook ad",
+   "garage",
+   "full flake",
+   "gray chips",
+   "porsche",
+   "floor logo",
+   "text overlay",
+   "finished floor",
+   "sports car"
+  ],
+  "filename": "facebook-ad-gray-flake-garage-porsche"
+ },
+ "id": "81ce9e182819",
+ "provider": "kimi",
+ "model": "moonshotai/kimi-k3",
+ "mode": "run",
+ "blind": false,
+ "at": "2026-09-22T10:46:06"
+}

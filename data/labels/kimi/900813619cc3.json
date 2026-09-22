@@ -1,0 +1,49 @@
+{
+ "finish": "stop",
+ "usage": {
+  "input_tokens": 5648,
+  "output_tokens": 238,
+  "cost": 0.0173712
+ },
+ "served_by": "Together",
+ "label": {
+  "content": "before_after_composite",
+  "area": "garage",
+  "setting": "residential",
+  "system": "full_flake",
+  "color": "Chestnut with Rust Red",
+  "color_confidence": "low",
+  "color_runner_up": "Sedona",
+  "color_description": "reddish brown base with tan, brown and black chips, fine to medium size",
+  "shot_type": "before_after",
+  "people": "none",
+  "faces_identifiable": false,
+  "privacy": [],
+  "branding_visible": true,
+  "quality": "3",
+  "issues": [
+   "text_overlay",
+   "heavy_filter"
+  ],
+  "website_ready": false,
+  "title": "Facebook ad with garage before and after flake floor",
+  "alt_text": "Before and after ad graphic of a garage floor, cracked concrete then reddish brown full flake garage floor coating",
+  "tags": [
+   "facebook ad",
+   "before and after",
+   "garage",
+   "full flake",
+   "reddish brown chips",
+   "cracked concrete",
+   "marketing graphic",
+   "wooden closet doors"
+  ],
+  "filename": "garage-before-after-flake-ad"
+ },
+ "id": "900813619cc3",
+ "provider": "kimi",
+ "model": "moonshotai/kimi-k3",
+ "mode": "run",
+ "blind": false,
+ "at": "2026-09-22T10:49:44"
+}

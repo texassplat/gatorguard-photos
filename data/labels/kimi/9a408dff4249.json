@@ -1,0 +1,48 @@
+{
+ "finish": "stop",
+ "usage": {
+  "input_tokens": 5070,
+  "output_tokens": 289,
+  "cost": 0.00962081
+ },
+ "served_by": "DigitalOcean",
+ "label": {
+  "alt_text": "Four video frames of garage floor coating work: grinding, solid gray floor, coated speckled floor, and GatorGuard truck.",
+  "area": "garage",
+  "branding_visible": true,
+  "color": "unknown",
+  "color_confidence": "none",
+  "color_description": "dark gray and speckled gray flake floors appear in different frames",
+  "color_runner_up": "unknown",
+  "content": "other",
+  "faces_identifiable": false,
+  "filename": "garage-coating-video-ad-clips",
+  "issues": [
+   "text_overlay"
+  ],
+  "people": "prominent",
+  "privacy": [],
+  "quality": "3",
+  "setting": "residential",
+  "shot_type": "in_progress",
+  "system": "unknown",
+  "tags": [
+   "garage",
+   "video",
+   "facebook ad",
+   "grinding",
+   "crew working",
+   "truck",
+   "flake floor",
+   "day 2"
+  ],
+  "title": "Garage coating video ad with crew and truck",
+  "website_ready": false
+ },
+ "id": "9a408dff4249",
+ "provider": "kimi",
+ "model": "moonshotai/kimi-k3",
+ "mode": "run",
+ "blind": false,
+ "at": "2026-09-22T10:48:33"
+}

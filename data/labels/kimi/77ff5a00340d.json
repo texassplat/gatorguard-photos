@@ -1,0 +1,51 @@
+{
+ "finish": "stop",
+ "usage": {
+  "input_tokens": 5654,
+  "output_tokens": 256,
+  "cost": 0.01068266
+ },
+ "served_by": "DigitalOcean",
+ "label": {
+  "alt_text": "Social media ad collage with GatorGuard logo, slogan, and photos of coated patio, garage, and basement floors",
+  "area": "other_exterior",
+  "branding_visible": true,
+  "color": "unknown",
+  "color_confidence": "none",
+  "color_description": "mixed floors in four squares: brown flake patio, brown flake with mascot, tan and brown flake basement, dark gray garage",
+  "color_runner_up": "unknown",
+  "content": "marketing_graphic",
+  "faces_identifiable": true,
+  "filename": "gatorguard-flawless-floors-ad",
+  "issues": [
+   "text_overlay"
+  ],
+  "people": "prominent",
+  "privacy": [
+   "customer_face"
+  ],
+  "quality": "2",
+  "setting": "residential",
+  "shot_type": "graphic",
+  "system": "unknown",
+  "tags": [
+   "facebook ad",
+   "collage",
+   "gator logo",
+   "slogan",
+   "flake floors",
+   "garage",
+   "patio",
+   "basement",
+   "free quote"
+  ],
+  "title": "GatorGuard flawless floors ad collage",
+  "website_ready": false
+ },
+ "id": "77ff5a00340d",
+ "provider": "kimi",
+ "model": "moonshotai/kimi-k3",
+ "mode": "run",
+ "blind": false,
+ "at": "2026-09-22T10:49:33"
+}

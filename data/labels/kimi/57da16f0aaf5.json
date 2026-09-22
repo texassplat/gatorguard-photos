@@ -1,0 +1,48 @@
+{
+ "finish": "stop",
+ "usage": {
+  "input_tokens": 5652,
+  "output_tokens": 195,
+  "cost": 0.0115866
+ },
+ "served_by": "Modal",
+ "label": {
+  "alt_text": "Garage gym with coated floor and Lifetime Warranty text overlay, cabinets, elliptical and weight equipment",
+  "area": "garage",
+  "branding_visible": false,
+  "color": "unknown",
+  "color_confidence": "none",
+  "color_description": "dark speckled floor barely visible under large text overlay",
+  "color_runner_up": "unknown",
+  "content": "marketing_graphic",
+  "faces_identifiable": false,
+  "filename": "lifetime-warranty-garage-gym-ad",
+  "issues": [
+   "text_overlay"
+  ],
+  "people": "none",
+  "privacy": [],
+  "quality": "2",
+  "setting": "residential",
+  "shot_type": "graphic",
+  "system": "full_flake",
+  "tags": [
+   "google ads",
+   "text overlay",
+   "garage gym",
+   "cabinets",
+   "elliptical",
+   "weight bench",
+   "warranty graphic",
+   "dark flake floor"
+  ],
+  "title": "Garage gym ad with Lifetime Warranty text",
+  "website_ready": false
+ },
+ "id": "57da16f0aaf5",
+ "provider": "kimi",
+ "model": "moonshotai/kimi-k3",
+ "mode": "run",
+ "blind": false,
+ "at": "2026-09-22T10:53:16"
+}

@@ -1,0 +1,46 @@
+{
+ "finish": "stop",
+ "usage": {
+  "input_tokens": 5315,
+  "output_tokens": 245,
+  "cost": 0.0113256
+ },
+ "served_by": "Modal",
+ "label": {
+  "alt_text": "Gray metallic epoxy floor in a living room with wall mounted TV and sliding glass door",
+  "area": "interior_room",
+  "branding_visible": false,
+  "color": "Gray",
+  "color_confidence": "medium",
+  "color_description": "light and dark gray metallic swirls, glossy marbled finish",
+  "color_runner_up": "Charcoal",
+  "content": "floor_photo",
+  "faces_identifiable": false,
+  "filename": "gray-metallic-living-room-floor",
+  "issues": [],
+  "people": "none",
+  "privacy": [],
+  "quality": "4",
+  "setting": "residential",
+  "shot_type": "finished",
+  "system": "metallic",
+  "tags": [
+   "metallic epoxy",
+   "gray floor",
+   "living room",
+   "swirled finish",
+   "glossy",
+   "sliding door",
+   "wall mounted tv",
+   "interior floor coating"
+  ],
+  "title": "Living room with gray metallic epoxy floor",
+  "website_ready": true
+ },
+ "id": "8498d3069811",
+ "provider": "kimi",
+ "model": "moonshotai/kimi-k3",
+ "mode": "run",
+ "blind": false,
+ "at": "2026-09-22T10:53:47"
+}

@@ -1,0 +1,48 @@
+{
+ "finish": "stop",
+ "usage": {
+  "input_tokens": 5659,
+  "output_tokens": 317,
+  "cost": 0.0134376
+ },
+ "served_by": "Modal",
+ "label": {
+  "alt_text": "Garage with glossy tan full flake floor, raised entry platform and wall shelf with recycle bin",
+  "area": "garage",
+  "branding_visible": false,
+  "color": "Chestnut",
+  "color_confidence": "medium",
+  "color_description": "tan base with brown, black and cream chips, small to medium size",
+  "color_runner_up": "Sedona",
+  "content": "floor_photo",
+  "faces_identifiable": false,
+  "filename": "garage-tan-full-flake-floor-shelf",
+  "issues": [
+   "cluttered"
+  ],
+  "people": "none",
+  "privacy": [],
+  "quality": "4",
+  "setting": "residential",
+  "shot_type": "finished",
+  "system": "full_flake",
+  "tags": [
+   "garage",
+   "full flake",
+   "tan chips",
+   "brown chips",
+   "glossy floor",
+   "wall shelf",
+   "entry step",
+   "finished"
+  ],
+  "title": "Garage with tan full flake floor and wall shelf",
+  "website_ready": true
+ },
+ "id": "ed903f1ee620",
+ "provider": "kimi",
+ "model": "moonshotai/kimi-k3",
+ "mode": "run",
+ "blind": false,
+ "at": "2026-09-22T10:53:57"
+}

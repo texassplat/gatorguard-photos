@@ -1,0 +1,46 @@
+{
+ "finish": "stop",
+ "usage": {
+  "input_tokens": 5077,
+  "output_tokens": 329,
+  "cost": 0.010083
+ },
+ "served_by": "InferenceNet",
+ "label": {
+  "website_ready": true,
+  "title": "Dark gray full flake basement floor with sump pump",
+  "tags": [
+   "full flake",
+   "dark gray chips",
+   "black and white chips",
+   "basement floor",
+   "sump pump",
+   "glossy finish",
+   "finished floor",
+   "white walls"
+  ],
+  "system": "full_flake",
+  "shot_type": "finished",
+  "setting": "residential",
+  "quality": "4",
+  "privacy": [],
+  "people": "none",
+  "issues": [],
+  "filename": "dark-gray-flake-basement-sump-pump",
+  "faces_identifiable": false,
+  "content": "floor_photo",
+  "color_runner_up": "Zircon",
+  "color_description": "dark charcoal chips with black and white specks, small size",
+  "color_confidence": "medium",
+  "color": "Gun Metal",
+  "branding_visible": false,
+  "area": "basement",
+  "alt_text": "Dark gray full flake coated basement floor with sump pump and white walls"
+ },
+ "id": "a78e7fb92170",
+ "provider": "kimi",
+ "model": "moonshotai/kimi-k3",
+ "mode": "run",
+ "blind": false,
+ "at": "2026-09-22T10:54:36"
+}

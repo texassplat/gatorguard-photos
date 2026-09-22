@@ -1,0 +1,47 @@
+{
+ "finish": "stop",
+ "usage": {
+  "input_tokens": 5024,
+  "output_tokens": 240,
+  "cost": 0.018672
+ },
+ "served_by": "Modal",
+ "label": {
+  "alt_text": "Close-up of a gray swirled metallic epoxy floor with light reflecting off the glossy surface",
+  "area": "not_visible",
+  "branding_visible": false,
+  "color": "Gray",
+  "color_confidence": "medium",
+  "color_description": "marbled light and mid gray metallic, no chips",
+  "color_runner_up": "Charcoal",
+  "content": "floor_photo",
+  "faces_identifiable": false,
+  "filename": "gray-metallic-epoxy-floor-close-up",
+  "issues": [
+   "dark"
+  ],
+  "people": "none",
+  "privacy": [],
+  "quality": "3",
+  "setting": "unknown",
+  "shot_type": "close_up",
+  "system": "metallic",
+  "tags": [
+   "metallic epoxy",
+   "gray floor",
+   "swirled",
+   "marbled",
+   "glossy",
+   "close up",
+   "liquid art"
+  ],
+  "title": "Close-up of gray metallic epoxy floor",
+  "website_ready": false
+ },
+ "id": "d804fb3b1773",
+ "provider": "kimi",
+ "model": "moonshotai/kimi-k3",
+ "mode": "run",
+ "blind": false,
+ "at": "2026-09-22T10:53:45"
+}

@@ -1,0 +1,48 @@
+{
+ "finish": "stop",
+ "usage": {
+  "input_tokens": 5652,
+  "output_tokens": 177,
+  "cost": 0.00965451
+ },
+ "served_by": "DigitalOcean",
+ "label": {
+  "alt_text": "GatorGuard ad comparing cracked stained concrete floor to finished gray full flake garage coating",
+  "area": "garage",
+  "branding_visible": true,
+  "color": "unknown",
+  "color_confidence": "low",
+  "color_description": "gray full flake with white, gray and black chips",
+  "color_runner_up": "unknown",
+  "content": "before_after_composite",
+  "faces_identifiable": false,
+  "filename": "before-after-gray-flake-floor-ad",
+  "issues": [
+   "text_overlay"
+  ],
+  "people": "none",
+  "privacy": [],
+  "quality": "3",
+  "setting": "residential",
+  "shot_type": "before_after",
+  "system": "full_flake",
+  "tags": [
+   "before and after",
+   "facebook ad",
+   "gray flake",
+   "full flake",
+   "cracked concrete",
+   "garage floor",
+   "marketing graphic",
+   "gatorguard branding"
+  ],
+  "title": "Before and after gray full flake ad graphic",
+  "website_ready": false
+ },
+ "id": "657de80bd67e",
+ "provider": "kimi",
+ "model": "moonshotai/kimi-k3",
+ "mode": "run",
+ "blind": false,
+ "at": "2026-09-22T10:49:26"
+}

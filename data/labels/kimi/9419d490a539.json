@@ -1,0 +1,47 @@
+{
+ "finish": "stop",
+ "usage": {
+  "input_tokens": 5075,
+  "output_tokens": 282,
+  "cost": 0.00954291
+ },
+ "served_by": "DigitalOcean",
+ "label": {
+  "alt_text": "Close up of a gray full flake coated concrete floor with control joints and brown chip accents",
+  "area": "not_visible",
+  "branding_visible": false,
+  "color": "unknown",
+  "color_confidence": "low",
+  "color_description": "gray and white chips with scattered tan and brown chips, small to medium size",
+  "color_runner_up": "Sedona",
+  "content": "floor_photo",
+  "faces_identifiable": false,
+  "filename": "gray-flake-floor-control-joints-closeup",
+  "issues": [],
+  "people": "none",
+  "privacy": [],
+  "quality": "3",
+  "setting": "unknown",
+  "shot_type": "close_up",
+  "system": "full_flake",
+  "tags": [
+   "full flake",
+   "gray chips",
+   "tan chips",
+   "brown chips",
+   "close up",
+   "control joints",
+   "expansion joint",
+   "flake texture",
+   "surface detail"
+  ],
+  "title": "Close up of gray flake floor with joints",
+  "website_ready": false
+ },
+ "id": "9419d490a539",
+ "provider": "kimi",
+ "model": "moonshotai/kimi-k3",
+ "mode": "run",
+ "blind": false,
+ "at": "2026-09-22T10:50:56"
+}

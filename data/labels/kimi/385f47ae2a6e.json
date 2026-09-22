@@ -1,0 +1,49 @@
+{
+ "finish": "stop",
+ "usage": {
+  "input_tokens": 5404,
+  "output_tokens": 353,
+  "cost": 0.01130131
+ },
+ "served_by": "DigitalOcean",
+ "label": {
+  "alt_text": "Four panel video with motorcycle on gray flake floor, sunroom, porch and garage full flake floors.",
+  "area": "garage",
+  "branding_visible": true,
+  "color": "unknown",
+  "color_confidence": "low",
+  "color_description": "multiple floors: gray flake, brown metallic, and black white and tan chips",
+  "color_runner_up": "unknown",
+  "content": "other",
+  "faces_identifiable": false,
+  "filename": "four-panel-ad-full-flake-floors",
+  "issues": [
+   "text_overlay"
+  ],
+  "people": "none",
+  "privacy": [],
+  "quality": "3",
+  "setting": "residential",
+  "shot_type": "finished",
+  "system": "full_flake",
+  "tags": [
+   "full flake",
+   "garage floor",
+   "motorcycle",
+   "sunroom",
+   "screened porch",
+   "video ad",
+   "logo overlay",
+   "finished floor",
+   "black white chips"
+  ],
+  "title": "Four panel ad of coated floors",
+  "website_ready": false
+ },
+ "id": "385f47ae2a6e",
+ "provider": "kimi",
+ "model": "moonshotai/kimi-k3",
+ "mode": "run",
+ "blind": false,
+ "at": "2026-09-22T10:47:46"
+}

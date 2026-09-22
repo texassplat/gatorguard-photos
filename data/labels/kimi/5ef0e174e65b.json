@@ -1,0 +1,48 @@
+{
+ "finish": "stop",
+ "usage": {
+  "input_tokens": 5065,
+  "output_tokens": 239,
+  "cost": 0.01024296
+ },
+ "served_by": "Phala",
+ "label": {
+  "alt_text": "Garage with glossy tan full flake floor, open door showing driveway and shrubs. Full flake garage floor coating.",
+  "area": "garage",
+  "branding_visible": false,
+  "color": "Santana",
+  "color_confidence": "medium",
+  "color_description": "tan, brown and black chips, small to medium size",
+  "color_runner_up": "Chestnut",
+  "content": "floor_photo",
+  "faces_identifiable": true,
+  "filename": "garage-tan-full-flake-open-door",
+  "issues": [],
+  "people": "background",
+  "privacy": [
+   "customer_face"
+  ],
+  "quality": "4",
+  "setting": "residential",
+  "shot_type": "finished",
+  "system": "full_flake",
+  "tags": [
+   "garage",
+   "full flake",
+   "tan chips",
+   "brown chips",
+   "glossy",
+   "open garage door",
+   "driveway",
+   "finished floor"
+  ],
+  "title": "Garage with tan full flake floor, door open",
+  "website_ready": false
+ },
+ "id": "5ef0e174e65b",
+ "provider": "kimi",
+ "model": "moonshotai/kimi-k3",
+ "mode": "run",
+ "blind": false,
+ "at": "2026-09-22T10:51:53"
+}

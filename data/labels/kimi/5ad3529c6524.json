@@ -1,0 +1,47 @@
+{
+ "finish": "stop",
+ "usage": {
+  "input_tokens": 5024,
+  "output_tokens": 252,
+  "cost": 0.0105576
+ },
+ "served_by": "Modal",
+ "label": {
+  "alt_text": "Glossy gray metallic epoxy floor with blue swirls in a large garage with wood walls and two overhead doors",
+  "area": "garage",
+  "branding_visible": false,
+  "color": "Gray",
+  "color_confidence": "low",
+  "color_description": "gray and black marbled metallic with bright blue swirls, glossy",
+  "color_runner_up": "Sapphire",
+  "content": "floor_photo",
+  "faces_identifiable": false,
+  "filename": "garage-gray-metallic-floor-blue-swirls",
+  "issues": [],
+  "people": "none",
+  "privacy": [],
+  "quality": "4",
+  "setting": "unknown",
+  "shot_type": "finished",
+  "system": "metallic",
+  "tags": [
+   "metallic epoxy",
+   "garage floor",
+   "gray metallic",
+   "blue swirls",
+   "glossy finish",
+   "wood walls",
+   "overhead doors",
+   "large garage",
+   "reflective floor"
+  ],
+  "title": "Large garage with gray metallic floor and blue swirls",
+  "website_ready": true
+ },
+ "id": "5ad3529c6524",
+ "provider": "kimi",
+ "model": "moonshotai/kimi-k3",
+ "mode": "run",
+ "blind": false,
+ "at": "2026-09-22T10:53:40"
+}

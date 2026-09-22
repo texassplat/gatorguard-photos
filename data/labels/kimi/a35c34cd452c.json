@@ -1,0 +1,51 @@
+{
+ "finish": "stop",
+ "usage": {
+  "input_tokens": 5413,
+  "output_tokens": 212,
+  "cost": 0.0097095
+ },
+ "served_by": "InferenceNet",
+ "label": {
+  "website_ready": false,
+  "title": "Facebook ad video montage of coated floors",
+  "tags": [
+   "facebook ad",
+   "video",
+   "montage",
+   "garage",
+   "basement",
+   "dark flake",
+   "porsche logo",
+   "metallic floor",
+   "text overlay"
+  ],
+  "system": "unknown",
+  "shot_type": "finished",
+  "setting": "unknown",
+  "quality": "2",
+  "privacy": [],
+  "people": "none",
+  "issues": [
+   "dark",
+   "text_overlay",
+   "low_resolution"
+  ],
+  "filename": "facebook-ad-video-floor-montage",
+  "faces_identifiable": false,
+  "content": "marketing_graphic",
+  "color_runner_up": "not_applicable",
+  "color_description": "dark gray and black flake in garage frame, blue reflective metallic in last frame",
+  "color_confidence": "low",
+  "color": "unknown",
+  "branding_visible": true,
+  "area": "not_visible",
+  "alt_text": "Facebook ad video frames showing a dark flake garage floor, a basement floor with a Porsche logo, and a blue metallic floor"
+ },
+ "id": "a35c34cd452c",
+ "provider": "kimi",
+ "model": "moonshotai/kimi-k3",
+ "mode": "run",
+ "blind": false,
+ "at": "2026-09-22T10:47:25"
+}

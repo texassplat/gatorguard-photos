@@ -1,0 +1,50 @@
+{
+ "finish": "stop",
+ "usage": {
+  "input_tokens": 5649,
+  "output_tokens": 228,
+  "cost": 0.0172242
+ },
+ "served_by": "Together",
+ "label": {
+  "content": "floor_photo",
+  "area": "garage",
+  "setting": "residential",
+  "system": "full_flake",
+  "color": "Granite",
+  "color_confidence": "low",
+  "color_runner_up": "Silver Butte",
+  "color_description": "gray, white and black chips, medium size",
+  "shot_type": "finished",
+  "people": "none",
+  "faces_identifiable": false,
+  "privacy": [],
+  "branding_visible": true,
+  "quality": "4",
+  "issues": [
+   "text_overlay"
+  ],
+  "website_ready": false,
+  "title": "Garage with gray flake floor and custom logo",
+  "alt_text": "Garage with gray full flake floor, silver Porsche and large custom crest embedded in the coating",
+  "tags": [
+   "garage",
+   "full flake",
+   "gray chips",
+   "custom floor logo",
+   "porsche",
+   "sports car",
+   "facebook ad",
+   "finished floor",
+   "gatorguard logo",
+   "emblem"
+  ],
+  "filename": "garage-gray-flake-custom-logo-porsche"
+ },
+ "id": "fcb6c4776bc5",
+ "provider": "kimi",
+ "model": "moonshotai/kimi-k3",
+ "mode": "run",
+ "blind": false,
+ "at": "2026-09-22T10:46:32"
+}

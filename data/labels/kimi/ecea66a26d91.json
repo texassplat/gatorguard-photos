@@ -1,0 +1,48 @@
+{
+ "finish": "stop",
+ "usage": {
+  "input_tokens": 5073,
+  "output_tokens": 268,
+  "cost": 0.00935651
+ },
+ "served_by": "DigitalOcean",
+ "label": {
+  "alt_text": "Promo video ad showing floor coating application, a black and white flake floor, and GatorGuard offer text",
+  "area": "not_visible",
+  "branding_visible": true,
+  "color": "unknown",
+  "color_confidence": "low",
+  "color_description": "black and white chips",
+  "color_runner_up": "unknown",
+  "content": "marketing_graphic",
+  "faces_identifiable": false,
+  "filename": "gatorguard-floor-coating-promo-ad",
+  "issues": [
+   "text_overlay"
+  ],
+  "people": "prominent",
+  "privacy": [],
+  "quality": "3",
+  "setting": "unknown",
+  "shot_type": "other",
+  "system": "full_flake",
+  "tags": [
+   "facebook ad",
+   "promo video",
+   "text overlay",
+   "flake floor",
+   "black and white chips",
+   "coating application",
+   "offer graphic",
+   "logo"
+  ],
+  "title": "GatorGuard floor coating promo video ad",
+  "website_ready": false
+ },
+ "id": "ecea66a26d91",
+ "provider": "kimi",
+ "model": "moonshotai/kimi-k3",
+ "mode": "run",
+ "blind": false,
+ "at": "2026-09-22T10:48:41"
+}

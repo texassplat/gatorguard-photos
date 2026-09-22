@@ -1,0 +1,45 @@
+{
+ "finish": "stop",
+ "usage": {
+  "input_tokens": 4575,
+  "output_tokens": 251,
+  "cost": 0.00786646
+ },
+ "served_by": "DigitalOcean",
+ "label": {
+  "alt_text": "Two crew members grinding bare concrete with a walk-behind grinder and vacuum during floor coating prep.",
+  "area": "garage",
+  "branding_visible": false,
+  "color": "not_applicable",
+  "color_confidence": "none",
+  "color_description": "",
+  "color_runner_up": "not_applicable",
+  "content": "floor_photo",
+  "faces_identifiable": true,
+  "filename": "crew-grinding-concrete-floor-prep",
+  "issues": [],
+  "people": "prominent",
+  "privacy": [],
+  "quality": "3",
+  "setting": "residential",
+  "shot_type": "in_progress",
+  "system": "bare_concrete",
+  "tags": [
+   "concrete grinding",
+   "floor prep",
+   "crew working",
+   "grinder",
+   "vacuum hose",
+   "bare concrete",
+   "garage floor"
+  ],
+  "title": "Crew grinding concrete during floor prep",
+  "website_ready": false
+ },
+ "id": "0e33d7b6e980",
+ "provider": "kimi",
+ "model": "moonshotai/kimi-k3",
+ "mode": "run",
+ "blind": false,
+ "at": "2026-09-22T10:52:35"
+}

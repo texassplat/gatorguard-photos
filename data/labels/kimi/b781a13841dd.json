@@ -1,0 +1,49 @@
+{
+ "finish": "stop",
+ "usage": {
+  "input_tokens": 5665,
+  "output_tokens": 256,
+  "cost": 0.01071071
+ },
+ "served_by": "DigitalOcean",
+ "label": {
+  "alt_text": "Before and after video compares worn concrete floors with finished speckled full flake coating",
+  "area": "not_visible",
+  "branding_visible": true,
+  "color": "Granite",
+  "color_confidence": "low",
+  "color_description": "speckled gray, black and white chips on the after panels",
+  "color_runner_up": "unknown",
+  "content": "before_after_composite",
+  "faces_identifiable": false,
+  "filename": "before-after-flake-floor-ad",
+  "issues": [
+   "text_overlay"
+  ],
+  "people": "none",
+  "privacy": [],
+  "quality": "3",
+  "setting": "unknown",
+  "shot_type": "before_after",
+  "system": "full_flake",
+  "tags": [
+   "before and after",
+   "full flake",
+   "gray flake",
+   "garage",
+   "basement",
+   "ad creative",
+   "video",
+   "worn concrete",
+   "finished floor"
+  ],
+  "title": "Before and after full flake floor ad",
+  "website_ready": false
+ },
+ "id": "b781a13841dd",
+ "provider": "kimi",
+ "model": "moonshotai/kimi-k3",
+ "mode": "run",
+ "blind": false,
+ "at": "2026-09-22T10:48:37"
+}

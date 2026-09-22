@@ -1,0 +1,46 @@
+{
+ "finish": "stop",
+ "usage": {
+  "input_tokens": 5340,
+  "output_tokens": 218,
+  "cost": 0.0109956
+ },
+ "served_by": "Modal",
+ "label": {
+  "alt_text": "Garage interior with gray full flake epoxy floor coating, white walls and open garage door",
+  "area": "garage",
+  "branding_visible": false,
+  "color": "Granite",
+  "color_confidence": "medium",
+  "color_description": "gray base with white, black and light gray chips, small to medium size",
+  "color_runner_up": "Stone Rowe",
+  "content": "floor_photo",
+  "faces_identifiable": false,
+  "filename": "garage-gray-full-flake-floor",
+  "issues": [],
+  "people": "none",
+  "privacy": [],
+  "quality": "4",
+  "setting": "residential",
+  "shot_type": "finished",
+  "system": "full_flake",
+  "tags": [
+   "garage",
+   "full flake",
+   "gray floor",
+   "epoxy floor",
+   "finished floor",
+   "white walls",
+   "garage door open",
+   "speckled floor"
+  ],
+  "title": "Garage with gray full flake floor",
+  "website_ready": true
+ },
+ "id": "275508978deb",
+ "provider": "kimi",
+ "model": "moonshotai/kimi-k3",
+ "mode": "run",
+ "blind": false,
+ "at": "2026-09-22T10:54:33"
+}

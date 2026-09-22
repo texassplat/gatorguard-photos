@@ -1,0 +1,46 @@
+{
+ "finish": "stop",
+ "usage": {
+  "input_tokens": 5067,
+  "output_tokens": 206,
+  "cost": 0.0099966
+ },
+ "served_by": "Modal",
+ "label": {
+  "alt_text": "Crew mixing coating and broadcasting flakes on a garage floor, with a GatorGuard truck, full flake coating in progress",
+  "area": "garage",
+  "branding_visible": true,
+  "color": "unknown",
+  "color_confidence": "none",
+  "color_description": "light tan base coat with light colored chips being broadcast, no clear color match",
+  "color_runner_up": "unknown",
+  "content": "floor_photo",
+  "faces_identifiable": false,
+  "filename": "mixing-coating-broadcasting-flakes-garage",
+  "issues": [],
+  "people": "prominent",
+  "privacy": [],
+  "quality": "3",
+  "setting": "residential",
+  "shot_type": "in_progress",
+  "system": "full_flake",
+  "tags": [
+   "in progress",
+   "mixing epoxy",
+   "broadcasting flakes",
+   "garage floor",
+   "base coat",
+   "crew working",
+   "gatorguard truck",
+   "video"
+  ],
+  "title": "Mixing coating and broadcasting garage floor flakes",
+  "website_ready": false
+ },
+ "id": "80509029cad6",
+ "provider": "kimi",
+ "model": "moonshotai/kimi-k3",
+ "mode": "run",
+ "blind": false,
+ "at": "2026-09-22T10:53:53"
+}

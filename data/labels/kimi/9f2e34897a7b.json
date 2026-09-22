@@ -1,0 +1,46 @@
+{
+ "finish": "stop",
+ "usage": {
+  "input_tokens": 5661,
+  "output_tokens": 310,
+  "cost": 0.0133386
+ },
+ "served_by": "Modal",
+ "label": {
+  "alt_text": "Close view of a tan, brown and black full flake floor coating with glossy clear coat",
+  "area": "not_visible",
+  "branding_visible": false,
+  "color": "Chestnut",
+  "color_confidence": "medium",
+  "color_description": "tan, brown and black chips with some rust red, small to medium size",
+  "color_runner_up": "Santana",
+  "content": "floor_photo",
+  "faces_identifiable": false,
+  "filename": "tan-brown-full-flake-floor-closeup",
+  "issues": [],
+  "people": "none",
+  "privacy": [],
+  "quality": "3",
+  "setting": "unknown",
+  "shot_type": "close_up",
+  "system": "full_flake",
+  "tags": [
+   "full flake",
+   "tan chips",
+   "brown chips",
+   "black chips",
+   "glossy floor",
+   "flake floor close up",
+   "stem wall",
+   "concrete coating"
+  ],
+  "title": "Close up of tan full flake floor",
+  "website_ready": false
+ },
+ "id": "9f2e34897a7b",
+ "provider": "kimi",
+ "model": "moonshotai/kimi-k3",
+ "mode": "run",
+ "blind": false,
+ "at": "2026-09-22T10:54:01"
+}

@@ -1,0 +1,48 @@
+{
+ "finish": "stop",
+ "usage": {
+  "input_tokens": 5095,
+  "output_tokens": 672,
+  "cost": 0.01944624
+ },
+ "served_by": "Wafer",
+ "label": {
+  "content": "marketing_graphic",
+  "area": "garage",
+  "setting": "residential",
+  "system": "unknown",
+  "color": "unknown",
+  "color_confidence": "none",
+  "color_runner_up": "not_applicable",
+  "color_description": "plain brown-gray concrete floor, no visible chips",
+  "shot_type": "crew_working",
+  "people": "prominent",
+  "faces_identifiable": false,
+  "privacy": [],
+  "branding_visible": true,
+  "quality": "3",
+  "issues": [
+   "text_overlay"
+  ],
+  "website_ready": false,
+  "title": "Crew member moving items in garage ad",
+  "alt_text": "GatorGuard crew member carrying wall panels inside a garage with cabinets, ad graphic with logo overlay",
+  "tags": [
+   "crew",
+   "moving service",
+   "garage",
+   "facebook ad",
+   "text overlay",
+   "gatorguard branding",
+   "cabinets",
+   "concrete floor"
+  ],
+  "filename": "crew-moving-panels-garage-ad"
+ },
+ "id": "d904dc907894",
+ "provider": "kimi",
+ "model": "moonshotai/kimi-k3",
+ "mode": "run",
+ "blind": false,
+ "at": "2026-09-22T10:50:35"
+}

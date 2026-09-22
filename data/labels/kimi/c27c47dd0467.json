@@ -1,0 +1,48 @@
+{
+ "finish": "stop",
+ "usage": {
+  "input_tokens": 5656,
+  "output_tokens": 421,
+  "cost": 0.01282451
+ },
+ "served_by": "DigitalOcean",
+ "label": {
+  "alt_text": "Facebook ad showing before and after garage floor coating with GatorGuard mascot and text overlay",
+  "area": "garage",
+  "branding_visible": true,
+  "color": "unknown",
+  "color_confidence": "low",
+  "color_description": "gray, white and black chips, small to medium size",
+  "color_runner_up": "Gun Metal",
+  "content": "before_after_composite",
+  "faces_identifiable": false,
+  "filename": "facebook-ad-before-after-garage",
+  "issues": [
+   "text_overlay"
+  ],
+  "people": "none",
+  "privacy": [],
+  "quality": "3",
+  "setting": "residential",
+  "shot_type": "before_after",
+  "system": "full_flake",
+  "tags": [
+   "facebook ad",
+   "before after",
+   "garage floor",
+   "full flake",
+   "gray chips",
+   "magnifying glass",
+   "gator mascot",
+   "text overlay"
+  ],
+  "title": "Before and after garage floor ad graphic",
+  "website_ready": false
+ },
+ "id": "c27c47dd0467",
+ "provider": "kimi",
+ "model": "moonshotai/kimi-k3",
+ "mode": "run",
+ "blind": false,
+ "at": "2026-09-22T10:47:10"
+}

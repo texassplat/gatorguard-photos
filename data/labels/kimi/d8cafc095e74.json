@@ -1,0 +1,48 @@
+{
+ "finish": "stop",
+ "usage": {
+  "input_tokens": 5654,
+  "output_tokens": 240,
+  "cost": 0.01149036
+ },
+ "served_by": "Phala",
+ "label": {
+  "alt_text": "GatorGuard Concrete Coatings five star customer review graphic with alligator mascot and Detroit label",
+  "area": "not_visible",
+  "branding_visible": true,
+  "color": "not_applicable",
+  "color_confidence": "none",
+  "color_description": "",
+  "color_runner_up": "not_applicable",
+  "content": "marketing_graphic",
+  "faces_identifiable": false,
+  "filename": "five-star-review-graphic-detroit",
+  "issues": [
+   "text_overlay"
+  ],
+  "people": "none",
+  "privacy": [],
+  "quality": "4",
+  "setting": "unknown",
+  "shot_type": "graphic",
+  "system": "not_applicable",
+  "tags": [
+   "review",
+   "testimonial",
+   "five stars",
+   "marketing graphic",
+   "facebook ad",
+   "detroit",
+   "alligator mascot",
+   "logo"
+  ],
+  "title": "Five star review graphic with alligator mascot",
+  "website_ready": false
+ },
+ "id": "d8cafc095e74",
+ "provider": "kimi",
+ "model": "moonshotai/kimi-k3",
+ "mode": "run",
+ "blind": false,
+ "at": "2026-09-22T10:50:16"
+}

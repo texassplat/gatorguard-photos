@@ -1,0 +1,48 @@
+{
+ "finish": "stop",
+ "usage": {
+  "input_tokens": 5068,
+  "output_tokens": 229,
+  "cost": 0.00883871
+ },
+ "served_by": "DigitalOcean",
+ "label": {
+  "alt_text": "GatorGuard ad showing cracked garage floor, coated floor close up, and alligator mascot announcing Grand Rapids opening",
+  "area": "garage",
+  "branding_visible": true,
+  "color": "unknown",
+  "color_confidence": "none",
+  "color_description": "",
+  "color_runner_up": "unknown",
+  "content": "before_after_composite",
+  "faces_identifiable": false,
+  "filename": "grand-rapids-ad-alligator-mascot",
+  "issues": [
+   "text_overlay"
+  ],
+  "people": "none",
+  "privacy": [],
+  "quality": "4",
+  "setting": "residential",
+  "shot_type": "before_after",
+  "system": "unknown",
+  "tags": [
+   "facebook ad",
+   "grand rapids",
+   "cracked concrete",
+   "garage floor",
+   "alligator mascot",
+   "coming soon",
+   "before and after",
+   "gatorguard logo"
+  ],
+  "title": "Grand Rapids ad with alligator mascot",
+  "website_ready": false
+ },
+ "id": "d0233036a863",
+ "provider": "kimi",
+ "model": "moonshotai/kimi-k3",
+ "mode": "run",
+ "blind": false,
+ "at": "2026-09-22T10:48:20"
+}

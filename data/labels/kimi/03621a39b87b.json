@@ -1,0 +1,48 @@
+{
+ "finish": "stop",
+ "usage": {
+  "input_tokens": 5654,
+  "output_tokens": 189,
+  "cost": 0.00981501
+ },
+ "served_by": "DigitalOcean",
+ "label": {
+  "alt_text": "GatorGuard ad graphic showing gray full flake garage floor between before and after panels",
+  "area": "garage",
+  "branding_visible": true,
+  "color": "unknown",
+  "color_confidence": "none",
+  "color_description": "gray and white speckled flake chips, small size",
+  "color_runner_up": "unknown",
+  "content": "marketing_graphic",
+  "faces_identifiable": false,
+  "filename": "facebook-ad-before-after-garage-floor",
+  "issues": [
+   "text_overlay"
+  ],
+  "people": "none",
+  "privacy": [],
+  "quality": "3",
+  "setting": "residential",
+  "shot_type": "graphic",
+  "system": "full_flake",
+  "tags": [
+   "facebook ad",
+   "before and after",
+   "garage floor",
+   "full flake",
+   "gray chips",
+   "promotion graphic",
+   "gatorguard logo",
+   "bundle and save"
+  ],
+  "title": "Promo graphic with gray flake garage floor",
+  "website_ready": false
+ },
+ "id": "03621a39b87b",
+ "provider": "kimi",
+ "model": "moonshotai/kimi-k3",
+ "mode": "run",
+ "blind": false,
+ "at": "2026-09-22T10:46:42"
+}

@@ -1,0 +1,50 @@
+{
+ "finish": "stop",
+ "usage": {
+  "input_tokens": 5067,
+  "output_tokens": 300,
+  "cost": 0.0165636
+ },
+ "served_by": "Together",
+ "label": {
+  "content": "floor_photo",
+  "area": "garage",
+  "setting": "residential",
+  "system": "unknown",
+  "color": "unknown",
+  "color_confidence": "none",
+  "color_runner_up": "unknown",
+  "color_description": "dark gray or charcoal floor, too dark to tell if flake or solid",
+  "shot_type": "other",
+  "people": "prominent",
+  "faces_identifiable": false,
+  "privacy": [],
+  "branding_visible": true,
+  "quality": "2",
+  "issues": [
+   "dark",
+   "low_resolution",
+   "text_overlay"
+  ],
+  "website_ready": false,
+  "title": "Vertical ad video of garage floor coating job",
+  "alt_text": "Vertical video ad showing a dark coated garage floor, a worker spraying, and a GatorGuard truck",
+  "tags": [
+   "facebook ad",
+   "vertical video",
+   "garage",
+   "dark floor",
+   "crew working",
+   "truck",
+   "spraying",
+   "ad edit"
+  ],
+  "filename": "vertical-ad-garage-floor-video"
+ },
+ "id": "d804b09bb02c",
+ "provider": "kimi",
+ "model": "moonshotai/kimi-k3",
+ "mode": "run",
+ "blind": false,
+ "at": "2026-09-22T10:48:29"
+}

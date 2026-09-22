@@ -1,0 +1,47 @@
+{
+ "finish": "stop",
+ "usage": {
+  "input_tokens": 4775,
+  "output_tokens": 251,
+  "cost": 0.0097956
+ },
+ "served_by": "Modal",
+ "label": {
+  "alt_text": "Garage with glossy brown metallic epoxy floor, bicycles and corrugated metal walls, garage floor coating",
+  "area": "garage",
+  "branding_visible": false,
+  "color": "Cappuccino",
+  "color_confidence": "medium",
+  "color_description": "brown metallic marbled finish with a wet reflective look",
+  "color_runner_up": "unknown",
+  "content": "floor_photo",
+  "faces_identifiable": false,
+  "filename": "garage-brown-metallic-floor-bikes",
+  "issues": [],
+  "people": "none",
+  "privacy": [],
+  "quality": "4",
+  "setting": "residential",
+  "shot_type": "finished",
+  "system": "metallic",
+  "tags": [
+   "garage",
+   "metallic floor",
+   "brown floor",
+   "marbled",
+   "glossy",
+   "bicycles",
+   "corrugated metal wall",
+   "finished floor",
+   "reflective"
+  ],
+  "title": "Garage with glossy brown metallic epoxy floor",
+  "website_ready": true
+ },
+ "id": "7c29cfb001a6",
+ "provider": "kimi",
+ "model": "moonshotai/kimi-k3",
+ "mode": "run",
+ "blind": false,
+ "at": "2026-09-22T10:54:38"
+}

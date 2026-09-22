@@ -1,0 +1,53 @@
+{
+ "finish": "stop",
+ "usage": {
+  "input_tokens": 5059,
+  "output_tokens": 302,
+  "cost": 0.016575
+ },
+ "served_by": "Together",
+ "label": {
+  "content": "floor_photo",
+  "area": "garage",
+  "setting": "residential",
+  "system": "metallic",
+  "color": "unknown",
+  "color_confidence": "low",
+  "color_runner_up": "Cappuccino",
+  "color_description": "glossy solid tan to amber surface with soft reflective marbling, no visible chips",
+  "shot_type": "finished",
+  "people": "prominent",
+  "faces_identifiable": true,
+  "privacy": [
+   "customer_face"
+  ],
+  "branding_visible": false,
+  "quality": "3",
+  "issues": [
+   "text_overlay",
+   "heavy_filter"
+  ],
+  "website_ready": false,
+  "title": "Workshop garage with glossy tan metallic floor",
+  "alt_text": "Man standing in a tool-filled garage workshop with a glossy tan coated floor and a GEAR text overlay",
+  "tags": [
+   "garage",
+   "workshop",
+   "metallic floor",
+   "tan floor",
+   "glossy",
+   "tool wall",
+   "bikes",
+   "text overlay",
+   "facebook ad",
+   "finished"
+  ],
+  "filename": "garage-workshop-glossy-tan-metallic-floor"
+ },
+ "id": "2adc48346566",
+ "provider": "kimi",
+ "model": "moonshotai/kimi-k3",
+ "mode": "run",
+ "blind": false,
+ "at": "2026-09-22T10:49:54"
+}
